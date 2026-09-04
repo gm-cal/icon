@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0665-monochrome-title uui-0665-monochrome-desc" data-icon-id="UUI-0665" data-icon-name="globe-lock" data-icon-variant="monochrome" data-icon-category="dev-security">
+  <title id="uui-0665-monochrome-title" xml:lang="ja">Webアクセス保護</title>
+  <desc id="uui-0665-monochrome-desc" xml:lang="ja">「Webアクセス保護」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0665" slug="globe-lock" variant="monochrome">
+      <uui:name xml:lang="ja">Webアクセス保護</uui:name>
+      <uui:name xml:lang="en">Globe Lock</uui:name>
+      <uui:description xml:lang="ja">「Webアクセス保護」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Globe Lock” in development security contexts.</uui:description>
+      <uui:category id="dev-security" xml:lang="ja">開発セキュリティ</uui:category>
+      <uui:category id="dev-security" xml:lang="en">Development security</uui:category>
+      <uui:keywords xml:lang="ja">Webアクセス保護, 開発セキュリティ, globe, lock</uui:keywords>
+      <uui:keywords xml:lang="en">Globe Lock, Development security, globe, lock</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/dev-security/globe-lock.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d81241092395ed1f22e4b532c2072c323400ec27f5fd47e619ba5fd3df7b8167"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M15.686 15A14.5 14.5 0 0 1 12 22a14.5 14.5 0 0 1 0-20 10 10 0 1 0 9.542 13" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M2 12h8.5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M20 6V4a2 2 0 1 0-4 0v2" stroke="currentColor" data-uui-role="secondary"/>
+    <rect width="8" height="5" x="14" y="6" rx="1" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0578-monochrome-title uui-0578-monochrome-desc" data-icon-id="UUI-0578" data-icon-name="radio-off" data-icon-variant="monochrome" data-icon-category="api-integration">
+  <title id="uui-0578-monochrome-title" xml:lang="ja">無線連携無効</title>
+  <desc id="uui-0578-monochrome-desc" xml:lang="ja">「無線連携無効」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0578" slug="radio-off" variant="monochrome">
+      <uui:name xml:lang="ja">無線連携無効</uui:name>
+      <uui:name xml:lang="en">Radio Off</uui:name>
+      <uui:description xml:lang="ja">「無線連携無効」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Radio Off” in api and integration contexts.</uui:description>
+      <uui:category id="api-integration" xml:lang="ja">APIと連携</uui:category>
+      <uui:category id="api-integration" xml:lang="en">API and integration</uui:category>
+      <uui:keywords xml:lang="ja">無線連携無効, APIと連携, radio, off</uui:keywords>
+      <uui:keywords xml:lang="en">Radio Off, API and integration, radio, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/api-integration/radio-off.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="82804738f11e5b2c21a0d142bf909d9f1152c803134b8829c25c419253aa4fdb"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M13.414 13.414a2 2 0 1 1-2.828-2.828" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16.247 7.761a6 6 0 0 1 1.744 4.572" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M19.075 4.933a10 10 0 0 1 2.234 10.72" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m2 2 20 20" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M4.925 19.067a10 10 0 0 1 0-14.134" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M7.753 16.239a6 6 0 0 1 0-8.478" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

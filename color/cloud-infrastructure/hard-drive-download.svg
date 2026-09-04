@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0609-color-title uui-0609-color-desc" data-icon-id="UUI-0609" data-icon-name="hard-drive-download" data-icon-variant="color" data-icon-category="cloud-infrastructure">
+  <title id="uui-0609-color-title" xml:lang="ja">ストレージから取得</title>
+  <desc id="uui-0609-color-desc" xml:lang="ja">「ストレージから取得」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0609" slug="hard-drive-download" variant="color">
+      <uui:name xml:lang="ja">ストレージから取得</uui:name>
+      <uui:name xml:lang="en">Hard Drive Download</uui:name>
+      <uui:description xml:lang="ja">「ストレージから取得」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Hard Drive Download” in cloud and infrastructure contexts.</uui:description>
+      <uui:category id="cloud-infrastructure" xml:lang="ja">クラウドと基盤</uui:category>
+      <uui:category id="cloud-infrastructure" xml:lang="en">Cloud and infrastructure</uui:category>
+      <uui:keywords xml:lang="ja">ストレージから取得, クラウドと基盤, hard, drive, download</uui:keywords>
+      <uui:keywords xml:lang="en">Hard Drive Download, Cloud and infrastructure, hard, drive, download</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/cloud-infrastructure/hard-drive-download.svg"/>
+      <uui:palette primary="#0369A1" accent="#0EA5E9" secondary="#7DD3FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="8f1e320d5f7f6da1cc9533d01b98daf0faa92d70813bc6586d8efba628767b13"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 2v8" stroke="#0369A1" data-uui-role="primary"/>
+    <path d="m16 6-4 4-4-4" stroke="#0EA5E9" data-uui-role="accent"/>
+    <rect width="20" height="8" x="2" y="14" rx="2" stroke="#7DD3FC" data-uui-role="secondary"/>
+    <path d="M6 18h.01" stroke="#0EA5E9" data-uui-role="accent"/>
+    <path d="M10 18h.01" stroke="#0EA5E9" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0982-monochrome-title uui-0982-monochrome-desc" data-icon-id="UUI-0982" data-icon-name="scroll-text" data-icon-variant="monochrome" data-icon-category="legal-compliance">
+  <title id="uui-0982-monochrome-title" xml:lang="ja">規約文書</title>
+  <desc id="uui-0982-monochrome-desc" xml:lang="ja">「規約文書」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0982" slug="scroll-text" variant="monochrome">
+      <uui:name xml:lang="ja">規約文書</uui:name>
+      <uui:name xml:lang="en">Scroll Text</uui:name>
+      <uui:description xml:lang="ja">「規約文書」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Scroll Text” in legal and compliance contexts.</uui:description>
+      <uui:category id="legal-compliance" xml:lang="ja">法務とコンプライアンス</uui:category>
+      <uui:category id="legal-compliance" xml:lang="en">Legal and compliance</uui:category>
+      <uui:keywords xml:lang="ja">規約文書, 法務とコンプライアンス, scroll, text</uui:keywords>
+      <uui:keywords xml:lang="en">Scroll Text, Legal and compliance, scroll, text</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/legal-compliance/scroll-text.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="32d427a214b8476c5f1c182be7caa2165f400b02c7477307d2fc16621c7b8d36"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M15 12h-5" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M15 8h-5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M19 17V5a2 2 0 0 0-2-2H4" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M8 21h12a2 2 0 0 0 2-2v-1a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1v1a2 2 0 1 1-4 0V5a2 2 0 1 0-4 0v2a1 1 0 0 0 1 1h3" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

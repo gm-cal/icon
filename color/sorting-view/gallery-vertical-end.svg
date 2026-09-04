@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0922-color-title uui-0922-color-desc" data-icon-id="UUI-0922" data-icon-name="gallery-vertical-end" data-icon-variant="color" data-icon-category="sorting-view">
+  <title id="uui-0922-color-title" xml:lang="ja">縦ギャラリー末尾</title>
+  <desc id="uui-0922-color-desc" xml:lang="ja">「縦ギャラリー末尾」を表す汎用UIアイコン。並べ替えと表示に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0922" slug="gallery-vertical-end" variant="color">
+      <uui:name xml:lang="ja">縦ギャラリー末尾</uui:name>
+      <uui:name xml:lang="en">Gallery Vertical End</uui:name>
+      <uui:description xml:lang="ja">「縦ギャラリー末尾」を表す汎用UIアイコン。並べ替えと表示に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Gallery Vertical End” in sorting and view contexts.</uui:description>
+      <uui:category id="sorting-view" xml:lang="ja">並べ替えと表示</uui:category>
+      <uui:category id="sorting-view" xml:lang="en">Sorting and view</uui:category>
+      <uui:keywords xml:lang="ja">縦ギャラリー末尾, 並べ替えと表示, gallery, vertical, end</uui:keywords>
+      <uui:keywords xml:lang="en">Gallery Vertical End, Sorting and view, gallery, vertical, end</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/sorting-view/gallery-vertical-end.svg"/>
+      <uui:palette primary="#475569" accent="#64748B" secondary="#CBD5E1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="26b809591237c16454856637d9d3e8e0f1f29f46195767008045ce1b89750387"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M7 2h10" stroke="#475569" data-uui-role="primary"/>
+    <path d="M5 6h14" stroke="#64748B" data-uui-role="accent"/>
+    <rect width="18" height="12" x="3" y="10" rx="2" stroke="#64748B" data-uui-role="accent"/>
+  </g>
+</svg>

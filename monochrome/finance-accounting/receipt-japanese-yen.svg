@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0768-monochrome-title uui-0768-monochrome-desc" data-icon-id="UUI-0768" data-icon-name="receipt-japanese-yen" data-icon-variant="monochrome" data-icon-category="finance-accounting">
+  <title id="uui-0768-monochrome-title" xml:lang="ja">円建て領収書</title>
+  <desc id="uui-0768-monochrome-desc" xml:lang="ja">「円建て領収書」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0768" slug="receipt-japanese-yen" variant="monochrome">
+      <uui:name xml:lang="ja">円建て領収書</uui:name>
+      <uui:name xml:lang="en">Receipt Japanese Yen</uui:name>
+      <uui:description xml:lang="ja">「円建て領収書」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Receipt Japanese Yen” in finance and accounting contexts.</uui:description>
+      <uui:category id="finance-accounting" xml:lang="ja">財務と会計</uui:category>
+      <uui:category id="finance-accounting" xml:lang="en">Finance and accounting</uui:category>
+      <uui:keywords xml:lang="ja">円建て領収書, 財務と会計, receipt, japanese, yen</uui:keywords>
+      <uui:keywords xml:lang="en">Receipt Japanese Yen, Finance and accounting, receipt, japanese, yen</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/finance-accounting/receipt-japanese-yen.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="6736a526ec3c835a5954582a1517c998dd229325f2bcdb9938776335a39447aa"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m12 10 3-3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M9 11h6" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M9 15h6" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m9 7 3 3v7" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

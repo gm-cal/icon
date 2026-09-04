@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0985-monochrome-title uui-0985-monochrome-desc" data-icon-id="UUI-0985" data-icon-name="copyleft" data-icon-variant="monochrome" data-icon-category="legal-compliance">
+  <title id="uui-0985-monochrome-title" xml:lang="ja">コピーレフト</title>
+  <desc id="uui-0985-monochrome-desc" xml:lang="ja">「コピーレフト」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0985" slug="copyleft" variant="monochrome">
+      <uui:name xml:lang="ja">コピーレフト</uui:name>
+      <uui:name xml:lang="en">Copyleft</uui:name>
+      <uui:description xml:lang="ja">「コピーレフト」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Copyleft” in legal and compliance contexts.</uui:description>
+      <uui:category id="legal-compliance" xml:lang="ja">法務とコンプライアンス</uui:category>
+      <uui:category id="legal-compliance" xml:lang="en">Legal and compliance</uui:category>
+      <uui:keywords xml:lang="ja">コピーレフト, 法務とコンプライアンス, copyleft</uui:keywords>
+      <uui:keywords xml:lang="en">Copyleft, Legal and compliance, copyleft</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/legal-compliance/copyleft.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="f5ce9c8cecb87bc31b98e9cbdf96872084edb27d6590272574c4c131edcaac37"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="10" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M9.17 14.83a4 4 0 1 0 0-5.66" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

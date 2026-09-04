@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0625-color-title uui-0625-color-desc" data-icon-id="UUI-0625" data-icon-name="component" data-icon-variant="color" data-icon-category="cloud-infrastructure">
+  <title id="uui-0625-color-title" xml:lang="ja">システム部品</title>
+  <desc id="uui-0625-color-desc" xml:lang="ja">「システム部品」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0625" slug="component" variant="color">
+      <uui:name xml:lang="ja">システム部品</uui:name>
+      <uui:name xml:lang="en">Component</uui:name>
+      <uui:description xml:lang="ja">「システム部品」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Component” in cloud and infrastructure contexts.</uui:description>
+      <uui:category id="cloud-infrastructure" xml:lang="ja">クラウドと基盤</uui:category>
+      <uui:category id="cloud-infrastructure" xml:lang="en">Cloud and infrastructure</uui:category>
+      <uui:keywords xml:lang="ja">システム部品, クラウドと基盤, component</uui:keywords>
+      <uui:keywords xml:lang="en">Component, Cloud and infrastructure, component</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/cloud-infrastructure/component.svg"/>
+      <uui:palette primary="#0369A1" accent="#0EA5E9" secondary="#7DD3FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4a5b6aae1bc22d7dc37288ebe4eb716844d550ab54e3e3e84eedcd347cd80f29"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M15.536 11.293a1 1 0 0 0 0 1.414l2.376 2.377a1 1 0 0 0 1.414 0l2.377-2.377a1 1 0 0 0 0-1.414l-2.377-2.377a1 1 0 0 0-1.414 0z" stroke="#0369A1" data-uui-role="primary"/>
+    <path d="M2.297 11.293a1 1 0 0 0 0 1.414l2.377 2.377a1 1 0 0 0 1.414 0l2.377-2.377a1 1 0 0 0 0-1.414L6.088 8.916a1 1 0 0 0-1.414 0z" stroke="#0EA5E9" data-uui-role="accent"/>
+    <path d="M8.916 17.912a1 1 0 0 0 0 1.415l2.377 2.376a1 1 0 0 0 1.414 0l2.377-2.376a1 1 0 0 0 0-1.415l-2.377-2.376a1 1 0 0 0-1.414 0z" stroke="#7DD3FC" data-uui-role="secondary"/>
+    <path d="M8.916 4.674a1 1 0 0 0 0 1.414l2.377 2.376a1 1 0 0 0 1.414 0l2.377-2.376a1 1 0 0 0 0-1.414l-2.377-2.377a1 1 0 0 0-1.414 0z" stroke="#0EA5E9" data-uui-role="accent"/>
+  </g>
+</svg>

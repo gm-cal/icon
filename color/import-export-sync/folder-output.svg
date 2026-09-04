@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0959-color-title uui-0959-color-desc" data-icon-id="UUI-0959" data-icon-name="folder-output" data-icon-variant="color" data-icon-category="import-export-sync">
+  <title id="uui-0959-color-title" xml:lang="ja">フォルダー書き出し</title>
+  <desc id="uui-0959-color-desc" xml:lang="ja">「フォルダー書き出し」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0959" slug="folder-output" variant="color">
+      <uui:name xml:lang="ja">フォルダー書き出し</uui:name>
+      <uui:name xml:lang="en">Folder Output</uui:name>
+      <uui:description xml:lang="ja">「フォルダー書き出し」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Folder Output” in import, export, and sync contexts.</uui:description>
+      <uui:category id="import-export-sync" xml:lang="ja">入出力と同期</uui:category>
+      <uui:category id="import-export-sync" xml:lang="en">Import, export, and sync</uui:category>
+      <uui:keywords xml:lang="ja">フォルダー書き出し, 入出力と同期, folder, output</uui:keywords>
+      <uui:keywords xml:lang="en">Folder Output, Import, export, and sync, folder, output</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/import-export-sync/folder-output.svg"/>
+      <uui:palette primary="#2563EB" accent="#60A5FA" secondary="#BFDBFE"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="b9a4be8979799cbf83d97033e7b20e457f4d6b1f8816fb11d32c5df0a90f4edc"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2 7.5V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-1.5" stroke="#2563EB" data-uui-role="primary"/>
+    <path d="M2 13h10" stroke="#60A5FA" data-uui-role="accent"/>
+    <path d="m5 10-3 3 3 3" stroke="#60A5FA" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0855-color-title uui-0855-color-desc" data-icon-id="UUI-0855" data-icon-name="package-check" data-icon-variant="color" data-icon-category="logistics-inventory">
+  <title id="uui-0855-color-title" xml:lang="ja">検品済み荷物</title>
+  <desc id="uui-0855-color-desc" xml:lang="ja">「検品済み荷物」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0855" slug="package-check" variant="color">
+      <uui:name xml:lang="ja">検品済み荷物</uui:name>
+      <uui:name xml:lang="en">Package Check</uui:name>
+      <uui:description xml:lang="ja">「検品済み荷物」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Package Check” in logistics and inventory contexts.</uui:description>
+      <uui:category id="logistics-inventory" xml:lang="ja">物流と在庫</uui:category>
+      <uui:category id="logistics-inventory" xml:lang="en">Logistics and inventory</uui:category>
+      <uui:keywords xml:lang="ja">検品済み荷物, 物流と在庫, package, check</uui:keywords>
+      <uui:keywords xml:lang="en">Package Check, Logistics and inventory, package, check</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/logistics-inventory/package-check.svg"/>
+      <uui:palette primary="#92400E" accent="#D97706" secondary="#FCD34D"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="38dc654af953c31663624b2fd50ae70f2e559cb645f797ff3cdc3f2bdda09a5a"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 22V12" stroke="#92400E" data-uui-role="primary"/>
+    <path d="m16 17 2 2 4-4" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M21 11.127V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.729l7 4a2 2 0 0 0 2 .001l1.32-.753" stroke="#FCD34D" data-uui-role="secondary"/>
+    <path d="M3.29 7 12 12l8.71-5" stroke="#D97706" data-uui-role="accent"/>
+    <path d="m7.5 4.27 8.997 5.148" stroke="#D97706" data-uui-role="accent"/>
+  </g>
+</svg>

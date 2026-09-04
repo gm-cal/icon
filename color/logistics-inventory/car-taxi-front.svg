@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0866-color-title uui-0866-color-desc" data-icon-id="UUI-0866" data-icon-name="car-taxi-front" data-icon-variant="color" data-icon-category="logistics-inventory">
+  <title id="uui-0866-color-title" xml:lang="ja">タクシー</title>
+  <desc id="uui-0866-color-desc" xml:lang="ja">「タクシー」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0866" slug="car-taxi-front" variant="color">
+      <uui:name xml:lang="ja">タクシー</uui:name>
+      <uui:name xml:lang="en">Car Taxi Front</uui:name>
+      <uui:description xml:lang="ja">「タクシー」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Car Taxi Front” in logistics and inventory contexts.</uui:description>
+      <uui:category id="logistics-inventory" xml:lang="ja">物流と在庫</uui:category>
+      <uui:category id="logistics-inventory" xml:lang="en">Logistics and inventory</uui:category>
+      <uui:keywords xml:lang="ja">タクシー, 物流と在庫, car, taxi, front</uui:keywords>
+      <uui:keywords xml:lang="en">Car Taxi Front, Logistics and inventory, car, taxi, front</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/logistics-inventory/car-taxi-front.svg"/>
+      <uui:palette primary="#92400E" accent="#D97706" secondary="#FCD34D"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="991303cd80dbf800ebf771d045599c1055c0447c74d8b719452497b84a0e36bb"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 2h4" stroke="#92400E" data-uui-role="primary"/>
+    <path d="m21 8-2 2-1.5-3.7A2 2 0 0 0 15.646 5H8.4a2 2 0 0 0-1.903 1.257L5 10 3 8" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M7 14h.01" stroke="#FCD34D" data-uui-role="secondary"/>
+    <path d="M17 14h.01" stroke="#D97706" data-uui-role="accent"/>
+    <rect width="18" height="8" x="3" y="10" rx="2" stroke="#FCD34D" data-uui-role="secondary"/>
+    <path d="M5 18v2" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M19 18v2" stroke="#D97706" data-uui-role="accent"/>
+  </g>
+</svg>

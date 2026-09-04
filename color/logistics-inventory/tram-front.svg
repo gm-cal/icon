@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0872-color-title uui-0872-color-desc" data-icon-id="UUI-0872" data-icon-name="tram-front" data-icon-variant="color" data-icon-category="logistics-inventory">
+  <title id="uui-0872-color-title" xml:lang="ja">路面電車</title>
+  <desc id="uui-0872-color-desc" xml:lang="ja">「路面電車」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0872" slug="tram-front" variant="color">
+      <uui:name xml:lang="ja">路面電車</uui:name>
+      <uui:name xml:lang="en">Tram Front</uui:name>
+      <uui:description xml:lang="ja">「路面電車」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Tram Front” in logistics and inventory contexts.</uui:description>
+      <uui:category id="logistics-inventory" xml:lang="ja">物流と在庫</uui:category>
+      <uui:category id="logistics-inventory" xml:lang="en">Logistics and inventory</uui:category>
+      <uui:keywords xml:lang="ja">路面電車, 物流と在庫, tram, front</uui:keywords>
+      <uui:keywords xml:lang="en">Tram Front, Logistics and inventory, tram, front</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/logistics-inventory/tram-front.svg"/>
+      <uui:palette primary="#92400E" accent="#D97706" secondary="#FCD34D"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3f2dc7cb78f75a1b2ee310d622a8e28200cc1c3543aed61defdb283a66663f4c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect width="16" height="16" x="4" y="3" rx="2" stroke="#92400E" data-uui-role="primary"/>
+    <path d="M4 11h16" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M12 3v8" stroke="#FCD34D" data-uui-role="secondary"/>
+    <path d="m8 19-2 3" stroke="#D97706" data-uui-role="accent"/>
+    <path d="m18 22-2-3" stroke="#FCD34D" data-uui-role="secondary"/>
+    <path d="M8 15h.01" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M16 15h.01" stroke="#D97706" data-uui-role="accent"/>
+  </g>
+</svg>

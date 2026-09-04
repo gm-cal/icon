@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="736" viewBox="0 0 840 736" color="#1F2937">
+  <rect width="100%" height="100%" fill="#F8FAFC"/>
+  <text x="24" y="34" font-size="22" font-weight="700" fill="#0F172A">開発セキュリティ — モノクロ版</text>
+  <text x="24" y="57" font-size="12" fill="#64748B">Development security · 25 icons</text>
+    <g transform="translate(0 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m10.929 14.467-.383.924" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M10.929 8.923 10.546 8" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M13.225 8.923 13.608 8" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m13.607 15.391-.382-.924" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m14.849 10.547.923-.383" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m14.849 12.843.923.383" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m9.305 10.547-.923-.383" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m9.305 12.843-.923.383" stroke="currentColor" data-uui-role="secondary"/>
+        <circle cx="12.077" cy="11.695" r="3" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">保護設定</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0654 · shield-cog</text>
+    </g>
+    <g transform="translate(168 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M11 22c-3.806-1.45-7-3.966-7-9V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1v4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M14.923 16.547 14 16.164" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m14.923 18.843-.923.383" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M16.547 14.923 16.164 14" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m16.547 20.467-.383.924" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m18.843 14.923.383-.923" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m19.225 21.391-.382-.924" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m20.467 16.547.923-.383" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m20.467 18.843.923.383" stroke="currentColor" data-uui-role="secondary"/>
+        <circle cx="17.695" cy="17.695" r="3" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">部分保護設定</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0655 · shield-cog-corner</text>
+    </g>
+    <g transform="translate(336 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M8 12h.01" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M12 12h.01" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M16 12h.01" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">保護処理中</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0656 · shield-ellipsis</text>
+    </g>
+    <g transform="translate(504 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M12 22V2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">部分保護</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0657 · shield-half</text>
+    </g>
+    <g transform="translate(672 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m2 2 20 20" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M5 5a1 1 0 0 0-1 1v7c0 5 3.5 7.5 7.67 8.94a1 1 0 0 0 .67.01c2.35-.82 4.48-1.97 5.9-3.71" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M9.309 3.652A12.252 12.252 0 0 0 11.24 2.28a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1v7a9.784 9.784 0 0 1-.08 1.264" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">保護無効</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0658 · shield-off</text>
+    </g>
+    <g transform="translate(0 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M6.376 18.91a6 6 0 0 1 11.249.003" stroke="currentColor" data-uui-role="accent"/>
+        <circle cx="12" cy="11" r="4" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーザー保護</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0659 · shield-user</text>
+    </g>
+    <g transform="translate(168 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="18" height="18" x="3" y="3" rx="2" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M12 9v6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M16 15v6" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M16 3v6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3 15h18" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M3 9h18" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M8 15v6" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M8 3v6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ファイアウォール</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0660 · brick-wall</text>
+    </g>
+    <g transform="translate(336 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 3v2.107" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M17 9c1 3 2.5 3.5 3.5 4.5A5 5 0 0 1 22 17a5 5 0 0 1-10 0c0-.3 0-.6.1-.9a2 2 0 1 0 3.3-2C13 11.5 16 9 17 9" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M21 8.274V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h3.938" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M3 15h5.253" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3 9h8.228" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M8 15v6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M8 3v6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ファイアウォール警告</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0661 · brick-wall-fire</text>
+    </g>
+    <g transform="translate(504 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 9v1.258" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M16 3v5.46" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M21 9.118V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h5.75" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M22 17.5c0 2.499-1.75 3.749-3.83 4.474a.5.5 0 0 1-.335-.005c-2.085-.72-3.835-1.97-3.835-4.47V14a.5.5 0 0 1 .5-.499c1 0 2.25-.6 3.12-1.36a.6.6 0 0 1 .76-.001c.875.765 2.12 1.36 3.12 1.36a.5.5 0 0 1 .5.5z" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3 15h7" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M3 9h12.142" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M8 15v6" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M8 3v6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">防御壁</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0662 · brick-wall-shield</text>
+    </g>
+    <g transform="translate(672 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10 12h.01" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M18 9V6a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v14" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M2 20h8" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M20 17v-2a2 2 0 1 0-4 0v2" stroke="currentColor" data-uui-role="accent"/>
+        <rect x="14" y="17" width="8" height="5" rx="1" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">施錠済み入口</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0663 · door-closed-locked</text>
+    </g>
+    <g transform="translate(0 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 3.34V5a3 3 0 0 0 3 3" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M11 21.95V18a2 2 0 0 0-2-2 2 2 0 0 1-2-2v-1a2 2 0 0 0-2-2H2.05" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M21.54 15H17a2 2 0 0 0-2 2v4.54" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M12 2a10 10 0 1 0 9.54 13" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M20 6V4a2 2 0 1 0-4 0v2" stroke="currentColor" data-uui-role="secondary"/>
+        <rect width="8" height="5" x="14" y="6" rx="1" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">外部ネットワーク保護</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0664 · earth-lock</text>
+    </g>
+    <g transform="translate(168 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M15.686 15A14.5 14.5 0 0 1 12 22a14.5 14.5 0 0 1 0-20 10 10 0 1 0 9.542 13" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M2 12h8.5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M20 6V4a2 2 0 1 0-4 0v2" stroke="currentColor" data-uui-role="secondary"/>
+        <rect width="8" height="5" x="14" y="6" rx="1" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">Webアクセス保護</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0665 · globe-lock</text>
+    </g>
+    <g transform="translate(336 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M4 12v6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M4 14h2" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M9.65 22H18a2 2 0 0 0 2-2V8a2.4 2.4 0 0 0-.706-1.706l-3.588-3.588A2.4 2.4 0 0 0 14 2H6a2 2 0 0 0-2 2v4" stroke="currentColor" data-uui-role="accent"/>
+        <circle cx="4" cy="20" r="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">鍵付きファイル</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0666 · file-key</text>
+    </g>
+    <g transform="translate(504 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M13 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v1.36" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M19 12v6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M19 14h2" stroke="currentColor" data-uui-role="secondary"/>
+        <circle cx="19" cy="20" r="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">鍵付きフォルダー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0667 · folder-key</text>
+    </g>
+    <g transform="translate(672 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="8" height="5" x="14" y="17" rx="1" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M10 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v2.5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M20 17v-2a2 2 0 1 0-4 0v2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">保護フォルダー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0668 · folder-lock</text>
+    </g>
+    <g transform="translate(0 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M22 8.5V5a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v16.286a.71.71 0 0 0 1.212.502l2.202-2.202A2 2 0 0 1 6.828 19H10" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M20 15v-2a2 2 0 0 0-4 0v2" stroke="currentColor" data-uui-role="accent"/>
+        <rect x="14" y="15" width="8" height="5" rx="1" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">暗号化メッセージ</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0669 · message-square-lock</text>
+    </g>
+    <g transform="translate(168 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 7v6" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M12 9h2" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3 12a9 9 0 1 0 9-9 9.74 9.74 0 0 0-6.74 2.74L3 8" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M3 3v5h5" stroke="currentColor" data-uui-role="accent"/>
+        <circle cx="12" cy="15" r="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">鍵をローテーション</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0670 · rotate-ccw-key</text>
+    </g>
+    <g transform="translate(336 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M20 11v6" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M20 13h2" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3 21v-2a4 4 0 0 1 4-4h6a4 4 0 0 1 2.072.578" stroke="currentColor" data-uui-role="secondary"/>
+        <circle cx="10" cy="7" r="4" stroke="currentColor" data-uui-role="accent"/>
+        <circle cx="20" cy="19" r="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーザーキー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0671 · user-key</text>
+    </g>
+    <g transform="translate(504 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M19 16v-2a2 2 0 0 0-4 0v2" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M9.5 15H7a4 4 0 0 0-4 4v2" stroke="currentColor" data-uui-role="accent"/>
+        <circle cx="10" cy="7" r="4" stroke="currentColor" data-uui-role="secondary"/>
+        <rect x="13" y="16" width="8" height="5" rx=".899" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーザーロック</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0672 · user-lock</text>
+    </g>
+    <g transform="translate(672 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="16" r="1" stroke="currentColor" data-uui-role="primary"/>
+        <rect x="3" y="10" width="18" height="12" rx="2" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M7 10V7a5 5 0 0 1 10 0v3" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">キーホールロック</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0673 · lock-keyhole</text>
+    </g>
+    <g transform="translate(0 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="16" r="1" stroke="currentColor" data-uui-role="primary"/>
+        <rect width="18" height="12" x="3" y="10" rx="2" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M7 10V7a5 5 0 0 1 9.33-2.5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">キーホール解除</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0674 · lock-keyhole-open</text>
+    </g>
+    <g transform="translate(168 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m21 17-2.156-1.868A.5.5 0 0 0 18 15.5v.5a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1c0-2.545-3.991-3.97-8.5-4a1 1 0 0 0 0 5c4.153 0 4.745-11.295 5.708-13.5a2.5 2.5 0 1 1 3.31 3.284" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M3 21h18" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">電子署名</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0675 · signature</text>
+    </g>
+    <g transform="translate(336 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M 20 4 A2 2 0 0 1 22 6" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M 22 6 L 22 16.41" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M 7 16 L 16 16" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M 9.69 4 L 20 4" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M14 8h.01" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M18 8h.01" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m2 2 20 20" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M20 20H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M6 8h.01" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M8 12h.01" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">入力禁止</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0676 · keyboard-off</text>
+    </g>
+    <g transform="translate(504 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M13 22h5a2 2 0 0 0 2-2V8a2.4 2.4 0 0 0-.706-1.706l-3.588-3.588A2.4 2.4 0 0 0 14 2H6a2 2 0 0 0-2 2v3.3" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m7.69 16.479 1.29 4.88a.5.5 0 0 1-.698.591l-1.843-.849a1 1 0 0 0-.879.001l-1.846.85a.5.5 0 0 1-.692-.593l1.29-4.88" stroke="currentColor" data-uui-role="secondary"/>
+        <circle cx="6" cy="14" r="3" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">認証付きファイル</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0677 · file-badge</text>
+    </g>
+    <g transform="translate(672 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="currentColor" data-uui-role="primary"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">資格情報</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0678 · badge</text>
+    </g>
+</svg>

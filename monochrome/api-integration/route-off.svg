@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0575-monochrome-title uui-0575-monochrome-desc" data-icon-id="UUI-0575" data-icon-name="route-off" data-icon-variant="monochrome" data-icon-category="api-integration">
+  <title id="uui-0575-monochrome-title" xml:lang="ja">経路無効</title>
+  <desc id="uui-0575-monochrome-desc" xml:lang="ja">「経路無効」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0575" slug="route-off" variant="monochrome">
+      <uui:name xml:lang="ja">経路無効</uui:name>
+      <uui:name xml:lang="en">Route Off</uui:name>
+      <uui:description xml:lang="ja">「経路無効」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Route Off” in api and integration contexts.</uui:description>
+      <uui:category id="api-integration" xml:lang="ja">APIと連携</uui:category>
+      <uui:category id="api-integration" xml:lang="en">API and integration</uui:category>
+      <uui:keywords xml:lang="ja">経路無効, APIと連携, route, off</uui:keywords>
+      <uui:keywords xml:lang="en">Route Off, API and integration, route, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/api-integration/route-off.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="51131bb48cfeddbf7115cddb3c2733ef3bbaef38d252aa716f3f2cfe5cd3f03f"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="6" cy="19" r="3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M9 19h8.5c.4 0 .9-.1 1.3-.2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M5.2 5.2A3.5 3.53 0 0 0 6.5 12H12" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m2 2 20 20" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M21 15.3a3.5 3.5 0 0 0-3.3-3.3" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M15 5h-4.3" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="18" cy="5" r="3" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

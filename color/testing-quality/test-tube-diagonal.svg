@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0633-color-title uui-0633-color-desc" data-icon-id="UUI-0633" data-icon-name="test-tube-diagonal" data-icon-variant="color" data-icon-category="testing-quality">
+  <title id="uui-0633-color-title" xml:lang="ja">単体試験</title>
+  <desc id="uui-0633-color-desc" xml:lang="ja">「単体試験」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0633" slug="test-tube-diagonal" variant="color">
+      <uui:name xml:lang="ja">単体試験</uui:name>
+      <uui:name xml:lang="en">Test Tube Diagonal</uui:name>
+      <uui:description xml:lang="ja">「単体試験」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Test Tube Diagonal” in testing and quality contexts.</uui:description>
+      <uui:category id="testing-quality" xml:lang="ja">テストと品質</uui:category>
+      <uui:category id="testing-quality" xml:lang="en">Testing and quality</uui:category>
+      <uui:keywords xml:lang="ja">単体試験, テストと品質, test, tube, diagonal</uui:keywords>
+      <uui:keywords xml:lang="en">Test Tube Diagonal, Testing and quality, test, tube, diagonal</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/testing-quality/test-tube-diagonal.svg"/>
+      <uui:palette primary="#4D7C0F" accent="#84CC16" secondary="#BEF264"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="751316cb231bd5a508f356b0ae8fd052a75bb3f71020c2e11bacb7b5c1b036a8"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M21 7 6.82 21.18a2.83 2.83 0 0 1-3.99-.01a2.83 2.83 0 0 1 0-4L17 3" stroke="#4D7C0F" data-uui-role="primary"/>
+    <path d="m16 2 6 6" stroke="#84CC16" data-uui-role="accent"/>
+    <path d="M12 16H4" stroke="#84CC16" data-uui-role="accent"/>
+  </g>
+</svg>

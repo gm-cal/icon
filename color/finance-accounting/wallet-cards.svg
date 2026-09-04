@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0771-color-title uui-0771-color-desc" data-icon-id="UUI-0771" data-icon-name="wallet-cards" data-icon-variant="color" data-icon-category="finance-accounting">
+  <title id="uui-0771-color-title" xml:lang="ja">カード財布</title>
+  <desc id="uui-0771-color-desc" xml:lang="ja">「カード財布」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0771" slug="wallet-cards" variant="color">
+      <uui:name xml:lang="ja">カード財布</uui:name>
+      <uui:name xml:lang="en">Wallet Cards</uui:name>
+      <uui:description xml:lang="ja">「カード財布」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Wallet Cards” in finance and accounting contexts.</uui:description>
+      <uui:category id="finance-accounting" xml:lang="ja">財務と会計</uui:category>
+      <uui:category id="finance-accounting" xml:lang="en">Finance and accounting</uui:category>
+      <uui:keywords xml:lang="ja">カード財布, 財務と会計, wallet, cards</uui:keywords>
+      <uui:keywords xml:lang="en">Wallet Cards, Finance and accounting, wallet, cards</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/finance-accounting/wallet-cards.svg"/>
+      <uui:palette primary="#15803D" accent="#22C55E" secondary="#86EFAC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d04b1c5f9e8809259d8213a7e14cc4459e79f8214e104f833e6e664135f6c2a2"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect width="18" height="18" x="3" y="3" rx="2" stroke="#15803D" data-uui-role="primary"/>
+    <path d="M3 9a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2" stroke="#22C55E" data-uui-role="accent"/>
+    <path d="M3 11h3c.8 0 1.6.3 2.1.9l1.1.9c1.6 1.6 4.1 1.6 5.7 0l1.1-.9c.5-.5 1.3-.9 2.1-.9H21" stroke="#22C55E" data-uui-role="accent"/>
+  </g>
+</svg>

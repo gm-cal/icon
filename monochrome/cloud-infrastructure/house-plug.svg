@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0628-monochrome-title uui-0628-monochrome-desc" data-icon-id="UUI-0628" data-icon-name="house-plug" data-icon-variant="monochrome" data-icon-category="cloud-infrastructure">
+  <title id="uui-0628-monochrome-title" xml:lang="ja">拠点電源</title>
+  <desc id="uui-0628-monochrome-desc" xml:lang="ja">「拠点電源」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0628" slug="house-plug" variant="monochrome">
+      <uui:name xml:lang="ja">拠点電源</uui:name>
+      <uui:name xml:lang="en">House Plug</uui:name>
+      <uui:description xml:lang="ja">「拠点電源」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “House Plug” in cloud and infrastructure contexts.</uui:description>
+      <uui:category id="cloud-infrastructure" xml:lang="ja">クラウドと基盤</uui:category>
+      <uui:category id="cloud-infrastructure" xml:lang="en">Cloud and infrastructure</uui:category>
+      <uui:keywords xml:lang="ja">拠点電源, クラウドと基盤, house, plug</uui:keywords>
+      <uui:keywords xml:lang="en">House Plug, Cloud and infrastructure, house, plug</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/cloud-infrastructure/house-plug.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d03fba4d1ce48121c96a4f3c07cc90f2ce49691d538fb6fe7ffcd98c886c4850"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 12V8.964" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M14 12V8.964" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M15 12a1 1 0 0 1 1 1v2a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2v-2a1 1 0 0 1 1-1z" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M8.5 21H5a2 2 0 0 1-2-2v-9a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2h-5a2 2 0 0 1-2-2v-2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

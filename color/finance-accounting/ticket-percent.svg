@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0773-color-title uui-0773-color-desc" data-icon-id="UUI-0773" data-icon-name="ticket-percent" data-icon-variant="color" data-icon-category="finance-accounting">
+  <title id="uui-0773-color-title" xml:lang="ja">割引券</title>
+  <desc id="uui-0773-color-desc" xml:lang="ja">「割引券」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0773" slug="ticket-percent" variant="color">
+      <uui:name xml:lang="ja">割引券</uui:name>
+      <uui:name xml:lang="en">Ticket Percent</uui:name>
+      <uui:description xml:lang="ja">「割引券」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Ticket Percent” in finance and accounting contexts.</uui:description>
+      <uui:category id="finance-accounting" xml:lang="ja">財務と会計</uui:category>
+      <uui:category id="finance-accounting" xml:lang="en">Finance and accounting</uui:category>
+      <uui:keywords xml:lang="ja">割引券, 財務と会計, ticket, percent</uui:keywords>
+      <uui:keywords xml:lang="en">Ticket Percent, Finance and accounting, ticket, percent</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/finance-accounting/ticket-percent.svg"/>
+      <uui:palette primary="#15803D" accent="#22C55E" secondary="#86EFAC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="c77f48c64b30c1cf2aad8aead2aba1ece34bce379ba3840ce71a6fe1c1bfcb2d"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2 9a3 3 0 1 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 1 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z" stroke="#15803D" data-uui-role="primary"/>
+    <path d="M9 9h.01" stroke="#22C55E" data-uui-role="accent"/>
+    <path d="m15 9-6 6" stroke="#86EFAC" data-uui-role="secondary"/>
+    <path d="M15 15h.01" stroke="#22C55E" data-uui-role="accent"/>
+  </g>
+</svg>

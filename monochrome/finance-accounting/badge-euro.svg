@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0756-monochrome-title uui-0756-monochrome-desc" data-icon-id="UUI-0756" data-icon-name="badge-euro" data-icon-variant="monochrome" data-icon-category="finance-accounting">
+  <title id="uui-0756-monochrome-title" xml:lang="ja">ユーロ金額</title>
+  <desc id="uui-0756-monochrome-desc" xml:lang="ja">「ユーロ金額」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0756" slug="badge-euro" variant="monochrome">
+      <uui:name xml:lang="ja">ユーロ金額</uui:name>
+      <uui:name xml:lang="en">Badge Euro</uui:name>
+      <uui:description xml:lang="ja">「ユーロ金額」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Badge Euro” in finance and accounting contexts.</uui:description>
+      <uui:category id="finance-accounting" xml:lang="ja">財務と会計</uui:category>
+      <uui:category id="finance-accounting" xml:lang="en">Finance and accounting</uui:category>
+      <uui:keywords xml:lang="ja">ユーロ金額, 財務と会計, badge, euro</uui:keywords>
+      <uui:keywords xml:lang="en">Badge Euro, Finance and accounting, badge, euro</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/finance-accounting/badge-euro.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="a089e010ddcb66f58efdddc6a80d9d233c52c7c4ec2c2eddbc66983007c6aca5"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M7 12h5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M15 9.4a4 4 0 1 0 0 5.2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

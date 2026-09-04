@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0640-color-title uui-0640-color-desc" data-icon-id="UUI-0640" data-icon-name="search-slash" data-icon-variant="color" data-icon-category="testing-quality">
+  <title id="uui-0640-color-title" xml:lang="ja">検索対象外</title>
+  <desc id="uui-0640-color-desc" xml:lang="ja">「検索対象外」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0640" slug="search-slash" variant="color">
+      <uui:name xml:lang="ja">検索対象外</uui:name>
+      <uui:name xml:lang="en">Search Slash</uui:name>
+      <uui:description xml:lang="ja">「検索対象外」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Search Slash” in testing and quality contexts.</uui:description>
+      <uui:category id="testing-quality" xml:lang="ja">テストと品質</uui:category>
+      <uui:category id="testing-quality" xml:lang="en">Testing and quality</uui:category>
+      <uui:keywords xml:lang="ja">検索対象外, テストと品質, search, slash</uui:keywords>
+      <uui:keywords xml:lang="en">Search Slash, Testing and quality, search, slash</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/testing-quality/search-slash.svg"/>
+      <uui:palette primary="#4D7C0F" accent="#84CC16" secondary="#BEF264"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4590d5df8fe5745ece5cafb5bad39d9f0e7959dbcb81c251fd66dea31fcd3cda"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m13.5 8.5-5 5" stroke="#4D7C0F" data-uui-role="primary"/>
+    <circle cx="11" cy="11" r="8" stroke="#84CC16" data-uui-role="accent"/>
+    <path d="m21 21-4.3-4.3" stroke="#84CC16" data-uui-role="accent"/>
+  </g>
+</svg>

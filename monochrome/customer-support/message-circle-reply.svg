@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0811-monochrome-title uui-0811-monochrome-desc" data-icon-id="UUI-0811" data-icon-name="message-circle-reply" data-icon-variant="monochrome" data-icon-category="customer-support">
+  <title id="uui-0811-monochrome-title" xml:lang="ja">会話へ返信</title>
+  <desc id="uui-0811-monochrome-desc" xml:lang="ja">「会話へ返信」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0811" slug="message-circle-reply" variant="monochrome">
+      <uui:name xml:lang="ja">会話へ返信</uui:name>
+      <uui:name xml:lang="en">Message Circle Reply</uui:name>
+      <uui:description xml:lang="ja">「会話へ返信」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Message Circle Reply” in customer support contexts.</uui:description>
+      <uui:category id="customer-support" xml:lang="ja">顧客サポート</uui:category>
+      <uui:category id="customer-support" xml:lang="en">Customer support</uui:category>
+      <uui:keywords xml:lang="ja">会話へ返信, 顧客サポート, message, circle, reply</uui:keywords>
+      <uui:keywords xml:lang="en">Message Circle Reply, Customer support, message, circle, reply</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/customer-support/message-circle-reply.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="11219174991ebeea01f96e5dfe721c99b6440e3f7e4d6a0d60625e5f681a4471"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m10 15-3-3 3-3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M7 12h8a2 2 0 0 1 2 2v1" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

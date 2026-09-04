@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0654-monochrome-title uui-0654-monochrome-desc" data-icon-id="UUI-0654" data-icon-name="shield-cog" data-icon-variant="monochrome" data-icon-category="dev-security">
+  <title id="uui-0654-monochrome-title" xml:lang="ja">保護設定</title>
+  <desc id="uui-0654-monochrome-desc" xml:lang="ja">「保護設定」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0654" slug="shield-cog" variant="monochrome">
+      <uui:name xml:lang="ja">保護設定</uui:name>
+      <uui:name xml:lang="en">Shield Cog</uui:name>
+      <uui:description xml:lang="ja">「保護設定」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Shield Cog” in development security contexts.</uui:description>
+      <uui:category id="dev-security" xml:lang="ja">開発セキュリティ</uui:category>
+      <uui:category id="dev-security" xml:lang="en">Development security</uui:category>
+      <uui:keywords xml:lang="ja">保護設定, 開発セキュリティ, shield, cog</uui:keywords>
+      <uui:keywords xml:lang="en">Shield Cog, Development security, shield, cog</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/dev-security/shield-cog.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="9c6cb6e990d80328f096a56a6e9bea278be6338b6f7944568c1387a65cffe7ac"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m10.929 14.467-.383.924" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M10.929 8.923 10.546 8" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M13.225 8.923 13.608 8" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m13.607 15.391-.382-.924" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m14.849 10.547.923-.383" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m14.849 12.843.923.383" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m9.305 10.547-.923-.383" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m9.305 12.843-.923.383" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="12.077" cy="11.695" r="3" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

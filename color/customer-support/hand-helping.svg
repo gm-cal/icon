@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0828-color-title uui-0828-color-desc" data-icon-id="UUI-0828" data-icon-name="hand-helping" data-icon-variant="color" data-icon-category="customer-support">
+  <title id="uui-0828-color-title" xml:lang="ja">支援</title>
+  <desc id="uui-0828-color-desc" xml:lang="ja">「支援」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0828" slug="hand-helping" variant="color">
+      <uui:name xml:lang="ja">支援</uui:name>
+      <uui:name xml:lang="en">Hand Helping</uui:name>
+      <uui:description xml:lang="ja">「支援」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Hand Helping” in customer support contexts.</uui:description>
+      <uui:category id="customer-support" xml:lang="ja">顧客サポート</uui:category>
+      <uui:category id="customer-support" xml:lang="en">Customer support</uui:category>
+      <uui:keywords xml:lang="ja">支援, 顧客サポート, hand, helping</uui:keywords>
+      <uui:keywords xml:lang="en">Hand Helping, Customer support, hand, helping</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/customer-support/hand-helping.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#3B82F6" secondary="#93C5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4df74278df6e182cf0aab38d4b68ec15e1ca42348f539a4da331e612ae48bf43"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M11 12h2a2 2 0 1 0 0-4h-3c-.6 0-1.1.2-1.4.6L3 14" stroke="#1D4ED8" data-uui-role="primary"/>
+    <path d="m7 18 1.6-1.4c.3-.4.8-.6 1.4-.6h4c1.1 0 2.1-.4 2.8-1.2l4.6-4.4a2 2 0 0 0-2.75-2.91l-4.2 3.9" stroke="#3B82F6" data-uui-role="accent"/>
+    <path d="m2 13 6 6" stroke="#3B82F6" data-uui-role="accent"/>
+  </g>
+</svg>

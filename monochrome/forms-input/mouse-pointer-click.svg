@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0896-monochrome-title uui-0896-monochrome-desc" data-icon-id="UUI-0896" data-icon-name="mouse-pointer-click" data-icon-variant="monochrome" data-icon-category="forms-input">
+  <title id="uui-0896-monochrome-title" xml:lang="ja">クリック</title>
+  <desc id="uui-0896-monochrome-desc" xml:lang="ja">「クリック」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0896" slug="mouse-pointer-click" variant="monochrome">
+      <uui:name xml:lang="ja">クリック</uui:name>
+      <uui:name xml:lang="en">Mouse Pointer Click</uui:name>
+      <uui:description xml:lang="ja">「クリック」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Mouse Pointer Click” in forms and input contexts.</uui:description>
+      <uui:category id="forms-input" xml:lang="ja">フォームと入力</uui:category>
+      <uui:category id="forms-input" xml:lang="en">Forms and input</uui:category>
+      <uui:keywords xml:lang="ja">クリック, フォームと入力, mouse, pointer, click</uui:keywords>
+      <uui:keywords xml:lang="en">Mouse Pointer Click, Forms and input, mouse, pointer, click</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/forms-input/mouse-pointer-click.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4e869113f1e7fc38793fc2bdebfce43289253b8b5d18539913c1caa187ad292a"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M14 4.1 12 6" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m5.1 8-2.9-.8" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m6 12-1.9 2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M7.2 2.2 8 5.1" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M9.037 9.69a.498.498 0 0 1 .653-.653l11 4.5a.5.5 0 0 1-.074.949l-4.349 1.041a1 1 0 0 0-.74.739l-1.04 4.35a.5.5 0 0 1-.95.074z" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

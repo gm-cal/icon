@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0870-color-title uui-0870-color-desc" data-icon-id="UUI-0870" data-icon-name="train-front-tunnel" data-icon-variant="color" data-icon-category="logistics-inventory">
+  <title id="uui-0870-color-title" xml:lang="ja">鉄道トンネル</title>
+  <desc id="uui-0870-color-desc" xml:lang="ja">「鉄道トンネル」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0870" slug="train-front-tunnel" variant="color">
+      <uui:name xml:lang="ja">鉄道トンネル</uui:name>
+      <uui:name xml:lang="en">Train Front Tunnel</uui:name>
+      <uui:description xml:lang="ja">「鉄道トンネル」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Train Front Tunnel” in logistics and inventory contexts.</uui:description>
+      <uui:category id="logistics-inventory" xml:lang="ja">物流と在庫</uui:category>
+      <uui:category id="logistics-inventory" xml:lang="en">Logistics and inventory</uui:category>
+      <uui:keywords xml:lang="ja">鉄道トンネル, 物流と在庫, train, front, tunnel</uui:keywords>
+      <uui:keywords xml:lang="en">Train Front Tunnel, Logistics and inventory, train, front, tunnel</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/logistics-inventory/train-front-tunnel.svg"/>
+      <uui:palette primary="#92400E" accent="#D97706" secondary="#FCD34D"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="8beb844af01a59196c98778ac32191812176bf667468cade992ed8662aa55243"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2 22V12a10 10 0 1 1 20 0v10" stroke="#92400E" data-uui-role="primary"/>
+    <path d="M15 6.8v1.4a3 2.8 0 1 1-6 0V6.8" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M10 15h.01" stroke="#FCD34D" data-uui-role="secondary"/>
+    <path d="M14 15h.01" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M10 19a4 4 0 0 1-4-4v-3a6 6 0 1 1 12 0v3a4 4 0 0 1-4 4Z" stroke="#FCD34D" data-uui-role="secondary"/>
+    <path d="m9 19-2 3" stroke="#D97706" data-uui-role="accent"/>
+    <path d="m15 19 2 3" stroke="#D97706" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0945-color-title uui-0945-color-desc" data-icon-id="UUI-0945" data-icon-name="sparkle" data-icon-variant="color" data-icon-category="notification-status">
+  <title id="uui-0945-color-title" xml:lang="ja">新着</title>
+  <desc id="uui-0945-color-desc" xml:lang="ja">「新着」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0945" slug="sparkle" variant="color">
+      <uui:name xml:lang="ja">新着</uui:name>
+      <uui:name xml:lang="en">Sparkle</uui:name>
+      <uui:description xml:lang="ja">「新着」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Sparkle” in notifications and status contexts.</uui:description>
+      <uui:category id="notification-status" xml:lang="ja">通知と状態詳細</uui:category>
+      <uui:category id="notification-status" xml:lang="en">Notifications and status</uui:category>
+      <uui:keywords xml:lang="ja">新着, 通知と状態詳細, sparkle</uui:keywords>
+      <uui:keywords xml:lang="en">Sparkle, Notifications and status, sparkle</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/notification-status/sparkle.svg"/>
+      <uui:palette primary="#0891B2" accent="#22D3EE" secondary="#A5F3FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="0a37d1e26e917e08181cc8cc95d051e4480b738d933af6fc46f632d549c50c41"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z" stroke="#0891B2" data-uui-role="primary"/>
+  </g>
+</svg>

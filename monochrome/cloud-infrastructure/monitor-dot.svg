@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0614-monochrome-title uui-0614-monochrome-desc" data-icon-id="UUI-0614" data-icon-name="monitor-dot" data-icon-variant="monochrome" data-icon-category="cloud-infrastructure">
+  <title id="uui-0614-monochrome-title" xml:lang="ja">端末状態</title>
+  <desc id="uui-0614-monochrome-desc" xml:lang="ja">「端末状態」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0614" slug="monitor-dot" variant="monochrome">
+      <uui:name xml:lang="ja">端末状態</uui:name>
+      <uui:name xml:lang="en">Monitor Dot</uui:name>
+      <uui:description xml:lang="ja">「端末状態」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Monitor Dot” in cloud and infrastructure contexts.</uui:description>
+      <uui:category id="cloud-infrastructure" xml:lang="ja">クラウドと基盤</uui:category>
+      <uui:category id="cloud-infrastructure" xml:lang="en">Cloud and infrastructure</uui:category>
+      <uui:keywords xml:lang="ja">端末状態, クラウドと基盤, monitor, dot</uui:keywords>
+      <uui:keywords xml:lang="en">Monitor Dot, Cloud and infrastructure, monitor, dot</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/cloud-infrastructure/monitor-dot.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="c253e669b2640f78cbe047030a8eabc4e2698443774d7559d5aa8881f266014a"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 17v4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M22 12.307V15a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h8.693" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M8 21h8" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="19" cy="6" r="3" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

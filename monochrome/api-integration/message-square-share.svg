@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0557-monochrome-title uui-0557-monochrome-desc" data-icon-id="UUI-0557" data-icon-name="message-square-share" data-icon-variant="monochrome" data-icon-category="api-integration">
+  <title id="uui-0557-monochrome-title" xml:lang="ja">メッセージ共有</title>
+  <desc id="uui-0557-monochrome-desc" xml:lang="ja">「メッセージ共有」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0557" slug="message-square-share" variant="monochrome">
+      <uui:name xml:lang="ja">メッセージ共有</uui:name>
+      <uui:name xml:lang="en">Message Square Share</uui:name>
+      <uui:description xml:lang="ja">「メッセージ共有」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Message Square Share” in api and integration contexts.</uui:description>
+      <uui:category id="api-integration" xml:lang="ja">APIと連携</uui:category>
+      <uui:category id="api-integration" xml:lang="en">API and integration</uui:category>
+      <uui:keywords xml:lang="ja">メッセージ共有, APIと連携, message, square, share</uui:keywords>
+      <uui:keywords xml:lang="en">Message Square Share, API and integration, message, square, share</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/api-integration/message-square-share.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="ea81a249d9fd13c4a9ade1dd0cac57e5c0e117b8a215f30796c446d10545eab5"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 3H4a2 2 0 0 0-2 2v16.286a.71.71 0 0 0 1.212.502l2.202-2.202A2 2 0 0 1 6.828 19H20a2 2 0 0 0 2-2v-4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16 3h6v6" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m16 9 6-6" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0689-color-title uui-0689-color-desc" data-icon-id="UUI-0689" data-icon-name="clipboard-clock" data-icon-variant="color" data-icon-category="project-management">
+  <title id="uui-0689-color-title" xml:lang="ja">期限付きタスク</title>
+  <desc id="uui-0689-color-desc" xml:lang="ja">「期限付きタスク」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0689" slug="clipboard-clock" variant="color">
+      <uui:name xml:lang="ja">期限付きタスク</uui:name>
+      <uui:name xml:lang="en">Clipboard Clock</uui:name>
+      <uui:description xml:lang="ja">「期限付きタスク」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Clipboard Clock” in project management contexts.</uui:description>
+      <uui:category id="project-management" xml:lang="ja">プロジェクト管理</uui:category>
+      <uui:category id="project-management" xml:lang="en">Project management</uui:category>
+      <uui:keywords xml:lang="ja">期限付きタスク, プロジェクト管理, clipboard, clock</uui:keywords>
+      <uui:keywords xml:lang="en">Clipboard Clock, Project management, clipboard, clock</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/project-management/clipboard-clock.svg"/>
+      <uui:palette primary="#A16207" accent="#EAB308" secondary="#FDE047"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3feb73e5ace415446d703e52cf85b017790b94cd9632e2ea37dc9880f244289d"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M16 14v2.2l1.6 1" stroke="#A16207" data-uui-role="primary"/>
+    <path d="M16 4h2a2 2 0 0 1 2 2v.832" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M8 4H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h2" stroke="#FDE047" data-uui-role="secondary"/>
+    <circle cx="16" cy="16" r="6" stroke="#EAB308" data-uui-role="accent"/>
+    <rect x="8" y="2" width="8" height="4" rx="1" stroke="#EAB308" data-uui-role="accent"/>
+  </g>
+</svg>

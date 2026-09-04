@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0777-color-title uui-0777-color-desc" data-icon-id="UUI-0777" data-icon-name="badge-turkish-lira" data-icon-variant="color" data-icon-category="finance-accounting">
+  <title id="uui-0777-color-title" xml:lang="ja">トルコリラ</title>
+  <desc id="uui-0777-color-desc" xml:lang="ja">「トルコリラ」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0777" slug="badge-turkish-lira" variant="color">
+      <uui:name xml:lang="ja">トルコリラ</uui:name>
+      <uui:name xml:lang="en">Badge Turkish Lira</uui:name>
+      <uui:description xml:lang="ja">「トルコリラ」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Badge Turkish Lira” in finance and accounting contexts.</uui:description>
+      <uui:category id="finance-accounting" xml:lang="ja">財務と会計</uui:category>
+      <uui:category id="finance-accounting" xml:lang="en">Finance and accounting</uui:category>
+      <uui:keywords xml:lang="ja">トルコリラ, 財務と会計, badge, turkish, lira</uui:keywords>
+      <uui:keywords xml:lang="en">Badge Turkish Lira, Finance and accounting, badge, turkish, lira</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/finance-accounting/badge-turkish-lira.svg"/>
+      <uui:palette primary="#15803D" accent="#22C55E" secondary="#86EFAC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="9190f4b34153b9f31a160c184de64fed87072ed50728aae39054b045e2d369b9"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M11 7v10a5 5 0 0 0 5-5" stroke="#15803D" data-uui-role="primary"/>
+    <path d="m15 8-6 3" stroke="#22C55E" data-uui-role="accent"/>
+    <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76" stroke="#22C55E" data-uui-role="accent"/>
+  </g>
+</svg>

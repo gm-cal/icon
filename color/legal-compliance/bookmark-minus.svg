@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0993-color-title uui-0993-color-desc" data-icon-id="UUI-0993" data-icon-name="bookmark-minus" data-icon-variant="color" data-icon-category="legal-compliance">
+  <title id="uui-0993-color-title" xml:lang="ja">条項削除</title>
+  <desc id="uui-0993-color-desc" xml:lang="ja">「条項削除」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0993" slug="bookmark-minus" variant="color">
+      <uui:name xml:lang="ja">条項削除</uui:name>
+      <uui:name xml:lang="en">Bookmark Minus</uui:name>
+      <uui:description xml:lang="ja">「条項削除」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Bookmark Minus” in legal and compliance contexts.</uui:description>
+      <uui:category id="legal-compliance" xml:lang="ja">法務とコンプライアンス</uui:category>
+      <uui:category id="legal-compliance" xml:lang="en">Legal and compliance</uui:category>
+      <uui:keywords xml:lang="ja">条項削除, 法務とコンプライアンス, bookmark, minus</uui:keywords>
+      <uui:keywords xml:lang="en">Bookmark Minus, Legal and compliance, bookmark, minus</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/legal-compliance/bookmark-minus.svg"/>
+      <uui:palette primary="#57534E" accent="#78716C" secondary="#D6D3D1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="ddefadff1d0b3f2af394dda6ad31143b4944d43cb0d8b714e69cc46ed4cbda44"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M15 10H9" stroke="#57534E" data-uui-role="primary"/>
+    <path d="M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z" stroke="#78716C" data-uui-role="accent"/>
+  </g>
+</svg>

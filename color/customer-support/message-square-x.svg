@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0816-color-title uui-0816-color-desc" data-icon-id="UUI-0816" data-icon-name="message-square-x" data-icon-variant="color" data-icon-category="customer-support">
+  <title id="uui-0816-color-title" xml:lang="ja">失敗メッセージ</title>
+  <desc id="uui-0816-color-desc" xml:lang="ja">「失敗メッセージ」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0816" slug="message-square-x" variant="color">
+      <uui:name xml:lang="ja">失敗メッセージ</uui:name>
+      <uui:name xml:lang="en">Message Square X</uui:name>
+      <uui:description xml:lang="ja">「失敗メッセージ」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Message Square X” in customer support contexts.</uui:description>
+      <uui:category id="customer-support" xml:lang="ja">顧客サポート</uui:category>
+      <uui:category id="customer-support" xml:lang="en">Customer support</uui:category>
+      <uui:keywords xml:lang="ja">失敗メッセージ, 顧客サポート, message, square, x</uui:keywords>
+      <uui:keywords xml:lang="en">Message Square X, Customer support, message, square, x</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/customer-support/message-square-x.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#3B82F6" secondary="#93C5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e3ea75b28742d74b00952c092f6caaccb70e6a05092a80a1b655fa56f346c910"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z" stroke="#1D4ED8" data-uui-role="primary"/>
+    <path d="m14.5 8.5-5 5" stroke="#3B82F6" data-uui-role="accent"/>
+    <path d="m9.5 8.5 5 5" stroke="#3B82F6" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0775-monochrome-title uui-0775-monochrome-desc" data-icon-id="UUI-0775" data-icon-name="circle-pound-sterling" data-icon-variant="monochrome" data-icon-category="finance-accounting">
+  <title id="uui-0775-monochrome-title" xml:lang="ja">ポンド</title>
+  <desc id="uui-0775-monochrome-desc" xml:lang="ja">「ポンド」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0775" slug="circle-pound-sterling" variant="monochrome">
+      <uui:name xml:lang="ja">ポンド</uui:name>
+      <uui:name xml:lang="en">Circle Pound Sterling</uui:name>
+      <uui:description xml:lang="ja">「ポンド」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Circle Pound Sterling” in finance and accounting contexts.</uui:description>
+      <uui:category id="finance-accounting" xml:lang="ja">財務と会計</uui:category>
+      <uui:category id="finance-accounting" xml:lang="en">Finance and accounting</uui:category>
+      <uui:keywords xml:lang="ja">ポンド, 財務と会計, circle, pound, sterling</uui:keywords>
+      <uui:keywords xml:lang="en">Circle Pound Sterling, Finance and accounting, circle, pound, sterling</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/finance-accounting/circle-pound-sterling.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="12ff85fc790d61c3dd37c1ffc26fd5cfce9fa7b508f680bc433e80a373e39db1"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="10" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M10 16V9.5a1 1 0 0 1 5 0" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M8 12h4" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M8 16h7" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

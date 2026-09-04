@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0751-monochrome-title uui-0751-monochrome-desc" data-icon-id="UUI-0751" data-icon-name="folder-root" data-icon-variant="monochrome" data-icon-category="office-documents">
+  <title id="uui-0751-monochrome-title" xml:lang="ja">ルートフォルダー</title>
+  <desc id="uui-0751-monochrome-desc" xml:lang="ja">「ルートフォルダー」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0751" slug="folder-root" variant="monochrome">
+      <uui:name xml:lang="ja">ルートフォルダー</uui:name>
+      <uui:name xml:lang="en">Folder Root</uui:name>
+      <uui:description xml:lang="ja">「ルートフォルダー」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Folder Root” in office documents contexts.</uui:description>
+      <uui:category id="office-documents" xml:lang="ja">業務文書</uui:category>
+      <uui:category id="office-documents" xml:lang="en">Office documents</uui:category>
+      <uui:keywords xml:lang="ja">ルートフォルダー, 業務文書, folder, root</uui:keywords>
+      <uui:keywords xml:lang="en">Folder Root, Office documents, folder, root</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/office-documents/folder-root.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="74c3f6dc464043d6415dbf199fc02ee1302b45c6da2024f325b88ef9ebc02742"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 20h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.93a2 2 0 0 1-1.66-.9l-.82-1.2A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2Z" stroke="currentColor" data-uui-role="primary"/>
+    <circle cx="12" cy="13" r="2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M12 15v5" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

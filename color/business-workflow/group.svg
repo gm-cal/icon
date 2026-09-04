@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0714-color-title uui-0714-color-desc" data-icon-id="UUI-0714" data-icon-name="group" data-icon-variant="color" data-icon-category="business-workflow">
+  <title id="uui-0714-color-title" xml:lang="ja">工程グループ化</title>
+  <desc id="uui-0714-color-desc" xml:lang="ja">「工程グループ化」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0714" slug="group" variant="color">
+      <uui:name xml:lang="ja">工程グループ化</uui:name>
+      <uui:name xml:lang="en">Group</uui:name>
+      <uui:description xml:lang="ja">「工程グループ化」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Group” in business workflow contexts.</uui:description>
+      <uui:category id="business-workflow" xml:lang="ja">業務フロー</uui:category>
+      <uui:category id="business-workflow" xml:lang="en">Business workflow</uui:category>
+      <uui:keywords xml:lang="ja">工程グループ化, 業務フロー, group</uui:keywords>
+      <uui:keywords xml:lang="en">Group, Business workflow, group</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/business-workflow/group.svg"/>
+      <uui:palette primary="#0F766E" accent="#14B8A6" secondary="#5EEAD4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="5d3145aae2abf11cb8a66f30f112c6a552a9be8add5b12bb64ad805b6618bc30"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M3 7V5c0-1.1.9-2 2-2h2" stroke="#0F766E" data-uui-role="primary"/>
+    <path d="M17 3h2c1.1 0 2 .9 2 2v2" stroke="#14B8A6" data-uui-role="accent"/>
+    <path d="M21 17v2c0 1.1-.9 2-2 2h-2" stroke="#5EEAD4" data-uui-role="secondary"/>
+    <path d="M7 21H5c-1.1 0-2-.9-2-2v-2" stroke="#14B8A6" data-uui-role="accent"/>
+    <rect width="7" height="5" x="7" y="7" rx="1" stroke="#5EEAD4" data-uui-role="secondary"/>
+    <rect width="7" height="5" x="10" y="12" rx="1" stroke="#14B8A6" data-uui-role="accent"/>
+  </g>
+</svg>

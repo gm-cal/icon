@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0530-monochrome-title uui-0530-monochrome-desc" data-icon-id="UUI-0530" data-icon-name="git-branch-minus" data-icon-variant="monochrome" data-icon-category="source-control">
+  <title id="uui-0530-monochrome-title" xml:lang="ja">ブランチ削除</title>
+  <desc id="uui-0530-monochrome-desc" xml:lang="ja">「ブランチ削除」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0530" slug="git-branch-minus" variant="monochrome">
+      <uui:name xml:lang="ja">ブランチ削除</uui:name>
+      <uui:name xml:lang="en">Git Branch Minus</uui:name>
+      <uui:description xml:lang="ja">「ブランチ削除」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Git Branch Minus” in source control contexts.</uui:description>
+      <uui:category id="source-control" xml:lang="ja">ソース管理</uui:category>
+      <uui:category id="source-control" xml:lang="en">Source control</uui:category>
+      <uui:keywords xml:lang="ja">ブランチ削除, ソース管理, git, branch, minus</uui:keywords>
+      <uui:keywords xml:lang="en">Git Branch Minus, Source control, git, branch, minus</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/source-control/git-branch-minus.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="b254e5a0f1ff3e034d7c3afca28198ddfc936de564d378ccc9f5602ce78bfd17"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M15 6a9 9 0 0 0-9 9V3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M21 18h-6" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="18" cy="6" r="3" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="6" cy="18" r="3" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

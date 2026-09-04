@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0646-color-title uui-0646-color-desc" data-icon-id="UUI-0646" data-icon-name="file-exclamation-point" data-icon-variant="color" data-icon-category="testing-quality">
+  <title id="uui-0646-color-title" xml:lang="ja">ファイル警告</title>
+  <desc id="uui-0646-color-desc" xml:lang="ja">「ファイル警告」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0646" slug="file-exclamation-point" variant="color">
+      <uui:name xml:lang="ja">ファイル警告</uui:name>
+      <uui:name xml:lang="en">File Exclamation Point</uui:name>
+      <uui:description xml:lang="ja">「ファイル警告」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Exclamation Point” in testing and quality contexts.</uui:description>
+      <uui:category id="testing-quality" xml:lang="ja">テストと品質</uui:category>
+      <uui:category id="testing-quality" xml:lang="en">Testing and quality</uui:category>
+      <uui:keywords xml:lang="ja">ファイル警告, テストと品質, file, exclamation, point</uui:keywords>
+      <uui:keywords xml:lang="en">File Exclamation Point, Testing and quality, file, exclamation, point</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/testing-quality/file-exclamation-point.svg"/>
+      <uui:palette primary="#4D7C0F" accent="#84CC16" secondary="#BEF264"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="ea7f00cd559ac929c7910b20cab2c40288f875bd90282a579c852cd0ebdb232e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z" stroke="#4D7C0F" data-uui-role="primary"/>
+    <path d="M12 9v4" stroke="#84CC16" data-uui-role="accent"/>
+    <path d="M12 17h.01" stroke="#84CC16" data-uui-role="accent"/>
+  </g>
+</svg>

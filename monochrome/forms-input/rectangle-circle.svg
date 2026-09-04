@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0885-monochrome-title uui-0885-monochrome-desc" data-icon-id="UUI-0885" data-icon-name="rectangle-circle" data-icon-variant="monochrome" data-icon-category="forms-input">
+  <title id="uui-0885-monochrome-title" xml:lang="ja">複合入力</title>
+  <desc id="uui-0885-monochrome-desc" xml:lang="ja">「複合入力」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0885" slug="rectangle-circle" variant="monochrome">
+      <uui:name xml:lang="ja">複合入力</uui:name>
+      <uui:name xml:lang="en">Rectangle Circle</uui:name>
+      <uui:description xml:lang="ja">「複合入力」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Rectangle Circle” in forms and input contexts.</uui:description>
+      <uui:category id="forms-input" xml:lang="ja">フォームと入力</uui:category>
+      <uui:category id="forms-input" xml:lang="en">Forms and input</uui:category>
+      <uui:keywords xml:lang="ja">複合入力, フォームと入力, rectangle, circle</uui:keywords>
+      <uui:keywords xml:lang="en">Rectangle Circle, Forms and input, rectangle, circle</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/forms-input/rectangle-circle.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="65251e0da3eacbe805297b0525a186fd2f4b01c5dd8de8d97702bcd529f058ab"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M14 4v16H3a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1z" stroke="currentColor" data-uui-role="primary"/>
+    <circle cx="14" cy="12" r="8" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

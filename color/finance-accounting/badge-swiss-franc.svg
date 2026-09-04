@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0776-color-title uui-0776-color-desc" data-icon-id="UUI-0776" data-icon-name="badge-swiss-franc" data-icon-variant="color" data-icon-category="finance-accounting">
+  <title id="uui-0776-color-title" xml:lang="ja">スイスフラン</title>
+  <desc id="uui-0776-color-desc" xml:lang="ja">「スイスフラン」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0776" slug="badge-swiss-franc" variant="color">
+      <uui:name xml:lang="ja">スイスフラン</uui:name>
+      <uui:name xml:lang="en">Badge Swiss Franc</uui:name>
+      <uui:description xml:lang="ja">「スイスフラン」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Badge Swiss Franc” in finance and accounting contexts.</uui:description>
+      <uui:category id="finance-accounting" xml:lang="ja">財務と会計</uui:category>
+      <uui:category id="finance-accounting" xml:lang="en">Finance and accounting</uui:category>
+      <uui:keywords xml:lang="ja">スイスフラン, 財務と会計, badge, swiss, franc</uui:keywords>
+      <uui:keywords xml:lang="en">Badge Swiss Franc, Finance and accounting, badge, swiss, franc</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/finance-accounting/badge-swiss-franc.svg"/>
+      <uui:palette primary="#15803D" accent="#22C55E" secondary="#86EFAC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="1440550c2e132269782fc3ee5952c81ae14bb5ed1074aa81962c6f55045d98f0"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="#15803D" data-uui-role="primary"/>
+    <path d="M11 17V8h4" stroke="#22C55E" data-uui-role="accent"/>
+    <path d="M11 12h3" stroke="#86EFAC" data-uui-role="secondary"/>
+    <path d="M9 16h4" stroke="#22C55E" data-uui-role="accent"/>
+  </g>
+</svg>

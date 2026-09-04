@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0990-color-title uui-0990-color-desc" data-icon-id="UUI-0990" data-icon-name="book-alert" data-icon-variant="color" data-icon-category="legal-compliance">
+  <title id="uui-0990-color-title" xml:lang="ja">注意規程</title>
+  <desc id="uui-0990-color-desc" xml:lang="ja">「注意規程」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0990" slug="book-alert" variant="color">
+      <uui:name xml:lang="ja">注意規程</uui:name>
+      <uui:name xml:lang="en">Book Alert</uui:name>
+      <uui:description xml:lang="ja">「注意規程」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Book Alert” in legal and compliance contexts.</uui:description>
+      <uui:category id="legal-compliance" xml:lang="ja">法務とコンプライアンス</uui:category>
+      <uui:category id="legal-compliance" xml:lang="en">Legal and compliance</uui:category>
+      <uui:keywords xml:lang="ja">注意規程, 法務とコンプライアンス, book, alert</uui:keywords>
+      <uui:keywords xml:lang="en">Book Alert, Legal and compliance, book, alert</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/legal-compliance/book-alert.svg"/>
+      <uui:palette primary="#57534E" accent="#78716C" secondary="#D6D3D1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="a5608e3b08522dc161dbe3a7ddcd9c67110d5924eb2eea14e6f8f8dd4dd3756c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 13h.01" stroke="#57534E" data-uui-role="primary"/>
+    <path d="M12 6v3" stroke="#78716C" data-uui-role="accent"/>
+    <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20" stroke="#78716C" data-uui-role="accent"/>
+  </g>
+</svg>

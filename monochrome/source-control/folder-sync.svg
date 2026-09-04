@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0548-monochrome-title uui-0548-monochrome-desc" data-icon-id="UUI-0548" data-icon-name="folder-sync" data-icon-variant="monochrome" data-icon-category="source-control">
+  <title id="uui-0548-monochrome-title" xml:lang="ja">作業ツリー同期</title>
+  <desc id="uui-0548-monochrome-desc" xml:lang="ja">「作業ツリー同期」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0548" slug="folder-sync" variant="monochrome">
+      <uui:name xml:lang="ja">作業ツリー同期</uui:name>
+      <uui:name xml:lang="en">Folder Sync</uui:name>
+      <uui:description xml:lang="ja">「作業ツリー同期」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Folder Sync” in source control contexts.</uui:description>
+      <uui:category id="source-control" xml:lang="ja">ソース管理</uui:category>
+      <uui:category id="source-control" xml:lang="en">Source control</uui:category>
+      <uui:keywords xml:lang="ja">作業ツリー同期, ソース管理, folder, sync</uui:keywords>
+      <uui:keywords xml:lang="en">Folder Sync, Source control, folder, sync</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/source-control/folder-sync.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="28b992261cf30cca2ce61da4a4d573eb6eb5768e2f2694d59b61231e5e66cb5e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M9 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v.5" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M12 10v4h4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m12 14 1.535-1.605a5 5 0 0 1 8 1.5" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M22 22v-4h-4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m22 18-1.535 1.605a5 5 0 0 1-8-1.5" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

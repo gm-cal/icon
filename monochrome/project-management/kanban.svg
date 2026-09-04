@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0679-monochrome-title uui-0679-monochrome-desc" data-icon-id="UUI-0679" data-icon-name="kanban" data-icon-variant="monochrome" data-icon-category="project-management">
+  <title id="uui-0679-monochrome-title" xml:lang="ja">カンバン</title>
+  <desc id="uui-0679-monochrome-desc" xml:lang="ja">「カンバン」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0679" slug="kanban" variant="monochrome">
+      <uui:name xml:lang="ja">カンバン</uui:name>
+      <uui:name xml:lang="en">Kanban</uui:name>
+      <uui:description xml:lang="ja">「カンバン」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Kanban” in project management contexts.</uui:description>
+      <uui:category id="project-management" xml:lang="ja">プロジェクト管理</uui:category>
+      <uui:category id="project-management" xml:lang="en">Project management</uui:category>
+      <uui:keywords xml:lang="ja">カンバン, プロジェクト管理, kanban</uui:keywords>
+      <uui:keywords xml:lang="en">Kanban, Project management, kanban</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/project-management/kanban.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="ab696f7767a491b0ba582bcc6eebbcdd55246c0508e77f4ff2eaab7827c2eb48"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M5 3v14" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M12 3v8" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M19 3v18" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

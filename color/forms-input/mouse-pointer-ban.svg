@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0895-color-title uui-0895-color-desc" data-icon-id="UUI-0895" data-icon-name="mouse-pointer-ban" data-icon-variant="color" data-icon-category="forms-input">
+  <title id="uui-0895-color-title" xml:lang="ja">選択禁止</title>
+  <desc id="uui-0895-color-desc" xml:lang="ja">「選択禁止」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0895" slug="mouse-pointer-ban" variant="color">
+      <uui:name xml:lang="ja">選択禁止</uui:name>
+      <uui:name xml:lang="en">Mouse Pointer Ban</uui:name>
+      <uui:description xml:lang="ja">「選択禁止」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Mouse Pointer Ban” in forms and input contexts.</uui:description>
+      <uui:category id="forms-input" xml:lang="ja">フォームと入力</uui:category>
+      <uui:category id="forms-input" xml:lang="en">Forms and input</uui:category>
+      <uui:keywords xml:lang="ja">選択禁止, フォームと入力, mouse, pointer, ban</uui:keywords>
+      <uui:keywords xml:lang="en">Mouse Pointer Ban, Forms and input, mouse, pointer, ban</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/forms-input/mouse-pointer-ban.svg"/>
+      <uui:palette primary="#4F46E5" accent="#818CF8" secondary="#C7D2FE"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="547200a4d2ba7cc39102b64a36f84fcf1e1280440a8ad988ece7208b72f37242"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2.034 2.681a.498.498 0 0 1 .647-.647l9 3.5a.5.5 0 0 1-.033.944L8.204 7.545a1 1 0 0 0-.66.66l-1.066 3.443a.5.5 0 0 1-.944.033z" stroke="#4F46E5" data-uui-role="primary"/>
+    <circle cx="16" cy="16" r="6" stroke="#818CF8" data-uui-role="accent"/>
+    <path d="m11.8 11.8 8.4 8.4" stroke="#818CF8" data-uui-role="accent"/>
+  </g>
+</svg>

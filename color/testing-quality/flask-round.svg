@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0632-color-title uui-0632-color-desc" data-icon-id="UUI-0632" data-icon-name="flask-round" data-icon-variant="color" data-icon-category="testing-quality">
+  <title id="uui-0632-color-title" xml:lang="ja">試験環境</title>
+  <desc id="uui-0632-color-desc" xml:lang="ja">「試験環境」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0632" slug="flask-round" variant="color">
+      <uui:name xml:lang="ja">試験環境</uui:name>
+      <uui:name xml:lang="en">Flask Round</uui:name>
+      <uui:description xml:lang="ja">「試験環境」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Flask Round” in testing and quality contexts.</uui:description>
+      <uui:category id="testing-quality" xml:lang="ja">テストと品質</uui:category>
+      <uui:category id="testing-quality" xml:lang="en">Testing and quality</uui:category>
+      <uui:keywords xml:lang="ja">試験環境, テストと品質, flask, round</uui:keywords>
+      <uui:keywords xml:lang="en">Flask Round, Testing and quality, flask, round</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/testing-quality/flask-round.svg"/>
+      <uui:palette primary="#4D7C0F" accent="#84CC16" secondary="#BEF264"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="c7647aebb90731855e3d3de4853e5406fa4305323f575ac799440b1670530c70"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 2v6.292a7 7 0 1 0 4 0V2" stroke="#4D7C0F" data-uui-role="primary"/>
+    <path d="M5 15h14" stroke="#84CC16" data-uui-role="accent"/>
+    <path d="M8.5 2h7" stroke="#84CC16" data-uui-role="accent"/>
+  </g>
+</svg>

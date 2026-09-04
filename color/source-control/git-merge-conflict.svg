@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0534-color-title uui-0534-color-desc" data-icon-id="UUI-0534" data-icon-name="git-merge-conflict" data-icon-variant="color" data-icon-category="source-control">
+  <title id="uui-0534-color-title" xml:lang="ja">マージ競合</title>
+  <desc id="uui-0534-color-desc" xml:lang="ja">「マージ競合」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0534" slug="git-merge-conflict" variant="color">
+      <uui:name xml:lang="ja">マージ競合</uui:name>
+      <uui:name xml:lang="en">Git Merge Conflict</uui:name>
+      <uui:description xml:lang="ja">「マージ競合」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Git Merge Conflict” in source control contexts.</uui:description>
+      <uui:category id="source-control" xml:lang="ja">ソース管理</uui:category>
+      <uui:category id="source-control" xml:lang="en">Source control</uui:category>
+      <uui:keywords xml:lang="ja">マージ競合, ソース管理, git, merge, conflict</uui:keywords>
+      <uui:keywords xml:lang="en">Git Merge Conflict, Source control, git, merge, conflict</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/source-control/git-merge-conflict.svg"/>
+      <uui:palette primary="#6D28D9" accent="#8B5CF6" secondary="#C4B5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4166e46356c43d216b5082dc37b0ce33de3785f6a94bd65db142c56fdc359e26"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 6h4a2 2 0 0 1 2 2v7" stroke="#6D28D9" data-uui-role="primary"/>
+    <path d="M6 12v9" stroke="#8B5CF6" data-uui-role="accent"/>
+    <path d="M9 3 3 9" stroke="#C4B5FD" data-uui-role="secondary"/>
+    <path d="M9 9 3 3" stroke="#8B5CF6" data-uui-role="accent"/>
+    <circle cx="18" cy="18" r="3" stroke="#8B5CF6" data-uui-role="accent"/>
+  </g>
+</svg>

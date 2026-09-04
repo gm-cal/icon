@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0944-monochrome-title uui-0944-monochrome-desc" data-icon-id="UUI-0944" data-icon-name="loader-pinwheel" data-icon-variant="monochrome" data-icon-category="notification-status">
+  <title id="uui-0944-monochrome-title" xml:lang="ja">継続処理中</title>
+  <desc id="uui-0944-monochrome-desc" xml:lang="ja">「継続処理中」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0944" slug="loader-pinwheel" variant="monochrome">
+      <uui:name xml:lang="ja">継続処理中</uui:name>
+      <uui:name xml:lang="en">Loader Pinwheel</uui:name>
+      <uui:description xml:lang="ja">「継続処理中」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Loader Pinwheel” in notifications and status contexts.</uui:description>
+      <uui:category id="notification-status" xml:lang="ja">通知と状態詳細</uui:category>
+      <uui:category id="notification-status" xml:lang="en">Notifications and status</uui:category>
+      <uui:keywords xml:lang="ja">継続処理中, 通知と状態詳細, loader, pinwheel</uui:keywords>
+      <uui:keywords xml:lang="en">Loader Pinwheel, Notifications and status, loader, pinwheel</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/notification-status/loader-pinwheel.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="ccb295449d7b991d7bd0a059bb1b68ea1664f8155ae48dc28ebf6e826f135e0d"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M22 12a1 1 0 0 1-10 0 1 1 0 0 0-10 0" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M7 20.7a1 1 0 1 1 5-8.7 1 1 0 1 0 5-8.6" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M7 3.3a1 1 0 1 1 5 8.6 1 1 0 1 0 5 8.6" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="12" cy="12" r="10" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

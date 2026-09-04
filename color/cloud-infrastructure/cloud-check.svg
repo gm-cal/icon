@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0606-color-title uui-0606-color-desc" data-icon-id="UUI-0606" data-icon-name="cloud-check" data-icon-variant="color" data-icon-category="cloud-infrastructure">
+  <title id="uui-0606-color-title" xml:lang="ja">クラウド正常</title>
+  <desc id="uui-0606-color-desc" xml:lang="ja">「クラウド正常」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0606" slug="cloud-check" variant="color">
+      <uui:name xml:lang="ja">クラウド正常</uui:name>
+      <uui:name xml:lang="en">Cloud Check</uui:name>
+      <uui:description xml:lang="ja">「クラウド正常」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Cloud Check” in cloud and infrastructure contexts.</uui:description>
+      <uui:category id="cloud-infrastructure" xml:lang="ja">クラウドと基盤</uui:category>
+      <uui:category id="cloud-infrastructure" xml:lang="en">Cloud and infrastructure</uui:category>
+      <uui:keywords xml:lang="ja">クラウド正常, クラウドと基盤, cloud, check</uui:keywords>
+      <uui:keywords xml:lang="en">Cloud Check, Cloud and infrastructure, cloud, check</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/cloud-infrastructure/cloud-check.svg"/>
+      <uui:palette primary="#0369A1" accent="#0EA5E9" secondary="#7DD3FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="01ad5ee2def59fed19ebdace2f166aece6cb3e66cd5c1df5c4e36cca632fd24a"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m17 15-5.5 5.5L9 18" stroke="#0369A1" data-uui-role="primary"/>
+    <path d="M5.516 16.07A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 3.501 7.327" stroke="#0EA5E9" data-uui-role="accent"/>
+  </g>
+</svg>

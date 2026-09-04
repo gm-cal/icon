@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0753-monochrome-title uui-0753-monochrome-desc" data-icon-id="UUI-0753" data-icon-name="notebook-pen" data-icon-variant="monochrome" data-icon-category="office-documents">
+  <title id="uui-0753-monochrome-title" xml:lang="ja">業務ノート</title>
+  <desc id="uui-0753-monochrome-desc" xml:lang="ja">「業務ノート」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0753" slug="notebook-pen" variant="monochrome">
+      <uui:name xml:lang="ja">業務ノート</uui:name>
+      <uui:name xml:lang="en">Notebook Pen</uui:name>
+      <uui:description xml:lang="ja">「業務ノート」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Notebook Pen” in office documents contexts.</uui:description>
+      <uui:category id="office-documents" xml:lang="ja">業務文書</uui:category>
+      <uui:category id="office-documents" xml:lang="en">Office documents</uui:category>
+      <uui:keywords xml:lang="ja">業務ノート, 業務文書, notebook, pen</uui:keywords>
+      <uui:keywords xml:lang="en">Notebook Pen, Office documents, notebook, pen</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/office-documents/notebook-pen.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="97113d82e2ab8eb2929d2aa31b60ddedb6dd04ec2cda9472baf6513fff10a3a2"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M13.4 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-7.4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M2 6h4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M2 10h4" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M2 14h4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M2 18h4" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M21.378 5.626a1 1 0 1 0-3.004-3.004l-5.01 5.012a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506z" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

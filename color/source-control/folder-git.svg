@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0540-color-title uui-0540-color-desc" data-icon-id="UUI-0540" data-icon-name="folder-git" data-icon-variant="color" data-icon-category="source-control">
+  <title id="uui-0540-color-title" xml:lang="ja">Gitフォルダー</title>
+  <desc id="uui-0540-color-desc" xml:lang="ja">「Gitフォルダー」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0540" slug="folder-git" variant="color">
+      <uui:name xml:lang="ja">Gitフォルダー</uui:name>
+      <uui:name xml:lang="en">Folder Git</uui:name>
+      <uui:description xml:lang="ja">「Gitフォルダー」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Folder Git” in source control contexts.</uui:description>
+      <uui:category id="source-control" xml:lang="ja">ソース管理</uui:category>
+      <uui:category id="source-control" xml:lang="en">Source control</uui:category>
+      <uui:keywords xml:lang="ja">Gitフォルダー, ソース管理, folder, git</uui:keywords>
+      <uui:keywords xml:lang="en">Folder Git, Source control, folder, git</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/source-control/folder-git.svg"/>
+      <uui:palette primary="#6D28D9" accent="#8B5CF6" secondary="#C4B5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="60b168ee355afac1e594bb42737c989111149b8081b40016967f0ebc08fea24b"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="13" r="2" stroke="#6D28D9" data-uui-role="primary"/>
+    <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z" stroke="#8B5CF6" data-uui-role="accent"/>
+    <path d="M14 13h3" stroke="#C4B5FD" data-uui-role="secondary"/>
+    <path d="M7 13h3" stroke="#8B5CF6" data-uui-role="accent"/>
+  </g>
+</svg>

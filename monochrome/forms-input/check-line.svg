@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0891-monochrome-title uui-0891-monochrome-desc" data-icon-id="UUI-0891" data-icon-name="check-line" data-icon-variant="monochrome" data-icon-category="forms-input">
+  <title id="uui-0891-monochrome-title" xml:lang="ja">入力確認</title>
+  <desc id="uui-0891-monochrome-desc" xml:lang="ja">「入力確認」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0891" slug="check-line" variant="monochrome">
+      <uui:name xml:lang="ja">入力確認</uui:name>
+      <uui:name xml:lang="en">Check Line</uui:name>
+      <uui:description xml:lang="ja">「入力確認」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Check Line” in forms and input contexts.</uui:description>
+      <uui:category id="forms-input" xml:lang="ja">フォームと入力</uui:category>
+      <uui:category id="forms-input" xml:lang="en">Forms and input</uui:category>
+      <uui:keywords xml:lang="ja">入力確認, フォームと入力, check, line</uui:keywords>
+      <uui:keywords xml:lang="en">Check Line, Forms and input, check, line</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/forms-input/check-line.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d5e056cecb92588d10e17b51715a23459429c2790a8b20626eabd9ba605bd3b4"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M20 4L9 15" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M21 19L3 19" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M9 15L4 10" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

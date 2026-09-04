@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0867-color-title uui-0867-color-desc" data-icon-id="UUI-0867" data-icon-name="caravan" data-icon-variant="color" data-icon-category="logistics-inventory">
+  <title id="uui-0867-color-title" xml:lang="ja">輸送車</title>
+  <desc id="uui-0867-color-desc" xml:lang="ja">「輸送車」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0867" slug="caravan" variant="color">
+      <uui:name xml:lang="ja">輸送車</uui:name>
+      <uui:name xml:lang="en">Caravan</uui:name>
+      <uui:description xml:lang="ja">「輸送車」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Caravan” in logistics and inventory contexts.</uui:description>
+      <uui:category id="logistics-inventory" xml:lang="ja">物流と在庫</uui:category>
+      <uui:category id="logistics-inventory" xml:lang="en">Logistics and inventory</uui:category>
+      <uui:keywords xml:lang="ja">輸送車, 物流と在庫, caravan</uui:keywords>
+      <uui:keywords xml:lang="en">Caravan, Logistics and inventory, caravan</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/logistics-inventory/caravan.svg"/>
+      <uui:palette primary="#92400E" accent="#D97706" secondary="#FCD34D"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="40ef100c6a3a6b71c6cc8db4cc989afabab09d0336efa414404d2c5d32ebedf0"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M18 19V9a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v8a2 2 0 0 0 2 2h2" stroke="#92400E" data-uui-role="primary"/>
+    <path d="M2 9h3a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H2" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M22 17v1a1 1 0 0 1-1 1H10v-9a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v9" stroke="#FCD34D" data-uui-role="secondary"/>
+    <circle cx="8" cy="19" r="2" stroke="#D97706" data-uui-role="accent"/>
+  </g>
+</svg>

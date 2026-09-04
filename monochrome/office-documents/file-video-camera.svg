@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0744-monochrome-title uui-0744-monochrome-desc" data-icon-id="UUI-0744" data-icon-name="file-video-camera" data-icon-variant="monochrome" data-icon-category="office-documents">
+  <title id="uui-0744-monochrome-title" xml:lang="ja">映像資料</title>
+  <desc id="uui-0744-monochrome-desc" xml:lang="ja">「映像資料」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0744" slug="file-video-camera" variant="monochrome">
+      <uui:name xml:lang="ja">映像資料</uui:name>
+      <uui:name xml:lang="en">File Video Camera</uui:name>
+      <uui:description xml:lang="ja">「映像資料」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Video Camera” in office documents contexts.</uui:description>
+      <uui:category id="office-documents" xml:lang="ja">業務文書</uui:category>
+      <uui:category id="office-documents" xml:lang="en">Office documents</uui:category>
+      <uui:keywords xml:lang="ja">映像資料, 業務文書, file, video, camera</uui:keywords>
+      <uui:keywords xml:lang="en">File Video Camera, Office documents, file, video, camera</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/office-documents/file-video-camera.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="382c2d6ace01c77d3adf9b2ec0d84cf6368b444ee83663de061678662fd26d9f"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 12V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.706.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m10 17.843 3.033-1.755a.64.64 0 0 1 .967.56v4.704a.65.65 0 0 1-.967.56L10 20.157" stroke="currentColor" data-uui-role="secondary"/>
+    <rect width="7" height="6" x="3" y="16" rx="1" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

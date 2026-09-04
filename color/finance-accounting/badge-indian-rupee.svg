@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0774-color-title uui-0774-color-desc" data-icon-id="UUI-0774" data-icon-name="badge-indian-rupee" data-icon-variant="color" data-icon-category="finance-accounting">
+  <title id="uui-0774-color-title" xml:lang="ja">ルピー金額</title>
+  <desc id="uui-0774-color-desc" xml:lang="ja">「ルピー金額」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0774" slug="badge-indian-rupee" variant="color">
+      <uui:name xml:lang="ja">ルピー金額</uui:name>
+      <uui:name xml:lang="en">Badge Indian Rupee</uui:name>
+      <uui:description xml:lang="ja">「ルピー金額」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Badge Indian Rupee” in finance and accounting contexts.</uui:description>
+      <uui:category id="finance-accounting" xml:lang="ja">財務と会計</uui:category>
+      <uui:category id="finance-accounting" xml:lang="en">Finance and accounting</uui:category>
+      <uui:keywords xml:lang="ja">ルピー金額, 財務と会計, badge, indian, rupee</uui:keywords>
+      <uui:keywords xml:lang="en">Badge Indian Rupee, Finance and accounting, badge, indian, rupee</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/finance-accounting/badge-indian-rupee.svg"/>
+      <uui:palette primary="#15803D" accent="#22C55E" secondary="#86EFAC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="77f1fd9675251560918bc709448ec832f8a671e99b64def54ee404c80dc12f83"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="#15803D" data-uui-role="primary"/>
+    <path d="M8 8h8" stroke="#22C55E" data-uui-role="accent"/>
+    <path d="M8 12h8" stroke="#86EFAC" data-uui-role="secondary"/>
+    <path d="m13 17-5-1h1a4 4 0 0 0 0-8" stroke="#22C55E" data-uui-role="accent"/>
+  </g>
+</svg>

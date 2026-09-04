@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0504-color-title uui-0504-color-desc" data-icon-id="UUI-0504" data-icon-name="file-braces" data-icon-variant="color" data-icon-category="code-editing">
+  <title id="uui-0504-color-title" xml:lang="ja">構造化コードファイル</title>
+  <desc id="uui-0504-color-desc" xml:lang="ja">「構造化コードファイル」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0504" slug="file-braces" variant="color">
+      <uui:name xml:lang="ja">構造化コードファイル</uui:name>
+      <uui:name xml:lang="en">File Braces</uui:name>
+      <uui:description xml:lang="ja">「構造化コードファイル」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Braces” in code editing contexts.</uui:description>
+      <uui:category id="code-editing" xml:lang="ja">コード編集</uui:category>
+      <uui:category id="code-editing" xml:lang="en">Code editing</uui:category>
+      <uui:keywords xml:lang="ja">構造化コードファイル, コード編集, file, braces</uui:keywords>
+      <uui:keywords xml:lang="en">File Braces, Code editing, file, braces</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/code-editing/file-braces.svg"/>
+      <uui:palette primary="#4338CA" accent="#6366F1" secondary="#A5B4FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="9282e019af7888515e85e2ef8469805c441d33a7b239c1c1bcc051a5c74490ae"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z" stroke="#4338CA" data-uui-role="primary"/>
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="#6366F1" data-uui-role="accent"/>
+    <path d="M10 12a1 1 0 0 0-1 1v1a1 1 0 0 1-1 1 1 1 0 0 1 1 1v1a1 1 0 0 0 1 1" stroke="#A5B4FC" data-uui-role="secondary"/>
+    <path d="M14 18a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1 1 1 0 0 1-1-1v-1a1 1 0 0 0-1-1" stroke="#6366F1" data-uui-role="accent"/>
+  </g>
+</svg>

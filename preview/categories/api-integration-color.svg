@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="736" viewBox="0 0 840 736">
+  <rect width="100%" height="100%" fill="#F8FAFC"/>
+  <text x="24" y="34" font-size="22" font-weight="700" fill="#0F172A">APIと連携 — カラー版</text>
+  <text x="24" y="57" font-size="12" fill="#64748B">API and integration · 25 icons</text>
+    <g transform="translate(0 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M17 17h-5c-1.09-.02-1.94.92-2.5 1.9A3 3 0 1 1 2.57 15" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M9 3.4a4 4 0 0 1 6.52.66" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="m6 17 3.1-5.8a2.5 2.5 0 0 0 .057-2.05" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="M20.3 20.3a4 4 0 0 1-2.3.7" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M18.6 13a4 4 0 0 1 3.357 3.414" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="m12 6 .6 1" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="m2 2 20 20" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">Webhook無効</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0554 · webhook-off</text>
+    </g>
+    <g transform="translate(168 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m10 9-3 3 3 3" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="m14 15 3-3-3-3" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">コードメッセージ</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0555 · message-circle-code</text>
+    </g>
+    <g transform="translate(336 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="m10 8-3 3 3 3" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="m14 14 3-3-3-3" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">APIメッセージ</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0556 · message-square-code</text>
+    </g>
+    <g transform="translate(504 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 3H4a2 2 0 0 0-2 2v16.286a.71.71 0 0 0 1.212.502l2.202-2.202A2 2 0 0 1 6.828 19H20a2 2 0 0 0 2-2v-4" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M16 3h6v6" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="m16 9 6-6" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">メッセージ共有</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0557 · message-square-share</text>
+    </g>
+    <g transform="translate(672 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M15 3h6v6" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M10 14 21 3" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">外部リンク</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0558 · external-link</text>
+    </g>
+    <g transform="translate(0 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">接続リンク</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0559 · link</text>
+    </g>
+    <g transform="translate(168 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M9 17H7A5 5 0 0 1 7 7" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M15 7h2a5 5 0 0 1 4 8" stroke="#06B6D4" data-uui-role="accent"/>
+        <line x1="8" x2="12" y1="12" y2="12" stroke="#67E8F9" data-uui-role="secondary"/>
+        <line x1="2" x2="22" y1="2" y2="22" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">接続リンク無効</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0560 · link-2-off</text>
+    </g>
+    <g transform="translate(336 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M15 7h2a5 5 0 0 1 0 10h-2m-6 0H7A5 5 0 0 1 7 7h2" stroke="#0E7490" data-uui-role="primary"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">接続解除</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0561 · unlink-2</text>
+    </g>
+    <g transform="translate(504 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M9 2v6" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M15 2v6" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M12 17v5" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="M5 8h14" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M6 11V8h12v3a6 6 0 1 1-12 0Z" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">プラグ接続</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0562 · plug-2</text>
+    </g>
+    <g transform="translate(672 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m15 20 3-3h2a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h2l3 3z" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M6 8v1" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M10 8v1" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="M14 8v1" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M18 8v1" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">Ethernetポート</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0563 · ethernet-port</text>
+    </g>
+    <g transform="translate(0 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2 12 7 2" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="m7 12 5-10" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="m12 12 5-10" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="m17 12 5-10" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M4.5 7h15" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="M12 16v6" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">アンテナ</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0564 · antenna</text>
+    </g>
+    <g transform="translate(168 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M5 16v2" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M19 16v2" stroke="#06B6D4" data-uui-role="accent"/>
+        <rect width="20" height="8" x="2" y="8" rx="2" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="M18 12h.01" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">受信機</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0565 · radio-receiver</text>
+    </g>
+    <g transform="translate(336 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 11a9 9 0 0 1 9 9" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M4 4a16 16 0 0 1 16 16" stroke="#06B6D4" data-uui-role="accent"/>
+        <circle cx="5" cy="19" r="1" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">RSSフィード</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0566 · rss</text>
+    </g>
+    <g transform="translate(504 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m13.5 6.5-3.148-3.148a1.205 1.205 0 0 0-1.704 0L6.352 5.648a1.205 1.205 0 0 0 0 1.704L9.5 10.5" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M16.5 7.5 19 5" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="m17.5 10.5 3.148 3.148a1.205 1.205 0 0 1 0 1.704l-2.296 2.296a1.205 1.205 0 0 1-1.704 0L13.5 14.5" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="M9 21a6 6 0 0 0-6-6" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M9.352 10.648a1.205 1.205 0 0 0 0 1.704l2.296 2.296a1.205 1.205 0 0 0 1.704 0l4.296-4.296a1.205 1.205 0 0 0 0-1.704l-2.296-2.296a1.205 1.205 0 0 0-1.704 0z" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">衛星</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0567 · satellite</text>
+    </g>
+    <g transform="translate(672 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3.714 3.048a.498.498 0 0 0-.683.627l2.843 7.627a2 2 0 0 1 0 1.396l-2.842 7.627a.498.498 0 0 0 .682.627l18-8.5a.5.5 0 0 0 0-.904z" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M6 12h16" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">データ送信</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0568 · send-horizontal</text>
+    </g>
+    <g transform="translate(0 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 2v13" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="m16 6-4-4-4 4" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">外部共有</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0569 · share</text>
+    </g>
+    <g transform="translate(168 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M13 3H4a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-3" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M8 21h8" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M12 17v4" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="m17 8 5-5" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M17 3h5v5" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">画面共有</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0570 · screen-share</text>
+    </g>
+    <g transform="translate(336 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M13 3H4a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-3" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M8 21h8" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M12 17v4" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="m22 3-5 5" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="m17 3 5 5" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">画面共有停止</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0571 · screen-share-off</text>
+    </g>
+    <g transform="translate(504 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m18 14 4 4-4 4" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="m18 2 4 4-4 4" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M2 18h1.973a4 4 0 0 0 3.3-1.7l5.454-8.6a4 4 0 0 1 3.3-1.7H22" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="M2 6h1.972a4 4 0 0 1 3.6 2.2" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M22 18h-6.041a4 4 0 0 1-3.3-1.8l-.359-.45" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">経路入替</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0572 · shuffle</text>
+    </g>
+    <g transform="translate(672 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m17 2 4 4-4 4" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M3 11v-1a4 4 0 0 1 4-4h14" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="m7 22-4-4 4-4" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="M21 13v1a4 4 0 0 1-4 4H3" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">繰り返し連携</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0573 · repeat</text>
+    </g>
+    <g transform="translate(0 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m17 2 4 4-4 4" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M3 11v-1a4 4 0 0 1 4-4h14" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="m7 22-4-4 4-4" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="M21 13v1a4 4 0 0 1-4 4H3" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M11 10h1v4" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">単一連携の繰り返し</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0574 · repeat-1</text>
+    </g>
+    <g transform="translate(168 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="6" cy="19" r="3" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M9 19h8.5c.4 0 .9-.1 1.3-.2" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M5.2 5.2A3.5 3.53 0 0 0 6.5 12H12" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="m2 2 20 20" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M21 15.3a3.5 3.5 0 0 0-3.3-3.3" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="M15 5h-4.3" stroke="#06B6D4" data-uui-role="accent"/>
+        <circle cx="18" cy="5" r="3" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">経路無効</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0575 · route-off</text>
+    </g>
+    <g transform="translate(336 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M8 3 4 7l4 4" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M4 7h16" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="m16 21 4-4-4-4" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="M20 17H4" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">双方向通信</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0576 · arrow-left-right</text>
+    </g>
+    <g transform="translate(504 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m3 16 4 4 4-4" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M7 20V4" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="m21 8-4-4-4 4" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="M17 4v16" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">送受信</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0577 · arrow-down-up</text>
+    </g>
+    <g transform="translate(672 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M13.414 13.414a2 2 0 1 1-2.828-2.828" stroke="#0E7490" data-uui-role="primary"/>
+        <path d="M16.247 7.761a6 6 0 0 1 1.744 4.572" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M19.075 4.933a10 10 0 0 1 2.234 10.72" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="m2 2 20 20" stroke="#06B6D4" data-uui-role="accent"/>
+        <path d="M4.925 19.067a10 10 0 0 1 0-14.134" stroke="#67E8F9" data-uui-role="secondary"/>
+        <path d="M7.753 16.239a6 6 0 0 1 0-8.478" stroke="#06B6D4" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">無線連携無効</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0578 · radio-off</text>
+    </g>
+</svg>

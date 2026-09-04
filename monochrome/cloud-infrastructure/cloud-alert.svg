@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0607-monochrome-title uui-0607-monochrome-desc" data-icon-id="UUI-0607" data-icon-name="cloud-alert" data-icon-variant="monochrome" data-icon-category="cloud-infrastructure">
+  <title id="uui-0607-monochrome-title" xml:lang="ja">クラウド警告</title>
+  <desc id="uui-0607-monochrome-desc" xml:lang="ja">「クラウド警告」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0607" slug="cloud-alert" variant="monochrome">
+      <uui:name xml:lang="ja">クラウド警告</uui:name>
+      <uui:name xml:lang="en">Cloud Alert</uui:name>
+      <uui:description xml:lang="ja">「クラウド警告」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Cloud Alert” in cloud and infrastructure contexts.</uui:description>
+      <uui:category id="cloud-infrastructure" xml:lang="ja">クラウドと基盤</uui:category>
+      <uui:category id="cloud-infrastructure" xml:lang="en">Cloud and infrastructure</uui:category>
+      <uui:keywords xml:lang="ja">クラウド警告, クラウドと基盤, cloud, alert</uui:keywords>
+      <uui:keywords xml:lang="en">Cloud Alert, Cloud and infrastructure, cloud, alert</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/cloud-infrastructure/cloud-alert.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="efc4b83dcf132f0177ef8c1dfb4b78c2fcaa39d318785d2424985e96825e9d58"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 12v4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M12 20h.01" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M8.128 16.949A7 7 0 1 1 15.71 8h1.79a1 1 0 0 1 0 9h-1.642" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

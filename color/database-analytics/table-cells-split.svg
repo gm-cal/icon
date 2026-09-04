@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0585-color-title uui-0585-color-desc" data-icon-id="UUI-0585" data-icon-name="table-cells-split" data-icon-variant="color" data-icon-category="database-analytics">
+  <title id="uui-0585-color-title" xml:lang="ja">セル分割</title>
+  <desc id="uui-0585-color-desc" xml:lang="ja">「セル分割」を表す汎用UIアイコン。データベース詳細に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0585" slug="table-cells-split" variant="color">
+      <uui:name xml:lang="ja">セル分割</uui:name>
+      <uui:name xml:lang="en">Table Cells Split</uui:name>
+      <uui:description xml:lang="ja">「セル分割」を表す汎用UIアイコン。データベース詳細に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Table Cells Split” in database and analytics contexts.</uui:description>
+      <uui:category id="database-analytics" xml:lang="ja">データベース詳細</uui:category>
+      <uui:category id="database-analytics" xml:lang="en">Database and analytics</uui:category>
+      <uui:keywords xml:lang="ja">セル分割, データベース詳細, table, cells, split</uui:keywords>
+      <uui:keywords xml:lang="en">Table Cells Split, Database and analytics, table, cells, split</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/database-analytics/table-cells-split.svg"/>
+      <uui:palette primary="#047857" accent="#10B981" secondary="#6EE7B7"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="180c4d33b85536ceedfe0197bc0b0ded917ce567ae0377c9b2637cf54f65be74"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 15V9" stroke="#047857" data-uui-role="primary"/>
+    <path d="M3 15h18" stroke="#10B981" data-uui-role="accent"/>
+    <path d="M3 9h18" stroke="#6EE7B7" data-uui-role="secondary"/>
+    <rect width="18" height="18" x="3" y="3" rx="2" stroke="#10B981" data-uui-role="accent"/>
+  </g>
+</svg>

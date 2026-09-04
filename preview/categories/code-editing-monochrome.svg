@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="736" viewBox="0 0 840 736" color="#1F2937">
+  <rect width="100%" height="100%" fill="#F8FAFC"/>
+  <text x="24" y="34" font-size="22" font-weight="700" fill="#0F172A">コード編集 — モノクロ版</text>
+  <text x="24" y="57" font-size="12" fill="#64748B">Code editing · 25 icons</text>
+    <g transform="translate(0 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M10 12a1 1 0 0 0-1 1v1a1 1 0 0 1-1 1 1 1 0 0 1 1 1v1a1 1 0 0 0 1 1" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M14 18a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1 1 1 0 0 1-1-1v-1a1 1 0 0 0-1-1" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">構造化コードファイル</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0504 · file-braces</text>
+    </g>
+    <g transform="translate(168 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M14 22h4a2 2 0 0 0 2-2V8a2.4 2.4 0 0 0-.706-1.706l-3.588-3.588A2.4 2.4 0 0 0 14 2H6a2 2 0 0 0-2 2v6" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M5 14a1 1 0 0 0-1 1v2a1 1 0 0 1-1 1 1 1 0 0 1 1 1v2a1 1 0 0 0 1 1" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M9 22a1 1 0 0 0 1-1v-2a1 1 0 0 1 1-1 1 1 0 0 1-1-1v-2a1 1 0 0 0-1-1" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">コード定義ファイル</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0505 · file-braces-corner</text>
+    </g>
+    <g transform="translate(336 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m8 16 2-2-2-2" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M12 18h4" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">スクリプトファイル</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0506 · file-terminal</text>
+    </g>
+    <g transform="translate(504 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m7 11 2-2-2-2" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M11 13h4" stroke="currentColor" data-uui-role="accent"/>
+        <rect width="18" height="18" x="3" y="3" rx="2" ry="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ターミナルパネル</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0507 · square-terminal</text>
+    </g>
+    <g transform="translate(672 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m10 9-3 3 3 3" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m14 15 3-3-3-3" stroke="currentColor" data-uui-role="accent"/>
+        <rect x="3" y="3" width="18" height="18" rx="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">コードブロック</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0508 · square-code</text>
+    </g>
+    <g transform="translate(0 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10 9.5 8 12l2 2.5" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M14 21h1" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m14 9.5 2 2.5-2 2.5" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M5 21a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M9 21h1" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">コード挿入領域</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0509 · square-dashed-bottom-code</text>
+    </g>
+    <g transform="translate(168 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10 10.5 8 13l2 2.5" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m14 10.5 2 2.5-2 2.5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2z" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">コードフォルダー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0510 · folder-code</text>
+    </g>
+    <g transform="translate(336 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M8 21s-4-3-4-9 4-9 4-9" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M16 3s4 3 4 9-4 9-4 9" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">丸括弧</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0511 · parentheses</text>
+    </g>
+    <g transform="translate(504 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m2 16 4.039-9.69a.5.5 0 0 1 .923 0L11 16" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M22 9v7" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3.304 13h6.392" stroke="currentColor" data-uui-role="secondary"/>
+        <circle cx="18.5" cy="12.5" r="3.5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">大文字小文字を区別</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0512 · case-sensitive</text>
+    </g>
+    <g transform="translate(672 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M17 22h-1a4 4 0 0 1-4-4V6a4 4 0 0 1 4-4h1" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 22h1a4 4 0 0 0 4-4v-1" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M7 2h1a4 4 0 0 1 4 4v1" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">文字カーソル</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0513 · text-cursor</text>
+    </g>
+    <g transform="translate(0 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 20h-1a2 2 0 0 1-2-2 2 2 0 0 1-2 2H6" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M13 8h7a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-7" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M5 16H4a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2h1" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M6 4h1a2 2 0 0 1 2 2 2 2 0 0 1 2-2h1" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M9 6v12" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">文字入力</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0514 · text-cursor-input</text>
+    </g>
+    <g transform="translate(168 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M15 5h6" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M15 12h6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3 19h18" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m3 12 3.553-7.724a.5.5 0 0 1 .894 0L11 12" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3.92 10h6.16" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">先頭文字</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0515 · text-initial</text>
+    </g>
+    <g transform="translate(336 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 5H3" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M10 12H3" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M10 19H3" stroke="currentColor" data-uui-role="secondary"/>
+        <circle cx="17" cy="15" r="3" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m21 19-1.9-1.9" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">文章検索</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0516 · text-search</text>
+    </g>
+    <g transform="translate(504 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m16 16-3 3 3 3" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M3 12h14.5a1 1 0 0 1 0 7H13" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3 19h6" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M3 5h18" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">行折り返し</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0517 · text-wrap</text>
+    </g>
+    <g transform="translate(672 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M14 4a1 1 0 0 1 1-1" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M15 10a1 1 0 0 1-1-1" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M21 4a1 1 0 0 0-1-1" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M21 9a1 1 0 0 1-1 1" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m3 7 3 3 3-3" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M6 10V5a2 2 0 0 1 2-2h2" stroke="currentColor" data-uui-role="accent"/>
+        <rect x="3" y="14" width="7" height="7" rx="1" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">置換</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0518 · replace</text>
+    </g>
+    <g transform="translate(0 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M14 14a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M14 4a1 1 0 0 1 1-1" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M15 10a1 1 0 0 1-1-1" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M19 14a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M21 4a1 1 0 0 0-1-1" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M21 9a1 1 0 0 1-1 1" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m3 7 3 3 3-3" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M6 10V5a2 2 0 0 1 2-2h2" stroke="currentColor" data-uui-role="accent"/>
+        <rect x="3" y="14" width="7" height="7" rx="1" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">すべて置換</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0519 · replace-all</text>
+    </g>
+    <g transform="translate(168 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 7V5a2 2 0 0 1 2-2h2" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M17 3h2a2 2 0 0 1 2 2v2" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M21 17v2a2 2 0 0 1-2 2h-2" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M7 21H5a2 2 0 0 1-2-2v-2" stroke="currentColor" data-uui-role="accent"/>
+        <circle cx="12" cy="12" r="3" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m16 16-1.9-1.9" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">範囲検索</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0520 · scan-search</text>
+    </g>
+    <g transform="translate(336 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m13 13.5 2-2.5-2-2.5" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m21 21-4.3-4.3" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M9 8.5 7 11l2 2.5" stroke="currentColor" data-uui-role="secondary"/>
+        <circle cx="11" cy="11" r="8" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">コード検索</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0521 · search-code</text>
+    </g>
+    <g transform="translate(504 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m6 16 6-12 6 12" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M8 12h8" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M4 21c1.1 0 1.1-1 2.3-1s1.1 1 2.3 1c1.1 0 1.1-1 2.3-1 1.1 0 1.1 1 2.3 1 1.1 0 1.1-1 2.3-1 1.1 0 1.1 1 2.3 1 1.1 0 1.1-1 2.3-1" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">構文確認</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0522 · spell-check-2</text>
+    </g>
+    <g transform="translate(672 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M8 5h13" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M13 12h8" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M13 19h8" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M3 10a2 2 0 0 0 2 2h3" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3 5v12a2 2 0 0 0 2 2h3" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">構造ツリー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0523 · list-tree</text>
+    </g>
+    <g transform="translate(0 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 5h6" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M3 12h13" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3 19h13" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m16 8-3-3 3-3" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M21 19V7a2 2 0 0 0-2-2h-6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">一覧先頭</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0524 · list-start</text>
+    </g>
+    <g transform="translate(168 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 5H3" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M16 12H3" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M9 19H3" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m16 16-3 3 3 3" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M21 5v12a2 2 0 0 1-2 2h-6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">一覧末尾</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0525 · list-end</text>
+    </g>
+    <g transform="translate(336 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 5H3" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 12H3" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M7 19H3" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M12 18a5 5 0 0 0 9-3 4.5 4.5 0 0 0-4.5-4.5c-1.33 0-2.54.54-3.41 1.41L11 14" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M11 10v4h4" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">一覧再開</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0526 · list-restart</text>
+    </g>
+    <g transform="translate(504 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 5H3" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M11 12H3" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M16 19H3" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m15.5 9.5 5 5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m20.5 9.5-5 5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">一覧項目削除</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0527 · list-x</text>
+    </g>
+    <g transform="translate(672 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M11 18h2" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M12 12v6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M9 13v-.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 .5.5v.5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">型定義ファイル</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0528 · file-type</text>
+    </g>
+</svg>

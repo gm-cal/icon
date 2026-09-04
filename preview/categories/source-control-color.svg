@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="736" viewBox="0 0 840 736">
+  <rect width="100%" height="100%" fill="#F8FAFC"/>
+  <text x="24" y="34" font-size="22" font-weight="700" fill="#0F172A">ソース管理 — カラー版</text>
+  <text x="24" y="57" font-size="12" fill="#64748B">Source control · 25 icons</text>
+    <g transform="translate(0 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M6 3v12" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M18 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M6 21a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="M15 6a9 9 0 0 0-9 9" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M18 15v6" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="M21 18h-6" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ブランチ追加</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0529 · git-branch-plus</text>
+    </g>
+    <g transform="translate(168 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M15 6a9 9 0 0 0-9 9V3" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M21 18h-6" stroke="#8B5CF6" data-uui-role="accent"/>
+        <circle cx="18" cy="6" r="3" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <circle cx="6" cy="18" r="3" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ブランチ削除</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0530 · git-branch-minus</text>
+    </g>
+    <g transform="translate(336 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 3v6" stroke="#6D28D9" data-uui-role="primary"/>
+        <circle cx="12" cy="12" r="3" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M12 15v6" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">縦表示コミット</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0531 · git-commit-vertical</text>
+    </g>
+    <g transform="translate(504 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="5" cy="6" r="3" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M12 6h5a2 2 0 0 1 2 2v7" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="m15 9-3-3 3-3" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <circle cx="19" cy="18" r="3" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M12 18H7a2 2 0 0 1-2-2V9" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="m9 15 3 3-3 3" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">リビジョン比較</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0532 · git-compare-arrows</text>
+    </g>
+    <g transform="translate(672 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="5" cy="6" r="3" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M5 9v6" stroke="#8B5CF6" data-uui-role="accent"/>
+        <circle cx="5" cy="18" r="3" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="M12 3v18" stroke="#8B5CF6" data-uui-role="accent"/>
+        <circle cx="19" cy="6" r="3" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="M16 15.7A9 9 0 0 0 19 9" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">Gitグラフ</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0533 · git-graph</text>
+    </g>
+    <g transform="translate(0 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 6h4a2 2 0 0 1 2 2v7" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M6 12v9" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M9 3 3 9" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="M9 9 3 3" stroke="#8B5CF6" data-uui-role="accent"/>
+        <circle cx="18" cy="18" r="3" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">マージ競合</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0534 · git-merge-conflict</text>
+    </g>
+    <g transform="translate(168 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="5" cy="6" r="3" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M5 9v12" stroke="#8B5CF6" data-uui-role="accent"/>
+        <circle cx="19" cy="18" r="3" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="m15 9-3-3 3-3" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M12 6h5a2 2 0 0 1 2 2v7" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">プルリクエスト更新</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0535 · git-pull-request-arrow</text>
+    </g>
+    <g transform="translate(336 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="6" cy="6" r="3" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M6 9v12" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="m21 3-6 6" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="m21 9-6-6" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M18 11.5V15" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <circle cx="18" cy="18" r="3" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">終了したプルリクエスト</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0536 · git-pull-request-closed</text>
+    </g>
+    <g transform="translate(504 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="5" cy="6" r="3" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M5 9v12" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="m15 9-3-3 3-3" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="M12 6h5a2 2 0 0 1 2 2v3" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M19 15v6" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="M22 18h-6" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">派生プルリクエスト</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0537 · git-pull-request-create-arrow</text>
+    </g>
+    <g transform="translate(672 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="6" cy="6" r="3" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M6 9v12" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M13 6h3a2 2 0 0 1 2 2v3" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="M18 15v6" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M21 18h-6" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">プルリクエスト作成</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0538 · git-pull-request-create</text>
+    </g>
+    <g transform="translate(0 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="18" cy="18" r="3" stroke="#6D28D9" data-uui-role="primary"/>
+        <circle cx="6" cy="6" r="3" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M18 6V5" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="M18 11v-1" stroke="#8B5CF6" data-uui-role="accent"/>
+        <line x1="6" x2="6" y1="9" y2="21" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">下書きプルリクエスト</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0539 · git-pull-request-draft</text>
+    </g>
+    <g transform="translate(168 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="13" r="2" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M14 13h3" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="M7 13h3" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">Gitフォルダー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0540 · folder-git</text>
+    </g>
+    <g transform="translate(336 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M18 19a5 5 0 0 1-5-5v8" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M9 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v5" stroke="#8B5CF6" data-uui-role="accent"/>
+        <circle cx="13" cy="12" r="2" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <circle cx="20" cy="19" r="2" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">Git作業ツリー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0541 · folder-git-2</text>
+    </g>
+    <g transform="translate(504 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M9 10h6" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M12 13V7" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="M9 17h6" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">差分ファイル</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0542 · file-diff</text>
+    </g>
+    <g transform="translate(672 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 3v14" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M5 10h14" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M5 21h14" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">差分</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0543 · diff</text>
+    </g>
+    <g transform="translate(0 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m8 6 4-4 4 4" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M12 2v10.3a4 4 0 0 1-1.172 2.872L4 22" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="m20 22-5-5" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">変更統合</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0544 · merge</text>
+    </g>
+    <g transform="translate(168 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M10 15h4" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M10 9h4" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="M12 7v4" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">差分コメント</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0545 · message-square-diff</text>
+    </g>
+    <g transform="translate(336 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="20" height="5" x="2" y="3" rx="1" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M4 8v11a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="m9.5 17 5-5" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="m9.5 12 5 5" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">履歴破棄</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0546 · archive-x</text>
+    </g>
+    <g transform="translate(504 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 13v8" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M12 3v3" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M18.172 6a2 2 0 0 1 1.414.586l2.06 2.06a1.207 1.207 0 0 1 0 1.708l-2.06 2.06a2 2 0 0 1-1.414.586H4a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1z" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">マイルストーン</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0547 · milestone</text>
+    </g>
+    <g transform="translate(672 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M9 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v.5" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M12 10v4h4" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="m12 14 1.535-1.605a5 5 0 0 1 8 1.5" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="M22 22v-4h-4" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="m22 18-1.535 1.605a5 5 0 0 1-8-1.5" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">作業ツリー同期</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0548 · folder-sync</text>
+    </g>
+    <g transform="translate(0 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 11V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.706.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h7" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="m10 18 3-3-3-3" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ファイルリンク</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0549 · file-symlink</text>
+    </g>
+    <g transform="translate(168 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2 9.35V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h7" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="m8 16 3-3-3-3" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">フォルダーリンク</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0550 · folder-symlink</text>
+    </g>
+    <g transform="translate(336 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M14 3a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="M19 3a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="m7 15 3 3" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <path d="m7 21 3-3H5a2 2 0 0 1-2-2v-2" stroke="#8B5CF6" data-uui-role="accent"/>
+        <rect x="14" y="14" width="7" height="7" rx="1" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <rect x="3" y="3" width="7" height="7" rx="1" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">変更結合</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0551 · combine</text>
+    </g>
+    <g transform="translate(504 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m10.586 5.414-5.172 5.172" stroke="#6D28D9" data-uui-role="primary"/>
+        <path d="m18.586 13.414-5.172 5.172" stroke="#8B5CF6" data-uui-role="accent"/>
+        <path d="M6 12h12" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <circle cx="12" cy="20" r="2" stroke="#8B5CF6" data-uui-role="accent"/>
+        <circle cx="12" cy="4" r="2" stroke="#C4B5FD" data-uui-role="secondary"/>
+        <circle cx="20" cy="12" r="2" stroke="#8B5CF6" data-uui-role="accent"/>
+        <circle cx="4" cy="12" r="2" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">履歴経路</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0552 · waypoints</text>
+    </g>
+    <g transform="translate(672 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10" stroke="#6D28D9" data-uui-role="primary"/>
+        <circle cx="12" cy="12" r="1" stroke="#8B5CF6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">コミット点</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0553 · circle-dot</text>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0657-monochrome-title uui-0657-monochrome-desc" data-icon-id="UUI-0657" data-icon-name="shield-half" data-icon-variant="monochrome" data-icon-category="dev-security">
+  <title id="uui-0657-monochrome-title" xml:lang="ja">部分保護</title>
+  <desc id="uui-0657-monochrome-desc" xml:lang="ja">「部分保護」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0657" slug="shield-half" variant="monochrome">
+      <uui:name xml:lang="ja">部分保護</uui:name>
+      <uui:name xml:lang="en">Shield Half</uui:name>
+      <uui:description xml:lang="ja">「部分保護」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Shield Half” in development security contexts.</uui:description>
+      <uui:category id="dev-security" xml:lang="ja">開発セキュリティ</uui:category>
+      <uui:category id="dev-security" xml:lang="en">Development security</uui:category>
+      <uui:keywords xml:lang="ja">部分保護, 開発セキュリティ, shield, half</uui:keywords>
+      <uui:keywords xml:lang="en">Shield Half, Development security, shield, half</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/dev-security/shield-half.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="463fa1121ce8f505fd3a13bfe979149b92998aba58c74b4e34c6217bf0cef4a0"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M12 22V2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

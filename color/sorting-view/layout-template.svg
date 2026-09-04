@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0926-color-title uui-0926-color-desc" data-icon-id="UUI-0926" data-icon-name="layout-template" data-icon-variant="color" data-icon-category="sorting-view">
+  <title id="uui-0926-color-title" xml:lang="ja">テンプレート配置</title>
+  <desc id="uui-0926-color-desc" xml:lang="ja">「テンプレート配置」を表す汎用UIアイコン。並べ替えと表示に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0926" slug="layout-template" variant="color">
+      <uui:name xml:lang="ja">テンプレート配置</uui:name>
+      <uui:name xml:lang="en">Layout Template</uui:name>
+      <uui:description xml:lang="ja">「テンプレート配置」を表す汎用UIアイコン。並べ替えと表示に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Layout Template” in sorting and view contexts.</uui:description>
+      <uui:category id="sorting-view" xml:lang="ja">並べ替えと表示</uui:category>
+      <uui:category id="sorting-view" xml:lang="en">Sorting and view</uui:category>
+      <uui:keywords xml:lang="ja">テンプレート配置, 並べ替えと表示, layout, template</uui:keywords>
+      <uui:keywords xml:lang="en">Layout Template, Sorting and view, layout, template</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/sorting-view/layout-template.svg"/>
+      <uui:palette primary="#475569" accent="#64748B" secondary="#CBD5E1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="63693920f745777600cc12967e7daeecf34c3a8d13bb0babbca09ae81de495b7"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect width="18" height="7" x="3" y="3" rx="1" stroke="#475569" data-uui-role="primary"/>
+    <rect width="9" height="7" x="3" y="14" rx="1" stroke="#64748B" data-uui-role="accent"/>
+    <rect width="5" height="7" x="16" y="14" rx="1" stroke="#64748B" data-uui-role="accent"/>
+  </g>
+</svg>

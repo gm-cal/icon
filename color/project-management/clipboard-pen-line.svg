@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0693-color-title uui-0693-color-desc" data-icon-id="UUI-0693" data-icon-name="clipboard-pen-line" data-icon-variant="color" data-icon-category="project-management">
+  <title id="uui-0693-color-title" xml:lang="ja">タスク詳細編集</title>
+  <desc id="uui-0693-color-desc" xml:lang="ja">「タスク詳細編集」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0693" slug="clipboard-pen-line" variant="color">
+      <uui:name xml:lang="ja">タスク詳細編集</uui:name>
+      <uui:name xml:lang="en">Clipboard Pen Line</uui:name>
+      <uui:description xml:lang="ja">「タスク詳細編集」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Clipboard Pen Line” in project management contexts.</uui:description>
+      <uui:category id="project-management" xml:lang="ja">プロジェクト管理</uui:category>
+      <uui:category id="project-management" xml:lang="en">Project management</uui:category>
+      <uui:keywords xml:lang="ja">タスク詳細編集, プロジェクト管理, clipboard, pen, line</uui:keywords>
+      <uui:keywords xml:lang="en">Clipboard Pen Line, Project management, clipboard, pen, line</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/project-management/clipboard-pen-line.svg"/>
+      <uui:palette primary="#A16207" accent="#EAB308" secondary="#FDE047"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="2d14bd1fc2f4ea8638a2dff698f1995b7f73b883cd3edb8b91dae5a486d4ce52"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect width="8" height="4" x="8" y="2" rx="1" stroke="#A16207" data-uui-role="primary"/>
+    <path d="M8 4H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-.5" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M16 4h2a2 2 0 0 1 1.73 1" stroke="#FDE047" data-uui-role="secondary"/>
+    <path d="M8 18h1" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M21.378 12.626a1 1 0 0 0-3.004-3.004l-4.01 4.012a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506z" stroke="#EAB308" data-uui-role="accent"/>
+  </g>
+</svg>

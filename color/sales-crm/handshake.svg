@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0779-color-title uui-0779-color-desc" data-icon-id="UUI-0779" data-icon-name="handshake" data-icon-variant="color" data-icon-category="sales-crm">
+  <title id="uui-0779-color-title" xml:lang="ja">商談成立</title>
+  <desc id="uui-0779-color-desc" xml:lang="ja">「商談成立」を表す汎用UIアイコン。営業と顧客管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0779" slug="handshake" variant="color">
+      <uui:name xml:lang="ja">商談成立</uui:name>
+      <uui:name xml:lang="en">Handshake</uui:name>
+      <uui:description xml:lang="ja">「商談成立」を表す汎用UIアイコン。営業と顧客管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Handshake” in sales and crm contexts.</uui:description>
+      <uui:category id="sales-crm" xml:lang="ja">営業と顧客管理</uui:category>
+      <uui:category id="sales-crm" xml:lang="en">Sales and CRM</uui:category>
+      <uui:keywords xml:lang="ja">商談成立, 営業と顧客管理, handshake</uui:keywords>
+      <uui:keywords xml:lang="en">Handshake, Sales and CRM, handshake</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/sales-crm/handshake.svg"/>
+      <uui:palette primary="#C2410C" accent="#F97316" secondary="#FDBA74"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="5bb3b19d31bfad523d24d56dde938d64611d31f96da64877e1cdace67f644552"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m11 17 2 2a1 1 0 1 0 3-3" stroke="#C2410C" data-uui-role="primary"/>
+    <path d="m14 14 2.5 2.5a1 1 0 1 0 3-3l-3.88-3.88a3 3 0 0 0-4.24 0l-.88.88a1 1 0 1 1-3-3l2.81-2.81a5.79 5.79 0 0 1 7.06-.87l.47.28a2 2 0 0 0 1.42.25L21 4" stroke="#F97316" data-uui-role="accent"/>
+    <path d="m21 3 1 11h-2" stroke="#FDBA74" data-uui-role="secondary"/>
+    <path d="M3 3 2 14l6.5 6.5a1 1 0 1 0 3-3" stroke="#F97316" data-uui-role="accent"/>
+    <path d="M3 4h8" stroke="#F97316" data-uui-role="accent"/>
+  </g>
+</svg>

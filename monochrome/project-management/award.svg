@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0702-monochrome-title uui-0702-monochrome-desc" data-icon-id="UUI-0702" data-icon-name="award" data-icon-variant="monochrome" data-icon-category="project-management">
+  <title id="uui-0702-monochrome-title" xml:lang="ja">表彰</title>
+  <desc id="uui-0702-monochrome-desc" xml:lang="ja">「表彰」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0702" slug="award" variant="monochrome">
+      <uui:name xml:lang="ja">表彰</uui:name>
+      <uui:name xml:lang="en">Award</uui:name>
+      <uui:description xml:lang="ja">「表彰」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Award” in project management contexts.</uui:description>
+      <uui:category id="project-management" xml:lang="ja">プロジェクト管理</uui:category>
+      <uui:category id="project-management" xml:lang="en">Project management</uui:category>
+      <uui:keywords xml:lang="ja">表彰, プロジェクト管理, award</uui:keywords>
+      <uui:keywords xml:lang="en">Award, Project management, award</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/project-management/award.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="5a3ce7cd6358bb271cc862828634163c7c493926f4fb21b7951727a8520c9282"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m15.477 12.89 1.515 8.526a.5.5 0 0 1-.81.47l-3.58-2.687a1 1 0 0 0-1.197 0l-3.586 2.686a.5.5 0 0 1-.81-.469l1.514-8.526" stroke="currentColor" data-uui-role="primary"/>
+    <circle cx="12" cy="8" r="6" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

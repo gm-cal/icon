@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0634-color-title uui-0634-color-desc" data-icon-id="UUI-0634" data-icon-name="test-tubes" data-icon-variant="color" data-icon-category="testing-quality">
+  <title id="uui-0634-color-title" xml:lang="ja">複数試験</title>
+  <desc id="uui-0634-color-desc" xml:lang="ja">「複数試験」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0634" slug="test-tubes" variant="color">
+      <uui:name xml:lang="ja">複数試験</uui:name>
+      <uui:name xml:lang="en">Test Tubes</uui:name>
+      <uui:description xml:lang="ja">「複数試験」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Test Tubes” in testing and quality contexts.</uui:description>
+      <uui:category id="testing-quality" xml:lang="ja">テストと品質</uui:category>
+      <uui:category id="testing-quality" xml:lang="en">Testing and quality</uui:category>
+      <uui:keywords xml:lang="ja">複数試験, テストと品質, test, tubes</uui:keywords>
+      <uui:keywords xml:lang="en">Test Tubes, Testing and quality, test, tubes</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/testing-quality/test-tubes.svg"/>
+      <uui:palette primary="#4D7C0F" accent="#84CC16" secondary="#BEF264"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="b42d5307a3c43bb8c441626c6a0e0ca808d260ace96503965c1dc16738ee9d0e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M9 2v17.5A2.5 2.5 0 0 1 6.5 22A2.5 2.5 0 0 1 4 19.5V2" stroke="#4D7C0F" data-uui-role="primary"/>
+    <path d="M20 2v17.5a2.5 2.5 0 0 1-2.5 2.5a2.5 2.5 0 0 1-2.5-2.5V2" stroke="#84CC16" data-uui-role="accent"/>
+    <path d="M3 2h7" stroke="#BEF264" data-uui-role="secondary"/>
+    <path d="M14 2h7" stroke="#84CC16" data-uui-role="accent"/>
+    <path d="M9 16H4" stroke="#BEF264" data-uui-role="secondary"/>
+    <path d="M20 16h-5" stroke="#84CC16" data-uui-role="accent"/>
+  </g>
+</svg>

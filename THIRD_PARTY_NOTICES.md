@@ -1,6 +1,6 @@
 # Third-party notices
 
-The icon geometry in this distribution is derived from Lucide Icons 1.8.0 and has been reorganized, recolored, paired, named, and supplied with additional metadata for Universal UI Icons 500.
+The icon geometry in this distribution is derived from Lucide Icons 1.8.0 and has been reorganized, recolored, paired, named, and supplied with additional metadata for Universal UI Icons 1000.
 
 Lucide is distributed under the ISC license. Some Lucide icons are derived from Feather Icons and are distributed under the MIT license. The complete notices and license texts supplied by Lucide are included in `licenses/LUCIDE-LICENSE.txt`.
 

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0918-color-title uui-0918-color-desc" data-icon-id="UUI-0918" data-icon-name="funnel-x" data-icon-variant="color" data-icon-category="sorting-view">
+  <title id="uui-0918-color-title" xml:lang="ja">絞り込み解除</title>
+  <desc id="uui-0918-color-desc" xml:lang="ja">「絞り込み解除」を表す汎用UIアイコン。並べ替えと表示に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0918" slug="funnel-x" variant="color">
+      <uui:name xml:lang="ja">絞り込み解除</uui:name>
+      <uui:name xml:lang="en">Funnel X</uui:name>
+      <uui:description xml:lang="ja">「絞り込み解除」を表す汎用UIアイコン。並べ替えと表示に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Funnel X” in sorting and view contexts.</uui:description>
+      <uui:category id="sorting-view" xml:lang="ja">並べ替えと表示</uui:category>
+      <uui:category id="sorting-view" xml:lang="en">Sorting and view</uui:category>
+      <uui:keywords xml:lang="ja">絞り込み解除, 並べ替えと表示, funnel, x</uui:keywords>
+      <uui:keywords xml:lang="en">Funnel X, Sorting and view, funnel, x</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/sorting-view/funnel-x.svg"/>
+      <uui:palette primary="#475569" accent="#64748B" secondary="#CBD5E1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="8d831cba2eeb1e1256c5c1d134c105969f4037d63f1215e0dd8d5b8b7e2e6d19"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12.531 3H3a1 1 0 0 0-.742 1.67l7.225 7.989A2 2 0 0 1 10 14v6a1 1 0 0 0 .553.895l2 1A1 1 0 0 0 14 21v-7a2 2 0 0 1 .517-1.341l.427-.473" stroke="#475569" data-uui-role="primary"/>
+    <path d="m16.5 3.5 5 5" stroke="#64748B" data-uui-role="accent"/>
+    <path d="m21.5 3.5-5 5" stroke="#64748B" data-uui-role="accent"/>
+  </g>
+</svg>

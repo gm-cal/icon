@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0894-monochrome-title uui-0894-monochrome-desc" data-icon-id="UUI-0894" data-icon-name="mouse-pointer-2-off" data-icon-variant="monochrome" data-icon-category="forms-input">
+  <title id="uui-0894-monochrome-title" xml:lang="ja">ポインター無効</title>
+  <desc id="uui-0894-monochrome-desc" xml:lang="ja">「ポインター無効」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0894" slug="mouse-pointer-2-off" variant="monochrome">
+      <uui:name xml:lang="ja">ポインター無効</uui:name>
+      <uui:name xml:lang="en">Mouse Pointer 2 Off</uui:name>
+      <uui:description xml:lang="ja">「ポインター無効」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Mouse Pointer 2 Off” in forms and input contexts.</uui:description>
+      <uui:category id="forms-input" xml:lang="ja">フォームと入力</uui:category>
+      <uui:category id="forms-input" xml:lang="en">Forms and input</uui:category>
+      <uui:keywords xml:lang="ja">ポインター無効, フォームと入力, mouse, pointer, 2, off</uui:keywords>
+      <uui:keywords xml:lang="en">Mouse Pointer 2 Off, Forms and input, mouse, pointer, 2, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/forms-input/mouse-pointer-2-off.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="ec1bb1b4b8f2e2e2838d1ff7f6690c539dc50bb8cb62b490a0b5c4ebf18fee76"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m15.55 8.45 5.138 2.087a.5.5 0 0 1-.063.947l-6.124 1.58a2 2 0 0 0-1.438 1.435l-1.579 6.126a.5.5 0 0 1-.947.063L8.45 15.551" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M22 2 2 22" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m6.816 11.528-2.779-6.84a.495.495 0 0 1 .651-.651l6.84 2.779" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

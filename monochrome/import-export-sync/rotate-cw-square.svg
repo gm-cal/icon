@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0976-monochrome-title uui-0976-monochrome-desc" data-icon-id="UUI-0976" data-icon-name="rotate-cw-square" data-icon-variant="monochrome" data-icon-category="import-export-sync">
+  <title id="uui-0976-monochrome-title" xml:lang="ja">時計回り同期</title>
+  <desc id="uui-0976-monochrome-desc" xml:lang="ja">「時計回り同期」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0976" slug="rotate-cw-square" variant="monochrome">
+      <uui:name xml:lang="ja">時計回り同期</uui:name>
+      <uui:name xml:lang="en">Rotate Cw Square</uui:name>
+      <uui:description xml:lang="ja">「時計回り同期」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Rotate Cw Square” in import, export, and sync contexts.</uui:description>
+      <uui:category id="import-export-sync" xml:lang="ja">入出力と同期</uui:category>
+      <uui:category id="import-export-sync" xml:lang="en">Import, export, and sync</uui:category>
+      <uui:keywords xml:lang="ja">時計回り同期, 入出力と同期, rotate, cw, square</uui:keywords>
+      <uui:keywords xml:lang="en">Rotate Cw Square, Import, export, and sync, rotate, cw, square</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/import-export-sync/rotate-cw-square.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4e4f85fbfa10b46fe8a8c5b29776b17246513b78b5ea6f33504d613953ad086a"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 5H6a2 2 0 0 0-2 2v3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m9 8 3-3-3-3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M4 14v4a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

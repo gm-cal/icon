@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0901-color-title uui-0901-color-desc" data-icon-id="UUI-0901" data-icon-name="decimals-arrow-left" data-icon-variant="color" data-icon-category="forms-input">
+  <title id="uui-0901-color-title" xml:lang="ja">小数桁を減らす</title>
+  <desc id="uui-0901-color-desc" xml:lang="ja">「小数桁を減らす」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0901" slug="decimals-arrow-left" variant="color">
+      <uui:name xml:lang="ja">小数桁を減らす</uui:name>
+      <uui:name xml:lang="en">Decimals Arrow Left</uui:name>
+      <uui:description xml:lang="ja">「小数桁を減らす」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Decimals Arrow Left” in forms and input contexts.</uui:description>
+      <uui:category id="forms-input" xml:lang="ja">フォームと入力</uui:category>
+      <uui:category id="forms-input" xml:lang="en">Forms and input</uui:category>
+      <uui:keywords xml:lang="ja">小数桁を減らす, フォームと入力, decimals, arrow, left</uui:keywords>
+      <uui:keywords xml:lang="en">Decimals Arrow Left, Forms and input, decimals, arrow, left</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/forms-input/decimals-arrow-left.svg"/>
+      <uui:palette primary="#4F46E5" accent="#818CF8" secondary="#C7D2FE"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="218b2f52063e04fbf042f8a5fa8f870265f8c64c4e8e189720ce3c5111dbd50c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m13 21-3-3 3-3" stroke="#4F46E5" data-uui-role="primary"/>
+    <path d="M20 18H10" stroke="#818CF8" data-uui-role="accent"/>
+    <path d="M3 11h.01" stroke="#C7D2FE" data-uui-role="secondary"/>
+    <rect x="6" y="3" width="5" height="8" rx="2.5" stroke="#818CF8" data-uui-role="accent"/>
+  </g>
+</svg>

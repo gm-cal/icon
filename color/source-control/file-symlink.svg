@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0549-color-title uui-0549-color-desc" data-icon-id="UUI-0549" data-icon-name="file-symlink" data-icon-variant="color" data-icon-category="source-control">
+  <title id="uui-0549-color-title" xml:lang="ja">ファイルリンク</title>
+  <desc id="uui-0549-color-desc" xml:lang="ja">「ファイルリンク」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0549" slug="file-symlink" variant="color">
+      <uui:name xml:lang="ja">ファイルリンク</uui:name>
+      <uui:name xml:lang="en">File Symlink</uui:name>
+      <uui:description xml:lang="ja">「ファイルリンク」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Symlink” in source control contexts.</uui:description>
+      <uui:category id="source-control" xml:lang="ja">ソース管理</uui:category>
+      <uui:category id="source-control" xml:lang="en">Source control</uui:category>
+      <uui:keywords xml:lang="ja">ファイルリンク, ソース管理, file, symlink</uui:keywords>
+      <uui:keywords xml:lang="en">File Symlink, Source control, file, symlink</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/source-control/file-symlink.svg"/>
+      <uui:palette primary="#6D28D9" accent="#8B5CF6" secondary="#C4B5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d43a4afb2eeac836bc0bc5da6a2017385d0aee36d205ea99956c3ef20c94dec7"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 11V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.706.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h7" stroke="#6D28D9" data-uui-role="primary"/>
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="#8B5CF6" data-uui-role="accent"/>
+    <path d="m10 18 3-3-3-3" stroke="#8B5CF6" data-uui-role="accent"/>
+  </g>
+</svg>

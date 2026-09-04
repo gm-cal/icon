@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0810-color-title uui-0810-color-desc" data-icon-id="UUI-0810" data-icon-name="message-circle-more" data-icon-variant="color" data-icon-category="customer-support">
+  <title id="uui-0810-color-title" xml:lang="ja">会話の続き</title>
+  <desc id="uui-0810-color-desc" xml:lang="ja">「会話の続き」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0810" slug="message-circle-more" variant="color">
+      <uui:name xml:lang="ja">会話の続き</uui:name>
+      <uui:name xml:lang="en">Message Circle More</uui:name>
+      <uui:description xml:lang="ja">「会話の続き」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Message Circle More” in customer support contexts.</uui:description>
+      <uui:category id="customer-support" xml:lang="ja">顧客サポート</uui:category>
+      <uui:category id="customer-support" xml:lang="en">Customer support</uui:category>
+      <uui:keywords xml:lang="ja">会話の続き, 顧客サポート, message, circle, more</uui:keywords>
+      <uui:keywords xml:lang="en">Message Circle More, Customer support, message, circle, more</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/customer-support/message-circle-more.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#3B82F6" secondary="#93C5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="424242f21f858bd26090ec68982fab787231f76c4bb2a0aed4f0d70c26a0ea8b"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719" stroke="#1D4ED8" data-uui-role="primary"/>
+    <path d="M8 12h.01" stroke="#3B82F6" data-uui-role="accent"/>
+    <path d="M12 12h.01" stroke="#93C5FD" data-uui-role="secondary"/>
+    <path d="M16 12h.01" stroke="#3B82F6" data-uui-role="accent"/>
+  </g>
+</svg>

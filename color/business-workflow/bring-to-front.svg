@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0712-color-title uui-0712-color-desc" data-icon-id="UUI-0712" data-icon-name="bring-to-front" data-icon-variant="color" data-icon-category="business-workflow">
+  <title id="uui-0712-color-title" xml:lang="ja">前面工程</title>
+  <desc id="uui-0712-color-desc" xml:lang="ja">「前面工程」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0712" slug="bring-to-front" variant="color">
+      <uui:name xml:lang="ja">前面工程</uui:name>
+      <uui:name xml:lang="en">Bring To Front</uui:name>
+      <uui:description xml:lang="ja">「前面工程」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Bring To Front” in business workflow contexts.</uui:description>
+      <uui:category id="business-workflow" xml:lang="ja">業務フロー</uui:category>
+      <uui:category id="business-workflow" xml:lang="en">Business workflow</uui:category>
+      <uui:keywords xml:lang="ja">前面工程, 業務フロー, bring, to, front</uui:keywords>
+      <uui:keywords xml:lang="en">Bring To Front, Business workflow, bring, to, front</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/business-workflow/bring-to-front.svg"/>
+      <uui:palette primary="#0F766E" accent="#14B8A6" secondary="#5EEAD4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="a75c6dba83a1370e726941b21685f0811cb794d90a49b6545c1cf945cc8b04fa"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect x="8" y="8" width="8" height="8" rx="2" stroke="#0F766E" data-uui-role="primary"/>
+    <path d="M4 10a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2" stroke="#14B8A6" data-uui-role="accent"/>
+    <path d="M14 20a2 2 0 0 0 2 2h4a2 2 0 0 0 2-2v-4a2 2 0 0 0-2-2" stroke="#14B8A6" data-uui-role="accent"/>
+  </g>
+</svg>

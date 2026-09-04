@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0560-color-title uui-0560-color-desc" data-icon-id="UUI-0560" data-icon-name="link-2-off" data-icon-variant="color" data-icon-category="api-integration">
+  <title id="uui-0560-color-title" xml:lang="ja">接続リンク無効</title>
+  <desc id="uui-0560-color-desc" xml:lang="ja">「接続リンク無効」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0560" slug="link-2-off" variant="color">
+      <uui:name xml:lang="ja">接続リンク無効</uui:name>
+      <uui:name xml:lang="en">Link 2 Off</uui:name>
+      <uui:description xml:lang="ja">「接続リンク無効」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Link 2 Off” in api and integration contexts.</uui:description>
+      <uui:category id="api-integration" xml:lang="ja">APIと連携</uui:category>
+      <uui:category id="api-integration" xml:lang="en">API and integration</uui:category>
+      <uui:keywords xml:lang="ja">接続リンク無効, APIと連携, link, 2, off</uui:keywords>
+      <uui:keywords xml:lang="en">Link 2 Off, API and integration, link, 2, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/api-integration/link-2-off.svg"/>
+      <uui:palette primary="#0E7490" accent="#06B6D4" secondary="#67E8F9"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="11ad291c7f1ff0b4a7b859e234fc5d95de48af179bc926e22d828a2e7027a598"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M9 17H7A5 5 0 0 1 7 7" stroke="#0E7490" data-uui-role="primary"/>
+    <path d="M15 7h2a5 5 0 0 1 4 8" stroke="#06B6D4" data-uui-role="accent"/>
+    <line x1="8" x2="12" y1="12" y2="12" stroke="#67E8F9" data-uui-role="secondary"/>
+    <line x1="2" x2="22" y1="2" y2="22" stroke="#06B6D4" data-uui-role="accent"/>
+  </g>
+</svg>

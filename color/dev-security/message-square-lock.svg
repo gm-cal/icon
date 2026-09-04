@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0669-color-title uui-0669-color-desc" data-icon-id="UUI-0669" data-icon-name="message-square-lock" data-icon-variant="color" data-icon-category="dev-security">
+  <title id="uui-0669-color-title" xml:lang="ja">暗号化メッセージ</title>
+  <desc id="uui-0669-color-desc" xml:lang="ja">「暗号化メッセージ」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0669" slug="message-square-lock" variant="color">
+      <uui:name xml:lang="ja">暗号化メッセージ</uui:name>
+      <uui:name xml:lang="en">Message Square Lock</uui:name>
+      <uui:description xml:lang="ja">「暗号化メッセージ」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Message Square Lock” in development security contexts.</uui:description>
+      <uui:category id="dev-security" xml:lang="ja">開発セキュリティ</uui:category>
+      <uui:category id="dev-security" xml:lang="en">Development security</uui:category>
+      <uui:keywords xml:lang="ja">暗号化メッセージ, 開発セキュリティ, message, square, lock</uui:keywords>
+      <uui:keywords xml:lang="en">Message Square Lock, Development security, message, square, lock</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/dev-security/message-square-lock.svg"/>
+      <uui:palette primary="#B91C1C" accent="#EF4444" secondary="#FCA5A5"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e9002021e3ebfaefe214e69cbedcaee9ef9a0d0c97d669a03a27d321e4e44dc7"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M22 8.5V5a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v16.286a.71.71 0 0 0 1.212.502l2.202-2.202A2 2 0 0 1 6.828 19H10" stroke="#B91C1C" data-uui-role="primary"/>
+    <path d="M20 15v-2a2 2 0 0 0-4 0v2" stroke="#EF4444" data-uui-role="accent"/>
+    <rect x="14" y="15" width="8" height="5" rx="1" stroke="#EF4444" data-uui-role="accent"/>
+  </g>
+</svg>

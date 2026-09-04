@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0629-color-title uui-0629-color-desc" data-icon-id="UUI-0629" data-icon-name="bug-play" data-icon-variant="color" data-icon-category="testing-quality">
+  <title id="uui-0629-color-title" xml:lang="ja">不具合再現</title>
+  <desc id="uui-0629-color-desc" xml:lang="ja">「不具合再現」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0629" slug="bug-play" variant="color">
+      <uui:name xml:lang="ja">不具合再現</uui:name>
+      <uui:name xml:lang="en">Bug Play</uui:name>
+      <uui:description xml:lang="ja">「不具合再現」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Bug Play” in testing and quality contexts.</uui:description>
+      <uui:category id="testing-quality" xml:lang="ja">テストと品質</uui:category>
+      <uui:category id="testing-quality" xml:lang="en">Testing and quality</uui:category>
+      <uui:keywords xml:lang="ja">不具合再現, テストと品質, bug, play</uui:keywords>
+      <uui:keywords xml:lang="en">Bug Play, Testing and quality, bug, play</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/testing-quality/bug-play.svg"/>
+      <uui:palette primary="#4D7C0F" accent="#84CC16" secondary="#BEF264"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="f9ea593d513b016c2561bfa88fe3a568ec69f91b1b62b86e7e929dfdd1c48a4b"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 19.655A6 6 0 0 1 6 14v-3a4 4 0 0 1 4-4h4a4 4 0 0 1 4 3.97" stroke="#4D7C0F" data-uui-role="primary"/>
+    <path d="M14 15.003a1 1 0 0 1 1.517-.859l4.997 2.997a1 1 0 0 1 0 1.718l-4.997 2.997a1 1 0 0 1-1.517-.86z" stroke="#84CC16" data-uui-role="accent"/>
+    <path d="M14.12 3.88 16 2" stroke="#BEF264" data-uui-role="secondary"/>
+    <path d="M21 5a4 4 0 0 1-3.55 3.97" stroke="#84CC16" data-uui-role="accent"/>
+    <path d="M3 21a4 4 0 0 1 3.81-4" stroke="#BEF264" data-uui-role="secondary"/>
+    <path d="M3 5a4 4 0 0 0 3.55 3.97" stroke="#84CC16" data-uui-role="accent"/>
+    <path d="M6 13H2" stroke="#BEF264" data-uui-role="secondary"/>
+    <path d="m8 2 1.88 1.88" stroke="#84CC16" data-uui-role="accent"/>
+    <path d="M9 7.13V6a3 3 0 1 1 6 0v1.13" stroke="#84CC16" data-uui-role="accent"/>
+  </g>
+</svg>

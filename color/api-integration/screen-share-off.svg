@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0571-color-title uui-0571-color-desc" data-icon-id="UUI-0571" data-icon-name="screen-share-off" data-icon-variant="color" data-icon-category="api-integration">
+  <title id="uui-0571-color-title" xml:lang="ja">画面共有停止</title>
+  <desc id="uui-0571-color-desc" xml:lang="ja">「画面共有停止」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0571" slug="screen-share-off" variant="color">
+      <uui:name xml:lang="ja">画面共有停止</uui:name>
+      <uui:name xml:lang="en">Screen Share Off</uui:name>
+      <uui:description xml:lang="ja">「画面共有停止」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Screen Share Off” in api and integration contexts.</uui:description>
+      <uui:category id="api-integration" xml:lang="ja">APIと連携</uui:category>
+      <uui:category id="api-integration" xml:lang="en">API and integration</uui:category>
+      <uui:keywords xml:lang="ja">画面共有停止, APIと連携, screen, share, off</uui:keywords>
+      <uui:keywords xml:lang="en">Screen Share Off, API and integration, screen, share, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/api-integration/screen-share-off.svg"/>
+      <uui:palette primary="#0E7490" accent="#06B6D4" secondary="#67E8F9"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="0a95d9be697dad1ef627a6fa9ef0231963e78c65b7b891837d7fbd09d4546442"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M13 3H4a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-3" stroke="#0E7490" data-uui-role="primary"/>
+    <path d="M8 21h8" stroke="#06B6D4" data-uui-role="accent"/>
+    <path d="M12 17v4" stroke="#67E8F9" data-uui-role="secondary"/>
+    <path d="m22 3-5 5" stroke="#06B6D4" data-uui-role="accent"/>
+    <path d="m17 3 5 5" stroke="#06B6D4" data-uui-role="accent"/>
+  </g>
+</svg>

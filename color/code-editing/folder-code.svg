@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0510-color-title uui-0510-color-desc" data-icon-id="UUI-0510" data-icon-name="folder-code" data-icon-variant="color" data-icon-category="code-editing">
+  <title id="uui-0510-color-title" xml:lang="ja">コードフォルダー</title>
+  <desc id="uui-0510-color-desc" xml:lang="ja">「コードフォルダー」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0510" slug="folder-code" variant="color">
+      <uui:name xml:lang="ja">コードフォルダー</uui:name>
+      <uui:name xml:lang="en">Folder Code</uui:name>
+      <uui:description xml:lang="ja">「コードフォルダー」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Folder Code” in code editing contexts.</uui:description>
+      <uui:category id="code-editing" xml:lang="ja">コード編集</uui:category>
+      <uui:category id="code-editing" xml:lang="en">Code editing</uui:category>
+      <uui:keywords xml:lang="ja">コードフォルダー, コード編集, folder, code</uui:keywords>
+      <uui:keywords xml:lang="en">Folder Code, Code editing, folder, code</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/code-editing/folder-code.svg"/>
+      <uui:palette primary="#4338CA" accent="#6366F1" secondary="#A5B4FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e2d51eb1350d8a0711743c44975d6d0fd832a7a1db7091b49a99e80aaf7c2251"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 10.5 8 13l2 2.5" stroke="#4338CA" data-uui-role="primary"/>
+    <path d="m14 10.5 2 2.5-2 2.5" stroke="#6366F1" data-uui-role="accent"/>
+    <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2z" stroke="#6366F1" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0819-monochrome-title uui-0819-monochrome-desc" data-icon-id="UUI-0819" data-icon-name="message-square-dashed" data-icon-variant="monochrome" data-icon-category="customer-support">
+  <title id="uui-0819-monochrome-title" xml:lang="ja">下書きメッセージ</title>
+  <desc id="uui-0819-monochrome-desc" xml:lang="ja">「下書きメッセージ」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0819" slug="message-square-dashed" variant="monochrome">
+      <uui:name xml:lang="ja">下書きメッセージ</uui:name>
+      <uui:name xml:lang="en">Message Square Dashed</uui:name>
+      <uui:description xml:lang="ja">「下書きメッセージ」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Message Square Dashed” in customer support contexts.</uui:description>
+      <uui:category id="customer-support" xml:lang="ja">顧客サポート</uui:category>
+      <uui:category id="customer-support" xml:lang="en">Customer support</uui:category>
+      <uui:keywords xml:lang="ja">下書きメッセージ, 顧客サポート, message, square, dashed</uui:keywords>
+      <uui:keywords xml:lang="en">Message Square Dashed, Customer support, message, square, dashed</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/customer-support/message-square-dashed.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3f778fa400cf690c86106a34e0b366f5412fd502c7860ead3f69f69c535a851c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M14 3h2" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16 19h-2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M2 12v-2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M2 16v5.286a.71.71 0 0 0 1.212.502l1.149-1.149" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M20 19a2 2 0 0 0 2-2v-1" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M22 10v2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M22 6V5a2 2 0 0 0-2-2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M4 3a2 2 0 0 0-2 2v1" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M8 19h2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M8 3h2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

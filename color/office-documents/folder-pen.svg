@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0750-color-title uui-0750-color-desc" data-icon-id="UUI-0750" data-icon-name="folder-pen" data-icon-variant="color" data-icon-category="office-documents">
+  <title id="uui-0750-color-title" xml:lang="ja">編集フォルダー</title>
+  <desc id="uui-0750-color-desc" xml:lang="ja">「編集フォルダー」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0750" slug="folder-pen" variant="color">
+      <uui:name xml:lang="ja">編集フォルダー</uui:name>
+      <uui:name xml:lang="en">Folder Pen</uui:name>
+      <uui:description xml:lang="ja">「編集フォルダー」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Folder Pen” in office documents contexts.</uui:description>
+      <uui:category id="office-documents" xml:lang="ja">業務文書</uui:category>
+      <uui:category id="office-documents" xml:lang="en">Office documents</uui:category>
+      <uui:keywords xml:lang="ja">編集フォルダー, 業務文書, folder, pen</uui:keywords>
+      <uui:keywords xml:lang="en">Folder Pen, Office documents, folder, pen</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/office-documents/folder-pen.svg"/>
+      <uui:palette primary="#7E22CE" accent="#A855F7" secondary="#D8B4FE"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="36cd11a51a723526ac2adc071f642ebb04aad0f06cf192ccbe087462af1bbc16"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2 11.5V5a2 2 0 0 1 2-2h3.9c.7 0 1.3.3 1.7.9l.8 1.2c.4.6 1 .9 1.7.9H20a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-9.5" stroke="#7E22CE" data-uui-role="primary"/>
+    <path d="M11.378 13.626a1 1 0 1 0-3.004-3.004l-5.01 5.012a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506z" stroke="#A855F7" data-uui-role="accent"/>
+  </g>
+</svg>

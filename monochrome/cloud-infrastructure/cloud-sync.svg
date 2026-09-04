@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0605-monochrome-title uui-0605-monochrome-desc" data-icon-id="UUI-0605" data-icon-name="cloud-sync" data-icon-variant="monochrome" data-icon-category="cloud-infrastructure">
+  <title id="uui-0605-monochrome-title" xml:lang="ja">クラウド同期</title>
+  <desc id="uui-0605-monochrome-desc" xml:lang="ja">「クラウド同期」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0605" slug="cloud-sync" variant="monochrome">
+      <uui:name xml:lang="ja">クラウド同期</uui:name>
+      <uui:name xml:lang="en">Cloud Sync</uui:name>
+      <uui:description xml:lang="ja">「クラウド同期」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Cloud Sync” in cloud and infrastructure contexts.</uui:description>
+      <uui:category id="cloud-infrastructure" xml:lang="ja">クラウドと基盤</uui:category>
+      <uui:category id="cloud-infrastructure" xml:lang="en">Cloud and infrastructure</uui:category>
+      <uui:keywords xml:lang="ja">クラウド同期, クラウドと基盤, cloud, sync</uui:keywords>
+      <uui:keywords xml:lang="en">Cloud Sync, Cloud and infrastructure, cloud, sync</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/cloud-infrastructure/cloud-sync.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="6fd644d11db7d5e36cac12a9e6605127d902ef9bbacddf4690d7a5420912ca13"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m17 18-1.535 1.605a5 5 0 0 1-8-1.5" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M17 22v-4h-4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M20.996 15.251A4.5 4.5 0 0 0 17.495 8h-1.79a7 7 0 1 0-12.709 5.607" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M7 10v4h4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m7 14 1.535-1.605a5 5 0 0 1 8 1.5" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0700-monochrome-title uui-0700-monochrome-desc" data-icon-id="UUI-0700" data-icon-name="flag-triangle-right" data-icon-variant="monochrome" data-icon-category="project-management">
+  <title id="uui-0700-monochrome-title" xml:lang="ja">終了地点</title>
+  <desc id="uui-0700-monochrome-desc" xml:lang="ja">「終了地点」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0700" slug="flag-triangle-right" variant="monochrome">
+      <uui:name xml:lang="ja">終了地点</uui:name>
+      <uui:name xml:lang="en">Flag Triangle Right</uui:name>
+      <uui:description xml:lang="ja">「終了地点」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Flag Triangle Right” in project management contexts.</uui:description>
+      <uui:category id="project-management" xml:lang="ja">プロジェクト管理</uui:category>
+      <uui:category id="project-management" xml:lang="en">Project management</uui:category>
+      <uui:keywords xml:lang="ja">終了地点, プロジェクト管理, flag, triangle, right</uui:keywords>
+      <uui:keywords xml:lang="en">Flag Triangle Right, Project management, flag, triangle, right</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/project-management/flag-triangle-right.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="2914fd5ede93518e29424ff4302f744e5241c774ea7db84d7847c01c252f1d89"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M6 22V2.8a.8.8 0 0 1 1.17-.71l11.38 5.69a.8.8 0 0 1 0 1.44L6 15.5" stroke="currentColor" data-uui-role="primary"/>
+  </g>
+</svg>

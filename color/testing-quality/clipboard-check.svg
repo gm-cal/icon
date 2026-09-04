@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0647-color-title uui-0647-color-desc" data-icon-id="UUI-0647" data-icon-name="clipboard-check" data-icon-variant="color" data-icon-category="testing-quality">
+  <title id="uui-0647-color-title" xml:lang="ja">試験完了</title>
+  <desc id="uui-0647-color-desc" xml:lang="ja">「試験完了」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0647" slug="clipboard-check" variant="color">
+      <uui:name xml:lang="ja">試験完了</uui:name>
+      <uui:name xml:lang="en">Clipboard Check</uui:name>
+      <uui:description xml:lang="ja">「試験完了」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Clipboard Check” in testing and quality contexts.</uui:description>
+      <uui:category id="testing-quality" xml:lang="ja">テストと品質</uui:category>
+      <uui:category id="testing-quality" xml:lang="en">Testing and quality</uui:category>
+      <uui:keywords xml:lang="ja">試験完了, テストと品質, clipboard, check</uui:keywords>
+      <uui:keywords xml:lang="en">Clipboard Check, Testing and quality, clipboard, check</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/testing-quality/clipboard-check.svg"/>
+      <uui:palette primary="#4D7C0F" accent="#84CC16" secondary="#BEF264"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="1819057640ab5dd0bcc55c7b230db629852c001cb6749458d1211e5488e1ac9a"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect width="8" height="4" x="8" y="2" rx="1" ry="1" stroke="#4D7C0F" data-uui-role="primary"/>
+    <path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2" stroke="#84CC16" data-uui-role="accent"/>
+    <path d="m9 14 2 2 4-4" stroke="#84CC16" data-uui-role="accent"/>
+  </g>
+</svg>

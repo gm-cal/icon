@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0782-monochrome-title uui-0782-monochrome-desc" data-icon-id="UUI-0782" data-icon-name="user-star" data-icon-variant="monochrome" data-icon-category="sales-crm">
+  <title id="uui-0782-monochrome-title" xml:lang="ja">重要顧客</title>
+  <desc id="uui-0782-monochrome-desc" xml:lang="ja">「重要顧客」を表す汎用UIアイコン。営業と顧客管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0782" slug="user-star" variant="monochrome">
+      <uui:name xml:lang="ja">重要顧客</uui:name>
+      <uui:name xml:lang="en">User Star</uui:name>
+      <uui:description xml:lang="ja">「重要顧客」を表す汎用UIアイコン。営業と顧客管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “User Star” in sales and crm contexts.</uui:description>
+      <uui:category id="sales-crm" xml:lang="ja">営業と顧客管理</uui:category>
+      <uui:category id="sales-crm" xml:lang="en">Sales and CRM</uui:category>
+      <uui:keywords xml:lang="ja">重要顧客, 営業と顧客管理, user, star</uui:keywords>
+      <uui:keywords xml:lang="en">User Star, Sales and CRM, user, star</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/sales-crm/user-star.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="c3735fc99c16bba217fc61d85220789909b57aa9e12daff7a590279f663d3553"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M16.051 12.616a1 1 0 0 1 1.909.024l.737 1.452a1 1 0 0 0 .737.535l1.634.256a1 1 0 0 1 .588 1.806l-1.172 1.168a1 1 0 0 0-.282.866l.259 1.613a1 1 0 0 1-1.541 1.134l-1.465-.75a1 1 0 0 0-.912 0l-1.465.75a1 1 0 0 1-1.539-1.133l.258-1.613a1 1 0 0 0-.282-.866l-1.156-1.153a1 1 0 0 1 .572-1.822l1.633-.256a1 1 0 0 0 .737-.535z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M8 15H7a4 4 0 0 0-4 4v2" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="10" cy="7" r="4" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

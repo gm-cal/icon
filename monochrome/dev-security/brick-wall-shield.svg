@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0662-monochrome-title uui-0662-monochrome-desc" data-icon-id="UUI-0662" data-icon-name="brick-wall-shield" data-icon-variant="monochrome" data-icon-category="dev-security">
+  <title id="uui-0662-monochrome-title" xml:lang="ja">防御壁</title>
+  <desc id="uui-0662-monochrome-desc" xml:lang="ja">「防御壁」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0662" slug="brick-wall-shield" variant="monochrome">
+      <uui:name xml:lang="ja">防御壁</uui:name>
+      <uui:name xml:lang="en">Brick Wall Shield</uui:name>
+      <uui:description xml:lang="ja">「防御壁」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Brick Wall Shield” in development security contexts.</uui:description>
+      <uui:category id="dev-security" xml:lang="ja">開発セキュリティ</uui:category>
+      <uui:category id="dev-security" xml:lang="en">Development security</uui:category>
+      <uui:keywords xml:lang="ja">防御壁, 開発セキュリティ, brick, wall, shield</uui:keywords>
+      <uui:keywords xml:lang="en">Brick Wall Shield, Development security, brick, wall, shield</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/dev-security/brick-wall-shield.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="11d4de15b6dd33833dec0c8ee35844753427b31f2dd083e9653b12749fadfe3c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 9v1.258" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16 3v5.46" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M21 9.118V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h5.75" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M22 17.5c0 2.499-1.75 3.749-3.83 4.474a.5.5 0 0 1-.335-.005c-2.085-.72-3.835-1.97-3.835-4.47V14a.5.5 0 0 1 .5-.499c1 0 2.25-.6 3.12-1.36a.6.6 0 0 1 .76-.001c.875.765 2.12 1.36 3.12 1.36a.5.5 0 0 1 .5.5z" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M3 15h7" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M3 9h12.142" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M8 15v6" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M8 3v6" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

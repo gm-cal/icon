@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0537-color-title uui-0537-color-desc" data-icon-id="UUI-0537" data-icon-name="git-pull-request-create-arrow" data-icon-variant="color" data-icon-category="source-control">
+  <title id="uui-0537-color-title" xml:lang="ja">派生プルリクエスト</title>
+  <desc id="uui-0537-color-desc" xml:lang="ja">「派生プルリクエスト」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0537" slug="git-pull-request-create-arrow" variant="color">
+      <uui:name xml:lang="ja">派生プルリクエスト</uui:name>
+      <uui:name xml:lang="en">Git Pull Request Create Arrow</uui:name>
+      <uui:description xml:lang="ja">「派生プルリクエスト」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Git Pull Request Create Arrow” in source control contexts.</uui:description>
+      <uui:category id="source-control" xml:lang="ja">ソース管理</uui:category>
+      <uui:category id="source-control" xml:lang="en">Source control</uui:category>
+      <uui:keywords xml:lang="ja">派生プルリクエスト, ソース管理, git, pull, request, create, arrow</uui:keywords>
+      <uui:keywords xml:lang="en">Git Pull Request Create Arrow, Source control, git, pull, request, create, arrow</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/source-control/git-pull-request-create-arrow.svg"/>
+      <uui:palette primary="#6D28D9" accent="#8B5CF6" secondary="#C4B5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="add982333adce8a97e676a7d81e1e7de553b9def5551990b252201e1d6a2eaea"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="5" cy="6" r="3" stroke="#6D28D9" data-uui-role="primary"/>
+    <path d="M5 9v12" stroke="#8B5CF6" data-uui-role="accent"/>
+    <path d="m15 9-3-3 3-3" stroke="#C4B5FD" data-uui-role="secondary"/>
+    <path d="M12 6h5a2 2 0 0 1 2 2v3" stroke="#8B5CF6" data-uui-role="accent"/>
+    <path d="M19 15v6" stroke="#C4B5FD" data-uui-role="secondary"/>
+    <path d="M22 18h-6" stroke="#8B5CF6" data-uui-role="accent"/>
+  </g>
+</svg>

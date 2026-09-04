@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0812-color-title uui-0812-color-desc" data-icon-id="UUI-0812" data-icon-name="message-circle-dashed" data-icon-variant="color" data-icon-category="customer-support">
+  <title id="uui-0812-color-title" xml:lang="ja">保留中の会話</title>
+  <desc id="uui-0812-color-desc" xml:lang="ja">「保留中の会話」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0812" slug="message-circle-dashed" variant="color">
+      <uui:name xml:lang="ja">保留中の会話</uui:name>
+      <uui:name xml:lang="en">Message Circle Dashed</uui:name>
+      <uui:description xml:lang="ja">「保留中の会話」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Message Circle Dashed” in customer support contexts.</uui:description>
+      <uui:category id="customer-support" xml:lang="ja">顧客サポート</uui:category>
+      <uui:category id="customer-support" xml:lang="en">Customer support</uui:category>
+      <uui:keywords xml:lang="ja">保留中の会話, 顧客サポート, message, circle, dashed</uui:keywords>
+      <uui:keywords xml:lang="en">Message Circle Dashed, Customer support, message, circle, dashed</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/customer-support/message-circle-dashed.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#3B82F6" secondary="#93C5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7800c24b9764fcf9eb962a4068e845afda98fbb55b68ab87db399b4564b03d94"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10.1 2.182a10 10 0 0 1 3.8 0" stroke="#1D4ED8" data-uui-role="primary"/>
+    <path d="M13.9 21.818a10 10 0 0 1-3.8 0" stroke="#3B82F6" data-uui-role="accent"/>
+    <path d="M17.609 3.72a10 10 0 0 1 2.69 2.7" stroke="#93C5FD" data-uui-role="secondary"/>
+    <path d="M2.182 13.9a10 10 0 0 1 0-3.8" stroke="#3B82F6" data-uui-role="accent"/>
+    <path d="M20.28 17.61a10 10 0 0 1-2.7 2.69" stroke="#93C5FD" data-uui-role="secondary"/>
+    <path d="M21.818 10.1a10 10 0 0 1 0 3.8" stroke="#3B82F6" data-uui-role="accent"/>
+    <path d="M3.721 6.391a10 10 0 0 1 2.7-2.69" stroke="#93C5FD" data-uui-role="secondary"/>
+    <path d="m6.163 21.117-2.906.85a1 1 0 0 1-1.236-1.169l.965-2.98" stroke="#3B82F6" data-uui-role="accent"/>
+  </g>
+</svg>

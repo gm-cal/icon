@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0641-color-title uui-0641-color-desc" data-icon-id="UUI-0641" data-icon-name="file-scan" data-icon-variant="color" data-icon-category="testing-quality">
+  <title id="uui-0641-color-title" xml:lang="ja">ファイル検査</title>
+  <desc id="uui-0641-color-desc" xml:lang="ja">「ファイル検査」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0641" slug="file-scan" variant="color">
+      <uui:name xml:lang="ja">ファイル検査</uui:name>
+      <uui:name xml:lang="en">File Scan</uui:name>
+      <uui:description xml:lang="ja">「ファイル検査」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Scan” in testing and quality contexts.</uui:description>
+      <uui:category id="testing-quality" xml:lang="ja">テストと品質</uui:category>
+      <uui:category id="testing-quality" xml:lang="en">Testing and quality</uui:category>
+      <uui:keywords xml:lang="ja">ファイル検査, テストと品質, file, scan</uui:keywords>
+      <uui:keywords xml:lang="en">File Scan, Testing and quality, file, scan</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/testing-quality/file-scan.svg"/>
+      <uui:palette primary="#4D7C0F" accent="#84CC16" secondary="#BEF264"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="b219a6dff023326f95e8550b5ebe35903d122f2ec3c620c34d61a2128f7f55e6"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M20 10V8a2.4 2.4 0 0 0-.706-1.704l-3.588-3.588A2.4 2.4 0 0 0 14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.35" stroke="#4D7C0F" data-uui-role="primary"/>
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="#84CC16" data-uui-role="accent"/>
+    <path d="M16 14a2 2 0 0 0-2 2" stroke="#BEF264" data-uui-role="secondary"/>
+    <path d="M16 22a2 2 0 0 1-2-2" stroke="#84CC16" data-uui-role="accent"/>
+    <path d="M20 14a2 2 0 0 1 2 2" stroke="#BEF264" data-uui-role="secondary"/>
+    <path d="M20 22a2 2 0 0 0 2-2" stroke="#84CC16" data-uui-role="accent"/>
+  </g>
+</svg>

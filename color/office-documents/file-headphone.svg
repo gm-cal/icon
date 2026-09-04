@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0733-color-title uui-0733-color-desc" data-icon-id="UUI-0733" data-icon-name="file-headphone" data-icon-variant="color" data-icon-category="office-documents">
+  <title id="uui-0733-color-title" xml:lang="ja">音声資料</title>
+  <desc id="uui-0733-color-desc" xml:lang="ja">「音声資料」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0733" slug="file-headphone" variant="color">
+      <uui:name xml:lang="ja">音声資料</uui:name>
+      <uui:name xml:lang="en">File Headphone</uui:name>
+      <uui:description xml:lang="ja">「音声資料」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Headphone” in office documents contexts.</uui:description>
+      <uui:category id="office-documents" xml:lang="ja">業務文書</uui:category>
+      <uui:category id="office-documents" xml:lang="en">Office documents</uui:category>
+      <uui:keywords xml:lang="ja">音声資料, 業務文書, file, headphone</uui:keywords>
+      <uui:keywords xml:lang="en">File Headphone, Office documents, file, headphone</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/office-documents/file-headphone.svg"/>
+      <uui:palette primary="#7E22CE" accent="#A855F7" secondary="#D8B4FE"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="202a5d063bf7e94078ca2464467108f8a0192b67880d4fbb4a99f2a36c0a79bb"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 6.835V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.706.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2h-.343" stroke="#7E22CE" data-uui-role="primary"/>
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="#A855F7" data-uui-role="accent"/>
+    <path d="M2 19a2 2 0 0 1 4 0v1a2 2 0 0 1-4 0v-4a6 6 0 0 1 12 0v4a2 2 0 0 1-4 0v-1a2 2 0 0 1 4 0" stroke="#A855F7" data-uui-role="accent"/>
+  </g>
+</svg>

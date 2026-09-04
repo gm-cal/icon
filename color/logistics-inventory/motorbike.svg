@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0868-color-title uui-0868-color-desc" data-icon-id="UUI-0868" data-icon-name="motorbike" data-icon-variant="color" data-icon-category="logistics-inventory">
+  <title id="uui-0868-color-title" xml:lang="ja">二輪配送</title>
+  <desc id="uui-0868-color-desc" xml:lang="ja">「二輪配送」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0868" slug="motorbike" variant="color">
+      <uui:name xml:lang="ja">二輪配送</uui:name>
+      <uui:name xml:lang="en">Motorbike</uui:name>
+      <uui:description xml:lang="ja">「二輪配送」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Motorbike” in logistics and inventory contexts.</uui:description>
+      <uui:category id="logistics-inventory" xml:lang="ja">物流と在庫</uui:category>
+      <uui:category id="logistics-inventory" xml:lang="en">Logistics and inventory</uui:category>
+      <uui:keywords xml:lang="ja">二輪配送, 物流と在庫, motorbike</uui:keywords>
+      <uui:keywords xml:lang="en">Motorbike, Logistics and inventory, motorbike</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/logistics-inventory/motorbike.svg"/>
+      <uui:palette primary="#92400E" accent="#D97706" secondary="#FCD34D"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="02e435b7fd258790a46dba982eb5438c3ff652767119a444fe618b869772566f"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m18 14-1-3" stroke="#92400E" data-uui-role="primary"/>
+    <path d="m3 9 6 2a2 2 0 0 1 2-2h2a2 2 0 0 1 1.99 1.81" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M8 17h3a1 1 0 0 0 1-1 6 6 0 0 1 6-6 1 1 0 0 0 1-1v-.75A5 5 0 0 0 17 5" stroke="#FCD34D" data-uui-role="secondary"/>
+    <circle cx="19" cy="17" r="3" stroke="#D97706" data-uui-role="accent"/>
+    <circle cx="5" cy="17" r="3" stroke="#D97706" data-uui-role="accent"/>
+  </g>
+</svg>

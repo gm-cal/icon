@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0841-monochrome-title uui-0841-monochrome-desc" data-icon-id="UUI-0841" data-icon-name="brain-circuit" data-icon-variant="monochrome" data-icon-category="hr-organization">
+  <title id="uui-0841-monochrome-title" xml:lang="ja">技術スキル</title>
+  <desc id="uui-0841-monochrome-desc" xml:lang="ja">「技術スキル」を表す汎用UIアイコン。人事・組織・研修に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0841" slug="brain-circuit" variant="monochrome">
+      <uui:name xml:lang="ja">技術スキル</uui:name>
+      <uui:name xml:lang="en">Brain Circuit</uui:name>
+      <uui:description xml:lang="ja">「技術スキル」を表す汎用UIアイコン。人事・組織・研修に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Brain Circuit” in hr, organization, and training contexts.</uui:description>
+      <uui:category id="hr-organization" xml:lang="ja">人事・組織・研修</uui:category>
+      <uui:category id="hr-organization" xml:lang="en">HR, organization, and training</uui:category>
+      <uui:keywords xml:lang="ja">技術スキル, 人事・組織・研修, brain, circuit</uui:keywords>
+      <uui:keywords xml:lang="en">Brain Circuit, HR, organization, and training, brain, circuit</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/hr-organization/brain-circuit.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="a8e0d1a87126bf06247c9192cf2b4dfca424be736438b719ca9e5f99ed49dd3e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526 5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M9 13a4.5 4.5 0 0 0 3-4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M6.003 5.125A3 3 0 0 0 6.401 6.5" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M3.477 10.896a4 4 0 0 1 .585-.396" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M6 18a4 4 0 0 1-1.967-.516" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M12 13h4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M12 18h6a2 2 0 0 1 2 2v1" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M12 8h8" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M16 8V5a2 2 0 0 1 2-2" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="16" cy="13" r=".5" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="18" cy="3" r=".5" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="20" cy="21" r=".5" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="20" cy="8" r=".5" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

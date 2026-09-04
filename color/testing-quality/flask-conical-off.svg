@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0631-color-title uui-0631-color-desc" data-icon-id="UUI-0631" data-icon-name="flask-conical-off" data-icon-variant="color" data-icon-category="testing-quality">
+  <title id="uui-0631-color-title" xml:lang="ja">試験停止</title>
+  <desc id="uui-0631-color-desc" xml:lang="ja">「試験停止」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0631" slug="flask-conical-off" variant="color">
+      <uui:name xml:lang="ja">試験停止</uui:name>
+      <uui:name xml:lang="en">Flask Conical Off</uui:name>
+      <uui:description xml:lang="ja">「試験停止」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Flask Conical Off” in testing and quality contexts.</uui:description>
+      <uui:category id="testing-quality" xml:lang="ja">テストと品質</uui:category>
+      <uui:category id="testing-quality" xml:lang="en">Testing and quality</uui:category>
+      <uui:keywords xml:lang="ja">試験停止, テストと品質, flask, conical, off</uui:keywords>
+      <uui:keywords xml:lang="en">Flask Conical Off, Testing and quality, flask, conical, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/testing-quality/flask-conical-off.svg"/>
+      <uui:palette primary="#4D7C0F" accent="#84CC16" secondary="#BEF264"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d4270307d4d8f3146bfeafe1f468ae89e277ac9f1d67941bed74dc5a99c27c88"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 2v2.343" stroke="#4D7C0F" data-uui-role="primary"/>
+    <path d="M14 2v6.343" stroke="#84CC16" data-uui-role="accent"/>
+    <path d="m2 2 20 20" stroke="#BEF264" data-uui-role="secondary"/>
+    <path d="M20 20a2 2 0 0 1-2 2H6a2 2 0 0 1-1.755-2.96l5.227-9.563" stroke="#84CC16" data-uui-role="accent"/>
+    <path d="M6.453 15H15" stroke="#BEF264" data-uui-role="secondary"/>
+    <path d="M8.5 2h7" stroke="#84CC16" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0544-monochrome-title uui-0544-monochrome-desc" data-icon-id="UUI-0544" data-icon-name="merge" data-icon-variant="monochrome" data-icon-category="source-control">
+  <title id="uui-0544-monochrome-title" xml:lang="ja">変更統合</title>
+  <desc id="uui-0544-monochrome-desc" xml:lang="ja">「変更統合」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0544" slug="merge" variant="monochrome">
+      <uui:name xml:lang="ja">変更統合</uui:name>
+      <uui:name xml:lang="en">Merge</uui:name>
+      <uui:description xml:lang="ja">「変更統合」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Merge” in source control contexts.</uui:description>
+      <uui:category id="source-control" xml:lang="ja">ソース管理</uui:category>
+      <uui:category id="source-control" xml:lang="en">Source control</uui:category>
+      <uui:keywords xml:lang="ja">変更統合, ソース管理, merge</uui:keywords>
+      <uui:keywords xml:lang="en">Merge, Source control, merge</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/source-control/merge.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="f5ffe3135325f0ae32b91078aae598f83c02fc640084b8bfbf554c60bf674338"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m8 6 4-4 4 4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M12 2v10.3a4 4 0 0 1-1.172 2.872L4 22" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m20 22-5-5" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

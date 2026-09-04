@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0747-monochrome-title uui-0747-monochrome-desc" data-icon-id="UUI-0747" data-icon-name="folder-closed" data-icon-variant="monochrome" data-icon-category="office-documents">
+  <title id="uui-0747-monochrome-title" xml:lang="ja">閉じたフォルダー</title>
+  <desc id="uui-0747-monochrome-desc" xml:lang="ja">「閉じたフォルダー」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0747" slug="folder-closed" variant="monochrome">
+      <uui:name xml:lang="ja">閉じたフォルダー</uui:name>
+      <uui:name xml:lang="en">Folder Closed</uui:name>
+      <uui:description xml:lang="ja">「閉じたフォルダー」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Folder Closed” in office documents contexts.</uui:description>
+      <uui:category id="office-documents" xml:lang="ja">業務文書</uui:category>
+      <uui:category id="office-documents" xml:lang="en">Office documents</uui:category>
+      <uui:keywords xml:lang="ja">閉じたフォルダー, 業務文書, folder, closed</uui:keywords>
+      <uui:keywords xml:lang="en">Folder Closed, Office documents, folder, closed</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/office-documents/folder-closed.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="bba05c55ca3f3f6cb46dd41632435e7ab047ee7135902059a156ffecc6d9f89c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M2 10h20" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

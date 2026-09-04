@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0860-color-title uui-0860-color-desc" data-icon-id="UUI-0860" data-icon-name="dock" data-icon-variant="color" data-icon-category="logistics-inventory">
+  <title id="uui-0860-color-title" xml:lang="ja">搬入口</title>
+  <desc id="uui-0860-color-desc" xml:lang="ja">「搬入口」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0860" slug="dock" variant="color">
+      <uui:name xml:lang="ja">搬入口</uui:name>
+      <uui:name xml:lang="en">Dock</uui:name>
+      <uui:description xml:lang="ja">「搬入口」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Dock” in logistics and inventory contexts.</uui:description>
+      <uui:category id="logistics-inventory" xml:lang="ja">物流と在庫</uui:category>
+      <uui:category id="logistics-inventory" xml:lang="en">Logistics and inventory</uui:category>
+      <uui:keywords xml:lang="ja">搬入口, 物流と在庫, dock</uui:keywords>
+      <uui:keywords xml:lang="en">Dock, Logistics and inventory, dock</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/logistics-inventory/dock.svg"/>
+      <uui:palette primary="#92400E" accent="#D97706" secondary="#FCD34D"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="90c3876fd51b39d77f25e26436f8a9e3f5cd77df39f2169ab57ab5b590d46fa3"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2 8h20" stroke="#92400E" data-uui-role="primary"/>
+    <rect width="20" height="16" x="2" y="4" rx="2" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M6 16h12" stroke="#D97706" data-uui-role="accent"/>
+  </g>
+</svg>

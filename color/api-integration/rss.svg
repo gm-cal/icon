@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0566-color-title uui-0566-color-desc" data-icon-id="UUI-0566" data-icon-name="rss" data-icon-variant="color" data-icon-category="api-integration">
+  <title id="uui-0566-color-title" xml:lang="ja">RSSフィード</title>
+  <desc id="uui-0566-color-desc" xml:lang="ja">「RSSフィード」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0566" slug="rss" variant="color">
+      <uui:name xml:lang="ja">RSSフィード</uui:name>
+      <uui:name xml:lang="en">Rss</uui:name>
+      <uui:description xml:lang="ja">「RSSフィード」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Rss” in api and integration contexts.</uui:description>
+      <uui:category id="api-integration" xml:lang="ja">APIと連携</uui:category>
+      <uui:category id="api-integration" xml:lang="en">API and integration</uui:category>
+      <uui:keywords xml:lang="ja">RSSフィード, APIと連携, rss</uui:keywords>
+      <uui:keywords xml:lang="en">Rss, API and integration, rss</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/api-integration/rss.svg"/>
+      <uui:palette primary="#0E7490" accent="#06B6D4" secondary="#67E8F9"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3a9eb348d0ee01a2bfd0c3fe2eb567ceaa3143fce0d9f45b7f0eeed25b52eb7e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 11a9 9 0 0 1 9 9" stroke="#0E7490" data-uui-role="primary"/>
+    <path d="M4 4a16 16 0 0 1 16 16" stroke="#06B6D4" data-uui-role="accent"/>
+    <circle cx="5" cy="19" r="1" stroke="#06B6D4" data-uui-role="accent"/>
+  </g>
+</svg>

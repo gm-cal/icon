@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0884-monochrome-title uui-0884-monochrome-desc" data-icon-id="UUI-0884" data-icon-name="circle-small" data-icon-variant="monochrome" data-icon-category="forms-input">
+  <title id="uui-0884-monochrome-title" xml:lang="ja">小型選択点</title>
+  <desc id="uui-0884-monochrome-desc" xml:lang="ja">「小型選択点」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0884" slug="circle-small" variant="monochrome">
+      <uui:name xml:lang="ja">小型選択点</uui:name>
+      <uui:name xml:lang="en">Circle Small</uui:name>
+      <uui:description xml:lang="ja">「小型選択点」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Circle Small” in forms and input contexts.</uui:description>
+      <uui:category id="forms-input" xml:lang="ja">フォームと入力</uui:category>
+      <uui:category id="forms-input" xml:lang="en">Forms and input</uui:category>
+      <uui:keywords xml:lang="ja">小型選択点, フォームと入力, circle, small</uui:keywords>
+      <uui:keywords xml:lang="en">Circle Small, Forms and input, circle, small</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/forms-input/circle-small.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="1ef2ccf982a2b06c33ef119ae98714470b464624399b4f6b873879350a6a070c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="6" stroke="currentColor" data-uui-role="primary"/>
+  </g>
+</svg>

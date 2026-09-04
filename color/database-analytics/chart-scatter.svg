@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0594-color-title uui-0594-color-desc" data-icon-id="UUI-0594" data-icon-name="chart-scatter" data-icon-variant="color" data-icon-category="database-analytics">
+  <title id="uui-0594-color-title" xml:lang="ja">散布図</title>
+  <desc id="uui-0594-color-desc" xml:lang="ja">「散布図」を表す汎用UIアイコン。データベース詳細に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0594" slug="chart-scatter" variant="color">
+      <uui:name xml:lang="ja">散布図</uui:name>
+      <uui:name xml:lang="en">Chart Scatter</uui:name>
+      <uui:description xml:lang="ja">「散布図」を表す汎用UIアイコン。データベース詳細に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Chart Scatter” in database and analytics contexts.</uui:description>
+      <uui:category id="database-analytics" xml:lang="ja">データベース詳細</uui:category>
+      <uui:category id="database-analytics" xml:lang="en">Database and analytics</uui:category>
+      <uui:keywords xml:lang="ja">散布図, データベース詳細, chart, scatter</uui:keywords>
+      <uui:keywords xml:lang="en">Chart Scatter, Database and analytics, chart, scatter</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/database-analytics/chart-scatter.svg"/>
+      <uui:palette primary="#047857" accent="#10B981" secondary="#6EE7B7"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="853ce2cb9ccb5bd69f103eb65dc0505677ad1b6adc56dbc2a16e207824e81bae"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="7.5" cy="7.5" r=".5" fill="currentColor" stroke="#047857" data-uui-role="primary"/>
+    <circle cx="18.5" cy="5.5" r=".5" fill="currentColor" stroke="#10B981" data-uui-role="accent"/>
+    <circle cx="11.5" cy="11.5" r=".5" fill="currentColor" stroke="#6EE7B7" data-uui-role="secondary"/>
+    <circle cx="7.5" cy="16.5" r=".5" fill="currentColor" stroke="#10B981" data-uui-role="accent"/>
+    <circle cx="17.5" cy="14.5" r=".5" fill="currentColor" stroke="#6EE7B7" data-uui-role="secondary"/>
+    <path d="M3 3v16a2 2 0 0 0 2 2h16" stroke="#10B981" data-uui-role="accent"/>
+  </g>
+</svg>

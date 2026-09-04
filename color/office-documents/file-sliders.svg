@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0741-color-title uui-0741-color-desc" data-icon-id="UUI-0741" data-icon-name="file-sliders" data-icon-variant="color" data-icon-category="office-documents">
+  <title id="uui-0741-color-title" xml:lang="ja">調整ファイル</title>
+  <desc id="uui-0741-color-desc" xml:lang="ja">「調整ファイル」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0741" slug="file-sliders" variant="color">
+      <uui:name xml:lang="ja">調整ファイル</uui:name>
+      <uui:name xml:lang="en">File Sliders</uui:name>
+      <uui:description xml:lang="ja">「調整ファイル」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Sliders” in office documents contexts.</uui:description>
+      <uui:category id="office-documents" xml:lang="ja">業務文書</uui:category>
+      <uui:category id="office-documents" xml:lang="en">Office documents</uui:category>
+      <uui:keywords xml:lang="ja">調整ファイル, 業務文書, file, sliders</uui:keywords>
+      <uui:keywords xml:lang="en">File Sliders, Office documents, file, sliders</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/office-documents/file-sliders.svg"/>
+      <uui:palette primary="#7E22CE" accent="#A855F7" secondary="#D8B4FE"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="f4ac95f941ef89aa11965c1336de5513838199dddbc136b8061baf92ee998390"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z" stroke="#7E22CE" data-uui-role="primary"/>
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="#A855F7" data-uui-role="accent"/>
+    <path d="M8 12h8" stroke="#D8B4FE" data-uui-role="secondary"/>
+    <path d="M10 11v2" stroke="#A855F7" data-uui-role="accent"/>
+    <path d="M8 17h8" stroke="#D8B4FE" data-uui-role="secondary"/>
+    <path d="M14 16v2" stroke="#A855F7" data-uui-role="accent"/>
+  </g>
+</svg>

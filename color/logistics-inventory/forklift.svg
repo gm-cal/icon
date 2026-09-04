@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0858-color-title uui-0858-color-desc" data-icon-id="UUI-0858" data-icon-name="forklift" data-icon-variant="color" data-icon-category="logistics-inventory">
+  <title id="uui-0858-color-title" xml:lang="ja">フォークリフト</title>
+  <desc id="uui-0858-color-desc" xml:lang="ja">「フォークリフト」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0858" slug="forklift" variant="color">
+      <uui:name xml:lang="ja">フォークリフト</uui:name>
+      <uui:name xml:lang="en">Forklift</uui:name>
+      <uui:description xml:lang="ja">「フォークリフト」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Forklift” in logistics and inventory contexts.</uui:description>
+      <uui:category id="logistics-inventory" xml:lang="ja">物流と在庫</uui:category>
+      <uui:category id="logistics-inventory" xml:lang="en">Logistics and inventory</uui:category>
+      <uui:keywords xml:lang="ja">フォークリフト, 物流と在庫, forklift</uui:keywords>
+      <uui:keywords xml:lang="en">Forklift, Logistics and inventory, forklift</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/logistics-inventory/forklift.svg"/>
+      <uui:palette primary="#92400E" accent="#D97706" secondary="#FCD34D"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3bd1a6cb399a56cf90de5797e74cb7d9980e6108ad157372106a42bb060ad8b6"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 12H5a2 2 0 0 0-2 2v5" stroke="#92400E" data-uui-role="primary"/>
+    <path d="M15 19h7" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M16 19V2" stroke="#FCD34D" data-uui-role="secondary"/>
+    <path d="M6 12V7a2 2 0 0 1 2-2h2.172a2 2 0 0 1 1.414.586l3.828 3.828A2 2 0 0 1 16 10.828" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M7 19h4" stroke="#FCD34D" data-uui-role="secondary"/>
+    <circle cx="13" cy="19" r="2" stroke="#D97706" data-uui-role="accent"/>
+    <circle cx="5" cy="19" r="2" stroke="#D97706" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0731-color-title uui-0731-color-desc" data-icon-id="UUI-0731" data-icon-name="file-clock" data-icon-variant="color" data-icon-category="office-documents">
+  <title id="uui-0731-color-title" xml:lang="ja">期限付きファイル</title>
+  <desc id="uui-0731-color-desc" xml:lang="ja">「期限付きファイル」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0731" slug="file-clock" variant="color">
+      <uui:name xml:lang="ja">期限付きファイル</uui:name>
+      <uui:name xml:lang="en">File Clock</uui:name>
+      <uui:description xml:lang="ja">「期限付きファイル」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Clock” in office documents contexts.</uui:description>
+      <uui:category id="office-documents" xml:lang="ja">業務文書</uui:category>
+      <uui:category id="office-documents" xml:lang="en">Office documents</uui:category>
+      <uui:keywords xml:lang="ja">期限付きファイル, 業務文書, file, clock</uui:keywords>
+      <uui:keywords xml:lang="en">File Clock, Office documents, file, clock</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/office-documents/file-clock.svg"/>
+      <uui:palette primary="#7E22CE" accent="#A855F7" secondary="#D8B4FE"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="ff77c75e289271e1361dd863c9f22a1e180b11fdbeaf1810b7df40863240079e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M16 22h2a2 2 0 0 0 2-2V8a2.4 2.4 0 0 0-.706-1.706l-3.588-3.588A2.4 2.4 0 0 0 14 2H6a2 2 0 0 0-2 2v2.85" stroke="#7E22CE" data-uui-role="primary"/>
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="#A855F7" data-uui-role="accent"/>
+    <path d="M8 14v2.2l1.6 1" stroke="#D8B4FE" data-uui-role="secondary"/>
+    <circle cx="8" cy="16" r="6" stroke="#A855F7" data-uui-role="accent"/>
+  </g>
+</svg>

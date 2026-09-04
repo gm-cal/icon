@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0547-monochrome-title uui-0547-monochrome-desc" data-icon-id="UUI-0547" data-icon-name="milestone" data-icon-variant="monochrome" data-icon-category="source-control">
+  <title id="uui-0547-monochrome-title" xml:lang="ja">マイルストーン</title>
+  <desc id="uui-0547-monochrome-desc" xml:lang="ja">「マイルストーン」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0547" slug="milestone" variant="monochrome">
+      <uui:name xml:lang="ja">マイルストーン</uui:name>
+      <uui:name xml:lang="en">Milestone</uui:name>
+      <uui:description xml:lang="ja">「マイルストーン」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Milestone” in source control contexts.</uui:description>
+      <uui:category id="source-control" xml:lang="ja">ソース管理</uui:category>
+      <uui:category id="source-control" xml:lang="en">Source control</uui:category>
+      <uui:keywords xml:lang="ja">マイルストーン, ソース管理, milestone</uui:keywords>
+      <uui:keywords xml:lang="en">Milestone, Source control, milestone</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/source-control/milestone.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="a3f9f1da8c87525468cf751ab78759c6b12427336bdb43c179b66cb8a9b7d3ae"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 13v8" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M12 3v3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M18.172 6a2 2 0 0 1 1.414.586l2.06 2.06a1.207 1.207 0 0 1 0 1.708l-2.06 2.06a2 2 0 0 1-1.414.586H4a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1z" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

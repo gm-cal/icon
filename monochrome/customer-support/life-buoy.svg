@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0804-monochrome-title uui-0804-monochrome-desc" data-icon-id="UUI-0804" data-icon-name="life-buoy" data-icon-variant="monochrome" data-icon-category="customer-support">
+  <title id="uui-0804-monochrome-title" xml:lang="ja">サポート窓口</title>
+  <desc id="uui-0804-monochrome-desc" xml:lang="ja">「サポート窓口」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0804" slug="life-buoy" variant="monochrome">
+      <uui:name xml:lang="ja">サポート窓口</uui:name>
+      <uui:name xml:lang="en">Life Buoy</uui:name>
+      <uui:description xml:lang="ja">「サポート窓口」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Life Buoy” in customer support contexts.</uui:description>
+      <uui:category id="customer-support" xml:lang="ja">顧客サポート</uui:category>
+      <uui:category id="customer-support" xml:lang="en">Customer support</uui:category>
+      <uui:keywords xml:lang="ja">サポート窓口, 顧客サポート, life, buoy</uui:keywords>
+      <uui:keywords xml:lang="en">Life Buoy, Customer support, life, buoy</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/customer-support/life-buoy.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="2b0465a6d4386e9210258376e7b444cbbc91c2adf972736b319445cf70c5be43"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="10" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m4.93 4.93 4.24 4.24" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m14.83 9.17 4.24-4.24" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m14.83 14.83 4.24 4.24" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m9.17 14.83-4.24 4.24" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="12" cy="12" r="4" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0805-color-title uui-0805-color-desc" data-icon-id="UUI-0805" data-icon-name="bot-message-square" data-icon-variant="color" data-icon-category="customer-support">
+  <title id="uui-0805-color-title" xml:lang="ja">自動応答</title>
+  <desc id="uui-0805-color-desc" xml:lang="ja">「自動応答」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0805" slug="bot-message-square" variant="color">
+      <uui:name xml:lang="ja">自動応答</uui:name>
+      <uui:name xml:lang="en">Bot Message Square</uui:name>
+      <uui:description xml:lang="ja">「自動応答」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Bot Message Square” in customer support contexts.</uui:description>
+      <uui:category id="customer-support" xml:lang="ja">顧客サポート</uui:category>
+      <uui:category id="customer-support" xml:lang="en">Customer support</uui:category>
+      <uui:keywords xml:lang="ja">自動応答, 顧客サポート, bot, message, square</uui:keywords>
+      <uui:keywords xml:lang="en">Bot Message Square, Customer support, bot, message, square</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/customer-support/bot-message-square.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#3B82F6" secondary="#93C5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="dfa8736cb9d433b939a969bd32944c3ad25d8ca2af16f47741be002c0f930d12"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 6V2H8" stroke="#1D4ED8" data-uui-role="primary"/>
+    <path d="M15 11v2" stroke="#3B82F6" data-uui-role="accent"/>
+    <path d="M2 12h2" stroke="#93C5FD" data-uui-role="secondary"/>
+    <path d="M20 12h2" stroke="#3B82F6" data-uui-role="accent"/>
+    <path d="M20 16a2 2 0 0 1-2 2H8.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 4 20.286V8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2z" stroke="#93C5FD" data-uui-role="secondary"/>
+    <path d="M9 11v2" stroke="#3B82F6" data-uui-role="accent"/>
+  </g>
+</svg>

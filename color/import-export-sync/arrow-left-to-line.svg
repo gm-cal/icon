@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0965-color-title uui-0965-color-desc" data-icon-id="UUI-0965" data-icon-name="arrow-left-to-line" data-icon-variant="color" data-icon-category="import-export-sync">
+  <title id="uui-0965-color-title" xml:lang="ja">左の境界へ</title>
+  <desc id="uui-0965-color-desc" xml:lang="ja">「左の境界へ」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0965" slug="arrow-left-to-line" variant="color">
+      <uui:name xml:lang="ja">左の境界へ</uui:name>
+      <uui:name xml:lang="en">Arrow Left To Line</uui:name>
+      <uui:description xml:lang="ja">「左の境界へ」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Arrow Left To Line” in import, export, and sync contexts.</uui:description>
+      <uui:category id="import-export-sync" xml:lang="ja">入出力と同期</uui:category>
+      <uui:category id="import-export-sync" xml:lang="en">Import, export, and sync</uui:category>
+      <uui:keywords xml:lang="ja">左の境界へ, 入出力と同期, arrow, left, to, line</uui:keywords>
+      <uui:keywords xml:lang="en">Arrow Left To Line, Import, export, and sync, arrow, left, to, line</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/import-export-sync/arrow-left-to-line.svg"/>
+      <uui:palette primary="#2563EB" accent="#60A5FA" secondary="#BFDBFE"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="715c2b8842b603adcd36a5b7168a97ac27b3ebca156eec46e2d3821234ec4827"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M3 19V5" stroke="#2563EB" data-uui-role="primary"/>
+    <path d="m13 6-6 6 6 6" stroke="#60A5FA" data-uui-role="accent"/>
+    <path d="M7 12h14" stroke="#60A5FA" data-uui-role="accent"/>
+  </g>
+</svg>

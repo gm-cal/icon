@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0734-monochrome-title uui-0734-monochrome-desc" data-icon-id="UUI-0734" data-icon-name="file-image" data-icon-variant="monochrome" data-icon-category="office-documents">
+  <title id="uui-0734-monochrome-title" xml:lang="ja">画像資料</title>
+  <desc id="uui-0734-monochrome-desc" xml:lang="ja">「画像資料」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0734" slug="file-image" variant="monochrome">
+      <uui:name xml:lang="ja">画像資料</uui:name>
+      <uui:name xml:lang="en">File Image</uui:name>
+      <uui:description xml:lang="ja">「画像資料」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Image” in office documents contexts.</uui:description>
+      <uui:category id="office-documents" xml:lang="ja">業務文書</uui:category>
+      <uui:category id="office-documents" xml:lang="en">Office documents</uui:category>
+      <uui:keywords xml:lang="ja">画像資料, 業務文書, file, image</uui:keywords>
+      <uui:keywords xml:lang="en">File Image, Office documents, file, image</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/office-documents/file-image.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="926a19256fff73b28a5a551adbadc636af214dd735a20cc28ef7d8e67e3c2a7d"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="10" cy="12" r="2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m20 17-1.296-1.296a2.41 2.41 0 0 0-3.408 0L9 22" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

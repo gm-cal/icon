@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0911-monochrome-title uui-0911-monochrome-desc" data-icon-id="UUI-0911" data-icon-name="arrow-up-0-1" data-icon-variant="monochrome" data-icon-category="sorting-view">
+  <title id="uui-0911-monochrome-title" xml:lang="ja">下から数字昇順</title>
+  <desc id="uui-0911-monochrome-desc" xml:lang="ja">「下から数字昇順」を表す汎用UIアイコン。並べ替えと表示に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0911" slug="arrow-up-0-1" variant="monochrome">
+      <uui:name xml:lang="ja">下から数字昇順</uui:name>
+      <uui:name xml:lang="en">Arrow Up 0 1</uui:name>
+      <uui:description xml:lang="ja">「下から数字昇順」を表す汎用UIアイコン。並べ替えと表示に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Arrow Up 0 1” in sorting and view contexts.</uui:description>
+      <uui:category id="sorting-view" xml:lang="ja">並べ替えと表示</uui:category>
+      <uui:category id="sorting-view" xml:lang="en">Sorting and view</uui:category>
+      <uui:keywords xml:lang="ja">下から数字昇順, 並べ替えと表示, arrow, up, 0, 1</uui:keywords>
+      <uui:keywords xml:lang="en">Arrow Up 0 1, Sorting and view, arrow, up, 0, 1</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/sorting-view/arrow-up-0-1.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="82b6396aef6737b7a98c724447e3cc5790ef0be35e0d4fa4c43b8d2e42b82241"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m3 8 4-4 4 4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M7 4v16" stroke="currentColor" data-uui-role="accent"/>
+    <rect x="15" y="4" width="4" height="6" ry="2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M17 20v-6h-2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M15 20h4" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

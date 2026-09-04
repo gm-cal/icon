@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0899-color-title uui-0899-color-desc" data-icon-id="UUI-0899" data-icon-name="mouse-left" data-icon-variant="color" data-icon-category="forms-input">
+  <title id="uui-0899-color-title" xml:lang="ja">左クリック</title>
+  <desc id="uui-0899-color-desc" xml:lang="ja">「左クリック」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0899" slug="mouse-left" variant="color">
+      <uui:name xml:lang="ja">左クリック</uui:name>
+      <uui:name xml:lang="en">Mouse Left</uui:name>
+      <uui:description xml:lang="ja">「左クリック」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Mouse Left” in forms and input contexts.</uui:description>
+      <uui:category id="forms-input" xml:lang="ja">フォームと入力</uui:category>
+      <uui:category id="forms-input" xml:lang="en">Forms and input</uui:category>
+      <uui:keywords xml:lang="ja">左クリック, フォームと入力, mouse, left</uui:keywords>
+      <uui:keywords xml:lang="en">Mouse Left, Forms and input, mouse, left</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/forms-input/mouse-left.svg"/>
+      <uui:palette primary="#4F46E5" accent="#818CF8" secondary="#C7D2FE"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="25e3602c707d0ac314fe300ab66651dc7c1a3884af00f0153a7ef626f9116996"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 7.318V10" stroke="#4F46E5" data-uui-role="primary"/>
+    <path d="M5 10v5a7 7 0 0 0 14 0V9c0-3.527-2.608-6.515-6-7" stroke="#818CF8" data-uui-role="accent"/>
+    <circle cx="7" cy="4" r="2" stroke="#818CF8" data-uui-role="accent"/>
+  </g>
+</svg>

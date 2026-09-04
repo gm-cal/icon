@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0988-color-title uui-0988-color-desc" data-icon-id="UUI-0988" data-icon-name="book-key" data-icon-variant="color" data-icon-category="legal-compliance">
+  <title id="uui-0988-color-title" xml:lang="ja">アクセス制限規程</title>
+  <desc id="uui-0988-color-desc" xml:lang="ja">「アクセス制限規程」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0988" slug="book-key" variant="color">
+      <uui:name xml:lang="ja">アクセス制限規程</uui:name>
+      <uui:name xml:lang="en">Book Key</uui:name>
+      <uui:description xml:lang="ja">「アクセス制限規程」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Book Key” in legal and compliance contexts.</uui:description>
+      <uui:category id="legal-compliance" xml:lang="ja">法務とコンプライアンス</uui:category>
+      <uui:category id="legal-compliance" xml:lang="en">Legal and compliance</uui:category>
+      <uui:keywords xml:lang="ja">アクセス制限規程, 法務とコンプライアンス, book, key</uui:keywords>
+      <uui:keywords xml:lang="en">Book Key, Legal and compliance, book, key</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/legal-compliance/book-key.svg"/>
+      <uui:palette primary="#57534E" accent="#78716C" secondary="#D6D3D1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3eeeb6ca66afb3aa8163506ffb1d0f5e709bb8ad8de57574e780db8a328731ca"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M13 2H6.5A2.5 2.5 0 0 0 4 4.5v15" stroke="#57534E" data-uui-role="primary"/>
+    <path d="M17 2v6" stroke="#78716C" data-uui-role="accent"/>
+    <path d="M17 4h2" stroke="#D6D3D1" data-uui-role="secondary"/>
+    <path d="M20 15.2V21a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20" stroke="#78716C" data-uui-role="accent"/>
+    <circle cx="17" cy="10" r="2" stroke="#78716C" data-uui-role="accent"/>
+  </g>
+</svg>

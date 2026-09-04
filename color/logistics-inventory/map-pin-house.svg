@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0876-color-title uui-0876-color-desc" data-icon-id="UUI-0876" data-icon-name="map-pin-house" data-icon-variant="color" data-icon-category="logistics-inventory">
+  <title id="uui-0876-color-title" xml:lang="ja">配送拠点</title>
+  <desc id="uui-0876-color-desc" xml:lang="ja">「配送拠点」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0876" slug="map-pin-house" variant="color">
+      <uui:name xml:lang="ja">配送拠点</uui:name>
+      <uui:name xml:lang="en">Map Pin House</uui:name>
+      <uui:description xml:lang="ja">「配送拠点」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Map Pin House” in logistics and inventory contexts.</uui:description>
+      <uui:category id="logistics-inventory" xml:lang="ja">物流と在庫</uui:category>
+      <uui:category id="logistics-inventory" xml:lang="en">Logistics and inventory</uui:category>
+      <uui:keywords xml:lang="ja">配送拠点, 物流と在庫, map, pin, house</uui:keywords>
+      <uui:keywords xml:lang="en">Map Pin House, Logistics and inventory, map, pin, house</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/logistics-inventory/map-pin-house.svg"/>
+      <uui:palette primary="#92400E" accent="#D97706" secondary="#FCD34D"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="39991e792ab37e3005ab265e97cffa1df65540e2fa8784c3d94911464a40c6d8"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M15 22a1 1 0 0 1-1-1v-4a1 1 0 0 1 .445-.832l3-2a1 1 0 0 1 1.11 0l3 2A1 1 0 0 1 22 17v4a1 1 0 0 1-1 1z" stroke="#92400E" data-uui-role="primary"/>
+    <path d="M18 10a8 8 0 0 0-16 0c0 4.993 5.539 10.193 7.399 11.799a1 1 0 0 0 .601.2" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M18 22v-3" stroke="#FCD34D" data-uui-role="secondary"/>
+    <circle cx="10" cy="10" r="3" stroke="#D97706" data-uui-role="accent"/>
+  </g>
+</svg>

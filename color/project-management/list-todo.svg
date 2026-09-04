@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0687-color-title uui-0687-color-desc" data-icon-id="UUI-0687" data-icon-name="list-todo" data-icon-variant="color" data-icon-category="project-management">
+  <title id="uui-0687-color-title" xml:lang="ja">TODO一覧</title>
+  <desc id="uui-0687-color-desc" xml:lang="ja">「TODO一覧」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0687" slug="list-todo" variant="color">
+      <uui:name xml:lang="ja">TODO一覧</uui:name>
+      <uui:name xml:lang="en">List Todo</uui:name>
+      <uui:description xml:lang="ja">「TODO一覧」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “List Todo” in project management contexts.</uui:description>
+      <uui:category id="project-management" xml:lang="ja">プロジェクト管理</uui:category>
+      <uui:category id="project-management" xml:lang="en">Project management</uui:category>
+      <uui:keywords xml:lang="ja">TODO一覧, プロジェクト管理, list, todo</uui:keywords>
+      <uui:keywords xml:lang="en">List Todo, Project management, list, todo</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/project-management/list-todo.svg"/>
+      <uui:palette primary="#A16207" accent="#EAB308" secondary="#FDE047"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4d4b7463a1cfca8243c819110cf115066c37812fb8853b8c137391f2155169cc"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M13 5h8" stroke="#A16207" data-uui-role="primary"/>
+    <path d="M13 12h8" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M13 19h8" stroke="#FDE047" data-uui-role="secondary"/>
+    <path d="m3 17 2 2 4-4" stroke="#EAB308" data-uui-role="accent"/>
+    <rect x="3" y="4" width="6" height="6" rx="1" stroke="#EAB308" data-uui-role="accent"/>
+  </g>
+</svg>

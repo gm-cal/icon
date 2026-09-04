@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0526-monochrome-title uui-0526-monochrome-desc" data-icon-id="UUI-0526" data-icon-name="list-restart" data-icon-variant="monochrome" data-icon-category="code-editing">
+  <title id="uui-0526-monochrome-title" xml:lang="ja">一覧再開</title>
+  <desc id="uui-0526-monochrome-desc" xml:lang="ja">「一覧再開」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0526" slug="list-restart" variant="monochrome">
+      <uui:name xml:lang="ja">一覧再開</uui:name>
+      <uui:name xml:lang="en">List Restart</uui:name>
+      <uui:description xml:lang="ja">「一覧再開」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “List Restart” in code editing contexts.</uui:description>
+      <uui:category id="code-editing" xml:lang="ja">コード編集</uui:category>
+      <uui:category id="code-editing" xml:lang="en">Code editing</uui:category>
+      <uui:keywords xml:lang="ja">一覧再開, コード編集, list, restart</uui:keywords>
+      <uui:keywords xml:lang="en">List Restart, Code editing, list, restart</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/code-editing/list-restart.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4262718cedfa09c6f75d5814ed4eceb052d6210878fcf2ae5d147c3bbd4f8411"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M21 5H3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M7 12H3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M7 19H3" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M12 18a5 5 0 0 0 9-3 4.5 4.5 0 0 0-4.5-4.5c-1.33 0-2.54.54-3.41 1.41L11 14" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M11 10v4h4" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>
