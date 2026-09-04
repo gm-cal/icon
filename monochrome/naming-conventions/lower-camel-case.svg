@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0503-monochrome-title uui-0503-monochrome-desc" data-icon-id="UUI-0503" data-icon-name="lower-camel-case" data-icon-variant="monochrome" data-icon-category="naming-conventions">
+  <title id="uui-0503-monochrome-title" xml:lang="ja">lowerCamel</title>
+  <desc id="uui-0503-monochrome-desc" xml:lang="ja">「lowerCamel」を表す汎用UIアイコン。命名規則に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.1.0" id="UUI-0503" slug="lower-camel-case" variant="monochrome">
+      <uui:name xml:lang="ja">lowerCamel</uui:name>
+      <uui:name xml:lang="en">lowerCamel</uui:name>
+      <uui:description xml:lang="ja">「lowerCamel」を表す汎用UIアイコン。命名規則に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “lowerCamel” in naming conventions contexts.</uui:description>
+      <uui:category id="naming-conventions" xml:lang="ja">命名規則</uui:category>
+      <uui:category id="naming-conventions" xml:lang="en">Naming conventions</uui:category>
+      <uui:keywords xml:lang="ja">lowerCamel, 命名規則, lower, camel, case</uui:keywords>
+      <uui:keywords xml:lang="en">lowerCamel, Naming conventions, lower, camel, case</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/naming-conventions/lower-camel-case.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="c2cd23bb07d6adccac6de87e1f485979e6af1870932336981eb311c9b71215a4"/>
+      <uui:source project="Universal UI Icons" version="1.1.0" license="Project" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M6.5 17c.7-1.1.9-2.1 1-3.2.2-2.3 1.2-3.8 2.7-3.8 1.4 0 2.4 1.3 3 3.1.6-3 2-5.1 3.8-5.1 2.3 0 3.7 3.2 3.7 6.3V17" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M20.7 13.5V9.2L22 7.8l1 1.2-.7 1.4h-1.6" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M6.5 17h14.2M8 17v4m3-4v4m6-4v4m3-4v4M6.8 14.2 4.6 12.8 3.5 14" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M5.8 5.2a2 2 0 1 0-2 2h2V3.3" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>
