@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0063-color-title uui-0063-color-desc" data-icon-id="UUI-0063" data-icon-name="folder-x" data-icon-variant="color" data-icon-category="files">
+  <title id="uui-0063-color-title" xml:lang="ja">無効なフォルダー</title>
+  <desc id="uui-0063-color-desc" xml:lang="ja">「無効なフォルダー」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0063" slug="folder-x" variant="color">
+      <uui:name xml:lang="ja">無効なフォルダー</uui:name>
+      <uui:name xml:lang="en">Folder X</uui:name>
+      <uui:description xml:lang="ja">「無効なフォルダー」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Folder X” in files and folders contexts.</uui:description>
+      <uui:category id="files" xml:lang="ja">ファイルとフォルダー</uui:category>
+      <uui:category id="files" xml:lang="en">Files and folders</uui:category>
+      <uui:keywords xml:lang="ja">無効なフォルダー, ファイルとフォルダー, folder, x</uui:keywords>
+      <uui:keywords xml:lang="en">Folder X, Files and folders, folder, x</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/files/folder-x.svg"/>
+      <uui:palette primary="#7C3AED" accent="#A855F7" secondary="#C084FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7d36b9f48ba17fbaf7733d9ee2bea325441af111c6ffe5ef154119637c21c6e2"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z" stroke="#7C3AED" data-uui-role="primary"/>
+    <path d="m9.5 10.5 5 5" stroke="#A855F7" data-uui-role="accent"/>
+    <path d="m14.5 10.5-5 5" stroke="#A855F7" data-uui-role="accent"/>
+  </g>
+</svg>

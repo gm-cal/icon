@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0358-monochrome-title uui-0358-monochrome-desc" data-icon-id="UUI-0358" data-icon-name="usb" data-icon-variant="monochrome" data-icon-category="devices">
+  <title id="uui-0358-monochrome-title" xml:lang="ja">USB</title>
+  <desc id="uui-0358-monochrome-desc" xml:lang="ja">「USB」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0358" slug="usb" variant="monochrome">
+      <uui:name xml:lang="ja">USB</uui:name>
+      <uui:name xml:lang="en">USB</uui:name>
+      <uui:description xml:lang="ja">「USB」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “USB” in devices and connectivity contexts.</uui:description>
+      <uui:category id="devices" xml:lang="ja">機器と接続</uui:category>
+      <uui:category id="devices" xml:lang="en">Devices and connectivity</uui:category>
+      <uui:keywords xml:lang="ja">USB, 機器と接続, usb</uui:keywords>
+      <uui:keywords xml:lang="en">USB, Devices and connectivity, usb</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/devices/usb.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="b4b28d0761fc30c88bb119527b6d2da46c6e8fdcc0e060b5b5bd91a34e326b87"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="10" cy="7" r="1" stroke="currentColor" data-uui-role="primary"/>
+    <circle cx="4" cy="20" r="1" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M4.7 19.3 19 5" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m21 3-3 1 2 2Z" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M9.26 7.68 5 12l2 5" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m10 14 5 2 3.5-3.5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m18 12 1-1 1 1-1 1Z" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

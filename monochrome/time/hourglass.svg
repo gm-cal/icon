@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0216-monochrome-title uui-0216-monochrome-desc" data-icon-id="UUI-0216" data-icon-name="hourglass" data-icon-variant="monochrome" data-icon-category="time">
+  <title id="uui-0216-monochrome-title" xml:lang="ja">待機時間</title>
+  <desc id="uui-0216-monochrome-desc" xml:lang="ja">「待機時間」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0216" slug="hourglass" variant="monochrome">
+      <uui:name xml:lang="ja">待機時間</uui:name>
+      <uui:name xml:lang="en">Hourglass</uui:name>
+      <uui:description xml:lang="ja">「待機時間」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Hourglass” in date and time contexts.</uui:description>
+      <uui:category id="time" xml:lang="ja">日時と履歴</uui:category>
+      <uui:category id="time" xml:lang="en">Date and time</uui:category>
+      <uui:keywords xml:lang="ja">待機時間, 日時と履歴, hourglass</uui:keywords>
+      <uui:keywords xml:lang="en">Hourglass, Date and time, hourglass</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/time/hourglass.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="f6540f41642707e4a59fe314adbcc5ef59ea4201bc85b8336cde083fbd01bb3b"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M5 22h14" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M5 2h14" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M17 22v-4.172a2 2 0 0 0-.586-1.414L12 12l-4.414 4.414A2 2 0 0 0 7 17.828V22" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M7 2v4.172a2 2 0 0 0 .586 1.414L12 12l4.414-4.414A2 2 0 0 0 17 6.172V2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

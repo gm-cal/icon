@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0182-color-title uui-0182-color-desc" data-icon-id="UUI-0182" data-icon-name="shield-ban" data-icon-variant="color" data-icon-category="security">
+  <title id="uui-0182-color-title" xml:lang="ja">アクセス禁止</title>
+  <desc id="uui-0182-color-desc" xml:lang="ja">「アクセス禁止」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0182" slug="shield-ban" variant="color">
+      <uui:name xml:lang="ja">アクセス禁止</uui:name>
+      <uui:name xml:lang="en">Shield Ban</uui:name>
+      <uui:description xml:lang="ja">「アクセス禁止」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Shield Ban” in security and privacy contexts.</uui:description>
+      <uui:category id="security" xml:lang="ja">セキュリティ</uui:category>
+      <uui:category id="security" xml:lang="en">Security and privacy</uui:category>
+      <uui:keywords xml:lang="ja">アクセス禁止, セキュリティ, shield, ban</uui:keywords>
+      <uui:keywords xml:lang="en">Shield Ban, Security and privacy, shield, ban</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/security/shield-ban.svg"/>
+      <uui:palette primary="#B91C1C" accent="#EF4444" secondary="#FCA5A5"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="536bfe0c0dbb4c12d10b5caf8ee13b765c4251a9381e7de05cb2431cab82fe75"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" stroke="#B91C1C" data-uui-role="primary"/>
+    <path d="m4.243 5.21 14.39 12.472" stroke="#EF4444" data-uui-role="accent"/>
+  </g>
+</svg>

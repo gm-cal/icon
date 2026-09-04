@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0133-color-title uui-0133-color-desc" data-icon-id="UUI-0133" data-icon-name="message-square" data-icon-variant="color" data-icon-category="communication">
+  <title id="uui-0133-color-title" xml:lang="ja">メッセージ</title>
+  <desc id="uui-0133-color-desc" xml:lang="ja">「メッセージ」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0133" slug="message-square" variant="color">
+      <uui:name xml:lang="ja">メッセージ</uui:name>
+      <uui:name xml:lang="en">Message Square</uui:name>
+      <uui:description xml:lang="ja">「メッセージ」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Message Square” in communication contexts.</uui:description>
+      <uui:category id="communication" xml:lang="ja">通信と連絡</uui:category>
+      <uui:category id="communication" xml:lang="en">Communication</uui:category>
+      <uui:keywords xml:lang="ja">メッセージ, 通信と連絡, message, square</uui:keywords>
+      <uui:keywords xml:lang="en">Message Square, Communication, message, square</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/communication/message-square.svg"/>
+      <uui:palette primary="#C2410C" accent="#F97316" secondary="#FB923C"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="ea0235374b2e36741315c2bd3f85b48a6c6b3a1093f7120620273cc03f75e1a8"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z" stroke="#C2410C" data-uui-role="primary"/>
+  </g>
+</svg>

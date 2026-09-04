@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0496-color-title uui-0496-color-desc" data-icon-id="UUI-0496" data-icon-name="thermometer-sun" data-icon-variant="color" data-icon-category="weather">
+  <title id="uui-0496-color-title" xml:lang="ja">高温</title>
+  <desc id="uui-0496-color-desc" xml:lang="ja">「高温」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0496" slug="thermometer-sun" variant="color">
+      <uui:name xml:lang="ja">高温</uui:name>
+      <uui:name xml:lang="en">Thermometer Sun</uui:name>
+      <uui:description xml:lang="ja">「高温」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Thermometer Sun” in nature and weather contexts.</uui:description>
+      <uui:category id="weather" xml:lang="ja">自然と天候</uui:category>
+      <uui:category id="weather" xml:lang="en">Nature and weather</uui:category>
+      <uui:keywords xml:lang="ja">高温, 自然と天候, thermometer, sun</uui:keywords>
+      <uui:keywords xml:lang="en">Thermometer Sun, Nature and weather, thermometer, sun</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/weather/thermometer-sun.svg"/>
+      <uui:palette primary="#0284C7" accent="#F59E0B" secondary="#38BDF8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3779a35e1005bd804034f1186ffabefced1726dd50045c0f540d8868accf0fff"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 2v2" stroke="#0284C7" data-uui-role="primary"/>
+    <path d="M12 8a4 4 0 0 0-1.645 7.647" stroke="#F59E0B" data-uui-role="accent"/>
+    <path d="M2 12h2" stroke="#38BDF8" data-uui-role="secondary"/>
+    <path d="M20 14.54a4 4 0 1 1-4 0V4a2 2 0 0 1 4 0z" stroke="#F59E0B" data-uui-role="accent"/>
+    <path d="m4.93 4.93 1.41 1.41" stroke="#38BDF8" data-uui-role="secondary"/>
+    <path d="m6.34 17.66-1.41 1.41" stroke="#F59E0B" data-uui-role="accent"/>
+  </g>
+</svg>

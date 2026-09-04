@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0344-color-title uui-0344-color-desc" data-icon-id="UUI-0344" data-icon-name="party-popper" data-icon-variant="color" data-icon-category="status">
+  <title id="uui-0344-color-title" xml:lang="ja">達成</title>
+  <desc id="uui-0344-color-desc" xml:lang="ja">「達成」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0344" slug="party-popper" variant="color">
+      <uui:name xml:lang="ja">達成</uui:name>
+      <uui:name xml:lang="en">Party Popper</uui:name>
+      <uui:description xml:lang="ja">「達成」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Party Popper” in status and feedback contexts.</uui:description>
+      <uui:category id="status" xml:lang="ja">状態とフィードバック</uui:category>
+      <uui:category id="status" xml:lang="en">Status and feedback</uui:category>
+      <uui:keywords xml:lang="ja">達成, 状態とフィードバック, party, popper</uui:keywords>
+      <uui:keywords xml:lang="en">Party Popper, Status and feedback, party, popper</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/status/party-popper.svg"/>
+      <uui:palette primary="#0E7490" accent="#22D3EE" secondary="#67E8F9"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="09b057a67f173f408771ed095cfced6704020884bdead22b73dc4cb44b515b9d"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M5.8 11.3 2 22l10.7-3.79" stroke="#0E7490" data-uui-role="primary"/>
+    <path d="M4 3h.01" stroke="#22D3EE" data-uui-role="accent"/>
+    <path d="M22 8h.01" stroke="#67E8F9" data-uui-role="secondary"/>
+    <path d="M15 2h.01" stroke="#22D3EE" data-uui-role="accent"/>
+    <path d="M22 20h.01" stroke="#67E8F9" data-uui-role="secondary"/>
+    <path d="m22 2-2.24.75a2.9 2.9 0 0 0-1.96 3.12c.1.86-.57 1.63-1.45 1.63h-.38c-.86 0-1.6.6-1.76 1.44L14 10" stroke="#22D3EE" data-uui-role="accent"/>
+    <path d="m22 13-.82-.33c-.86-.34-1.82.2-1.98 1.11c-.11.7-.72 1.22-1.43 1.22H17" stroke="#67E8F9" data-uui-role="secondary"/>
+    <path d="m11 2 .33.82c.34.86-.2 1.82-1.11 1.98C9.52 4.9 9 5.52 9 6.23V7" stroke="#22D3EE" data-uui-role="accent"/>
+    <path d="M11 13c1.93 1.93 2.83 4.17 2 5-.83.83-3.07-.07-5-2-1.93-1.93-2.83-4.17-2-5 .83-.83 3.07.07 5 2Z" stroke="#22D3EE" data-uui-role="accent"/>
+  </g>
+</svg>

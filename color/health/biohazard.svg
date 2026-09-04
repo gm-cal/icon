@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0469-color-title uui-0469-color-desc" data-icon-id="UUI-0469" data-icon-name="biohazard" data-icon-variant="color" data-icon-category="health">
+  <title id="uui-0469-color-title" xml:lang="ja">生物学的危険</title>
+  <desc id="uui-0469-color-desc" xml:lang="ja">「生物学的危険」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0469" slug="biohazard" variant="color">
+      <uui:name xml:lang="ja">生物学的危険</uui:name>
+      <uui:name xml:lang="en">Biohazard</uui:name>
+      <uui:description xml:lang="ja">「生物学的危険」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Biohazard” in health and medical contexts.</uui:description>
+      <uui:category id="health" xml:lang="ja">医療と健康</uui:category>
+      <uui:category id="health" xml:lang="en">Health and medical</uui:category>
+      <uui:keywords xml:lang="ja">生物学的危険, 医療と健康, biohazard</uui:keywords>
+      <uui:keywords xml:lang="en">Biohazard, Health and medical, biohazard</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/health/biohazard.svg"/>
+      <uui:palette primary="#BE123C" accent="#FB7185" secondary="#FDA4AF"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="1793dd9085eff3eb6aaf3e127609746550958b15c6157feebc8d27d77b137ec2"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="11.9" r="2" stroke="#BE123C" data-uui-role="primary"/>
+    <path d="M6.7 3.4c-.9 2.5 0 5.2 2.2 6.7C6.5 9 3.7 9.6 2 11.6" stroke="#FB7185" data-uui-role="accent"/>
+    <path d="m8.9 10.1 1.4.8" stroke="#FDA4AF" data-uui-role="secondary"/>
+    <path d="M17.3 3.4c.9 2.5 0 5.2-2.2 6.7 2.4-1.2 5.2-.6 6.9 1.5" stroke="#FB7185" data-uui-role="accent"/>
+    <path d="m15.1 10.1-1.4.8" stroke="#FDA4AF" data-uui-role="secondary"/>
+    <path d="M16.7 20.8c-2.6-.4-4.6-2.6-4.7-5.3-.2 2.6-2.1 4.8-4.7 5.2" stroke="#FB7185" data-uui-role="accent"/>
+    <path d="M12 13.9v1.6" stroke="#FDA4AF" data-uui-role="secondary"/>
+    <path d="M13.5 5.4c-1-.2-2-.2-3 0" stroke="#FB7185" data-uui-role="accent"/>
+    <path d="M17 16.4c.7-.7 1.2-1.6 1.5-2.5" stroke="#FDA4AF" data-uui-role="secondary"/>
+    <path d="M5.5 13.9c.3.9.8 1.8 1.5 2.5" stroke="#FB7185" data-uui-role="accent"/>
+  </g>
+</svg>

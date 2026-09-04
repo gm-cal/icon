@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0308-color-title uui-0308-color-desc" data-icon-id="UUI-0308" data-icon-name="truck" data-icon-variant="color" data-icon-category="commerce">
+  <title id="uui-0308-color-title" xml:lang="ja">配送</title>
+  <desc id="uui-0308-color-desc" xml:lang="ja">「配送」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0308" slug="truck" variant="color">
+      <uui:name xml:lang="ja">配送</uui:name>
+      <uui:name xml:lang="en">Truck</uui:name>
+      <uui:description xml:lang="ja">「配送」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Truck” in commerce and finance contexts.</uui:description>
+      <uui:category id="commerce" xml:lang="ja">商取引と金融</uui:category>
+      <uui:category id="commerce" xml:lang="en">Commerce and finance</uui:category>
+      <uui:keywords xml:lang="ja">配送, 商取引と金融, truck</uui:keywords>
+      <uui:keywords xml:lang="en">Truck, Commerce and finance, truck</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/commerce/truck.svg"/>
+      <uui:palette primary="#15803D" accent="#22C55E" secondary="#4ADE80"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="381b03ca54bd9a98ed823e2a937ca4c78f62cb5f8340066e59635f29cd340bff"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M14 18V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v11a1 1 0 0 0 1 1h2" stroke="#15803D" data-uui-role="primary"/>
+    <path d="M15 18H9" stroke="#22C55E" data-uui-role="accent"/>
+    <path d="M19 18h2a1 1 0 0 0 1-1v-3.65a1 1 0 0 0-.22-.624l-3.48-4.35A1 1 0 0 0 17.52 8H14" stroke="#4ADE80" data-uui-role="secondary"/>
+    <circle cx="17" cy="18" r="2" stroke="#22C55E" data-uui-role="accent"/>
+    <circle cx="7" cy="18" r="2" stroke="#22C55E" data-uui-role="accent"/>
+  </g>
+</svg>

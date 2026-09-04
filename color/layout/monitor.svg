@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0118-color-title uui-0118-color-desc" data-icon-id="UUI-0118" data-icon-name="monitor" data-icon-variant="color" data-icon-category="layout">
+  <title id="uui-0118-color-title" xml:lang="ja">デスクトップ画面</title>
+  <desc id="uui-0118-color-desc" xml:lang="ja">「デスクトップ画面」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0118" slug="monitor" variant="color">
+      <uui:name xml:lang="ja">デスクトップ画面</uui:name>
+      <uui:name xml:lang="en">Monitor</uui:name>
+      <uui:description xml:lang="ja">「デスクトップ画面」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Monitor” in layout and windows contexts.</uui:description>
+      <uui:category id="layout" xml:lang="ja">画面とレイアウト</uui:category>
+      <uui:category id="layout" xml:lang="en">Layout and windows</uui:category>
+      <uui:keywords xml:lang="ja">デスクトップ画面, 画面とレイアウト, monitor</uui:keywords>
+      <uui:keywords xml:lang="en">Monitor, Layout and windows, monitor</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/layout/monitor.svg"/>
+      <uui:palette primary="#0369A1" accent="#0EA5E9" secondary="#38BDF8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="2aaec26650fb4136af44c80bddd0a86a8ad89dfa67aff54280336aa0bdfd6d1f"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect width="20" height="14" x="2" y="3" rx="2" stroke="#0369A1" data-uui-role="primary"/>
+    <line x1="8" x2="16" y1="21" y2="21" stroke="#0EA5E9" data-uui-role="accent"/>
+    <line x1="12" x2="12" y1="17" y2="21" stroke="#0EA5E9" data-uui-role="accent"/>
+  </g>
+</svg>

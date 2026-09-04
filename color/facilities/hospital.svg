@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0431-color-title uui-0431-color-desc" data-icon-id="UUI-0431" data-icon-name="hospital" data-icon-variant="color" data-icon-category="facilities">
+  <title id="uui-0431-color-title" xml:lang="ja">病院</title>
+  <desc id="uui-0431-color-desc" xml:lang="ja">「病院」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0431" slug="hospital" variant="color">
+      <uui:name xml:lang="ja">病院</uui:name>
+      <uui:name xml:lang="en">Hospital</uui:name>
+      <uui:description xml:lang="ja">「病院」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Hospital” in buildings and facilities contexts.</uui:description>
+      <uui:category id="facilities" xml:lang="ja">建物と生活設備</uui:category>
+      <uui:category id="facilities" xml:lang="en">Buildings and facilities</uui:category>
+      <uui:keywords xml:lang="ja">病院, 建物と生活設備, hospital</uui:keywords>
+      <uui:keywords xml:lang="en">Hospital, Buildings and facilities, hospital</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/facilities/hospital.svg"/>
+      <uui:palette primary="#92400E" accent="#D97706" secondary="#F59E0B"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="c896cef2a53cb6028f3e59d01a2322af1cc4e57960ad5c2922eeae3e8a0c839c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 7v4" stroke="#92400E" data-uui-role="primary"/>
+    <path d="M14 21v-3a2 2 0 0 0-4 0v3" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M14 9h-4" stroke="#F59E0B" data-uui-role="secondary"/>
+    <path d="M18 11h2a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-9a2 2 0 0 1 2-2h2" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M18 21V5a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16" stroke="#D97706" data-uui-role="accent"/>
+  </g>
+</svg>

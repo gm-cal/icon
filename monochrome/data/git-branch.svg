@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0270-monochrome-title uui-0270-monochrome-desc" data-icon-id="UUI-0270" data-icon-name="git-branch" data-icon-variant="monochrome" data-icon-category="data">
+  <title id="uui-0270-monochrome-title" xml:lang="ja">分岐</title>
+  <desc id="uui-0270-monochrome-desc" xml:lang="ja">「分岐」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0270" slug="git-branch" variant="monochrome">
+      <uui:name xml:lang="ja">分岐</uui:name>
+      <uui:name xml:lang="en">Git Branch</uui:name>
+      <uui:description xml:lang="ja">「分岐」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Git Branch” in data and analytics contexts.</uui:description>
+      <uui:category id="data" xml:lang="ja">データと分析</uui:category>
+      <uui:category id="data" xml:lang="en">Data and analytics</uui:category>
+      <uui:keywords xml:lang="ja">分岐, データと分析, git, branch</uui:keywords>
+      <uui:keywords xml:lang="en">Git Branch, Data and analytics, git, branch</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/data/git-branch.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="9f4c6b2781c8c4b4d54a06a6341557d837a02261f7aa0e0f75275bbacbd68478"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M15 6a9 9 0 0 0-9 9V3" stroke="currentColor" data-uui-role="primary"/>
+    <circle cx="18" cy="6" r="3" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="6" cy="18" r="3" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

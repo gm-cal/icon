@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0059-color-title uui-0059-color-desc" data-icon-id="UUI-0059" data-icon-name="folder-open" data-icon-variant="color" data-icon-category="files">
+  <title id="uui-0059-color-title" xml:lang="ja">開いたフォルダー</title>
+  <desc id="uui-0059-color-desc" xml:lang="ja">「開いたフォルダー」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0059" slug="folder-open" variant="color">
+      <uui:name xml:lang="ja">開いたフォルダー</uui:name>
+      <uui:name xml:lang="en">Folder Open</uui:name>
+      <uui:description xml:lang="ja">「開いたフォルダー」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Folder Open” in files and folders contexts.</uui:description>
+      <uui:category id="files" xml:lang="ja">ファイルとフォルダー</uui:category>
+      <uui:category id="files" xml:lang="en">Files and folders</uui:category>
+      <uui:keywords xml:lang="ja">開いたフォルダー, ファイルとフォルダー, folder, open</uui:keywords>
+      <uui:keywords xml:lang="en">Folder Open, Files and folders, folder, open</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/files/folder-open.svg"/>
+      <uui:palette primary="#7C3AED" accent="#A855F7" secondary="#C084FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="95671690815c2b4a076b9517ba7f1815908943d92d2ff3961100095ab5c42844"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m6 14 1.5-2.9A2 2 0 0 1 9.24 10H20a2 2 0 0 1 1.94 2.5l-1.54 6a2 2 0 0 1-1.95 1.5H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H18a2 2 0 0 1 2 2v2" stroke="#7C3AED" data-uui-role="primary"/>
+  </g>
+</svg>

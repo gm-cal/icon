@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0158-color-title uui-0158-color-desc" data-icon-id="UUI-0158" data-icon-name="user-x" data-icon-variant="color" data-icon-category="users">
+  <title id="uui-0158-color-title" xml:lang="ja">ユーザー無効</title>
+  <desc id="uui-0158-color-desc" xml:lang="ja">「ユーザー無効」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0158" slug="user-x" variant="color">
+      <uui:name xml:lang="ja">ユーザー無効</uui:name>
+      <uui:name xml:lang="en">User X</uui:name>
+      <uui:description xml:lang="ja">「ユーザー無効」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “User X” in users and identity contexts.</uui:description>
+      <uui:category id="users" xml:lang="ja">ユーザーと認証</uui:category>
+      <uui:category id="users" xml:lang="en">Users and identity</uui:category>
+      <uui:keywords xml:lang="ja">ユーザー無効, ユーザーと認証, user, x</uui:keywords>
+      <uui:keywords xml:lang="en">User X, Users and identity, user, x</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/users/user-x.svg"/>
+      <uui:palette primary="#B91C1C" accent="#EF4444" secondary="#FCA5A5"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7a6ec918f6106730c775bf16490a7401f072c62c0ee31296dd6e07d1395d719b"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" stroke="#B91C1C" data-uui-role="primary"/>
+    <circle cx="9" cy="7" r="4" stroke="#EF4444" data-uui-role="accent"/>
+    <line x1="17" x2="22" y1="8" y2="13" stroke="#FCA5A5" data-uui-role="secondary"/>
+    <line x1="22" x2="17" y1="8" y2="13" stroke="#EF4444" data-uui-role="accent"/>
+  </g>
+</svg>

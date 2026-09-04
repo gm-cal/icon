@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0171-color-title uui-0171-color-desc" data-icon-id="UUI-0171" data-icon-name="user-round-key" data-icon-variant="color" data-icon-category="users">
+  <title id="uui-0171-color-title" xml:lang="ja">キー管理</title>
+  <desc id="uui-0171-color-desc" xml:lang="ja">「キー管理」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0171" slug="user-round-key" variant="color">
+      <uui:name xml:lang="ja">キー管理</uui:name>
+      <uui:name xml:lang="en">User Round Key</uui:name>
+      <uui:description xml:lang="ja">「キー管理」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “User Round Key” in users and identity contexts.</uui:description>
+      <uui:category id="users" xml:lang="ja">ユーザーと認証</uui:category>
+      <uui:category id="users" xml:lang="en">Users and identity</uui:category>
+      <uui:keywords xml:lang="ja">キー管理, ユーザーと認証, user, round, key</uui:keywords>
+      <uui:keywords xml:lang="en">User Round Key, Users and identity, user, round, key</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/users/user-round-key.svg"/>
+      <uui:palette primary="#9333EA" accent="#D946EF" secondary="#E879F9"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="eb39c45c4745fa6bb2ac671187088aef0637bed4f1995b3e9e2439759f2374c0"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M19 11v6" stroke="#9333EA" data-uui-role="primary"/>
+    <path d="M19 13h2" stroke="#D946EF" data-uui-role="accent"/>
+    <path d="M2 21a8 8 0 0 1 12.868-6.349" stroke="#E879F9" data-uui-role="secondary"/>
+    <circle cx="10" cy="8" r="5" stroke="#D946EF" data-uui-role="accent"/>
+    <circle cx="19" cy="19" r="2" stroke="#D946EF" data-uui-role="accent"/>
+  </g>
+</svg>

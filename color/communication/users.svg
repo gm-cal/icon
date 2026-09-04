@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0146-color-title uui-0146-color-desc" data-icon-id="UUI-0146" data-icon-name="users" data-icon-variant="color" data-icon-category="communication">
+  <title id="uui-0146-color-title" xml:lang="ja">グループ</title>
+  <desc id="uui-0146-color-desc" xml:lang="ja">「グループ」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0146" slug="users" variant="color">
+      <uui:name xml:lang="ja">グループ</uui:name>
+      <uui:name xml:lang="en">Users</uui:name>
+      <uui:description xml:lang="ja">「グループ」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Users” in communication contexts.</uui:description>
+      <uui:category id="communication" xml:lang="ja">通信と連絡</uui:category>
+      <uui:category id="communication" xml:lang="en">Communication</uui:category>
+      <uui:keywords xml:lang="ja">グループ, 通信と連絡, users</uui:keywords>
+      <uui:keywords xml:lang="en">Users, Communication, users</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/communication/users.svg"/>
+      <uui:palette primary="#C2410C" accent="#F97316" secondary="#FB923C"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d4b9ca064a90a332656039b9dab4968183dedb4bac326d31bd9a91f8851cc9c7"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" stroke="#C2410C" data-uui-role="primary"/>
+    <path d="M16 3.128a4 4 0 0 1 0 7.744" stroke="#F97316" data-uui-role="accent"/>
+    <path d="M22 21v-2a4 4 0 0 0-3-3.87" stroke="#FB923C" data-uui-role="secondary"/>
+    <circle cx="9" cy="7" r="4" stroke="#F97316" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0169-monochrome-title uui-0169-monochrome-desc" data-icon-id="UUI-0169" data-icon-name="door-closed" data-icon-variant="monochrome" data-icon-category="users">
+  <title id="uui-0169-monochrome-title" xml:lang="ja">退室・閉鎖</title>
+  <desc id="uui-0169-monochrome-desc" xml:lang="ja">「退室・閉鎖」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0169" slug="door-closed" variant="monochrome">
+      <uui:name xml:lang="ja">退室・閉鎖</uui:name>
+      <uui:name xml:lang="en">Door Closed</uui:name>
+      <uui:description xml:lang="ja">「退室・閉鎖」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Door Closed” in users and identity contexts.</uui:description>
+      <uui:category id="users" xml:lang="ja">ユーザーと認証</uui:category>
+      <uui:category id="users" xml:lang="en">Users and identity</uui:category>
+      <uui:keywords xml:lang="ja">退室・閉鎖, ユーザーと認証, door, closed</uui:keywords>
+      <uui:keywords xml:lang="en">Door Closed, Users and identity, door, closed</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/users/door-closed.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="12551db80bdb7d8b589f77c197ebc7d09fef307b69c1b6494efff56f0f639e6e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 12h.01" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M18 20V6a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v14" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M2 20h20" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

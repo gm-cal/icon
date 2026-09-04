@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0044-color-title uui-0044-color-desc" data-icon-id="UUI-0044" data-icon-name="unlink" data-icon-variant="color" data-icon-category="actions">
+  <title id="uui-0044-color-title" xml:lang="ja">リンク解除</title>
+  <desc id="uui-0044-color-desc" xml:lang="ja">「リンク解除」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0044" slug="unlink" variant="color">
+      <uui:name xml:lang="ja">リンク解除</uui:name>
+      <uui:name xml:lang="en">Unlink</uui:name>
+      <uui:description xml:lang="ja">「リンク解除」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Unlink” in actions contexts.</uui:description>
+      <uui:category id="actions" xml:lang="ja">基本操作</uui:category>
+      <uui:category id="actions" xml:lang="en">Actions</uui:category>
+      <uui:keywords xml:lang="ja">リンク解除, 基本操作, unlink</uui:keywords>
+      <uui:keywords xml:lang="en">Unlink, Actions, unlink</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/actions/unlink.svg"/>
+      <uui:palette primary="#0F766E" accent="#14B8A6" secondary="#5EEAD4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="71c658a56e987ec4b88b0243cd55eb1bd51409cad09d416e4e34d3e96e805e34"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m18.84 12.25 1.72-1.71h-.02a5.004 5.004 0 0 0-.12-7.07 5.006 5.006 0 0 0-6.95 0l-1.72 1.71" stroke="#0F766E" data-uui-role="primary"/>
+    <path d="m5.17 11.75-1.71 1.71a5.004 5.004 0 0 0 .12 7.07 5.006 5.006 0 0 0 6.95 0l1.71-1.71" stroke="#14B8A6" data-uui-role="accent"/>
+    <line x1="8" x2="8" y1="2" y2="5" stroke="#5EEAD4" data-uui-role="secondary"/>
+    <line x1="2" x2="5" y1="8" y2="8" stroke="#14B8A6" data-uui-role="accent"/>
+    <line x1="16" x2="16" y1="19" y2="22" stroke="#5EEAD4" data-uui-role="secondary"/>
+    <line x1="19" x2="22" y1="16" y2="16" stroke="#14B8A6" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0172-color-title uui-0172-color-desc" data-icon-id="UUI-0172" data-icon-name="key-square" data-icon-variant="color" data-icon-category="users">
+  <title id="uui-0172-color-title" xml:lang="ja">アクセスキー</title>
+  <desc id="uui-0172-color-desc" xml:lang="ja">「アクセスキー」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0172" slug="key-square" variant="color">
+      <uui:name xml:lang="ja">アクセスキー</uui:name>
+      <uui:name xml:lang="en">Key Square</uui:name>
+      <uui:description xml:lang="ja">「アクセスキー」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Key Square” in users and identity contexts.</uui:description>
+      <uui:category id="users" xml:lang="ja">ユーザーと認証</uui:category>
+      <uui:category id="users" xml:lang="en">Users and identity</uui:category>
+      <uui:keywords xml:lang="ja">アクセスキー, ユーザーと認証, key, square</uui:keywords>
+      <uui:keywords xml:lang="en">Key Square, Users and identity, key, square</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/users/key-square.svg"/>
+      <uui:palette primary="#9333EA" accent="#D946EF" secondary="#E879F9"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="571a8b054e0b1baf4ccb95f33d24a68beeef0f9d0568d27d52977fdedce9d4d6"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12.4 2.7a2.5 2.5 0 0 1 3.4 0l5.5 5.5a2.5 2.5 0 0 1 0 3.4l-3.7 3.7a2.5 2.5 0 0 1-3.4 0L8.7 9.8a2.5 2.5 0 0 1 0-3.4z" stroke="#9333EA" data-uui-role="primary"/>
+    <path d="m14 7 3 3" stroke="#D946EF" data-uui-role="accent"/>
+    <path d="m9.4 10.6-6.814 6.814A2 2 0 0 0 2 18.828V21a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h1a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h.172a2 2 0 0 0 1.414-.586l.814-.814" stroke="#D946EF" data-uui-role="accent"/>
+  </g>
+</svg>

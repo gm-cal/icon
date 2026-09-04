@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0369-color-title uui-0369-color-desc" data-icon-id="UUI-0369" data-icon-name="joystick" data-icon-variant="color" data-icon-category="devices">
+  <title id="uui-0369-color-title" xml:lang="ja">ジョイスティック</title>
+  <desc id="uui-0369-color-desc" xml:lang="ja">「ジョイスティック」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0369" slug="joystick" variant="color">
+      <uui:name xml:lang="ja">ジョイスティック</uui:name>
+      <uui:name xml:lang="en">Joystick</uui:name>
+      <uui:description xml:lang="ja">「ジョイスティック」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Joystick” in devices and connectivity contexts.</uui:description>
+      <uui:category id="devices" xml:lang="ja">機器と接続</uui:category>
+      <uui:category id="devices" xml:lang="en">Devices and connectivity</uui:category>
+      <uui:keywords xml:lang="ja">ジョイスティック, 機器と接続, joystick</uui:keywords>
+      <uui:keywords xml:lang="en">Joystick, Devices and connectivity, joystick</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/devices/joystick.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#3B82F6" secondary="#93C5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7b1e12f9b707e038128653bae7da7fd0541aaac231757b9b718c1c30e217ed74"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M21 17a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-2Z" stroke="#1D4ED8" data-uui-role="primary"/>
+    <path d="M6 15v-2" stroke="#3B82F6" data-uui-role="accent"/>
+    <path d="M12 15V9" stroke="#93C5FD" data-uui-role="secondary"/>
+    <circle cx="12" cy="6" r="3" stroke="#3B82F6" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0302-color-title uui-0302-color-desc" data-icon-id="UUI-0302" data-icon-name="shopping-bag" data-icon-variant="color" data-icon-category="commerce">
+  <title id="uui-0302-color-title" xml:lang="ja">買い物袋</title>
+  <desc id="uui-0302-color-desc" xml:lang="ja">「買い物袋」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0302" slug="shopping-bag" variant="color">
+      <uui:name xml:lang="ja">買い物袋</uui:name>
+      <uui:name xml:lang="en">Shopping Bag</uui:name>
+      <uui:description xml:lang="ja">「買い物袋」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Shopping Bag” in commerce and finance contexts.</uui:description>
+      <uui:category id="commerce" xml:lang="ja">商取引と金融</uui:category>
+      <uui:category id="commerce" xml:lang="en">Commerce and finance</uui:category>
+      <uui:keywords xml:lang="ja">買い物袋, 商取引と金融, shopping, bag</uui:keywords>
+      <uui:keywords xml:lang="en">Shopping Bag, Commerce and finance, shopping, bag</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/commerce/shopping-bag.svg"/>
+      <uui:palette primary="#15803D" accent="#22C55E" secondary="#4ADE80"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="c20ef9115f2be90ede8c30a53f82466cd56c094f9a9b2bfd2ebe3989c71623dd"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M16 10a4 4 0 0 1-8 0" stroke="#15803D" data-uui-role="primary"/>
+    <path d="M3.103 6.034h17.794" stroke="#22C55E" data-uui-role="accent"/>
+    <path d="M3.4 5.467a2 2 0 0 0-.4 1.2V20a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6.667a2 2 0 0 0-.4-1.2l-2-2.667A2 2 0 0 0 17 2H7a2 2 0 0 0-1.6.8z" stroke="#22C55E" data-uui-role="accent"/>
+  </g>
+</svg>

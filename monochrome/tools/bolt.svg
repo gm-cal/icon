@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0379-monochrome-title uui-0379-monochrome-desc" data-icon-id="UUI-0379" data-icon-name="bolt" data-icon-variant="monochrome" data-icon-category="tools">
+  <title id="uui-0379-monochrome-title" xml:lang="ja">ボルト</title>
+  <desc id="uui-0379-monochrome-desc" xml:lang="ja">「ボルト」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0379" slug="bolt" variant="monochrome">
+      <uui:name xml:lang="ja">ボルト</uui:name>
+      <uui:name xml:lang="en">Bolt</uui:name>
+      <uui:description xml:lang="ja">「ボルト」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Bolt” in settings and tools contexts.</uui:description>
+      <uui:category id="tools" xml:lang="ja">設定と工具</uui:category>
+      <uui:category id="tools" xml:lang="en">Settings and tools</uui:category>
+      <uui:keywords xml:lang="ja">ボルト, 設定と工具, bolt</uui:keywords>
+      <uui:keywords xml:lang="en">Bolt, Settings and tools, bolt</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/tools/bolt.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="8b9b6da759d89d8c0ad9f37959da368c55bc7778231044fa2318a9730f5e365f"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z" stroke="currentColor" data-uui-role="primary"/>
+    <circle cx="12" cy="12" r="4" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0206-color-title uui-0206-color-desc" data-icon-id="UUI-0206" data-icon-name="calendar-x-2" data-icon-variant="color" data-icon-category="time">
+  <title id="uui-0206-color-title" xml:lang="ja">予定取消</title>
+  <desc id="uui-0206-color-desc" xml:lang="ja">「予定取消」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0206" slug="calendar-x-2" variant="color">
+      <uui:name xml:lang="ja">予定取消</uui:name>
+      <uui:name xml:lang="en">Calendar X 2</uui:name>
+      <uui:description xml:lang="ja">「予定取消」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Calendar X 2” in date and time contexts.</uui:description>
+      <uui:category id="time" xml:lang="ja">日時と履歴</uui:category>
+      <uui:category id="time" xml:lang="en">Date and time</uui:category>
+      <uui:keywords xml:lang="ja">予定取消, 日時と履歴, calendar, x, 2</uui:keywords>
+      <uui:keywords xml:lang="en">Calendar X 2, Date and time, calendar, x, 2</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/time/calendar-x-2.svg"/>
+      <uui:palette primary="#A16207" accent="#EAB308" secondary="#FACC15"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="74bec183ad00f80c0450b4ffb7a3b19a8feddf5735105543c8bc5e24e60e870c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M8 2v4" stroke="#A16207" data-uui-role="primary"/>
+    <path d="M16 2v4" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M21 13V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h8" stroke="#FACC15" data-uui-role="secondary"/>
+    <path d="M3 10h18" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="m17 22 5-5" stroke="#FACC15" data-uui-role="secondary"/>
+    <path d="m17 17 5 5" stroke="#EAB308" data-uui-role="accent"/>
+  </g>
+</svg>

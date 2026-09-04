@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0249-color-title uui-0249-color-desc" data-icon-id="UUI-0249" data-icon-name="video-off" data-icon-variant="color" data-icon-category="media">
+  <title id="uui-0249-color-title" xml:lang="ja">カメラ無効</title>
+  <desc id="uui-0249-color-desc" xml:lang="ja">「カメラ無効」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0249" slug="video-off" variant="color">
+      <uui:name xml:lang="ja">カメラ無効</uui:name>
+      <uui:name xml:lang="en">Video Off</uui:name>
+      <uui:description xml:lang="ja">「カメラ無効」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Video Off” in media contexts.</uui:description>
+      <uui:category id="media" xml:lang="ja">画像・音声・映像</uui:category>
+      <uui:category id="media" xml:lang="en">Media</uui:category>
+      <uui:keywords xml:lang="ja">カメラ無効, 画像・音声・映像, video, off</uui:keywords>
+      <uui:keywords xml:lang="en">Video Off, Media, video, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/media/video-off.svg"/>
+      <uui:palette primary="#B91C1C" accent="#EF4444" secondary="#FCA5A5"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="fe9e9dea94f1227c2b46ffe546b53618f6798e48e7b87281cc2b554a303fe974"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10.66 6H14a2 2 0 0 1 2 2v2.5l5.248-3.062A.5.5 0 0 1 22 7.87v8.196" stroke="#B91C1C" data-uui-role="primary"/>
+    <path d="M16 16a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h2" stroke="#EF4444" data-uui-role="accent"/>
+    <path d="m2 2 20 20" stroke="#EF4444" data-uui-role="accent"/>
+  </g>
+</svg>

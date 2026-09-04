@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0438-monochrome-title uui-0438-monochrome-desc" data-icon-id="UUI-0438" data-icon-name="armchair" data-icon-variant="monochrome" data-icon-category="facilities">
+  <title id="uui-0438-monochrome-title" xml:lang="ja">椅子</title>
+  <desc id="uui-0438-monochrome-desc" xml:lang="ja">「椅子」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0438" slug="armchair" variant="monochrome">
+      <uui:name xml:lang="ja">椅子</uui:name>
+      <uui:name xml:lang="en">Armchair</uui:name>
+      <uui:description xml:lang="ja">「椅子」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Armchair” in buildings and facilities contexts.</uui:description>
+      <uui:category id="facilities" xml:lang="ja">建物と生活設備</uui:category>
+      <uui:category id="facilities" xml:lang="en">Buildings and facilities</uui:category>
+      <uui:keywords xml:lang="ja">椅子, 建物と生活設備, armchair</uui:keywords>
+      <uui:keywords xml:lang="en">Armchair, Buildings and facilities, armchair</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/facilities/armchair.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e7b7ecb15bf05e8a7cf0eeb41319c36edc8f88a1a290786600c08b7b975d2a2e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M19 9V6a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M3 16a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-5a2 2 0 0 0-4 0v1.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V11a2 2 0 0 0-4 0z" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M5 18v2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M19 18v2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

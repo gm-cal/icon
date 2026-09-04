@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0084-color-title uui-0084-color-desc" data-icon-id="UUI-0084" data-icon-name="heading-1" data-icon-variant="color" data-icon-category="text">
+  <title id="uui-0084-color-title" xml:lang="ja">見出し1</title>
+  <desc id="uui-0084-color-desc" xml:lang="ja">「見出し1」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0084" slug="heading-1" variant="color">
+      <uui:name xml:lang="ja">見出し1</uui:name>
+      <uui:name xml:lang="en">Heading 1</uui:name>
+      <uui:description xml:lang="ja">「見出し1」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Heading 1” in text editing contexts.</uui:description>
+      <uui:category id="text" xml:lang="ja">文字編集</uui:category>
+      <uui:category id="text" xml:lang="en">Text editing</uui:category>
+      <uui:keywords xml:lang="ja">見出し1, 文字編集, heading, 1</uui:keywords>
+      <uui:keywords xml:lang="en">Heading 1, Text editing, heading, 1</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/text/heading-1.svg"/>
+      <uui:palette primary="#4F46E5" accent="#8B5CF6" secondary="#A78BFA"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3c2e2dd959e8485b4cf2132d196986c32e8552593f38fdb9ac72992c72b42c0f"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 12h8" stroke="#4F46E5" data-uui-role="primary"/>
+    <path d="M4 18V6" stroke="#8B5CF6" data-uui-role="accent"/>
+    <path d="M12 18V6" stroke="#A78BFA" data-uui-role="secondary"/>
+    <path d="m17 12 3-2v8" stroke="#8B5CF6" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0083-monochrome-title uui-0083-monochrome-desc" data-icon-id="UUI-0083" data-icon-name="a-large-small" data-icon-variant="monochrome" data-icon-category="text">
+  <title id="uui-0083-monochrome-title" xml:lang="ja">文字サイズ</title>
+  <desc id="uui-0083-monochrome-desc" xml:lang="ja">「文字サイズ」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0083" slug="a-large-small" variant="monochrome">
+      <uui:name xml:lang="ja">文字サイズ</uui:name>
+      <uui:name xml:lang="en">A Large Small</uui:name>
+      <uui:description xml:lang="ja">「文字サイズ」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “A Large Small” in text editing contexts.</uui:description>
+      <uui:category id="text" xml:lang="ja">文字編集</uui:category>
+      <uui:category id="text" xml:lang="en">Text editing</uui:category>
+      <uui:keywords xml:lang="ja">文字サイズ, 文字編集, a, large, small</uui:keywords>
+      <uui:keywords xml:lang="en">A Large Small, Text editing, a, large, small</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/text/a-large-small.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e1bed6d92b5a3d4e25d012bb1a14732d975424862c08915117c33007d338e1bd"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m15 16 2.536-7.328a1.02 1.02 1 0 1 1.928 0L22 16" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M15.697 14h5.606" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m2 16 4.039-9.69a.5.5 0 0 1 .923 0L11 16" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M3.304 13h6.392" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

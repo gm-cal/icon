@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0186-color-title uui-0186-color-desc" data-icon-id="UUI-0186" data-icon-name="eye" data-icon-variant="color" data-icon-category="security">
+  <title id="uui-0186-color-title" xml:lang="ja">表示</title>
+  <desc id="uui-0186-color-desc" xml:lang="ja">「表示」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0186" slug="eye" variant="color">
+      <uui:name xml:lang="ja">表示</uui:name>
+      <uui:name xml:lang="en">Eye</uui:name>
+      <uui:description xml:lang="ja">「表示」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Eye” in security and privacy contexts.</uui:description>
+      <uui:category id="security" xml:lang="ja">セキュリティ</uui:category>
+      <uui:category id="security" xml:lang="en">Security and privacy</uui:category>
+      <uui:keywords xml:lang="ja">表示, セキュリティ, eye</uui:keywords>
+      <uui:keywords xml:lang="en">Eye, Security and privacy, eye</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/security/eye.svg"/>
+      <uui:palette primary="#B91C1C" accent="#EF4444" secondary="#F87171"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="014a92e763d1b66b6bed4270adc2938768277921fa6747925da48bcddfc454bc"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2.062 12.348a1 1 0 0 1 0-.696 10.75 10.75 0 0 1 19.876 0 1 1 0 0 1 0 .696 10.75 10.75 0 0 1-19.876 0" stroke="#B91C1C" data-uui-role="primary"/>
+    <circle cx="12" cy="12" r="3" stroke="#EF4444" data-uui-role="accent"/>
+  </g>
+</svg>

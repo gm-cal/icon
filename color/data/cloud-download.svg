@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0267-color-title uui-0267-color-desc" data-icon-id="UUI-0267" data-icon-name="cloud-download" data-icon-variant="color" data-icon-category="data">
+  <title id="uui-0267-color-title" xml:lang="ja">クラウドから取得</title>
+  <desc id="uui-0267-color-desc" xml:lang="ja">「クラウドから取得」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0267" slug="cloud-download" variant="color">
+      <uui:name xml:lang="ja">クラウドから取得</uui:name>
+      <uui:name xml:lang="en">Cloud Download</uui:name>
+      <uui:description xml:lang="ja">「クラウドから取得」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Cloud Download” in data and analytics contexts.</uui:description>
+      <uui:category id="data" xml:lang="ja">データと分析</uui:category>
+      <uui:category id="data" xml:lang="en">Data and analytics</uui:category>
+      <uui:keywords xml:lang="ja">クラウドから取得, データと分析, cloud, download</uui:keywords>
+      <uui:keywords xml:lang="en">Cloud Download, Data and analytics, cloud, download</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/data/cloud-download.svg"/>
+      <uui:palette primary="#047857" accent="#10B981" secondary="#34D399"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="c6e2cf77584560504511b598788905abf3371e271d6967598e2a28ec2dd9fcf5"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 13v8l-4-4" stroke="#047857" data-uui-role="primary"/>
+    <path d="m12 21 4-4" stroke="#10B981" data-uui-role="accent"/>
+    <path d="M4.393 15.269A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 2.436 8.284" stroke="#10B981" data-uui-role="accent"/>
+  </g>
+</svg>

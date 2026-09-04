@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0353-monochrome-title uui-0353-monochrome-desc" data-icon-id="UUI-0353" data-icon-name="mouse-pointer-2" data-icon-variant="monochrome" data-icon-category="devices">
+  <title id="uui-0353-monochrome-title" xml:lang="ja">マウスポインター</title>
+  <desc id="uui-0353-monochrome-desc" xml:lang="ja">「マウスポインター」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0353" slug="mouse-pointer-2" variant="monochrome">
+      <uui:name xml:lang="ja">マウスポインター</uui:name>
+      <uui:name xml:lang="en">Mouse Pointer 2</uui:name>
+      <uui:description xml:lang="ja">「マウスポインター」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Mouse Pointer 2” in devices and connectivity contexts.</uui:description>
+      <uui:category id="devices" xml:lang="ja">機器と接続</uui:category>
+      <uui:category id="devices" xml:lang="en">Devices and connectivity</uui:category>
+      <uui:keywords xml:lang="ja">マウスポインター, 機器と接続, mouse, pointer, 2</uui:keywords>
+      <uui:keywords xml:lang="en">Mouse Pointer 2, Devices and connectivity, mouse, pointer, 2</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/devices/mouse-pointer-2.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="17be2892785886e0e79a9ffd235cb7f314f0b96b741d2d887760222eab10baa6"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4.037 4.688a.495.495 0 0 1 .651-.651l16 6.5a.5.5 0 0 1-.063.947l-6.124 1.58a2 2 0 0 0-1.438 1.435l-1.579 6.126a.5.5 0 0 1-.947.063z" stroke="currentColor" data-uui-role="primary"/>
+  </g>
+</svg>

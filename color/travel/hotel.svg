@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0420-color-title uui-0420-color-desc" data-icon-id="UUI-0420" data-icon-name="hotel" data-icon-variant="color" data-icon-category="travel">
+  <title id="uui-0420-color-title" xml:lang="ja">宿泊</title>
+  <desc id="uui-0420-color-desc" xml:lang="ja">「宿泊」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0420" slug="hotel" variant="color">
+      <uui:name xml:lang="ja">宿泊</uui:name>
+      <uui:name xml:lang="en">Hotel</uui:name>
+      <uui:description xml:lang="ja">「宿泊」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Hotel” in maps and travel contexts.</uui:description>
+      <uui:category id="travel" xml:lang="ja">地図と移動</uui:category>
+      <uui:category id="travel" xml:lang="en">Maps and travel</uui:category>
+      <uui:keywords xml:lang="ja">宿泊, 地図と移動, hotel</uui:keywords>
+      <uui:keywords xml:lang="en">Hotel, Maps and travel, hotel</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/travel/hotel.svg"/>
+      <uui:palette primary="#0F766E" accent="#2DD4BF" secondary="#5EEAD4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="595bb49348e7ff8e25c556f99a1267dbe9ab6a8bd9896cd0b5b616feb84ebe73"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 22v-6.57" stroke="#0F766E" data-uui-role="primary"/>
+    <path d="M12 11h.01" stroke="#2DD4BF" data-uui-role="accent"/>
+    <path d="M12 7h.01" stroke="#5EEAD4" data-uui-role="secondary"/>
+    <path d="M14 15.43V22" stroke="#2DD4BF" data-uui-role="accent"/>
+    <path d="M15 16a5 5 0 0 0-6 0" stroke="#5EEAD4" data-uui-role="secondary"/>
+    <path d="M16 11h.01" stroke="#2DD4BF" data-uui-role="accent"/>
+    <path d="M16 7h.01" stroke="#5EEAD4" data-uui-role="secondary"/>
+    <path d="M8 11h.01" stroke="#2DD4BF" data-uui-role="accent"/>
+    <path d="M8 7h.01" stroke="#5EEAD4" data-uui-role="secondary"/>
+    <rect x="4" y="2" width="16" height="20" rx="2" stroke="#2DD4BF" data-uui-role="accent"/>
+  </g>
+</svg>

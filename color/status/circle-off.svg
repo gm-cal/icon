@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0350-color-title uui-0350-color-desc" data-icon-id="UUI-0350" data-icon-name="circle-off" data-icon-variant="color" data-icon-category="status">
+  <title id="uui-0350-color-title" xml:lang="ja">無効</title>
+  <desc id="uui-0350-color-desc" xml:lang="ja">「無効」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0350" slug="circle-off" variant="color">
+      <uui:name xml:lang="ja">無効</uui:name>
+      <uui:name xml:lang="en">Circle Off</uui:name>
+      <uui:description xml:lang="ja">「無効」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Circle Off” in status and feedback contexts.</uui:description>
+      <uui:category id="status" xml:lang="ja">状態とフィードバック</uui:category>
+      <uui:category id="status" xml:lang="en">Status and feedback</uui:category>
+      <uui:keywords xml:lang="ja">無効, 状態とフィードバック, circle, off</uui:keywords>
+      <uui:keywords xml:lang="en">Circle Off, Status and feedback, circle, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/status/circle-off.svg"/>
+      <uui:palette primary="#334155" accent="#64748B" secondary="#CBD5E1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3045c864dc746637f13f228093d245611b7aefabac090a569ca6f1935994928d"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m2 2 20 20" stroke="#334155" data-uui-role="primary"/>
+    <path d="M8.35 2.69A10 10 0 0 1 21.3 15.65" stroke="#64748B" data-uui-role="accent"/>
+    <path d="M19.08 19.08A10 10 0 1 1 4.92 4.92" stroke="#64748B" data-uui-role="accent"/>
+  </g>
+</svg>

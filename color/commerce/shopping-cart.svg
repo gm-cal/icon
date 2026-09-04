@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0301-color-title uui-0301-color-desc" data-icon-id="UUI-0301" data-icon-name="shopping-cart" data-icon-variant="color" data-icon-category="commerce">
+  <title id="uui-0301-color-title" xml:lang="ja">買い物かご</title>
+  <desc id="uui-0301-color-desc" xml:lang="ja">「買い物かご」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0301" slug="shopping-cart" variant="color">
+      <uui:name xml:lang="ja">買い物かご</uui:name>
+      <uui:name xml:lang="en">Shopping Cart</uui:name>
+      <uui:description xml:lang="ja">「買い物かご」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Shopping Cart” in commerce and finance contexts.</uui:description>
+      <uui:category id="commerce" xml:lang="ja">商取引と金融</uui:category>
+      <uui:category id="commerce" xml:lang="en">Commerce and finance</uui:category>
+      <uui:keywords xml:lang="ja">買い物かご, 商取引と金融, shopping, cart</uui:keywords>
+      <uui:keywords xml:lang="en">Shopping Cart, Commerce and finance, shopping, cart</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/commerce/shopping-cart.svg"/>
+      <uui:palette primary="#15803D" accent="#22C55E" secondary="#4ADE80"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="decbaaa24e326130f5b90fb698771474990c175fa6e23d6aa10795310b996e48"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="8" cy="21" r="1" stroke="#15803D" data-uui-role="primary"/>
+    <circle cx="19" cy="21" r="1" stroke="#22C55E" data-uui-role="accent"/>
+    <path d="M2.05 2.05h2l2.66 12.42a2 2 0 0 0 2 1.58h9.78a2 2 0 0 0 1.95-1.57l1.65-7.43H5.12" stroke="#22C55E" data-uui-role="accent"/>
+  </g>
+</svg>

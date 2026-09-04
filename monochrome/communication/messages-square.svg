@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0134-monochrome-title uui-0134-monochrome-desc" data-icon-id="UUI-0134" data-icon-name="messages-square" data-icon-variant="monochrome" data-icon-category="communication">
+  <title id="uui-0134-monochrome-title" xml:lang="ja">複数メッセージ</title>
+  <desc id="uui-0134-monochrome-desc" xml:lang="ja">「複数メッセージ」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0134" slug="messages-square" variant="monochrome">
+      <uui:name xml:lang="ja">複数メッセージ</uui:name>
+      <uui:name xml:lang="en">Messages Square</uui:name>
+      <uui:description xml:lang="ja">「複数メッセージ」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Messages Square” in communication contexts.</uui:description>
+      <uui:category id="communication" xml:lang="ja">通信と連絡</uui:category>
+      <uui:category id="communication" xml:lang="en">Communication</uui:category>
+      <uui:keywords xml:lang="ja">複数メッセージ, 通信と連絡, messages, square</uui:keywords>
+      <uui:keywords xml:lang="en">Messages Square, Communication, messages, square</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/communication/messages-square.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="dca9063a3144b5d4294e08a7f2a16cadc42e00f822b13c4f609d93a78f0eabc4"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M16 10a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 14.286V4a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M20 9a2 2 0 0 1 2 2v10.286a.71.71 0 0 1-1.212.502l-2.202-2.202A2 2 0 0 0 17.172 19H10a2 2 0 0 1-2-2v-1" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

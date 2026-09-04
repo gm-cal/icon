@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0332-color-title uui-0332-color-desc" data-icon-id="UUI-0332" data-icon-name="badge-question-mark" data-icon-variant="color" data-icon-category="status">
+  <title id="uui-0332-color-title" xml:lang="ja">ヘルプバッジ</title>
+  <desc id="uui-0332-color-desc" xml:lang="ja">「ヘルプバッジ」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0332" slug="badge-question-mark" variant="color">
+      <uui:name xml:lang="ja">ヘルプバッジ</uui:name>
+      <uui:name xml:lang="en">Badge Question Mark</uui:name>
+      <uui:description xml:lang="ja">「ヘルプバッジ」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Badge Question Mark” in status and feedback contexts.</uui:description>
+      <uui:category id="status" xml:lang="ja">状態とフィードバック</uui:category>
+      <uui:category id="status" xml:lang="en">Status and feedback</uui:category>
+      <uui:keywords xml:lang="ja">ヘルプバッジ, 状態とフィードバック, badge, question, mark</uui:keywords>
+      <uui:keywords xml:lang="en">Badge Question Mark, Status and feedback, badge, question, mark</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/status/badge-question-mark.svg"/>
+      <uui:palette primary="#7E22CE" accent="#A855F7" secondary="#D8B4FE"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="a8bc7b7e4dfd41359803e81ec23aa1cfd532f61bf1e49317cce20cb4f819adf2"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="#7E22CE" data-uui-role="primary"/>
+    <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3" stroke="#A855F7" data-uui-role="accent"/>
+    <line x1="12" x2="12.01" y1="17" y2="17" stroke="#A855F7" data-uui-role="accent"/>
+  </g>
+</svg>

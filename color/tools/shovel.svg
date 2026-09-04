@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0400-color-title uui-0400-color-desc" data-icon-id="UUI-0400" data-icon-name="shovel" data-icon-variant="color" data-icon-category="tools">
+  <title id="uui-0400-color-title" xml:lang="ja">シャベル</title>
+  <desc id="uui-0400-color-desc" xml:lang="ja">「シャベル」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0400" slug="shovel" variant="color">
+      <uui:name xml:lang="ja">シャベル</uui:name>
+      <uui:name xml:lang="en">Shovel</uui:name>
+      <uui:description xml:lang="ja">「シャベル」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Shovel” in settings and tools contexts.</uui:description>
+      <uui:category id="tools" xml:lang="ja">設定と工具</uui:category>
+      <uui:category id="tools" xml:lang="en">Settings and tools</uui:category>
+      <uui:keywords xml:lang="ja">シャベル, 設定と工具, shovel</uui:keywords>
+      <uui:keywords xml:lang="en">Shovel, Settings and tools, shovel</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/tools/shovel.svg"/>
+      <uui:palette primary="#57534E" accent="#A8A29E" secondary="#D6D3D1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="ae95e68ddeb4e09be205eec850316ec29ea94d80b20654e78e48da4388717c81"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M21.56 4.56a1.5 1.5 0 0 1 0 2.122l-.47.47a3 3 0 0 1-4.212-.03 3 3 0 0 1 0-4.243l.44-.44a1.5 1.5 0 0 1 2.121 0z" stroke="#57534E" data-uui-role="primary"/>
+    <path d="M3 22a1 1 0 0 1-1-1v-3.586a1 1 0 0 1 .293-.707l3.355-3.355a1.205 1.205 0 0 1 1.704 0l3.296 3.296a1.205 1.205 0 0 1 0 1.704l-3.355 3.355a1 1 0 0 1-.707.293z" stroke="#A8A29E" data-uui-role="accent"/>
+    <path d="m9 15 7.879-7.878" stroke="#A8A29E" data-uui-role="accent"/>
+  </g>
+</svg>

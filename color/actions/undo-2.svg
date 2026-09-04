@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0037-color-title uui-0037-color-desc" data-icon-id="UUI-0037" data-icon-name="undo-2" data-icon-variant="color" data-icon-category="actions">
+  <title id="uui-0037-color-title" xml:lang="ja">元に戻す</title>
+  <desc id="uui-0037-color-desc" xml:lang="ja">「元に戻す」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0037" slug="undo-2" variant="color">
+      <uui:name xml:lang="ja">元に戻す</uui:name>
+      <uui:name xml:lang="en">Undo 2</uui:name>
+      <uui:description xml:lang="ja">「元に戻す」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Undo 2” in actions contexts.</uui:description>
+      <uui:category id="actions" xml:lang="ja">基本操作</uui:category>
+      <uui:category id="actions" xml:lang="en">Actions</uui:category>
+      <uui:keywords xml:lang="ja">元に戻す, 基本操作, undo, 2</uui:keywords>
+      <uui:keywords xml:lang="en">Undo 2, Actions, undo, 2</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/actions/undo-2.svg"/>
+      <uui:palette primary="#0F766E" accent="#14B8A6" secondary="#5EEAD4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e891d44978dfdc63d39b359b0786740e094adb6d3a8980cc45f75790ccda62b7"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M9 14 4 9l5-5" stroke="#0F766E" data-uui-role="primary"/>
+    <path d="M4 9h10.5a5.5 5.5 0 0 1 5.5 5.5a5.5 5.5 0 0 1-5.5 5.5H11" stroke="#14B8A6" data-uui-role="accent"/>
+  </g>
+</svg>

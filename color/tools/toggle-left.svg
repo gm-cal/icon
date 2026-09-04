@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0389-color-title uui-0389-color-desc" data-icon-id="UUI-0389" data-icon-name="toggle-left" data-icon-variant="color" data-icon-category="tools">
+  <title id="uui-0389-color-title" xml:lang="ja">切替オフ</title>
+  <desc id="uui-0389-color-desc" xml:lang="ja">「切替オフ」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0389" slug="toggle-left" variant="color">
+      <uui:name xml:lang="ja">切替オフ</uui:name>
+      <uui:name xml:lang="en">Toggle Left</uui:name>
+      <uui:description xml:lang="ja">「切替オフ」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Toggle Left” in settings and tools contexts.</uui:description>
+      <uui:category id="tools" xml:lang="ja">設定と工具</uui:category>
+      <uui:category id="tools" xml:lang="en">Settings and tools</uui:category>
+      <uui:keywords xml:lang="ja">切替オフ, 設定と工具, toggle, left</uui:keywords>
+      <uui:keywords xml:lang="en">Toggle Left, Settings and tools, toggle, left</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/tools/toggle-left.svg"/>
+      <uui:palette primary="#57534E" accent="#A8A29E" secondary="#D6D3D1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4b7c91c53b020a8f87eac4bae82f843f5b40571279a9d95aaa9b869e1a0f9807"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="9" cy="12" r="3" stroke="#57534E" data-uui-role="primary"/>
+    <rect width="20" height="14" x="2" y="5" rx="7" stroke="#A8A29E" data-uui-role="accent"/>
+  </g>
+</svg>

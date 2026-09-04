@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0215-color-title uui-0215-color-desc" data-icon-id="UUI-0215" data-icon-name="timer-reset" data-icon-variant="color" data-icon-category="time">
+  <title id="uui-0215-color-title" xml:lang="ja">タイマー再設定</title>
+  <desc id="uui-0215-color-desc" xml:lang="ja">「タイマー再設定」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0215" slug="timer-reset" variant="color">
+      <uui:name xml:lang="ja">タイマー再設定</uui:name>
+      <uui:name xml:lang="en">Timer Reset</uui:name>
+      <uui:description xml:lang="ja">「タイマー再設定」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Timer Reset” in date and time contexts.</uui:description>
+      <uui:category id="time" xml:lang="ja">日時と履歴</uui:category>
+      <uui:category id="time" xml:lang="en">Date and time</uui:category>
+      <uui:keywords xml:lang="ja">タイマー再設定, 日時と履歴, timer, reset</uui:keywords>
+      <uui:keywords xml:lang="en">Timer Reset, Date and time, timer, reset</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/time/timer-reset.svg"/>
+      <uui:palette primary="#A16207" accent="#EAB308" secondary="#FACC15"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="1a20e0642d80e79260fe57c6ac69a73f615fce4b0afafe7d7d8f6c087b9ce906"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 2h4" stroke="#A16207" data-uui-role="primary"/>
+    <path d="M12 14v-4" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M4 13a8 8 0 0 1 8-7 8 8 0 1 1-5.3 14L4 17.6" stroke="#FACC15" data-uui-role="secondary"/>
+    <path d="M9 17H4v5" stroke="#EAB308" data-uui-role="accent"/>
+  </g>
+</svg>

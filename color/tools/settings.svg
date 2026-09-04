@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0376-color-title uui-0376-color-desc" data-icon-id="UUI-0376" data-icon-name="settings" data-icon-variant="color" data-icon-category="tools">
+  <title id="uui-0376-color-title" xml:lang="ja">設定</title>
+  <desc id="uui-0376-color-desc" xml:lang="ja">「設定」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0376" slug="settings" variant="color">
+      <uui:name xml:lang="ja">設定</uui:name>
+      <uui:name xml:lang="en">Settings</uui:name>
+      <uui:description xml:lang="ja">「設定」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Settings” in settings and tools contexts.</uui:description>
+      <uui:category id="tools" xml:lang="ja">設定と工具</uui:category>
+      <uui:category id="tools" xml:lang="en">Settings and tools</uui:category>
+      <uui:keywords xml:lang="ja">設定, 設定と工具, settings</uui:keywords>
+      <uui:keywords xml:lang="en">Settings, Settings and tools, settings</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/tools/settings.svg"/>
+      <uui:palette primary="#57534E" accent="#A8A29E" secondary="#D6D3D1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="8dcacc98deff94829f32014b7ffcd4a3ca0ef23de0a1c5f3b266554a0e28d9ad"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M9.671 4.136a2.34 2.34 0 0 1 4.659 0 2.34 2.34 0 0 0 3.319 1.915 2.34 2.34 0 0 1 2.33 4.033 2.34 2.34 0 0 0 0 3.831 2.34 2.34 0 0 1-2.33 4.033 2.34 2.34 0 0 0-3.319 1.915 2.34 2.34 0 0 1-4.659 0 2.34 2.34 0 0 0-3.32-1.915 2.34 2.34 0 0 1-2.33-4.033 2.34 2.34 0 0 0 0-3.831A2.34 2.34 0 0 1 6.35 6.051a2.34 2.34 0 0 0 3.319-1.915" stroke="#57534E" data-uui-role="primary"/>
+    <circle cx="12" cy="12" r="3" stroke="#A8A29E" data-uui-role="accent"/>
+  </g>
+</svg>

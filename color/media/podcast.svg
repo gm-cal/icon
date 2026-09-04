@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0238-color-title uui-0238-color-desc" data-icon-id="UUI-0238" data-icon-name="podcast" data-icon-variant="color" data-icon-category="media">
+  <title id="uui-0238-color-title" xml:lang="ja">ポッドキャスト</title>
+  <desc id="uui-0238-color-desc" xml:lang="ja">「ポッドキャスト」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0238" slug="podcast" variant="color">
+      <uui:name xml:lang="ja">ポッドキャスト</uui:name>
+      <uui:name xml:lang="en">Podcast</uui:name>
+      <uui:description xml:lang="ja">「ポッドキャスト」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Podcast” in media contexts.</uui:description>
+      <uui:category id="media" xml:lang="ja">画像・音声・映像</uui:category>
+      <uui:category id="media" xml:lang="en">Media</uui:category>
+      <uui:keywords xml:lang="ja">ポッドキャスト, 画像・音声・映像, podcast</uui:keywords>
+      <uui:keywords xml:lang="en">Podcast, Media, podcast</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/media/podcast.svg"/>
+      <uui:palette primary="#BE185D" accent="#EC4899" secondary="#F472B6"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="419ccb36bdd15f233285adf97088ffc7b39ecee950eba55f7896298c9cdc4a69"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M13 17a1 1 0 1 0-2 0l.5 4.5a0.5 0.5 0 0 0 1 0z" fill="currentColor" stroke="#BE185D" data-uui-role="primary"/>
+    <path d="M16.85 18.58a9 9 0 1 0-9.7 0" stroke="#EC4899" data-uui-role="accent"/>
+    <path d="M8 14a5 5 0 1 1 8 0" stroke="#F472B6" data-uui-role="secondary"/>
+    <circle cx="12" cy="11" r="1" fill="currentColor" stroke="#EC4899" data-uui-role="accent"/>
+  </g>
+</svg>

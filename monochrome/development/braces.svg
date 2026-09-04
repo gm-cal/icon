@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0278-monochrome-title uui-0278-monochrome-desc" data-icon-id="UUI-0278" data-icon-name="braces" data-icon-variant="monochrome" data-icon-category="development">
+  <title id="uui-0278-monochrome-title" xml:lang="ja">波括弧</title>
+  <desc id="uui-0278-monochrome-desc" xml:lang="ja">「波括弧」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0278" slug="braces" variant="monochrome">
+      <uui:name xml:lang="ja">波括弧</uui:name>
+      <uui:name xml:lang="en">Braces</uui:name>
+      <uui:description xml:lang="ja">「波括弧」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Braces” in development and systems contexts.</uui:description>
+      <uui:category id="development" xml:lang="ja">開発とシステム</uui:category>
+      <uui:category id="development" xml:lang="en">Development and systems</uui:category>
+      <uui:keywords xml:lang="ja">波括弧, 開発とシステム, braces</uui:keywords>
+      <uui:keywords xml:lang="en">Braces, Development and systems, braces</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/development/braces.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="14f7321706c8cdad603eb08a8a6b4cb29434daffc727933d91ae244b61a124e2"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M8 3H7a2 2 0 0 0-2 2v5a2 2 0 0 1-2 2 2 2 0 0 1 2 2v5c0 1.1.9 2 2 2h1" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16 21h1a2 2 0 0 0 2-2v-5c0-1.1.9-2 2-2a2 2 0 0 1-2-2V5a2 2 0 0 0-2-2h-1" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

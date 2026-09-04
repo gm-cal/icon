@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0499-monochrome-title uui-0499-monochrome-desc" data-icon-id="UUI-0499" data-icon-name="cloud-moon" data-icon-variant="monochrome" data-icon-category="weather">
+  <title id="uui-0499-monochrome-title" xml:lang="ja">夜の曇り</title>
+  <desc id="uui-0499-monochrome-desc" xml:lang="ja">「夜の曇り」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0499" slug="cloud-moon" variant="monochrome">
+      <uui:name xml:lang="ja">夜の曇り</uui:name>
+      <uui:name xml:lang="en">Cloud Moon</uui:name>
+      <uui:description xml:lang="ja">「夜の曇り」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Cloud Moon” in nature and weather contexts.</uui:description>
+      <uui:category id="weather" xml:lang="ja">自然と天候</uui:category>
+      <uui:category id="weather" xml:lang="en">Nature and weather</uui:category>
+      <uui:keywords xml:lang="ja">夜の曇り, 自然と天候, cloud, moon</uui:keywords>
+      <uui:keywords xml:lang="en">Cloud Moon, Nature and weather, cloud, moon</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/weather/cloud-moon.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="1024dcb33ba5796f24ead60dcdd00de5f746097e0fdabc66d1f92b558c2558a3"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M13 16a3 3 0 0 1 0 6H7a5 5 0 1 1 4.9-6z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M18.376 14.512a6 6 0 0 0 3.461-4.127c.148-.625-.659-.97-1.248-.714a4 4 0 0 1-5.259-5.26c.255-.589-.09-1.395-.716-1.248a6 6 0 0 0-4.594 5.36" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

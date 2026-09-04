@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0025-color-title uui-0025-color-desc" data-icon-id="UUI-0025" data-icon-name="navigation" data-icon-variant="color" data-icon-category="navigation">
+  <title id="uui-0025-color-title" xml:lang="ja">進行方向</title>
+  <desc id="uui-0025-color-desc" xml:lang="ja">「進行方向」を表す汎用UIアイコン。ナビゲーションに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0025" slug="navigation" variant="color">
+      <uui:name xml:lang="ja">進行方向</uui:name>
+      <uui:name xml:lang="en">Navigation</uui:name>
+      <uui:description xml:lang="ja">「進行方向」を表す汎用UIアイコン。ナビゲーションに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Navigation” in navigation contexts.</uui:description>
+      <uui:category id="navigation" xml:lang="ja">ナビゲーション</uui:category>
+      <uui:category id="navigation" xml:lang="en">Navigation</uui:category>
+      <uui:keywords xml:lang="ja">進行方向, ナビゲーション, navigation</uui:keywords>
+      <uui:keywords xml:lang="en">Navigation, navigation</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/navigation/navigation.svg"/>
+      <uui:palette primary="#2563EB" accent="#06B6D4" secondary="#60A5FA"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="987433ceb96f28b2dba7463abd985c15c60b6ddf4f4e7deb0102b92e7cc69050"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <polygon points="3 11 22 2 13 21 11 13 3 11" stroke="#2563EB" data-uui-role="primary"/>
+  </g>
+</svg>

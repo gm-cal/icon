@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0115-color-title uui-0115-color-desc" data-icon-id="UUI-0115" data-icon-name="minimize-2" data-icon-variant="color" data-icon-category="layout">
+  <title id="uui-0115-color-title" xml:lang="ja">最小化</title>
+  <desc id="uui-0115-color-desc" xml:lang="ja">「最小化」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0115" slug="minimize-2" variant="color">
+      <uui:name xml:lang="ja">最小化</uui:name>
+      <uui:name xml:lang="en">Minimize 2</uui:name>
+      <uui:description xml:lang="ja">「最小化」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Minimize 2” in layout and windows contexts.</uui:description>
+      <uui:category id="layout" xml:lang="ja">画面とレイアウト</uui:category>
+      <uui:category id="layout" xml:lang="en">Layout and windows</uui:category>
+      <uui:keywords xml:lang="ja">最小化, 画面とレイアウト, minimize, 2</uui:keywords>
+      <uui:keywords xml:lang="en">Minimize 2, Layout and windows, minimize, 2</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/layout/minimize-2.svg"/>
+      <uui:palette primary="#0369A1" accent="#0EA5E9" secondary="#38BDF8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="a85b898dc068a1b1fcb5880f91ff1a12bd8fa05323c1236f0d80bb424e3bc578"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m14 10 7-7" stroke="#0369A1" data-uui-role="primary"/>
+    <path d="M20 10h-6V4" stroke="#0EA5E9" data-uui-role="accent"/>
+    <path d="m3 21 7-7" stroke="#38BDF8" data-uui-role="secondary"/>
+    <path d="M4 14h6v6" stroke="#0EA5E9" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0361-monochrome-title uui-0361-monochrome-desc" data-icon-id="UUI-0361" data-icon-name="battery-full" data-icon-variant="monochrome" data-icon-category="devices">
+  <title id="uui-0361-monochrome-title" xml:lang="ja">満充電</title>
+  <desc id="uui-0361-monochrome-desc" xml:lang="ja">「満充電」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0361" slug="battery-full" variant="monochrome">
+      <uui:name xml:lang="ja">満充電</uui:name>
+      <uui:name xml:lang="en">Battery Full</uui:name>
+      <uui:description xml:lang="ja">「満充電」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Battery Full” in devices and connectivity contexts.</uui:description>
+      <uui:category id="devices" xml:lang="ja">機器と接続</uui:category>
+      <uui:category id="devices" xml:lang="en">Devices and connectivity</uui:category>
+      <uui:keywords xml:lang="ja">満充電, 機器と接続, battery, full</uui:keywords>
+      <uui:keywords xml:lang="en">Battery Full, Devices and connectivity, battery, full</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/devices/battery-full.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="bbacda97d4fdddb54ed08d928419e183f5629ebc5fbde1801abe8e51ac79b2f8"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 10v4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M14 10v4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M22 14v-4" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M6 10v4" stroke="currentColor" data-uui-role="accent"/>
+    <rect x="2" y="6" width="16" height="12" rx="2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

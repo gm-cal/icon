@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0258-monochrome-title uui-0258-monochrome-desc" data-icon-id="UUI-0258" data-icon-name="activity" data-icon-variant="monochrome" data-icon-category="data">
+  <title id="uui-0258-monochrome-title" xml:lang="ja">活動量</title>
+  <desc id="uui-0258-monochrome-desc" xml:lang="ja">「活動量」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0258" slug="activity" variant="monochrome">
+      <uui:name xml:lang="ja">活動量</uui:name>
+      <uui:name xml:lang="en">Activity</uui:name>
+      <uui:description xml:lang="ja">「活動量」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Activity” in data and analytics contexts.</uui:description>
+      <uui:category id="data" xml:lang="ja">データと分析</uui:category>
+      <uui:category id="data" xml:lang="en">Data and analytics</uui:category>
+      <uui:keywords xml:lang="ja">活動量, データと分析, activity</uui:keywords>
+      <uui:keywords xml:lang="en">Activity, Data and analytics, activity</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/data/activity.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="515d34b71336b67c1d2d40b2b17bb5176d7d612ffe8b139fe9e7cbb4fec80268"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M22 12h-2.48a2 2 0 0 0-1.93 1.46l-2.35 8.36a.25.25 0 0 1-.48 0L9.24 2.18a.25.25 0 0 0-.48 0l-2.35 8.36A2 2 0 0 1 4.49 12H2" stroke="currentColor" data-uui-role="primary"/>
+  </g>
+</svg>

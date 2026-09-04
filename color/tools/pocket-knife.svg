@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0399-color-title uui-0399-color-desc" data-icon-id="UUI-0399" data-icon-name="pocket-knife" data-icon-variant="color" data-icon-category="tools">
+  <title id="uui-0399-color-title" xml:lang="ja">多用途工具</title>
+  <desc id="uui-0399-color-desc" xml:lang="ja">「多用途工具」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0399" slug="pocket-knife" variant="color">
+      <uui:name xml:lang="ja">多用途工具</uui:name>
+      <uui:name xml:lang="en">Pocket Knife</uui:name>
+      <uui:description xml:lang="ja">「多用途工具」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Pocket Knife” in settings and tools contexts.</uui:description>
+      <uui:category id="tools" xml:lang="ja">設定と工具</uui:category>
+      <uui:category id="tools" xml:lang="en">Settings and tools</uui:category>
+      <uui:keywords xml:lang="ja">多用途工具, 設定と工具, pocket, knife</uui:keywords>
+      <uui:keywords xml:lang="en">Pocket Knife, Settings and tools, pocket, knife</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/tools/pocket-knife.svg"/>
+      <uui:palette primary="#57534E" accent="#A8A29E" secondary="#D6D3D1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3aee91925d3d9d50d5fe516d7e5ea7885c9277deaf5037a4733e37e78de4d6df"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M3 2v1c0 1 2 1 2 2S3 6 3 7s2 1 2 2-2 1-2 2 2 1 2 2" stroke="#57534E" data-uui-role="primary"/>
+    <path d="M18 6h.01" stroke="#A8A29E" data-uui-role="accent"/>
+    <path d="M6 18h.01" stroke="#D6D3D1" data-uui-role="secondary"/>
+    <path d="M20.83 8.83a4 4 0 0 0-5.66-5.66l-12 12a4 4 0 1 0 5.66 5.66Z" stroke="#A8A29E" data-uui-role="accent"/>
+    <path d="M18 11.66V22a4 4 0 0 0 4-4V6" stroke="#A8A29E" data-uui-role="accent"/>
+  </g>
+</svg>

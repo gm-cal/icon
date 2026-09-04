@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0325-color-title uui-0325-color-desc" data-icon-id="UUI-0325" data-icon-name="piggy-bank" data-icon-variant="color" data-icon-category="commerce">
+  <title id="uui-0325-color-title" xml:lang="ja">貯蓄</title>
+  <desc id="uui-0325-color-desc" xml:lang="ja">「貯蓄」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0325" slug="piggy-bank" variant="color">
+      <uui:name xml:lang="ja">貯蓄</uui:name>
+      <uui:name xml:lang="en">Piggy Bank</uui:name>
+      <uui:description xml:lang="ja">「貯蓄」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Piggy Bank” in commerce and finance contexts.</uui:description>
+      <uui:category id="commerce" xml:lang="ja">商取引と金融</uui:category>
+      <uui:category id="commerce" xml:lang="en">Commerce and finance</uui:category>
+      <uui:keywords xml:lang="ja">貯蓄, 商取引と金融, piggy, bank</uui:keywords>
+      <uui:keywords xml:lang="en">Piggy Bank, Commerce and finance, piggy, bank</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/commerce/piggy-bank.svg"/>
+      <uui:palette primary="#15803D" accent="#22C55E" secondary="#4ADE80"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3c2f66d985592be3dbc8fac583d636e7408fc9d56b1b383d58327bee069a0791"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M11 17h3v2a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-3a3.16 3.16 0 0 0 2-2h1a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1h-1a5 5 0 0 0-2-4V3a4 4 0 0 0-3.2 1.6l-.3.4H11a6 6 0 0 0-6 6v1a5 5 0 0 0 2 4v3a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1z" stroke="#15803D" data-uui-role="primary"/>
+    <path d="M16 10h.01" stroke="#22C55E" data-uui-role="accent"/>
+    <path d="M2 8v1a2 2 0 0 0 2 2h1" stroke="#22C55E" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0388-color-title uui-0388-color-desc" data-icon-id="UUI-0388" data-icon-name="sliders-vertical" data-icon-variant="color" data-icon-category="tools">
+  <title id="uui-0388-color-title" xml:lang="ja">詳細調整</title>
+  <desc id="uui-0388-color-desc" xml:lang="ja">「詳細調整」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0388" slug="sliders-vertical" variant="color">
+      <uui:name xml:lang="ja">詳細調整</uui:name>
+      <uui:name xml:lang="en">Sliders Vertical</uui:name>
+      <uui:description xml:lang="ja">「詳細調整」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Sliders Vertical” in settings and tools contexts.</uui:description>
+      <uui:category id="tools" xml:lang="ja">設定と工具</uui:category>
+      <uui:category id="tools" xml:lang="en">Settings and tools</uui:category>
+      <uui:keywords xml:lang="ja">詳細調整, 設定と工具, sliders, vertical</uui:keywords>
+      <uui:keywords xml:lang="en">Sliders Vertical, Settings and tools, sliders, vertical</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/tools/sliders-vertical.svg"/>
+      <uui:palette primary="#57534E" accent="#A8A29E" secondary="#D6D3D1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="40c9745d4639a4fbacb372a1f11e86aecb3cebcd7972f7722cf6dea35f14984b"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 8h4" stroke="#57534E" data-uui-role="primary"/>
+    <path d="M12 21v-9" stroke="#A8A29E" data-uui-role="accent"/>
+    <path d="M12 8V3" stroke="#D6D3D1" data-uui-role="secondary"/>
+    <path d="M17 16h4" stroke="#A8A29E" data-uui-role="accent"/>
+    <path d="M19 12V3" stroke="#D6D3D1" data-uui-role="secondary"/>
+    <path d="M19 21v-5" stroke="#A8A29E" data-uui-role="accent"/>
+    <path d="M3 14h4" stroke="#D6D3D1" data-uui-role="secondary"/>
+    <path d="M5 10V3" stroke="#A8A29E" data-uui-role="accent"/>
+    <path d="M5 21v-7" stroke="#A8A29E" data-uui-role="accent"/>
+  </g>
+</svg>

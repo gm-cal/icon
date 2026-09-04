@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0052-monochrome-title uui-0052-monochrome-desc" data-icon-id="UUI-0052" data-icon-name="file-text" data-icon-variant="monochrome" data-icon-category="files">
+  <title id="uui-0052-monochrome-title" xml:lang="ja">文書ファイル</title>
+  <desc id="uui-0052-monochrome-desc" xml:lang="ja">「文書ファイル」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0052" slug="file-text" variant="monochrome">
+      <uui:name xml:lang="ja">文書ファイル</uui:name>
+      <uui:name xml:lang="en">File Text</uui:name>
+      <uui:description xml:lang="ja">「文書ファイル」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Text” in files and folders contexts.</uui:description>
+      <uui:category id="files" xml:lang="ja">ファイルとフォルダー</uui:category>
+      <uui:category id="files" xml:lang="en">Files and folders</uui:category>
+      <uui:keywords xml:lang="ja">文書ファイル, ファイルとフォルダー, file, text</uui:keywords>
+      <uui:keywords xml:lang="en">File Text, Files and folders, file, text</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/files/file-text.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3736b6a310328a969af9a64e8f1ff879c9905560a35ad80c30bdc545cd7aa679"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M10 9H8" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M16 13H8" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M16 17H8" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

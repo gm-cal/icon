@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0445-color-title uui-0445-color-desc" data-icon-id="UUI-0445" data-icon-name="refrigerator" data-icon-variant="color" data-icon-category="facilities">
+  <title id="uui-0445-color-title" xml:lang="ja">冷蔵庫</title>
+  <desc id="uui-0445-color-desc" xml:lang="ja">「冷蔵庫」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0445" slug="refrigerator" variant="color">
+      <uui:name xml:lang="ja">冷蔵庫</uui:name>
+      <uui:name xml:lang="en">Refrigerator</uui:name>
+      <uui:description xml:lang="ja">「冷蔵庫」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Refrigerator” in buildings and facilities contexts.</uui:description>
+      <uui:category id="facilities" xml:lang="ja">建物と生活設備</uui:category>
+      <uui:category id="facilities" xml:lang="en">Buildings and facilities</uui:category>
+      <uui:keywords xml:lang="ja">冷蔵庫, 建物と生活設備, refrigerator</uui:keywords>
+      <uui:keywords xml:lang="en">Refrigerator, Buildings and facilities, refrigerator</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/facilities/refrigerator.svg"/>
+      <uui:palette primary="#92400E" accent="#D97706" secondary="#F59E0B"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e2a327ccaf2cde8073c4eaad7b2e5a29040c7dd08af42cf5c54f9ce187949449"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M5 6a4 4 0 0 1 4-4h6a4 4 0 0 1 4 4v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6Z" stroke="#92400E" data-uui-role="primary"/>
+    <path d="M5 10h14" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M15 7v6" stroke="#D97706" data-uui-role="accent"/>
+  </g>
+</svg>

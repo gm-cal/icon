@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0425-monochrome-title uui-0425-monochrome-desc" data-icon-id="UUI-0425" data-icon-name="anchor" data-icon-variant="monochrome" data-icon-category="travel">
+  <title id="uui-0425-monochrome-title" xml:lang="ja">港</title>
+  <desc id="uui-0425-monochrome-desc" xml:lang="ja">「港」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0425" slug="anchor" variant="monochrome">
+      <uui:name xml:lang="ja">港</uui:name>
+      <uui:name xml:lang="en">Anchor</uui:name>
+      <uui:description xml:lang="ja">「港」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Anchor” in maps and travel contexts.</uui:description>
+      <uui:category id="travel" xml:lang="ja">地図と移動</uui:category>
+      <uui:category id="travel" xml:lang="en">Maps and travel</uui:category>
+      <uui:keywords xml:lang="ja">港, 地図と移動, anchor</uui:keywords>
+      <uui:keywords xml:lang="en">Anchor, Maps and travel, anchor</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/travel/anchor.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="fbd891072ba25704ed3289bf3e0e8f640dc72bc4c705d74a9589cdf3fe51e2df"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 6v16" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m19 13 2-1a9 9 0 0 1-18 0l2 1" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M9 11h6" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="12" cy="4" r="2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

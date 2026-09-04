@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0372-monochrome-title uui-0372-monochrome-desc" data-icon-id="UUI-0372" data-icon-name="satellite-dish" data-icon-variant="monochrome" data-icon-category="devices">
+  <title id="uui-0372-monochrome-title" xml:lang="ja">衛星通信</title>
+  <desc id="uui-0372-monochrome-desc" xml:lang="ja">「衛星通信」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0372" slug="satellite-dish" variant="monochrome">
+      <uui:name xml:lang="ja">衛星通信</uui:name>
+      <uui:name xml:lang="en">Satellite Dish</uui:name>
+      <uui:description xml:lang="ja">「衛星通信」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Satellite Dish” in devices and connectivity contexts.</uui:description>
+      <uui:category id="devices" xml:lang="ja">機器と接続</uui:category>
+      <uui:category id="devices" xml:lang="en">Devices and connectivity</uui:category>
+      <uui:keywords xml:lang="ja">衛星通信, 機器と接続, satellite, dish</uui:keywords>
+      <uui:keywords xml:lang="en">Satellite Dish, Devices and connectivity, satellite, dish</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/devices/satellite-dish.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4c62933357ae3c8da1b1784cdb85a8c493f46cb029f9960e729bc89c9219dea5"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 10a7.31 7.31 0 0 0 10 10Z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m9 15 3-3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M17 13a6 6 0 0 0-6-6" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M21 13A10 10 0 0 0 11 3" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

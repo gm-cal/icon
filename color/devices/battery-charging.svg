@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0360-color-title uui-0360-color-desc" data-icon-id="UUI-0360" data-icon-name="battery-charging" data-icon-variant="color" data-icon-category="devices">
+  <title id="uui-0360-color-title" xml:lang="ja">充電中</title>
+  <desc id="uui-0360-color-desc" xml:lang="ja">「充電中」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0360" slug="battery-charging" variant="color">
+      <uui:name xml:lang="ja">充電中</uui:name>
+      <uui:name xml:lang="en">Battery Charging</uui:name>
+      <uui:description xml:lang="ja">「充電中」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Battery Charging” in devices and connectivity contexts.</uui:description>
+      <uui:category id="devices" xml:lang="ja">機器と接続</uui:category>
+      <uui:category id="devices" xml:lang="en">Devices and connectivity</uui:category>
+      <uui:keywords xml:lang="ja">充電中, 機器と接続, battery, charging</uui:keywords>
+      <uui:keywords xml:lang="en">Battery Charging, Devices and connectivity, battery, charging</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/devices/battery-charging.svg"/>
+      <uui:palette primary="#15803D" accent="#22C55E" secondary="#86EFAC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7fe07e12b4ef34429527f09c10f0087f43b16f8ac646dabf071ba98552d16ae2"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m11 7-3 5h4l-3 5" stroke="#15803D" data-uui-role="primary"/>
+    <path d="M14.856 6H16a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-2.935" stroke="#22C55E" data-uui-role="accent"/>
+    <path d="M22 14v-4" stroke="#86EFAC" data-uui-role="secondary"/>
+    <path d="M5.14 18H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h2.936" stroke="#22C55E" data-uui-role="accent"/>
+  </g>
+</svg>

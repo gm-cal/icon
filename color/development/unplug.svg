@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0297-color-title uui-0297-color-desc" data-icon-id="UUI-0297" data-icon-name="unplug" data-icon-variant="color" data-icon-category="development">
+  <title id="uui-0297-color-title" xml:lang="ja">切断</title>
+  <desc id="uui-0297-color-desc" xml:lang="ja">「切断」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0297" slug="unplug" variant="color">
+      <uui:name xml:lang="ja">切断</uui:name>
+      <uui:name xml:lang="en">Unplug</uui:name>
+      <uui:description xml:lang="ja">「切断」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Unplug” in development and systems contexts.</uui:description>
+      <uui:category id="development" xml:lang="ja">開発とシステム</uui:category>
+      <uui:category id="development" xml:lang="en">Development and systems</uui:category>
+      <uui:keywords xml:lang="ja">切断, 開発とシステム, unplug</uui:keywords>
+      <uui:keywords xml:lang="en">Unplug, Development and systems, unplug</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/development/unplug.svg"/>
+      <uui:palette primary="#334155" accent="#64748B" secondary="#94A3B8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4aee51dca661fbf4a70bd195b0f836ce83b0c1611d8f21591dfaf5a1a885bce1"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m19 5 3-3" stroke="#334155" data-uui-role="primary"/>
+    <path d="m2 22 3-3" stroke="#64748B" data-uui-role="accent"/>
+    <path d="M6.3 20.3a2.4 2.4 0 0 0 3.4 0L12 18l-6-6-2.3 2.3a2.4 2.4 0 0 0 0 3.4Z" stroke="#94A3B8" data-uui-role="secondary"/>
+    <path d="M7.5 13.5 10 11" stroke="#64748B" data-uui-role="accent"/>
+    <path d="M10.5 16.5 13 14" stroke="#94A3B8" data-uui-role="secondary"/>
+    <path d="m12 6 6 6 2.3-2.3a2.4 2.4 0 0 0 0-3.4l-2.6-2.6a2.4 2.4 0 0 0-3.4 0Z" stroke="#64748B" data-uui-role="accent"/>
+  </g>
+</svg>

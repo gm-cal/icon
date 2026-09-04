@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0195-color-title uui-0195-color-desc" data-icon-id="UUI-0195" data-icon-name="octagon-alert" data-icon-variant="color" data-icon-category="security">
+  <title id="uui-0195-color-title" xml:lang="ja">重大警告</title>
+  <desc id="uui-0195-color-desc" xml:lang="ja">「重大警告」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0195" slug="octagon-alert" variant="color">
+      <uui:name xml:lang="ja">重大警告</uui:name>
+      <uui:name xml:lang="en">Octagon Alert</uui:name>
+      <uui:description xml:lang="ja">「重大警告」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Octagon Alert” in security and privacy contexts.</uui:description>
+      <uui:category id="security" xml:lang="ja">セキュリティ</uui:category>
+      <uui:category id="security" xml:lang="en">Security and privacy</uui:category>
+      <uui:keywords xml:lang="ja">重大警告, セキュリティ, octagon, alert</uui:keywords>
+      <uui:keywords xml:lang="en">Octagon Alert, Security and privacy, octagon, alert</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/security/octagon-alert.svg"/>
+      <uui:palette primary="#B91C1C" accent="#EF4444" secondary="#FCA5A5"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="9ee6febe9483b8c82a4a24fa02f4ff83b01aba3582a7d6721d65f2335e9486b3"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 16h.01" stroke="#B91C1C" data-uui-role="primary"/>
+    <path d="M12 8v4" stroke="#EF4444" data-uui-role="accent"/>
+    <path d="M15.312 2a2 2 0 0 1 1.414.586l4.688 4.688A2 2 0 0 1 22 8.688v6.624a2 2 0 0 1-.586 1.414l-4.688 4.688a2 2 0 0 1-1.414.586H8.688a2 2 0 0 1-1.414-.586l-4.688-4.688A2 2 0 0 1 2 15.312V8.688a2 2 0 0 1 .586-1.414l4.688-4.688A2 2 0 0 1 8.688 2z" stroke="#EF4444" data-uui-role="accent"/>
+  </g>
+</svg>

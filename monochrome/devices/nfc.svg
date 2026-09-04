@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0374-monochrome-title uui-0374-monochrome-desc" data-icon-id="UUI-0374" data-icon-name="nfc" data-icon-variant="monochrome" data-icon-category="devices">
+  <title id="uui-0374-monochrome-title" xml:lang="ja">NFC</title>
+  <desc id="uui-0374-monochrome-desc" xml:lang="ja">「NFC」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0374" slug="nfc" variant="monochrome">
+      <uui:name xml:lang="ja">NFC</uui:name>
+      <uui:name xml:lang="en">NFC</uui:name>
+      <uui:description xml:lang="ja">「NFC」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “NFC” in devices and connectivity contexts.</uui:description>
+      <uui:category id="devices" xml:lang="ja">機器と接続</uui:category>
+      <uui:category id="devices" xml:lang="en">Devices and connectivity</uui:category>
+      <uui:keywords xml:lang="ja">NFC, 機器と接続, nfc</uui:keywords>
+      <uui:keywords xml:lang="en">NFC, Devices and connectivity, nfc</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/devices/nfc.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="bbbf0a71778e053c9678582b4a38b3978018361472f68c5dce11e90f534a9735"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M6 8.32a7.43 7.43 0 0 1 0 7.36" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M9.46 6.21a11.76 11.76 0 0 1 0 11.58" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M12.91 4.1a15.91 15.91 0 0 1 .01 15.8" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M16.37 2a20.16 20.16 0 0 1 0 20" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0295-color-title uui-0295-color-desc" data-icon-id="UUI-0295" data-icon-name="box" data-icon-variant="color" data-icon-category="development">
+  <title id="uui-0295-color-title" xml:lang="ja">パッケージ箱</title>
+  <desc id="uui-0295-color-desc" xml:lang="ja">「パッケージ箱」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0295" slug="box" variant="color">
+      <uui:name xml:lang="ja">パッケージ箱</uui:name>
+      <uui:name xml:lang="en">Box</uui:name>
+      <uui:description xml:lang="ja">「パッケージ箱」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Box” in development and systems contexts.</uui:description>
+      <uui:category id="development" xml:lang="ja">開発とシステム</uui:category>
+      <uui:category id="development" xml:lang="en">Development and systems</uui:category>
+      <uui:keywords xml:lang="ja">パッケージ箱, 開発とシステム, box</uui:keywords>
+      <uui:keywords xml:lang="en">Box, Development and systems, box</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/development/box.svg"/>
+      <uui:palette primary="#334155" accent="#64748B" secondary="#94A3B8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="0ec32d70c65105da8f3b3779cecf83fa4814e6f93db8aee78be30e96be69b381"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z" stroke="#334155" data-uui-role="primary"/>
+    <path d="m3.3 7 8.7 5 8.7-5" stroke="#64748B" data-uui-role="accent"/>
+    <path d="M12 22V12" stroke="#64748B" data-uui-role="accent"/>
+  </g>
+</svg>

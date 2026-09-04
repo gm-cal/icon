@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0422-monochrome-title uui-0422-monochrome-desc" data-icon-id="UUI-0422" data-icon-name="tent-tree" data-icon-variant="monochrome" data-icon-category="travel">
+  <title id="uui-0422-monochrome-title" xml:lang="ja">キャンプ</title>
+  <desc id="uui-0422-monochrome-desc" xml:lang="ja">「キャンプ」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0422" slug="tent-tree" variant="monochrome">
+      <uui:name xml:lang="ja">キャンプ</uui:name>
+      <uui:name xml:lang="en">Tent Tree</uui:name>
+      <uui:description xml:lang="ja">「キャンプ」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Tent Tree” in maps and travel contexts.</uui:description>
+      <uui:category id="travel" xml:lang="ja">地図と移動</uui:category>
+      <uui:category id="travel" xml:lang="en">Maps and travel</uui:category>
+      <uui:keywords xml:lang="ja">キャンプ, 地図と移動, tent, tree</uui:keywords>
+      <uui:keywords xml:lang="en">Tent Tree, Maps and travel, tent, tree</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/travel/tent-tree.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="28b4722fac8e2ae43480ac503e2044a733ecfcc1ac4151ab7efb0a338d1a4459"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="4" cy="4" r="2" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m14 5 3-3 3 3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m14 10 3-3 3 3" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M17 14V2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M17 14H7l-5 8h20Z" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M8 14v8" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m9 14 5 8" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0149-color-title uui-0149-color-desc" data-icon-id="UUI-0149" data-icon-name="radio" data-icon-variant="color" data-icon-category="communication">
+  <title id="uui-0149-color-title" xml:lang="ja">配信</title>
+  <desc id="uui-0149-color-desc" xml:lang="ja">「配信」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0149" slug="radio" variant="color">
+      <uui:name xml:lang="ja">配信</uui:name>
+      <uui:name xml:lang="en">Radio</uui:name>
+      <uui:description xml:lang="ja">「配信」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Radio” in communication contexts.</uui:description>
+      <uui:category id="communication" xml:lang="ja">通信と連絡</uui:category>
+      <uui:category id="communication" xml:lang="en">Communication</uui:category>
+      <uui:keywords xml:lang="ja">配信, 通信と連絡, radio</uui:keywords>
+      <uui:keywords xml:lang="en">Radio, Communication, radio</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/communication/radio.svg"/>
+      <uui:palette primary="#C2410C" accent="#F97316" secondary="#FB923C"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="749124896205008dac436061b5e159900831c1a28507a930bc9c8ecf1ce91064"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M16.247 7.761a6 6 0 0 1 0 8.478" stroke="#C2410C" data-uui-role="primary"/>
+    <path d="M19.075 4.933a10 10 0 0 1 0 14.134" stroke="#F97316" data-uui-role="accent"/>
+    <path d="M4.925 19.067a10 10 0 0 1 0-14.134" stroke="#FB923C" data-uui-role="secondary"/>
+    <path d="M7.753 16.239a6 6 0 0 1 0-8.478" stroke="#F97316" data-uui-role="accent"/>
+    <circle cx="12" cy="12" r="2" stroke="#F97316" data-uui-role="accent"/>
+  </g>
+</svg>

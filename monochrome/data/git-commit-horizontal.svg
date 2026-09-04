@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0271-monochrome-title uui-0271-monochrome-desc" data-icon-id="UUI-0271" data-icon-name="git-commit-horizontal" data-icon-variant="monochrome" data-icon-category="data">
+  <title id="uui-0271-monochrome-title" xml:lang="ja">変更点</title>
+  <desc id="uui-0271-monochrome-desc" xml:lang="ja">「変更点」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0271" slug="git-commit-horizontal" variant="monochrome">
+      <uui:name xml:lang="ja">変更点</uui:name>
+      <uui:name xml:lang="en">Git Commit Horizontal</uui:name>
+      <uui:description xml:lang="ja">「変更点」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Git Commit Horizontal” in data and analytics contexts.</uui:description>
+      <uui:category id="data" xml:lang="ja">データと分析</uui:category>
+      <uui:category id="data" xml:lang="en">Data and analytics</uui:category>
+      <uui:keywords xml:lang="ja">変更点, データと分析, git, commit, horizontal</uui:keywords>
+      <uui:keywords xml:lang="en">Git Commit Horizontal, Data and analytics, git, commit, horizontal</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/data/git-commit-horizontal.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d46f56e2f5b7106306725ce514778d399d2391a78b009475a32116a8c07006e4"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="3" stroke="currentColor" data-uui-role="primary"/>
+    <line x1="3" x2="9" y1="12" y2="12" stroke="currentColor" data-uui-role="accent"/>
+    <line x1="15" x2="21" y1="12" y2="12" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

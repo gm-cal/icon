@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0336-color-title uui-0336-color-desc" data-icon-id="UUI-0336" data-icon-name="cloud-off" data-icon-variant="color" data-icon-category="status">
+  <title id="uui-0336-color-title" xml:lang="ja">クラウド未接続</title>
+  <desc id="uui-0336-color-desc" xml:lang="ja">「クラウド未接続」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0336" slug="cloud-off" variant="color">
+      <uui:name xml:lang="ja">クラウド未接続</uui:name>
+      <uui:name xml:lang="en">Cloud Off</uui:name>
+      <uui:description xml:lang="ja">「クラウド未接続」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Cloud Off” in status and feedback contexts.</uui:description>
+      <uui:category id="status" xml:lang="ja">状態とフィードバック</uui:category>
+      <uui:category id="status" xml:lang="en">Status and feedback</uui:category>
+      <uui:keywords xml:lang="ja">クラウド未接続, 状態とフィードバック, cloud, off</uui:keywords>
+      <uui:keywords xml:lang="en">Cloud Off, Status and feedback, cloud, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/status/cloud-off.svg"/>
+      <uui:palette primary="#334155" accent="#64748B" secondary="#CBD5E1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4e04b965bd4363759987b6423448ab2f9590d9f94aee05e6bda1dd58c3478a69"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10.94 5.274A7 7 0 0 1 15.71 10h1.79a4.5 4.5 0 0 1 4.222 6.057" stroke="#334155" data-uui-role="primary"/>
+    <path d="M18.796 18.81A4.5 4.5 0 0 1 17.5 19H9A7 7 0 0 1 5.79 5.78" stroke="#64748B" data-uui-role="accent"/>
+    <path d="m2 2 20 20" stroke="#64748B" data-uui-role="accent"/>
+  </g>
+</svg>

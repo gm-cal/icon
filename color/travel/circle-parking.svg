@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0419-color-title uui-0419-color-desc" data-icon-id="UUI-0419" data-icon-name="circle-parking" data-icon-variant="color" data-icon-category="travel">
+  <title id="uui-0419-color-title" xml:lang="ja">駐車場</title>
+  <desc id="uui-0419-color-desc" xml:lang="ja">「駐車場」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0419" slug="circle-parking" variant="color">
+      <uui:name xml:lang="ja">駐車場</uui:name>
+      <uui:name xml:lang="en">Circle Parking</uui:name>
+      <uui:description xml:lang="ja">「駐車場」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Circle Parking” in maps and travel contexts.</uui:description>
+      <uui:category id="travel" xml:lang="ja">地図と移動</uui:category>
+      <uui:category id="travel" xml:lang="en">Maps and travel</uui:category>
+      <uui:keywords xml:lang="ja">駐車場, 地図と移動, circle, parking</uui:keywords>
+      <uui:keywords xml:lang="en">Circle Parking, Maps and travel, circle, parking</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/travel/circle-parking.svg"/>
+      <uui:palette primary="#0F766E" accent="#2DD4BF" secondary="#5EEAD4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="6df8a8b78e988ecb143d3da0b5fa35b8d73b8a16255807f1225f7e19e075c33d"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="10" stroke="#0F766E" data-uui-role="primary"/>
+    <path d="M9 17V7h4a3 3 0 0 1 0 6H9" stroke="#2DD4BF" data-uui-role="accent"/>
+  </g>
+</svg>

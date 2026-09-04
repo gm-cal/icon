@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="736" viewBox="0 0 840 736" color="#1F2937">
+  <rect width="100%" height="100%" fill="#F8FAFC"/>
+  <text x="24" y="34" font-size="22" font-weight="700" fill="#0F172A">日時と履歴 — モノクロ版</text>
+  <text x="24" y="57" font-size="12" fill="#64748B">Date and time · 25 icons</text>
+    <g transform="translate(0 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M8 2v4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M16 2v4" stroke="currentColor" data-uui-role="accent"/>
+        <rect width="18" height="18" x="3" y="4" rx="2" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M3 10h18" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">カレンダー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0201 · calendar</text>
+    </g>
+    <g transform="translate(168 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M8 2v4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M16 2v4" stroke="currentColor" data-uui-role="accent"/>
+        <rect width="18" height="18" x="3" y="4" rx="2" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M3 10h18" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M8 14h.01" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M12 14h.01" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M16 14h.01" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M8 18h.01" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M12 18h.01" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M16 18h.01" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">日程</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0202 · calendar-days</text>
+    </g>
+    <g transform="translate(336 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M8 2v4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M16 2v4" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M21 14V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h8" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M3 10h18" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m16 20 2 2 4-4" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">予定確定</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0203 · calendar-check-2</text>
+    </g>
+    <g transform="translate(504 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M8 2v4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M16 2v4" stroke="currentColor" data-uui-role="accent"/>
+        <rect width="18" height="18" x="3" y="4" rx="2" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M3 10h18" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M10 16h4" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M12 14v4" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">予定追加</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0204 · calendar-plus-2</text>
+    </g>
+    <g transform="translate(672 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M8 2v4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M16 2v4" stroke="currentColor" data-uui-role="accent"/>
+        <rect width="18" height="18" x="3" y="4" rx="2" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M3 10h18" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M10 16h4" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">予定削除</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0205 · calendar-minus-2</text>
+    </g>
+    <g transform="translate(0 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M8 2v4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M16 2v4" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M21 13V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h8" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M3 10h18" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m17 22 5-5" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m17 17 5 5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">予定取消</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0206 · calendar-x-2</text>
+    </g>
+    <g transform="translate(168 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 14v2.2l1.6 1" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M16 2v4" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M21 7.5V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h3.5" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M3 10h5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M8 2v4" stroke="currentColor" data-uui-role="secondary"/>
+        <circle cx="16" cy="16" r="6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">日時指定</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0207 · calendar-clock</text>
+    </g>
+    <g transform="translate(336 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="18" height="18" x="3" y="4" rx="2" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M16 2v4" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3 10h18" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M8 2v4" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M17 14h-6" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M13 18H7" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M7 14h.01" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M17 18h.01" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">期間</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0208 · calendar-range</text>
+    </g>
+    <g transform="translate(504 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M12 6v6l4 2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">時刻</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0209 · clock</text>
+    </g>
+    <g transform="translate(672 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="13" r="8" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M12 9v4l2 2" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M5 3 2 6" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m22 6-3-3" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M6.38 18.7 4 21" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M17.64 18.67 20 21" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">アラーム</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0210 · alarm-clock</text>
+    </g>
+    <g transform="translate(0 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="13" r="8" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M5 3 2 6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m22 6-3-3" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M6.38 18.7 4 21" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M17.64 18.67 20 21" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m9 13 2 2 4-4" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">アラーム有効</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0211 · alarm-clock-check</text>
+    </g>
+    <g transform="translate(168 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="13" r="8" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M5 3 2 6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m22 6-3-3" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M6.38 18.7 4 21" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M17.64 18.67 20 21" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M12 10v6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M9 13h6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">アラーム追加</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0212 · alarm-clock-plus</text>
+    </g>
+    <g transform="translate(336 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="13" r="8" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M5 3 2 6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m22 6-3-3" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M6.38 18.7 4 21" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M17.64 18.67 20 21" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M9 13h6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">アラーム削除</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0213 · alarm-clock-minus</text>
+    </g>
+    <g transform="translate(504 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="10" x2="14" y1="2" y2="2" stroke="currentColor" data-uui-role="primary"/>
+        <line x1="12" x2="15" y1="14" y2="11" stroke="currentColor" data-uui-role="accent"/>
+        <circle cx="12" cy="14" r="8" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">タイマー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0214 · timer</text>
+    </g>
+    <g transform="translate(672 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10 2h4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M12 14v-4" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M4 13a8 8 0 0 1 8-7 8 8 0 1 1-5.3 14L4 17.6" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M9 17H4v5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">タイマー再設定</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0215 · timer-reset</text>
+    </g>
+    <g transform="translate(0 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M5 22h14" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M5 2h14" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M17 22v-4.172a2 2 0 0 0-.586-1.414L12 12l-4.414 4.414A2 2 0 0 0 7 17.828V22" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M7 2v4.172a2 2 0 0 0 .586 1.414L12 12l4.414-4.414A2 2 0 0 0 17 6.172V2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">待機時間</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0216 · hourglass</text>
+    </g>
+    <g transform="translate(168 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M3 3v5h5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M12 7v5l4 2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">履歴</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0217 · history</text>
+    </g>
+    <g transform="translate(336 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m2 9 3-3 3 3" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M13 18H7a2 2 0 0 1-2-2V6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m22 15-3 3-3-3" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M11 6h6a2 2 0 0 1 2 2v10" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">繰り返し</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0218 · repeat-2</text>
+    </g>
+    <g transform="translate(504 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M3 3v5h5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M16 16h5v5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">再読み込み</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0219 · refresh-ccw</text>
+    </g>
+    <g transform="translate(672 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M3 3v5h5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">反時計回り</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0220 · rotate-ccw</text>
+    </g>
+    <g transform="translate(0 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 12a9 9 0 1 1-9-9c2.52 0 4.93 1 6.74 2.74L21 8" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M21 3v5h-5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">時計回り</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0221 · rotate-cw</text>
+    </g>
+    <g transform="translate(168 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 6a2 2 0 0 1 3.414-1.414l6 6a2 2 0 0 1 0 2.828l-6 6A2 2 0 0 1 12 18z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M2 6a2 2 0 0 1 3.414-1.414l6 6a2 2 0 0 1 0 2.828l-6 6A2 2 0 0 1 2 18z" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">早送り</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0222 · fast-forward</text>
+    </g>
+    <g transform="translate(336 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 6a2 2 0 0 0-3.414-1.414l-6 6a2 2 0 0 0 0 2.828l6 6A2 2 0 0 0 12 18z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M22 6a2 2 0 0 0-3.414-1.414l-6 6a2 2 0 0 0 0 2.828l6 6A2 2 0 0 0 22 18z" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">巻き戻し</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0223 · rewind</text>
+    </g>
+    <g transform="translate(504 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 10v2.2l1.6 1" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m16.13 7.66-.81-4.05a2 2 0 0 0-2-1.61h-2.68a2 2 0 0 0-2 1.61l-.78 4.05" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m7.88 16.36.8 4a2 2 0 0 0 2 1.61h2.72a2 2 0 0 0 2-1.61l.81-4.05" stroke="currentColor" data-uui-role="secondary"/>
+        <circle cx="12" cy="12" r="6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">腕時計</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0224 · watch</text>
+    </g>
+    <g transform="translate(672 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10.268 21a2 2 0 0 0 3.464 0" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M22 8c0-2.3-.8-4.3-2-6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3.262 15.326A1 1 0 0 0 4 17h16a1 1 0 0 0 .74-1.673C19.41 13.956 18 12.499 18 8A6 6 0 0 0 6 8c0 4.499-1.411 5.956-2.738 7.326" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M4 2C2.8 3.7 2 5.7 2 8" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">通知時刻</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0225 · bell-ring</text>
+    </g>
+</svg>

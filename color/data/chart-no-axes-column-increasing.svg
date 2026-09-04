@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0255-color-title uui-0255-color-desc" data-icon-id="UUI-0255" data-icon-name="chart-no-axes-column-increasing" data-icon-variant="color" data-icon-category="data">
+  <title id="uui-0255-color-title" xml:lang="ja">増加グラフ</title>
+  <desc id="uui-0255-color-desc" xml:lang="ja">「増加グラフ」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0255" slug="chart-no-axes-column-increasing" variant="color">
+      <uui:name xml:lang="ja">増加グラフ</uui:name>
+      <uui:name xml:lang="en">Chart No Axes Column Increasing</uui:name>
+      <uui:description xml:lang="ja">「増加グラフ」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Chart No Axes Column Increasing” in data and analytics contexts.</uui:description>
+      <uui:category id="data" xml:lang="ja">データと分析</uui:category>
+      <uui:category id="data" xml:lang="en">Data and analytics</uui:category>
+      <uui:keywords xml:lang="ja">増加グラフ, データと分析, chart, no, axes, column, increasing</uui:keywords>
+      <uui:keywords xml:lang="en">Chart No Axes Column Increasing, Data and analytics, chart, no, axes, column, increasing</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/data/chart-no-axes-column-increasing.svg"/>
+      <uui:palette primary="#047857" accent="#10B981" secondary="#34D399"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="effcd119525ce67d2499719cb4ee5678d590f8586274d912d5759ec50ebd8487"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M5 21v-6" stroke="#047857" data-uui-role="primary"/>
+    <path d="M12 21V9" stroke="#10B981" data-uui-role="accent"/>
+    <path d="M19 21V3" stroke="#10B981" data-uui-role="accent"/>
+  </g>
+</svg>

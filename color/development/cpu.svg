@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0283-color-title uui-0283-color-desc" data-icon-id="UUI-0283" data-icon-name="cpu" data-icon-variant="color" data-icon-category="development">
+  <title id="uui-0283-color-title" xml:lang="ja">CPU</title>
+  <desc id="uui-0283-color-desc" xml:lang="ja">「CPU」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0283" slug="cpu" variant="color">
+      <uui:name xml:lang="ja">CPU</uui:name>
+      <uui:name xml:lang="en">CPU</uui:name>
+      <uui:description xml:lang="ja">「CPU」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “CPU” in development and systems contexts.</uui:description>
+      <uui:category id="development" xml:lang="ja">開発とシステム</uui:category>
+      <uui:category id="development" xml:lang="en">Development and systems</uui:category>
+      <uui:keywords xml:lang="ja">CPU, 開発とシステム, cpu</uui:keywords>
+      <uui:keywords xml:lang="en">CPU, Development and systems, cpu</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/development/cpu.svg"/>
+      <uui:palette primary="#334155" accent="#64748B" secondary="#94A3B8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7b47709ce9c730e7b849ce572345143e480479ed3534ee5045f1f2bd6066a65c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 20v2" stroke="#334155" data-uui-role="primary"/>
+    <path d="M12 2v2" stroke="#64748B" data-uui-role="accent"/>
+    <path d="M17 20v2" stroke="#94A3B8" data-uui-role="secondary"/>
+    <path d="M17 2v2" stroke="#64748B" data-uui-role="accent"/>
+    <path d="M2 12h2" stroke="#94A3B8" data-uui-role="secondary"/>
+    <path d="M2 17h2" stroke="#64748B" data-uui-role="accent"/>
+    <path d="M2 7h2" stroke="#94A3B8" data-uui-role="secondary"/>
+    <path d="M20 12h2" stroke="#64748B" data-uui-role="accent"/>
+    <path d="M20 17h2" stroke="#94A3B8" data-uui-role="secondary"/>
+    <path d="M20 7h2" stroke="#64748B" data-uui-role="accent"/>
+    <path d="M7 20v2" stroke="#94A3B8" data-uui-role="secondary"/>
+    <path d="M7 2v2" stroke="#64748B" data-uui-role="accent"/>
+    <rect x="4" y="4" width="16" height="16" rx="2" stroke="#94A3B8" data-uui-role="secondary"/>
+    <rect x="8" y="8" width="8" height="8" rx="1" stroke="#64748B" data-uui-role="accent"/>
+  </g>
+</svg>

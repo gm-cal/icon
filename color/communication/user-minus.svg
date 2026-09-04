@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0148-color-title uui-0148-color-desc" data-icon-id="UUI-0148" data-icon-name="user-minus" data-icon-variant="color" data-icon-category="communication">
+  <title id="uui-0148-color-title" xml:lang="ja">メンバー削除</title>
+  <desc id="uui-0148-color-desc" xml:lang="ja">「メンバー削除」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0148" slug="user-minus" variant="color">
+      <uui:name xml:lang="ja">メンバー削除</uui:name>
+      <uui:name xml:lang="en">User Minus</uui:name>
+      <uui:description xml:lang="ja">「メンバー削除」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “User Minus” in communication contexts.</uui:description>
+      <uui:category id="communication" xml:lang="ja">通信と連絡</uui:category>
+      <uui:category id="communication" xml:lang="en">Communication</uui:category>
+      <uui:keywords xml:lang="ja">メンバー削除, 通信と連絡, user, minus</uui:keywords>
+      <uui:keywords xml:lang="en">User Minus, Communication, user, minus</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/communication/user-minus.svg"/>
+      <uui:palette primary="#C2410C" accent="#F97316" secondary="#FB923C"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="8d68bf5f30af5d72cdf1a9203e88ac280cbf28982a7b97a9c9f7e8da76f147af"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" stroke="#C2410C" data-uui-role="primary"/>
+    <circle cx="9" cy="7" r="4" stroke="#F97316" data-uui-role="accent"/>
+    <line x1="22" x2="16" y1="11" y2="11" stroke="#F97316" data-uui-role="accent"/>
+  </g>
+</svg>

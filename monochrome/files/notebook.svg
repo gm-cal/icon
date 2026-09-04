@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0068-monochrome-title uui-0068-monochrome-desc" data-icon-id="UUI-0068" data-icon-name="notebook" data-icon-variant="monochrome" data-icon-category="files">
+  <title id="uui-0068-monochrome-title" xml:lang="ja">ノート</title>
+  <desc id="uui-0068-monochrome-desc" xml:lang="ja">「ノート」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0068" slug="notebook" variant="monochrome">
+      <uui:name xml:lang="ja">ノート</uui:name>
+      <uui:name xml:lang="en">Notebook</uui:name>
+      <uui:description xml:lang="ja">「ノート」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Notebook” in files and folders contexts.</uui:description>
+      <uui:category id="files" xml:lang="ja">ファイルとフォルダー</uui:category>
+      <uui:category id="files" xml:lang="en">Files and folders</uui:category>
+      <uui:keywords xml:lang="ja">ノート, ファイルとフォルダー, notebook</uui:keywords>
+      <uui:keywords xml:lang="en">Notebook, Files and folders, notebook</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/files/notebook.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="dc178557e5bea978d5e758e1280203f4cba473904179e4d1a2b7e56b490c9052"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2 6h4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M2 10h4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M2 14h4" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M2 18h4" stroke="currentColor" data-uui-role="accent"/>
+    <rect width="16" height="20" x="4" y="2" rx="2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M16 2v20" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

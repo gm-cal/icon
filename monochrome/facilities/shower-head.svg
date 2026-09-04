@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0440-monochrome-title uui-0440-monochrome-desc" data-icon-id="UUI-0440" data-icon-name="shower-head" data-icon-variant="monochrome" data-icon-category="facilities">
+  <title id="uui-0440-monochrome-title" xml:lang="ja">シャワー</title>
+  <desc id="uui-0440-monochrome-desc" xml:lang="ja">「シャワー」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0440" slug="shower-head" variant="monochrome">
+      <uui:name xml:lang="ja">シャワー</uui:name>
+      <uui:name xml:lang="en">Shower Head</uui:name>
+      <uui:description xml:lang="ja">「シャワー」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Shower Head” in buildings and facilities contexts.</uui:description>
+      <uui:category id="facilities" xml:lang="ja">建物と生活設備</uui:category>
+      <uui:category id="facilities" xml:lang="en">Buildings and facilities</uui:category>
+      <uui:keywords xml:lang="ja">シャワー, 建物と生活設備, shower, head</uui:keywords>
+      <uui:keywords xml:lang="en">Shower Head, Buildings and facilities, shower, head</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/facilities/shower-head.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4dc4bf4cffb2f300af493a11aac1840a24bacf6b7114aceab41dcb1306350e49"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m4 4 2.5 2.5" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M13.5 6.5a4.95 4.95 0 0 0-7 7" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M15 5 5 15" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M14 17v.01" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M10 16v.01" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M13 13v.01" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M16 10v.01" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M11 20v.01" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M17 14v.01" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M20 11v.01" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

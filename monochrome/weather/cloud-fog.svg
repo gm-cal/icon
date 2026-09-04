@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0495-monochrome-title uui-0495-monochrome-desc" data-icon-id="UUI-0495" data-icon-name="cloud-fog" data-icon-variant="monochrome" data-icon-category="weather">
+  <title id="uui-0495-monochrome-title" xml:lang="ja">霧</title>
+  <desc id="uui-0495-monochrome-desc" xml:lang="ja">「霧」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0495" slug="cloud-fog" variant="monochrome">
+      <uui:name xml:lang="ja">霧</uui:name>
+      <uui:name xml:lang="en">Cloud Fog</uui:name>
+      <uui:description xml:lang="ja">「霧」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Cloud Fog” in nature and weather contexts.</uui:description>
+      <uui:category id="weather" xml:lang="ja">自然と天候</uui:category>
+      <uui:category id="weather" xml:lang="en">Nature and weather</uui:category>
+      <uui:keywords xml:lang="ja">霧, 自然と天候, cloud, fog</uui:keywords>
+      <uui:keywords xml:lang="en">Cloud Fog, Nature and weather, cloud, fog</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/weather/cloud-fog.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="6e2a1cb3817745018e9e86fecf3077c08f925e2a52ceaec1c9150c4ca981a336"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 14.899A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 2.5 8.242" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16 17H7" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M17 21H9" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

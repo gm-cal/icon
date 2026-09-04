@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0461-color-title uui-0461-color-desc" data-icon-id="UUI-0461" data-icon-name="ear" data-icon-variant="color" data-icon-category="health">
+  <title id="uui-0461-color-title" xml:lang="ja">聴覚</title>
+  <desc id="uui-0461-color-desc" xml:lang="ja">「聴覚」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0461" slug="ear" variant="color">
+      <uui:name xml:lang="ja">聴覚</uui:name>
+      <uui:name xml:lang="en">Ear</uui:name>
+      <uui:description xml:lang="ja">「聴覚」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Ear” in health and medical contexts.</uui:description>
+      <uui:category id="health" xml:lang="ja">医療と健康</uui:category>
+      <uui:category id="health" xml:lang="en">Health and medical</uui:category>
+      <uui:keywords xml:lang="ja">聴覚, 医療と健康, ear</uui:keywords>
+      <uui:keywords xml:lang="en">Ear, Health and medical, ear</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/health/ear.svg"/>
+      <uui:palette primary="#BE123C" accent="#FB7185" secondary="#FDA4AF"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4e1484eef44bce7d2df5dc2a9c8af3df573e0011810d5a9a0525e851abebda7e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M6 8.5a6.5 6.5 0 1 1 13 0c0 6-6 6-6 10a3.5 3.5 0 1 1-7 0" stroke="#BE123C" data-uui-role="primary"/>
+    <path d="M15 8.5a2.5 2.5 0 0 0-5 0v1a2 2 0 1 1 0 4" stroke="#FB7185" data-uui-role="accent"/>
+  </g>
+</svg>

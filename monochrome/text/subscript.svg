@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0099-monochrome-title uui-0099-monochrome-desc" data-icon-id="UUI-0099" data-icon-name="subscript" data-icon-variant="monochrome" data-icon-category="text">
+  <title id="uui-0099-monochrome-title" xml:lang="ja">下付き文字</title>
+  <desc id="uui-0099-monochrome-desc" xml:lang="ja">「下付き文字」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0099" slug="subscript" variant="monochrome">
+      <uui:name xml:lang="ja">下付き文字</uui:name>
+      <uui:name xml:lang="en">Subscript</uui:name>
+      <uui:description xml:lang="ja">「下付き文字」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Subscript” in text editing contexts.</uui:description>
+      <uui:category id="text" xml:lang="ja">文字編集</uui:category>
+      <uui:category id="text" xml:lang="en">Text editing</uui:category>
+      <uui:keywords xml:lang="ja">下付き文字, 文字編集, subscript</uui:keywords>
+      <uui:keywords xml:lang="en">Subscript, Text editing, subscript</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/text/subscript.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="26bb61c2ce1f92f4752943d5bb8684a6c04c9aefad798e38ca82820f370de0b1"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m4 5 8 8" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m12 5-8 8" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M20 19h-4c0-1.5.44-2 1.5-2.5S20 15.33 20 14c0-.47-.17-.93-.48-1.29a2.11 2.11 0 0 0-2.62-.44c-.42.24-.74.62-.9 1.07" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

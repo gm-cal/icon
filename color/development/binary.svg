@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0282-color-title uui-0282-color-desc" data-icon-id="UUI-0282" data-icon-name="binary" data-icon-variant="color" data-icon-category="development">
+  <title id="uui-0282-color-title" xml:lang="ja">バイナリ</title>
+  <desc id="uui-0282-color-desc" xml:lang="ja">「バイナリ」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0282" slug="binary" variant="color">
+      <uui:name xml:lang="ja">バイナリ</uui:name>
+      <uui:name xml:lang="en">Binary</uui:name>
+      <uui:description xml:lang="ja">「バイナリ」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Binary” in development and systems contexts.</uui:description>
+      <uui:category id="development" xml:lang="ja">開発とシステム</uui:category>
+      <uui:category id="development" xml:lang="en">Development and systems</uui:category>
+      <uui:keywords xml:lang="ja">バイナリ, 開発とシステム, binary</uui:keywords>
+      <uui:keywords xml:lang="en">Binary, Development and systems, binary</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/development/binary.svg"/>
+      <uui:palette primary="#334155" accent="#64748B" secondary="#94A3B8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="0e707a8c0576c63c416a7f321d0ae8d91e39a7e08362183f9b05f513649b2b2d"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect x="14" y="14" width="4" height="6" rx="2" stroke="#334155" data-uui-role="primary"/>
+    <rect x="6" y="4" width="4" height="6" rx="2" stroke="#64748B" data-uui-role="accent"/>
+    <path d="M6 20h4" stroke="#94A3B8" data-uui-role="secondary"/>
+    <path d="M14 10h4" stroke="#64748B" data-uui-role="accent"/>
+    <path d="M6 14h2v6" stroke="#94A3B8" data-uui-role="secondary"/>
+    <path d="M14 4h2v6" stroke="#64748B" data-uui-role="accent"/>
+  </g>
+</svg>

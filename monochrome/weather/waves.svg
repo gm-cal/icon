@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0487-monochrome-title uui-0487-monochrome-desc" data-icon-id="UUI-0487" data-icon-name="waves" data-icon-variant="monochrome" data-icon-category="weather">
+  <title id="uui-0487-monochrome-title" xml:lang="ja">波</title>
+  <desc id="uui-0487-monochrome-desc" xml:lang="ja">「波」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0487" slug="waves" variant="monochrome">
+      <uui:name xml:lang="ja">波</uui:name>
+      <uui:name xml:lang="en">Waves</uui:name>
+      <uui:description xml:lang="ja">「波」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Waves” in nature and weather contexts.</uui:description>
+      <uui:category id="weather" xml:lang="ja">自然と天候</uui:category>
+      <uui:category id="weather" xml:lang="en">Nature and weather</uui:category>
+      <uui:keywords xml:lang="ja">波, 自然と天候, waves</uui:keywords>
+      <uui:keywords xml:lang="en">Waves, Nature and weather, waves</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/weather/waves.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="575422fe1d71d1a4cfc75bebf8d696d7d2ba9fe60efc6c1bc9a2701e56e86546"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2 6c.6.5 1.2 1 2.5 1C7 7 7 5 9.5 5c2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M2 12c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M2 18c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

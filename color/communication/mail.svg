@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0126-color-title uui-0126-color-desc" data-icon-id="UUI-0126" data-icon-name="mail" data-icon-variant="color" data-icon-category="communication">
+  <title id="uui-0126-color-title" xml:lang="ja">メール</title>
+  <desc id="uui-0126-color-desc" xml:lang="ja">「メール」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0126" slug="mail" variant="color">
+      <uui:name xml:lang="ja">メール</uui:name>
+      <uui:name xml:lang="en">Mail</uui:name>
+      <uui:description xml:lang="ja">「メール」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Mail” in communication contexts.</uui:description>
+      <uui:category id="communication" xml:lang="ja">通信と連絡</uui:category>
+      <uui:category id="communication" xml:lang="en">Communication</uui:category>
+      <uui:keywords xml:lang="ja">メール, 通信と連絡, mail</uui:keywords>
+      <uui:keywords xml:lang="en">Mail, Communication, mail</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/communication/mail.svg"/>
+      <uui:palette primary="#C2410C" accent="#F97316" secondary="#FB923C"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="11cb8dbe31ac51761c0fc0633a09bd030fcc53f7fa31bbc19a388f504af4d490"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7" stroke="#C2410C" data-uui-role="primary"/>
+    <rect x="2" y="4" width="20" height="16" rx="2" stroke="#F97316" data-uui-role="accent"/>
+  </g>
+</svg>

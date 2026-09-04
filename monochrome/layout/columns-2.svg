@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0109-monochrome-title uui-0109-monochrome-desc" data-icon-id="UUI-0109" data-icon-name="columns-2" data-icon-variant="monochrome" data-icon-category="layout">
+  <title id="uui-0109-monochrome-title" xml:lang="ja">2列</title>
+  <desc id="uui-0109-monochrome-desc" xml:lang="ja">「2列」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0109" slug="columns-2" variant="monochrome">
+      <uui:name xml:lang="ja">2列</uui:name>
+      <uui:name xml:lang="en">Columns 2</uui:name>
+      <uui:description xml:lang="ja">「2列」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Columns 2” in layout and windows contexts.</uui:description>
+      <uui:category id="layout" xml:lang="ja">画面とレイアウト</uui:category>
+      <uui:category id="layout" xml:lang="en">Layout and windows</uui:category>
+      <uui:keywords xml:lang="ja">2列, 画面とレイアウト, columns, 2</uui:keywords>
+      <uui:keywords xml:lang="en">Columns 2, Layout and windows, columns, 2</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/layout/columns-2.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="c173d1b732908b256c7e0dd998169db1bc1895984b5091bfc586668c167cd9af"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect width="18" height="18" x="3" y="3" rx="2" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M12 3v18" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0354-color-title uui-0354-color-desc" data-icon-id="UUI-0354" data-icon-name="printer-check" data-icon-variant="color" data-icon-category="devices">
+  <title id="uui-0354-color-title" xml:lang="ja">印刷完了</title>
+  <desc id="uui-0354-color-desc" xml:lang="ja">「印刷完了」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0354" slug="printer-check" variant="color">
+      <uui:name xml:lang="ja">印刷完了</uui:name>
+      <uui:name xml:lang="en">Printer Check</uui:name>
+      <uui:description xml:lang="ja">「印刷完了」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Printer Check” in devices and connectivity contexts.</uui:description>
+      <uui:category id="devices" xml:lang="ja">機器と接続</uui:category>
+      <uui:category id="devices" xml:lang="en">Devices and connectivity</uui:category>
+      <uui:keywords xml:lang="ja">印刷完了, 機器と接続, printer, check</uui:keywords>
+      <uui:keywords xml:lang="en">Printer Check, Devices and connectivity, printer, check</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/devices/printer-check.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#3B82F6" secondary="#93C5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="25156e7990064167b9f56e9978013213ca259da5d22a5bd5fb442b1af519d7df"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M13.5 22H7a1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v.5" stroke="#1D4ED8" data-uui-role="primary"/>
+    <path d="m16 19 2 2 4-4" stroke="#3B82F6" data-uui-role="accent"/>
+    <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v2" stroke="#93C5FD" data-uui-role="secondary"/>
+    <path d="M6 9V3a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v6" stroke="#3B82F6" data-uui-role="accent"/>
+  </g>
+</svg>

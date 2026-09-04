@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0439-color-title uui-0439-color-desc" data-icon-id="UUI-0439" data-icon-name="bath" data-icon-variant="color" data-icon-category="facilities">
+  <title id="uui-0439-color-title" xml:lang="ja">浴室</title>
+  <desc id="uui-0439-color-desc" xml:lang="ja">「浴室」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0439" slug="bath" variant="color">
+      <uui:name xml:lang="ja">浴室</uui:name>
+      <uui:name xml:lang="en">Bath</uui:name>
+      <uui:description xml:lang="ja">「浴室」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Bath” in buildings and facilities contexts.</uui:description>
+      <uui:category id="facilities" xml:lang="ja">建物と生活設備</uui:category>
+      <uui:category id="facilities" xml:lang="en">Buildings and facilities</uui:category>
+      <uui:keywords xml:lang="ja">浴室, 建物と生活設備, bath</uui:keywords>
+      <uui:keywords xml:lang="en">Bath, Buildings and facilities, bath</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/facilities/bath.svg"/>
+      <uui:palette primary="#92400E" accent="#D97706" secondary="#F59E0B"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="97a5614bf941ed8088e7021a0e63147d3beadb63c56c55d21a94ff866d1ab9a2"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 4 8 6" stroke="#92400E" data-uui-role="primary"/>
+    <path d="M17 19v2" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M2 12h20" stroke="#F59E0B" data-uui-role="secondary"/>
+    <path d="M7 19v2" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M9 5 7.621 3.621A2.121 2.121 0 0 0 4 5v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-5" stroke="#D97706" data-uui-role="accent"/>
+  </g>
+</svg>

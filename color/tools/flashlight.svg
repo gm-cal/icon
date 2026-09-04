@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0395-color-title uui-0395-color-desc" data-icon-id="UUI-0395" data-icon-name="flashlight" data-icon-variant="color" data-icon-category="tools">
+  <title id="uui-0395-color-title" xml:lang="ja">懐中電灯</title>
+  <desc id="uui-0395-color-desc" xml:lang="ja">「懐中電灯」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0395" slug="flashlight" variant="color">
+      <uui:name xml:lang="ja">懐中電灯</uui:name>
+      <uui:name xml:lang="en">Flashlight</uui:name>
+      <uui:description xml:lang="ja">「懐中電灯」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Flashlight” in settings and tools contexts.</uui:description>
+      <uui:category id="tools" xml:lang="ja">設定と工具</uui:category>
+      <uui:category id="tools" xml:lang="en">Settings and tools</uui:category>
+      <uui:keywords xml:lang="ja">懐中電灯, 設定と工具, flashlight</uui:keywords>
+      <uui:keywords xml:lang="en">Flashlight, Settings and tools, flashlight</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/tools/flashlight.svg"/>
+      <uui:palette primary="#57534E" accent="#A8A29E" secondary="#D6D3D1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="43d4a121d7a766e295a8ae73ec947dc506b0e2344c1cbf1d74c2c7de1708b86e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 13v1" stroke="#57534E" data-uui-role="primary"/>
+    <path d="M17 2a1 1 0 0 1 1 1v4a3 3 0 0 1-.6 1.8l-.6.8A4 4 0 0 0 16 12v8a2 2 0 0 1-2 2H10a2 2 0 0 1-2-2v-8a4 4 0 0 0-.8-2.4l-.6-.8A3 3 0 0 1 6 7V3a1 1 0 0 1 1-1z" stroke="#A8A29E" data-uui-role="accent"/>
+    <path d="M6 6h12" stroke="#A8A29E" data-uui-role="accent"/>
+  </g>
+</svg>

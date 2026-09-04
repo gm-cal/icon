@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0287-color-title uui-0287-color-desc" data-icon-id="UUI-0287" data-icon-name="webhook" data-icon-variant="color" data-icon-category="development">
+  <title id="uui-0287-color-title" xml:lang="ja">Webhook</title>
+  <desc id="uui-0287-color-desc" xml:lang="ja">「Webhook」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0287" slug="webhook" variant="color">
+      <uui:name xml:lang="ja">Webhook</uui:name>
+      <uui:name xml:lang="en">Webhook</uui:name>
+      <uui:description xml:lang="ja">「Webhook」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Webhook” in development and systems contexts.</uui:description>
+      <uui:category id="development" xml:lang="ja">開発とシステム</uui:category>
+      <uui:category id="development" xml:lang="en">Development and systems</uui:category>
+      <uui:keywords xml:lang="ja">Webhook, 開発とシステム, webhook</uui:keywords>
+      <uui:keywords xml:lang="en">Webhook, Development and systems, webhook</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/development/webhook.svg"/>
+      <uui:palette primary="#334155" accent="#64748B" secondary="#94A3B8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="52dea38ba08bb4923ac6bbd399f290f3a0c0b0910de6540c18b659546b636834"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M18 16.98h-5.99c-1.1 0-1.95.94-2.48 1.9A4 4 0 0 1 2 17c.01-.7.2-1.4.57-2" stroke="#334155" data-uui-role="primary"/>
+    <path d="m6 17 3.13-5.78c.53-.97.1-2.18-.5-3.1a4 4 0 1 1 6.89-4.06" stroke="#64748B" data-uui-role="accent"/>
+    <path d="m12 6 3.13 5.73C15.66 12.7 16.9 13 18 13a4 4 0 0 1 0 8" stroke="#64748B" data-uui-role="accent"/>
+  </g>
+</svg>

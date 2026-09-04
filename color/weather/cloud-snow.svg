@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0481-color-title uui-0481-color-desc" data-icon-id="UUI-0481" data-icon-name="cloud-snow" data-icon-variant="color" data-icon-category="weather">
+  <title id="uui-0481-color-title" xml:lang="ja">雪</title>
+  <desc id="uui-0481-color-desc" xml:lang="ja">「雪」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0481" slug="cloud-snow" variant="color">
+      <uui:name xml:lang="ja">雪</uui:name>
+      <uui:name xml:lang="en">Cloud Snow</uui:name>
+      <uui:description xml:lang="ja">「雪」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Cloud Snow” in nature and weather contexts.</uui:description>
+      <uui:category id="weather" xml:lang="ja">自然と天候</uui:category>
+      <uui:category id="weather" xml:lang="en">Nature and weather</uui:category>
+      <uui:keywords xml:lang="ja">雪, 自然と天候, cloud, snow</uui:keywords>
+      <uui:keywords xml:lang="en">Cloud Snow, Nature and weather, cloud, snow</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/weather/cloud-snow.svg"/>
+      <uui:palette primary="#0284C7" accent="#F59E0B" secondary="#38BDF8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="f1993963f6760976c7c721a58408e3974150426dfdf41b4f58eb3ed57b4dbf75"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 14.899A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 2.5 8.242" stroke="#0284C7" data-uui-role="primary"/>
+    <path d="M8 15h.01" stroke="#F59E0B" data-uui-role="accent"/>
+    <path d="M8 19h.01" stroke="#38BDF8" data-uui-role="secondary"/>
+    <path d="M12 17h.01" stroke="#F59E0B" data-uui-role="accent"/>
+    <path d="M12 21h.01" stroke="#38BDF8" data-uui-role="secondary"/>
+    <path d="M16 15h.01" stroke="#F59E0B" data-uui-role="accent"/>
+    <path d="M16 19h.01" stroke="#F59E0B" data-uui-role="accent"/>
+  </g>
+</svg>

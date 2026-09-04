@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0039-color-title uui-0039-color-desc" data-icon-id="UUI-0039" data-icon-name="refresh-cw" data-icon-variant="color" data-icon-category="actions">
+  <title id="uui-0039-color-title" xml:lang="ja">更新</title>
+  <desc id="uui-0039-color-desc" xml:lang="ja">「更新」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0039" slug="refresh-cw" variant="color">
+      <uui:name xml:lang="ja">更新</uui:name>
+      <uui:name xml:lang="en">Refresh Cw</uui:name>
+      <uui:description xml:lang="ja">「更新」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Refresh Cw” in actions contexts.</uui:description>
+      <uui:category id="actions" xml:lang="ja">基本操作</uui:category>
+      <uui:category id="actions" xml:lang="en">Actions</uui:category>
+      <uui:keywords xml:lang="ja">更新, 基本操作, refresh, cw</uui:keywords>
+      <uui:keywords xml:lang="en">Refresh Cw, Actions, refresh, cw</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/actions/refresh-cw.svg"/>
+      <uui:palette primary="#0F766E" accent="#14B8A6" secondary="#5EEAD4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d0111b6d7d3c5b62d7d0f1de486c2695b0424feb98a558bbd6070610858b6fee"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8" stroke="#0F766E" data-uui-role="primary"/>
+    <path d="M21 3v5h-5" stroke="#14B8A6" data-uui-role="accent"/>
+    <path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16" stroke="#5EEAD4" data-uui-role="secondary"/>
+    <path d="M8 16H3v5" stroke="#14B8A6" data-uui-role="accent"/>
+  </g>
+</svg>

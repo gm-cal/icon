@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="736" viewBox="0 0 840 736">
+  <rect width="100%" height="100%" fill="#F8FAFC"/>
+  <text x="24" y="34" font-size="22" font-weight="700" fill="#0F172A">データと分析 — カラー版</text>
+  <text x="24" y="57" font-size="12" fill="#64748B">Data and analytics · 25 icons</text>
+    <g transform="translate(0 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 3v16a2 2 0 0 0 2 2h16" stroke="#047857" data-uui-role="primary"/>
+        <path d="M7 16h8" stroke="#10B981" data-uui-role="accent"/>
+        <path d="M7 11h12" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="M7 6h3" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">棒グラフ</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0251 · chart-bar</text>
+    </g>
+    <g transform="translate(168 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 3v16a2 2 0 0 0 2 2h16" stroke="#047857" data-uui-role="primary"/>
+        <path d="m19 9-5 5-4-4-3 3" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">折れ線グラフ</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0252 · chart-line</text>
+    </g>
+    <g transform="translate(336 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 12c.552 0 1.005-.449.95-.998a10 10 0 0 0-8.953-8.951c-.55-.055-.998.398-.998.95v8a1 1 0 0 0 1 1z" stroke="#047857" data-uui-role="primary"/>
+        <path d="M21.21 15.89A10 10 0 1 1 8 2.83" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">円グラフ</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0253 · chart-pie</text>
+    </g>
+    <g transform="translate(504 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 3v16a2 2 0 0 0 2 2h16" stroke="#047857" data-uui-role="primary"/>
+        <path d="M7 11.207a.5.5 0 0 1 .146-.353l2-2a.5.5 0 0 1 .708 0l3.292 3.292a.5.5 0 0 0 .708 0l4.292-4.292a.5.5 0 0 1 .854.353V16a1 1 0 0 1-1 1H8a1 1 0 0 1-1-1z" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">面グラフ</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0254 · chart-area</text>
+    </g>
+    <g transform="translate(672 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M5 21v-6" stroke="#047857" data-uui-role="primary"/>
+        <path d="M12 21V9" stroke="#10B981" data-uui-role="accent"/>
+        <path d="M19 21V3" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">増加グラフ</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0255 · chart-no-axes-column-increasing</text>
+    </g>
+    <g transform="translate(0 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 7h6v6" stroke="#15803D" data-uui-role="primary"/>
+        <path d="m22 7-8.5 8.5-5-5L2 17" stroke="#22C55E" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">上昇傾向</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0256 · trending-up</text>
+    </g>
+    <g transform="translate(168 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 17h6v-6" stroke="#B91C1C" data-uui-role="primary"/>
+        <path d="m22 17-8.5-8.5-5 5L2 7" stroke="#EF4444" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">下降傾向</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0257 · trending-down</text>
+    </g>
+    <g transform="translate(336 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M22 12h-2.48a2 2 0 0 0-1.93 1.46l-2.35 8.36a.25.25 0 0 1-.48 0L9.24 2.18a.25.25 0 0 0-.48 0l-2.35 8.36A2 2 0 0 1 4.49 12H2" stroke="#047857" data-uui-role="primary"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">活動量</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0258 · activity</text>
+    </g>
+    <g transform="translate(504 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m12 14 4-4" stroke="#047857" data-uui-role="primary"/>
+        <path d="M3.34 19a10 10 0 1 1 17.32 0" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">計測値</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0259 · gauge</text>
+    </g>
+    <g transform="translate(672 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <ellipse cx="12" cy="5" rx="9" ry="3" stroke="#047857" data-uui-role="primary"/>
+        <path d="M3 5V19A9 3 0 0 0 21 19V5" stroke="#10B981" data-uui-role="accent"/>
+        <path d="M3 12A9 3 0 0 0 21 12" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">データベース</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0260 · database</text>
+    </g>
+    <g transform="translate(0 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <ellipse cx="12" cy="5" rx="9" ry="3" stroke="#047857" data-uui-role="primary"/>
+        <path d="M3 12a9 3 0 0 0 5 2.69" stroke="#10B981" data-uui-role="accent"/>
+        <path d="M21 9.3V5" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="M3 5v14a9 3 0 0 0 6.47 2.88" stroke="#10B981" data-uui-role="accent"/>
+        <path d="M12 12v4h4" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="M13 20a5 5 0 0 0 9-3 4.5 4.5 0 0 0-4.5-4.5c-1.33 0-2.54.54-3.41 1.41L12 16" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">データバックアップ</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0261 · database-backup</text>
+    </g>
+    <g transform="translate(168 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="20" height="8" x="2" y="2" rx="2" ry="2" stroke="#047857" data-uui-role="primary"/>
+        <rect width="20" height="8" x="2" y="14" rx="2" ry="2" stroke="#10B981" data-uui-role="accent"/>
+        <line x1="6" x2="6.01" y1="6" y2="6" stroke="#34D399" data-uui-role="secondary"/>
+        <line x1="6" x2="6.01" y1="18" y2="18" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">サーバー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0262 · server</text>
+    </g>
+    <g transform="translate(336 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m10.852 14.772-.383.923" stroke="#047857" data-uui-role="primary"/>
+        <path d="M13.148 14.772a3 3 0 1 0-2.296-5.544l-.383-.923" stroke="#10B981" data-uui-role="accent"/>
+        <path d="m13.148 9.228.383-.923" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="m13.53 15.696-.382-.924a3 3 0 1 1-2.296-5.544" stroke="#10B981" data-uui-role="accent"/>
+        <path d="m14.772 10.852.923-.383" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="m14.772 13.148.923.383" stroke="#10B981" data-uui-role="accent"/>
+        <path d="M4.5 10H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-.5" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="M4.5 14H4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-4a2 2 0 0 0-2-2h-.5" stroke="#10B981" data-uui-role="accent"/>
+        <path d="M6 18h.01" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="M6 6h.01" stroke="#10B981" data-uui-role="accent"/>
+        <path d="m9.228 10.852-.923-.383" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="m9.228 13.148-.923.383" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">サーバー設定</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0263 · server-cog</text>
+    </g>
+    <g transform="translate(504 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10 16h.01" stroke="#047857" data-uui-role="primary"/>
+        <path d="M2.212 11.577a2 2 0 0 0-.212.896V18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-5.527a2 2 0 0 0-.212-.896L18.55 5.11A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z" stroke="#10B981" data-uui-role="accent"/>
+        <path d="M21.946 12.013H2.054" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="M6 16h.01" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ストレージ</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0264 · hard-drive</text>
+    </g>
+    <g transform="translate(672 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m10.852 19.772-.383.924" stroke="#047857" data-uui-role="primary"/>
+        <path d="m13.148 14.228.383-.923" stroke="#10B981" data-uui-role="accent"/>
+        <path d="M13.148 19.772a3 3 0 1 0-2.296-5.544l-.383-.923" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="m13.53 20.696-.382-.924a3 3 0 1 1-2.296-5.544" stroke="#10B981" data-uui-role="accent"/>
+        <path d="m14.772 15.852.923-.383" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="m14.772 18.148.923.383" stroke="#10B981" data-uui-role="accent"/>
+        <path d="M4.2 15.1a7 7 0 1 1 9.93-9.858A7 7 0 0 1 15.71 8h1.79a4.5 4.5 0 0 1 2.5 8.2" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="m9.228 15.852-.923-.383" stroke="#10B981" data-uui-role="accent"/>
+        <path d="m9.228 18.148-.923.383" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">クラウド設定</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0265 · cloud-cog</text>
+    </g>
+    <g transform="translate(0 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 13v8" stroke="#047857" data-uui-role="primary"/>
+        <path d="M4 14.899A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 2.5 8.242" stroke="#10B981" data-uui-role="accent"/>
+        <path d="m8 17 4-4 4 4" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">クラウドへ送信</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0266 · cloud-upload</text>
+    </g>
+    <g transform="translate(168 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 13v8l-4-4" stroke="#047857" data-uui-role="primary"/>
+        <path d="m12 21 4-4" stroke="#10B981" data-uui-role="accent"/>
+        <path d="M4.393 15.269A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 2.436 8.284" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">クラウドから取得</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0267 · cloud-download</text>
+    </g>
+    <g transform="translate(336 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="16" y="16" width="6" height="6" rx="1" stroke="#047857" data-uui-role="primary"/>
+        <rect x="2" y="16" width="6" height="6" rx="1" stroke="#10B981" data-uui-role="accent"/>
+        <rect x="9" y="2" width="6" height="6" rx="1" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="M5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3" stroke="#10B981" data-uui-role="accent"/>
+        <path d="M12 12V8" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ネットワーク構造</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0268 · network</text>
+    </g>
+    <g transform="translate(504 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="8" height="8" x="3" y="3" rx="2" stroke="#047857" data-uui-role="primary"/>
+        <path d="M7 11v4a2 2 0 0 0 2 2h4" stroke="#10B981" data-uui-role="accent"/>
+        <rect width="8" height="8" x="13" y="13" rx="2" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ワークフロー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0269 · workflow</text>
+    </g>
+    <g transform="translate(672 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M15 6a9 9 0 0 0-9 9V3" stroke="#047857" data-uui-role="primary"/>
+        <circle cx="18" cy="6" r="3" stroke="#10B981" data-uui-role="accent"/>
+        <circle cx="6" cy="18" r="3" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">分岐</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0270 · git-branch</text>
+    </g>
+    <g transform="translate(0 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="3" stroke="#047857" data-uui-role="primary"/>
+        <line x1="3" x2="9" y1="12" y2="12" stroke="#10B981" data-uui-role="accent"/>
+        <line x1="15" x2="21" y1="12" y2="12" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">変更点</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0271 · git-commit-horizontal</text>
+    </g>
+    <g transform="translate(168 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="18" cy="18" r="3" stroke="#047857" data-uui-role="primary"/>
+        <circle cx="6" cy="6" r="3" stroke="#10B981" data-uui-role="accent"/>
+        <path d="M6 21V9a9 9 0 0 0 9 9" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">統合</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0272 · git-merge</text>
+    </g>
+    <g transform="translate(336 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2V9M9 21H5a2 2 0 0 1-2-2V9m0 0h18" stroke="#047857" data-uui-role="primary"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">データ表</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0273 · table-2</text>
+    </g>
+    <g transform="translate(504 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="18" height="18" x="3" y="3" rx="2" ry="2" stroke="#047857" data-uui-role="primary"/>
+        <line x1="3" x2="21" y1="9" y2="9" stroke="#10B981" data-uui-role="accent"/>
+        <line x1="3" x2="21" y1="15" y2="15" stroke="#34D399" data-uui-role="secondary"/>
+        <line x1="9" x2="9" y1="9" y2="21" stroke="#10B981" data-uui-role="accent"/>
+        <line x1="15" x2="15" y1="9" y2="21" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">シート</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0274 · sheet</text>
+    </g>
+    <g transform="translate(672 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="16" height="20" x="4" y="2" rx="2" stroke="#047857" data-uui-role="primary"/>
+        <line x1="8" x2="16" y1="6" y2="6" stroke="#10B981" data-uui-role="accent"/>
+        <line x1="16" x2="16" y1="14" y2="18" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="M16 10h.01" stroke="#10B981" data-uui-role="accent"/>
+        <path d="M12 10h.01" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="M8 10h.01" stroke="#10B981" data-uui-role="accent"/>
+        <path d="M12 14h.01" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="M8 14h.01" stroke="#10B981" data-uui-role="accent"/>
+        <path d="M12 18h.01" stroke="#34D399" data-uui-role="secondary"/>
+        <path d="M8 18h.01" stroke="#10B981" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">計算</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0275 · calculator</text>
+    </g>
+</svg>

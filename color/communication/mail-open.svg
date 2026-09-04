@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0127-color-title uui-0127-color-desc" data-icon-id="UUI-0127" data-icon-name="mail-open" data-icon-variant="color" data-icon-category="communication">
+  <title id="uui-0127-color-title" xml:lang="ja">開封済みメール</title>
+  <desc id="uui-0127-color-desc" xml:lang="ja">「開封済みメール」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0127" slug="mail-open" variant="color">
+      <uui:name xml:lang="ja">開封済みメール</uui:name>
+      <uui:name xml:lang="en">Mail Open</uui:name>
+      <uui:description xml:lang="ja">「開封済みメール」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Mail Open” in communication contexts.</uui:description>
+      <uui:category id="communication" xml:lang="ja">通信と連絡</uui:category>
+      <uui:category id="communication" xml:lang="en">Communication</uui:category>
+      <uui:keywords xml:lang="ja">開封済みメール, 通信と連絡, mail, open</uui:keywords>
+      <uui:keywords xml:lang="en">Mail Open, Communication, mail, open</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/communication/mail-open.svg"/>
+      <uui:palette primary="#C2410C" accent="#F97316" secondary="#FB923C"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="789da55b2ae4a8aa299bfd5a63e3ca7bd1c3256bca2eb605a4a583a2ad534bdc"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M21.2 8.4c.5.38.8.97.8 1.6v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V10a2 2 0 0 1 .8-1.6l8-6a2 2 0 0 1 2.4 0l8 6Z" stroke="#C2410C" data-uui-role="primary"/>
+    <path d="m22 10-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 10" stroke="#F97316" data-uui-role="accent"/>
+  </g>
+</svg>

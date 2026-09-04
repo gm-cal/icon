@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0427-monochrome-title uui-0427-monochrome-desc" data-icon-id="UUI-0427" data-icon-name="building" data-icon-variant="monochrome" data-icon-category="facilities">
+  <title id="uui-0427-monochrome-title" xml:lang="ja">建物</title>
+  <desc id="uui-0427-monochrome-desc" xml:lang="ja">「建物」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0427" slug="building" variant="monochrome">
+      <uui:name xml:lang="ja">建物</uui:name>
+      <uui:name xml:lang="en">Building</uui:name>
+      <uui:description xml:lang="ja">「建物」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Building” in buildings and facilities contexts.</uui:description>
+      <uui:category id="facilities" xml:lang="ja">建物と生活設備</uui:category>
+      <uui:category id="facilities" xml:lang="en">Buildings and facilities</uui:category>
+      <uui:keywords xml:lang="ja">建物, 建物と生活設備, building</uui:keywords>
+      <uui:keywords xml:lang="en">Building, Buildings and facilities, building</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/facilities/building.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="325a5f2867917f99944cf37b70f8eca1984cce901baf8434a88e33db1c3667c0"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 10h.01" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M12 14h.01" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M12 6h.01" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M16 10h.01" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M16 14h.01" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M16 6h.01" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M8 10h.01" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M8 14h.01" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M8 6h.01" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M9 22v-3a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v3" stroke="currentColor" data-uui-role="accent"/>
+    <rect x="4" y="2" width="16" height="20" rx="2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

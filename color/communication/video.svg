@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0139-color-title uui-0139-color-desc" data-icon-id="UUI-0139" data-icon-name="video" data-icon-variant="color" data-icon-category="communication">
+  <title id="uui-0139-color-title" xml:lang="ja">ビデオ通話</title>
+  <desc id="uui-0139-color-desc" xml:lang="ja">「ビデオ通話」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0139" slug="video" variant="color">
+      <uui:name xml:lang="ja">ビデオ通話</uui:name>
+      <uui:name xml:lang="en">Video</uui:name>
+      <uui:description xml:lang="ja">「ビデオ通話」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Video” in communication contexts.</uui:description>
+      <uui:category id="communication" xml:lang="ja">通信と連絡</uui:category>
+      <uui:category id="communication" xml:lang="en">Communication</uui:category>
+      <uui:keywords xml:lang="ja">ビデオ通話, 通信と連絡, video</uui:keywords>
+      <uui:keywords xml:lang="en">Video, Communication, video</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/communication/video.svg"/>
+      <uui:palette primary="#C2410C" accent="#F97316" secondary="#FB923C"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="a6cf8fb436d6ccdeb8f92260f606b7f7c97171abfa9cf99cfe78ea615a05e8a1"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m16 13 5.223 3.482a.5.5 0 0 0 .777-.416V7.87a.5.5 0 0 0-.752-.432L16 10.5" stroke="#C2410C" data-uui-role="primary"/>
+    <rect x="2" y="6" width="14" height="12" rx="2" stroke="#F97316" data-uui-role="accent"/>
+  </g>
+</svg>

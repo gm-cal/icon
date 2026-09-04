@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0188-color-title uui-0188-color-desc" data-icon-id="UUI-0188" data-icon-name="scan-eye" data-icon-variant="color" data-icon-category="security">
+  <title id="uui-0188-color-title" xml:lang="ja">視覚確認</title>
+  <desc id="uui-0188-color-desc" xml:lang="ja">「視覚確認」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0188" slug="scan-eye" variant="color">
+      <uui:name xml:lang="ja">視覚確認</uui:name>
+      <uui:name xml:lang="en">Scan Eye</uui:name>
+      <uui:description xml:lang="ja">「視覚確認」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Scan Eye” in security and privacy contexts.</uui:description>
+      <uui:category id="security" xml:lang="ja">セキュリティ</uui:category>
+      <uui:category id="security" xml:lang="en">Security and privacy</uui:category>
+      <uui:keywords xml:lang="ja">視覚確認, セキュリティ, scan, eye</uui:keywords>
+      <uui:keywords xml:lang="en">Scan Eye, Security and privacy, scan, eye</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/security/scan-eye.svg"/>
+      <uui:palette primary="#B91C1C" accent="#EF4444" secondary="#F87171"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d90b96457351f4622e5ffe8d2d54f5908412057bb3945dbc09e0af097896284e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M3 7V5a2 2 0 0 1 2-2h2" stroke="#B91C1C" data-uui-role="primary"/>
+    <path d="M17 3h2a2 2 0 0 1 2 2v2" stroke="#EF4444" data-uui-role="accent"/>
+    <path d="M21 17v2a2 2 0 0 1-2 2h-2" stroke="#F87171" data-uui-role="secondary"/>
+    <path d="M7 21H5a2 2 0 0 1-2-2v-2" stroke="#EF4444" data-uui-role="accent"/>
+    <circle cx="12" cy="12" r="1" stroke="#F87171" data-uui-role="secondary"/>
+    <path d="M18.944 12.33a1 1 0 0 0 0-.66 7.5 7.5 0 0 0-13.888 0 1 1 0 0 0 0 .66 7.5 7.5 0 0 0 13.888 0" stroke="#EF4444" data-uui-role="accent"/>
+  </g>
+</svg>

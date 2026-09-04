@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0480-color-title uui-0480-color-desc" data-icon-id="UUI-0480" data-icon-name="cloud-rain" data-icon-variant="color" data-icon-category="weather">
+  <title id="uui-0480-color-title" xml:lang="ja">雨</title>
+  <desc id="uui-0480-color-desc" xml:lang="ja">「雨」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0480" slug="cloud-rain" variant="color">
+      <uui:name xml:lang="ja">雨</uui:name>
+      <uui:name xml:lang="en">Cloud Rain</uui:name>
+      <uui:description xml:lang="ja">「雨」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Cloud Rain” in nature and weather contexts.</uui:description>
+      <uui:category id="weather" xml:lang="ja">自然と天候</uui:category>
+      <uui:category id="weather" xml:lang="en">Nature and weather</uui:category>
+      <uui:keywords xml:lang="ja">雨, 自然と天候, cloud, rain</uui:keywords>
+      <uui:keywords xml:lang="en">Cloud Rain, Nature and weather, cloud, rain</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/weather/cloud-rain.svg"/>
+      <uui:palette primary="#0284C7" accent="#F59E0B" secondary="#38BDF8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="5f3a126052b443944e865686c6bbb37dda496193648b6725638677d19ddffc54"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 14.899A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 2.5 8.242" stroke="#0284C7" data-uui-role="primary"/>
+    <path d="M16 14v6" stroke="#F59E0B" data-uui-role="accent"/>
+    <path d="M8 14v6" stroke="#38BDF8" data-uui-role="secondary"/>
+    <path d="M12 16v6" stroke="#F59E0B" data-uui-role="accent"/>
+  </g>
+</svg>

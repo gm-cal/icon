@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0338-monochrome-title uui-0338-monochrome-desc" data-icon-id="UUI-0338" data-icon-name="check-check" data-icon-variant="monochrome" data-icon-category="status">
+  <title id="uui-0338-monochrome-title" xml:lang="ja">完了済み</title>
+  <desc id="uui-0338-monochrome-desc" xml:lang="ja">「完了済み」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0338" slug="check-check" variant="monochrome">
+      <uui:name xml:lang="ja">完了済み</uui:name>
+      <uui:name xml:lang="en">Check Check</uui:name>
+      <uui:description xml:lang="ja">「完了済み」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Check Check” in status and feedback contexts.</uui:description>
+      <uui:category id="status" xml:lang="ja">状態とフィードバック</uui:category>
+      <uui:category id="status" xml:lang="en">Status and feedback</uui:category>
+      <uui:keywords xml:lang="ja">完了済み, 状態とフィードバック, check</uui:keywords>
+      <uui:keywords xml:lang="en">Check Check, Status and feedback, check</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/status/check-check.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="788bf35cab6d586e86a58f9356bb5566ee6e8cab6a507e1ed484b89838ab8b63"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M18 6 7 17l-5-5" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m22 10-7.5 7.5L13 16" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

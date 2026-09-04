@@ -1,0 +1,79 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:universal-ui-icons:catalog:1.0",
+  "title": "Universal UI Icons catalog v1",
+  "type": "object",
+  "required": ["schemaVersion", "library", "categories", "icons"],
+  "properties": {
+    "schemaVersion": { "const": "1.0" },
+    "library": {
+      "type": "object",
+      "required": ["name", "version", "iconCount", "variantCount", "svgCount", "viewBox", "minimumSizePx", "recommendedSizesPx", "license"],
+      "properties": {
+        "name": { "type": "string" },
+        "version": { "type": "string" },
+        "iconCount": { "const": 500 },
+        "variantCount": { "const": 2 },
+        "svgCount": { "const": 1000 },
+        "viewBox": { "const": "0 0 24 24" },
+        "minimumSizePx": { "type": "integer", "minimum": 1 },
+        "recommendedSizesPx": { "type": "array", "items": { "type": "integer", "minimum": 1 }, "minItems": 1, "uniqueItems": true },
+        "license": { "type": "string" }
+      },
+      "additionalProperties": true
+    },
+    "categories": {
+      "type": "array",
+      "minItems": 20,
+      "maxItems": 20,
+      "items": {
+        "type": "object",
+        "required": ["id", "ja", "en", "palette"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z][a-z0-9-]*$" },
+          "ja": { "type": "string", "minLength": 1 },
+          "en": { "type": "string", "minLength": 1 },
+          "palette": {
+            "type": "object",
+            "required": ["primary", "accent", "secondary"],
+            "properties": {
+              "primary": { "$ref": "#/$defs/color" },
+              "accent": { "$ref": "#/$defs/color" },
+              "secondary": { "$ref": "#/$defs/color" }
+            },
+            "additionalProperties": false
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "icons": {
+      "type": "array",
+      "minItems": 500,
+      "maxItems": 500,
+      "items": { "$ref": "#/$defs/icon" }
+    }
+  },
+  "$defs": {
+    "color": { "type": "string", "pattern": "^#[0-9A-F]{6}$" },
+    "icon": {
+      "type": "object",
+      "required": ["id", "slug", "name", "description", "category", "keywords", "palette", "geometrySha256", "files", "minimumSizePx", "recommendedSizesPx"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^UUI-[0-9]{4}$" },
+        "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+        "name": { "type": "object", "required": ["ja", "en"] },
+        "description": { "type": "object", "required": ["ja"] },
+        "category": { "type": "object", "required": ["id", "ja", "en"] },
+        "keywords": { "type": "object", "required": ["ja", "en"] },
+        "palette": { "type": "object", "required": ["primary", "accent", "secondary"] },
+        "geometrySha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "files": { "type": "object", "required": ["color", "monochrome"] },
+        "minimumSizePx": { "type": "integer", "minimum": 1 },
+        "recommendedSizesPx": { "type": "array", "items": { "type": "integer", "minimum": 1 } }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0055-color-title uui-0055-color-desc" data-icon-id="UUI-0055" data-icon-name="file-check" data-icon-variant="color" data-icon-category="files">
+  <title id="uui-0055-color-title" xml:lang="ja">確認済みファイル</title>
+  <desc id="uui-0055-color-desc" xml:lang="ja">「確認済みファイル」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0055" slug="file-check" variant="color">
+      <uui:name xml:lang="ja">確認済みファイル</uui:name>
+      <uui:name xml:lang="en">File Check</uui:name>
+      <uui:description xml:lang="ja">「確認済みファイル」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Check” in files and folders contexts.</uui:description>
+      <uui:category id="files" xml:lang="ja">ファイルとフォルダー</uui:category>
+      <uui:category id="files" xml:lang="en">Files and folders</uui:category>
+      <uui:keywords xml:lang="ja">確認済みファイル, ファイルとフォルダー, file, check</uui:keywords>
+      <uui:keywords xml:lang="en">File Check, Files and folders, file, check</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/files/file-check.svg"/>
+      <uui:palette primary="#7C3AED" accent="#A855F7" secondary="#C084FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="07246ebf6c94dfaa84c2d283097e3dd71df2d229a9919cc5e146afd41f73236a"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z" stroke="#7C3AED" data-uui-role="primary"/>
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="#A855F7" data-uui-role="accent"/>
+    <path d="m9 15 2 2 4-4" stroke="#A855F7" data-uui-role="accent"/>
+  </g>
+</svg>

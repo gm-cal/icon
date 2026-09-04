@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0112-monochrome-title uui-0112-monochrome-desc" data-icon-id="UUI-0112" data-icon-name="layout-grid" data-icon-variant="monochrome" data-icon-category="layout">
+  <title id="uui-0112-monochrome-title" xml:lang="ja">タイル配置</title>
+  <desc id="uui-0112-monochrome-desc" xml:lang="ja">「タイル配置」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0112" slug="layout-grid" variant="monochrome">
+      <uui:name xml:lang="ja">タイル配置</uui:name>
+      <uui:name xml:lang="en">Layout Grid</uui:name>
+      <uui:description xml:lang="ja">「タイル配置」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Layout Grid” in layout and windows contexts.</uui:description>
+      <uui:category id="layout" xml:lang="ja">画面とレイアウト</uui:category>
+      <uui:category id="layout" xml:lang="en">Layout and windows</uui:category>
+      <uui:keywords xml:lang="ja">タイル配置, 画面とレイアウト, layout, grid</uui:keywords>
+      <uui:keywords xml:lang="en">Layout Grid, Layout and windows, layout, grid</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/layout/layout-grid.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="2bb5b6caa8aa4ba801811a453a995f3f4e6cd98d5c67035467a8f599651a0780"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect width="7" height="7" x="3" y="3" rx="1" stroke="currentColor" data-uui-role="primary"/>
+    <rect width="7" height="7" x="14" y="3" rx="1" stroke="currentColor" data-uui-role="accent"/>
+    <rect width="7" height="7" x="14" y="14" rx="1" stroke="currentColor" data-uui-role="secondary"/>
+    <rect width="7" height="7" x="3" y="14" rx="1" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

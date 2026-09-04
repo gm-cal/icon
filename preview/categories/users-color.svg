@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="736" viewBox="0 0 840 736">
+  <rect width="100%" height="100%" fill="#F8FAFC"/>
+  <text x="24" y="34" font-size="22" font-weight="700" fill="#0F172A">ユーザーと認証 — カラー版</text>
+  <text x="24" y="57" font-size="12" fill="#64748B">Users and identity · 25 icons</text>
+    <g transform="translate(0 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2" stroke="#9333EA" data-uui-role="primary"/>
+        <circle cx="12" cy="7" r="4" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーザー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0151 · user</text>
+    </g>
+    <g transform="translate(168 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10" stroke="#9333EA" data-uui-role="primary"/>
+        <circle cx="12" cy="10" r="3" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M7 20.662V19a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v1.662" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーザーアカウント</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0152 · circle-user</text>
+    </g>
+    <g transform="translate(336 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M18 21a8 8 0 0 0-16 0" stroke="#9333EA" data-uui-role="primary"/>
+        <circle cx="10" cy="8" r="5" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M22 20c0-3.37-2-6.5-4-8a5 5 0 0 0-.45-8.3" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーザー一覧</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0153 · users-round</text>
+    </g>
+    <g transform="translate(504 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m14.305 19.53.923-.382" stroke="#9333EA" data-uui-role="primary"/>
+        <path d="m15.228 16.852-.923-.383" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="m16.852 15.228-.383-.923" stroke="#E879F9" data-uui-role="secondary"/>
+        <path d="m16.852 20.772-.383.924" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="m19.148 15.228.383-.923" stroke="#E879F9" data-uui-role="secondary"/>
+        <path d="m19.53 21.696-.382-.924" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M2 21a8 8 0 0 1 10.434-7.62" stroke="#E879F9" data-uui-role="secondary"/>
+        <path d="m20.772 16.852.924-.383" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="m20.772 19.148.924.383" stroke="#E879F9" data-uui-role="secondary"/>
+        <circle cx="10" cy="8" r="5" stroke="#D946EF" data-uui-role="accent"/>
+        <circle cx="18" cy="18" r="3" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーザー設定</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0154 · user-round-cog</text>
+    </g>
+    <g transform="translate(672 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10 15H6a4 4 0 0 0-4 4v2" stroke="#9333EA" data-uui-role="primary"/>
+        <path d="m14.305 16.53.923-.382" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="m15.228 13.852-.923-.383" stroke="#E879F9" data-uui-role="secondary"/>
+        <path d="m16.852 12.228-.383-.923" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="m16.852 17.772-.383.924" stroke="#E879F9" data-uui-role="secondary"/>
+        <path d="m19.148 12.228.383-.923" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="m19.53 18.696-.382-.924" stroke="#E879F9" data-uui-role="secondary"/>
+        <path d="m20.772 13.852.924-.383" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="m20.772 16.148.924.383" stroke="#E879F9" data-uui-role="secondary"/>
+        <circle cx="18" cy="15" r="3" stroke="#D946EF" data-uui-role="accent"/>
+        <circle cx="9" cy="7" r="4" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">アカウント設定</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0155 · user-cog</text>
+    </g>
+    <g transform="translate(0 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M11.5 15H7a4 4 0 0 0-4 4v2" stroke="#9333EA" data-uui-role="primary"/>
+        <path d="M21.378 16.626a1 1 0 0 0-3.004-3.004l-4.01 4.012a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506z" stroke="#D946EF" data-uui-role="accent"/>
+        <circle cx="10" cy="7" r="4" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">プロフィール編集</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0156 · user-pen</text>
+    </g>
+    <g transform="translate(168 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m16 11 2 2 4-4" stroke="#15803D" data-uui-role="primary"/>
+        <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" stroke="#22C55E" data-uui-role="accent"/>
+        <circle cx="9" cy="7" r="4" stroke="#22C55E" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">確認済みユーザー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0157 · user-check</text>
+    </g>
+    <g transform="translate(336 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" stroke="#B91C1C" data-uui-role="primary"/>
+        <circle cx="9" cy="7" r="4" stroke="#EF4444" data-uui-role="accent"/>
+        <line x1="17" x2="22" y1="8" y2="13" stroke="#FCA5A5" data-uui-role="secondary"/>
+        <line x1="22" x2="17" y1="8" y2="13" stroke="#EF4444" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーザー無効</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0158 · user-x</text>
+    </g>
+    <g transform="translate(504 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="10" cy="7" r="4" stroke="#9333EA" data-uui-role="primary"/>
+        <path d="M10.3 15H7a4 4 0 0 0-4 4v2" stroke="#D946EF" data-uui-role="accent"/>
+        <circle cx="17" cy="17" r="3" stroke="#E879F9" data-uui-role="secondary"/>
+        <path d="m21 21-1.9-1.9" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーザー検索</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0159 · user-search</text>
+    </g>
+    <g transform="translate(672 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 2v2" stroke="#9333EA" data-uui-role="primary"/>
+        <path d="M17.915 22a6 6 0 0 0-12 0" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M8 2v2" stroke="#E879F9" data-uui-role="secondary"/>
+        <circle cx="12" cy="12" r="4" stroke="#D946EF" data-uui-role="accent"/>
+        <rect x="3" y="4" width="18" height="18" rx="2" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">人物連絡先</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0160 · contact-round</text>
+    </g>
+    <g transform="translate(0 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 10h2" stroke="#9333EA" data-uui-role="primary"/>
+        <path d="M16 14h2" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M6.17 15a3 3 0 0 1 5.66 0" stroke="#E879F9" data-uui-role="secondary"/>
+        <circle cx="9" cy="11" r="2" stroke="#D946EF" data-uui-role="accent"/>
+        <rect x="2" y="5" width="20" height="14" rx="2" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">IDカード</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0161 · id-card</text>
+    </g>
+    <g transform="translate(168 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="#15803D" data-uui-role="primary"/>
+        <path d="m9 12 2 2 4-4" stroke="#22C55E" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">認証済み</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0162 · badge-check</text>
+    </g>
+    <g transform="translate(336 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="16" cy="4" r="1" stroke="#9333EA" data-uui-role="primary"/>
+        <path d="m18 19 1-7-6 1" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="m5 8 3-3 5.5 3-2.36 3.5" stroke="#E879F9" data-uui-role="secondary"/>
+        <path d="M4.24 14.5a5 5 0 0 0 6.88 6" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M13.76 17.5a5 5 0 0 0-6.88-6" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">アクセシビリティ</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0163 · accessibility</text>
+    </g>
+    <g transform="translate(504 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 7V5a2 2 0 0 1 2-2h2" stroke="#9333EA" data-uui-role="primary"/>
+        <path d="M17 3h2a2 2 0 0 1 2 2v2" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M21 17v2a2 2 0 0 1-2 2h-2" stroke="#E879F9" data-uui-role="secondary"/>
+        <path d="M7 21H5a2 2 0 0 1-2-2v-2" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M8 14s1.5 2 4 2 4-2 4-2" stroke="#E879F9" data-uui-role="secondary"/>
+        <path d="M9 9h.01" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M15 9h.01" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">顔認証</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0164 · scan-face</text>
+    </g>
+    <g transform="translate(672 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 10a2 2 0 0 0-2 2c0 1.02-.1 2.51-.26 4" stroke="#9333EA" data-uui-role="primary"/>
+        <path d="M14 13.12c0 2.38 0 6.38-1 8.88" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M17.29 21.02c.12-.6.43-2.3.5-3.02" stroke="#E879F9" data-uui-role="secondary"/>
+        <path d="M2 12a10 10 0 0 1 18-6" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M2 16h.01" stroke="#E879F9" data-uui-role="secondary"/>
+        <path d="M21.8 16c.2-2 .131-5.354 0-6" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M5 19.5C5.5 18 6 15 6 12a6 6 0 0 1 .34-2" stroke="#E879F9" data-uui-role="secondary"/>
+        <path d="M8.65 22c.21-.66.45-1.32.57-2" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M9 6.8a6 6 0 0 1 9 5.2v2" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">指紋認証</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0165 · fingerprint-pattern</text>
+    </g>
+    <g transform="translate(0 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m10 17 5-5-5-5" stroke="#9333EA" data-uui-role="primary"/>
+        <path d="M15 12H3" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ログイン</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0166 · log-in</text>
+    </g>
+    <g transform="translate(168 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m16 17 5-5-5-5" stroke="#9333EA" data-uui-role="primary"/>
+        <path d="M21 12H9" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ログアウト</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0167 · log-out</text>
+    </g>
+    <g transform="translate(336 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M11 20H2" stroke="#9333EA" data-uui-role="primary"/>
+        <path d="M11 4.562v16.157a1 1 0 0 0 1.242.97L19 20V5.562a2 2 0 0 0-1.515-1.94l-4-1A2 2 0 0 0 11 4.561z" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M11 4H8a2 2 0 0 0-2 2v14" stroke="#E879F9" data-uui-role="secondary"/>
+        <path d="M14 12h.01" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M22 20h-3" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">入室</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0168 · door-open</text>
+    </g>
+    <g transform="translate(504 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10 12h.01" stroke="#9333EA" data-uui-role="primary"/>
+        <path d="M18 20V6a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v14" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M2 20h20" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">退室・閉鎖</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0169 · door-closed</text>
+    </g>
+    <g transform="translate(672 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2.586 17.414A2 2 0 0 0 2 18.828V21a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h1a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h.172a2 2 0 0 0 1.414-.586l.814-.814a6.5 6.5 0 1 0-4-4z" stroke="#9333EA" data-uui-role="primary"/>
+        <circle cx="16.5" cy="7.5" r=".5" fill="currentColor" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">認証キー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0170 · key-round</text>
+    </g>
+    <g transform="translate(0 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M19 11v6" stroke="#9333EA" data-uui-role="primary"/>
+        <path d="M19 13h2" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="M2 21a8 8 0 0 1 12.868-6.349" stroke="#E879F9" data-uui-role="secondary"/>
+        <circle cx="10" cy="8" r="5" stroke="#D946EF" data-uui-role="accent"/>
+        <circle cx="19" cy="19" r="2" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">キー管理</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0171 · user-round-key</text>
+    </g>
+    <g transform="translate(168 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12.4 2.7a2.5 2.5 0 0 1 3.4 0l5.5 5.5a2.5 2.5 0 0 1 0 3.4l-3.7 3.7a2.5 2.5 0 0 1-3.4 0L8.7 9.8a2.5 2.5 0 0 1 0-3.4z" stroke="#9333EA" data-uui-role="primary"/>
+        <path d="m14 7 3 3" stroke="#D946EF" data-uui-role="accent"/>
+        <path d="m9.4 10.6-6.814 6.814A2 2 0 0 0 2 18.828V21a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h1a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h.172a2 2 0 0 0 1.414-.586l.814-.814" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">アクセスキー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0172 · key-square</text>
+    </g>
+    <g transform="translate(336 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M18 21a6 6 0 0 0-12 0" stroke="#9333EA" data-uui-role="primary"/>
+        <circle cx="12" cy="11" r="4" stroke="#D946EF" data-uui-role="accent"/>
+        <rect width="18" height="18" x="3" y="3" rx="2" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">プロフィールカード</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0173 · square-user-round</text>
+    </g>
+    <g transform="translate(504 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="#9333EA" data-uui-role="primary"/>
+        <line x1="12" x2="12" y1="8" y2="16" stroke="#D946EF" data-uui-role="accent"/>
+        <line x1="8" x2="16" y1="12" y2="12" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">権限追加</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0174 · badge-plus</text>
+    </g>
+    <g transform="translate(672 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="#9333EA" data-uui-role="primary"/>
+        <line x1="8" x2="16" y1="12" y2="12" stroke="#D946EF" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">権限削除</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0175 · badge-minus</text>
+    </g>
+</svg>

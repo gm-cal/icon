@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0500-color-title uui-0500-color-desc" data-icon-id="UUI-0500" data-icon-name="sunrise" data-icon-variant="color" data-icon-category="weather">
+  <title id="uui-0500-color-title" xml:lang="ja">日の出</title>
+  <desc id="uui-0500-color-desc" xml:lang="ja">「日の出」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0500" slug="sunrise" variant="color">
+      <uui:name xml:lang="ja">日の出</uui:name>
+      <uui:name xml:lang="en">Sunrise</uui:name>
+      <uui:description xml:lang="ja">「日の出」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Sunrise” in nature and weather contexts.</uui:description>
+      <uui:category id="weather" xml:lang="ja">自然と天候</uui:category>
+      <uui:category id="weather" xml:lang="en">Nature and weather</uui:category>
+      <uui:keywords xml:lang="ja">日の出, 自然と天候, sunrise</uui:keywords>
+      <uui:keywords xml:lang="en">Sunrise, Nature and weather, sunrise</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/weather/sunrise.svg"/>
+      <uui:palette primary="#0284C7" accent="#F59E0B" secondary="#38BDF8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3967b281c117e19c5f21c28291e38cfb8a3c6a2bb0d29767a8daca2ab0ed2e34"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 2v8" stroke="#0284C7" data-uui-role="primary"/>
+    <path d="m4.93 10.93 1.41 1.41" stroke="#F59E0B" data-uui-role="accent"/>
+    <path d="M2 18h2" stroke="#38BDF8" data-uui-role="secondary"/>
+    <path d="M20 18h2" stroke="#F59E0B" data-uui-role="accent"/>
+    <path d="m19.07 10.93-1.41 1.41" stroke="#38BDF8" data-uui-role="secondary"/>
+    <path d="M22 22H2" stroke="#F59E0B" data-uui-role="accent"/>
+    <path d="m8 6 4-4 4 4" stroke="#38BDF8" data-uui-role="secondary"/>
+    <path d="M16 18a4 4 0 0 0-8 0" stroke="#F59E0B" data-uui-role="accent"/>
+  </g>
+</svg>

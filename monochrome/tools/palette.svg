@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0382-monochrome-title uui-0382-monochrome-desc" data-icon-id="UUI-0382" data-icon-name="palette" data-icon-variant="monochrome" data-icon-category="tools">
+  <title id="uui-0382-monochrome-title" xml:lang="ja">配色</title>
+  <desc id="uui-0382-monochrome-desc" xml:lang="ja">「配色」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0382" slug="palette" variant="monochrome">
+      <uui:name xml:lang="ja">配色</uui:name>
+      <uui:name xml:lang="en">Palette</uui:name>
+      <uui:description xml:lang="ja">「配色」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Palette” in settings and tools contexts.</uui:description>
+      <uui:category id="tools" xml:lang="ja">設定と工具</uui:category>
+      <uui:category id="tools" xml:lang="en">Settings and tools</uui:category>
+      <uui:keywords xml:lang="ja">配色, 設定と工具, palette</uui:keywords>
+      <uui:keywords xml:lang="en">Palette, Settings and tools, palette</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/tools/palette.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="2b9c14ae43a183eddf26034e4b5e09b385f6c8c10548ea67564578bfa1516b4f"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 22a1 1 0 0 1 0-20 10 9 0 0 1 10 9 5 5 0 0 1-5 5h-2.25a1.75 1.75 0 0 0-1.4 2.8l.3.4a1.75 1.75 0 0 1-1.4 2.8z" stroke="currentColor" data-uui-role="primary"/>
+    <circle cx="13.5" cy="6.5" r=".5" fill="currentColor" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="17.5" cy="10.5" r=".5" fill="currentColor" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="6.5" cy="12.5" r=".5" fill="currentColor" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="8.5" cy="7.5" r=".5" fill="currentColor" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

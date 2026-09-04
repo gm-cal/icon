@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0456-color-title uui-0456-color-desc" data-icon-id="UUI-0456" data-icon-name="cross" data-icon-variant="color" data-icon-category="health">
+  <title id="uui-0456-color-title" xml:lang="ja">医療</title>
+  <desc id="uui-0456-color-desc" xml:lang="ja">「医療」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0456" slug="cross" variant="color">
+      <uui:name xml:lang="ja">医療</uui:name>
+      <uui:name xml:lang="en">Cross</uui:name>
+      <uui:description xml:lang="ja">「医療」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Cross” in health and medical contexts.</uui:description>
+      <uui:category id="health" xml:lang="ja">医療と健康</uui:category>
+      <uui:category id="health" xml:lang="en">Health and medical</uui:category>
+      <uui:keywords xml:lang="ja">医療, 医療と健康, cross</uui:keywords>
+      <uui:keywords xml:lang="en">Cross, Health and medical, cross</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/health/cross.svg"/>
+      <uui:palette primary="#BE123C" accent="#FB7185" secondary="#FDA4AF"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="2e898ca2cf4e2428f4f672141ae8d0985563a674be52f45b408bfdf4f772ac19"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 9a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h4a1 1 0 0 1 1 1v4a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-4a1 1 0 0 1 1-1h4a2 2 0 0 0 2-2v-2a2 2 0 0 0-2-2h-4a1 1 0 0 1-1-1V4a2 2 0 0 0-2-2h-2a2 2 0 0 0-2 2v4a1 1 0 0 1-1 1z" stroke="#BE123C" data-uui-role="primary"/>
+  </g>
+</svg>

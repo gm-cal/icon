@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0150-color-title uui-0150-color-desc" data-icon-id="UUI-0150" data-icon-name="megaphone" data-icon-variant="color" data-icon-category="communication">
+  <title id="uui-0150-color-title" xml:lang="ja">告知</title>
+  <desc id="uui-0150-color-desc" xml:lang="ja">「告知」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0150" slug="megaphone" variant="color">
+      <uui:name xml:lang="ja">告知</uui:name>
+      <uui:name xml:lang="en">Megaphone</uui:name>
+      <uui:description xml:lang="ja">「告知」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Megaphone” in communication contexts.</uui:description>
+      <uui:category id="communication" xml:lang="ja">通信と連絡</uui:category>
+      <uui:category id="communication" xml:lang="en">Communication</uui:category>
+      <uui:keywords xml:lang="ja">告知, 通信と連絡, megaphone</uui:keywords>
+      <uui:keywords xml:lang="en">Megaphone, Communication, megaphone</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/communication/megaphone.svg"/>
+      <uui:palette primary="#C2410C" accent="#F97316" secondary="#FB923C"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="9600f9c6a1cc63d8afd4efd7cfd7ca2dccf30790a965656c298daaebe32c6d9a"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M11 6a13 13 0 0 0 8.4-2.8A1 1 0 0 1 21 4v12a1 1 0 0 1-1.6.8A13 13 0 0 0 11 14H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2z" stroke="#C2410C" data-uui-role="primary"/>
+    <path d="M6 14a12 12 0 0 0 2.4 7.2 2 2 0 0 0 3.2-2.4A8 8 0 0 1 10 14" stroke="#F97316" data-uui-role="accent"/>
+    <path d="M8 6v8" stroke="#F97316" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0212-color-title uui-0212-color-desc" data-icon-id="UUI-0212" data-icon-name="alarm-clock-plus" data-icon-variant="color" data-icon-category="time">
+  <title id="uui-0212-color-title" xml:lang="ja">アラーム追加</title>
+  <desc id="uui-0212-color-desc" xml:lang="ja">「アラーム追加」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0212" slug="alarm-clock-plus" variant="color">
+      <uui:name xml:lang="ja">アラーム追加</uui:name>
+      <uui:name xml:lang="en">Alarm Clock Plus</uui:name>
+      <uui:description xml:lang="ja">「アラーム追加」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Alarm Clock Plus” in date and time contexts.</uui:description>
+      <uui:category id="time" xml:lang="ja">日時と履歴</uui:category>
+      <uui:category id="time" xml:lang="en">Date and time</uui:category>
+      <uui:keywords xml:lang="ja">アラーム追加, 日時と履歴, alarm, clock, plus</uui:keywords>
+      <uui:keywords xml:lang="en">Alarm Clock Plus, Date and time, alarm, clock, plus</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/time/alarm-clock-plus.svg"/>
+      <uui:palette primary="#A16207" accent="#EAB308" secondary="#FACC15"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="687bf6a7e496baefcee4b9262a879bb06cc87384ad8eb6a03df6163c798fad75"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="13" r="8" stroke="#A16207" data-uui-role="primary"/>
+    <path d="M5 3 2 6" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="m22 6-3-3" stroke="#FACC15" data-uui-role="secondary"/>
+    <path d="M6.38 18.7 4 21" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M17.64 18.67 20 21" stroke="#FACC15" data-uui-role="secondary"/>
+    <path d="M12 10v6" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M9 13h6" stroke="#EAB308" data-uui-role="accent"/>
+  </g>
+</svg>

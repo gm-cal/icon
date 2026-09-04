@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0220-monochrome-title uui-0220-monochrome-desc" data-icon-id="UUI-0220" data-icon-name="rotate-ccw" data-icon-variant="monochrome" data-icon-category="time">
+  <title id="uui-0220-monochrome-title" xml:lang="ja">反時計回り</title>
+  <desc id="uui-0220-monochrome-desc" xml:lang="ja">「反時計回り」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0220" slug="rotate-ccw" variant="monochrome">
+      <uui:name xml:lang="ja">反時計回り</uui:name>
+      <uui:name xml:lang="en">Rotate Ccw</uui:name>
+      <uui:description xml:lang="ja">「反時計回り」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Rotate Ccw” in date and time contexts.</uui:description>
+      <uui:category id="time" xml:lang="ja">日時と履歴</uui:category>
+      <uui:category id="time" xml:lang="en">Date and time</uui:category>
+      <uui:keywords xml:lang="ja">反時計回り, 日時と履歴, rotate, ccw</uui:keywords>
+      <uui:keywords xml:lang="en">Rotate Ccw, Date and time, rotate, ccw</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/time/rotate-ccw.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="55d5abaaec811df5937e3daa844c3fe32277901e9b30a7c0793aaabe24b67f00"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M3 3v5h5" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

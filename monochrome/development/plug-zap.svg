@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0296-monochrome-title uui-0296-monochrome-desc" data-icon-id="UUI-0296" data-icon-name="plug-zap" data-icon-variant="monochrome" data-icon-category="development">
+  <title id="uui-0296-monochrome-title" xml:lang="ja">接続実行</title>
+  <desc id="uui-0296-monochrome-desc" xml:lang="ja">「接続実行」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0296" slug="plug-zap" variant="monochrome">
+      <uui:name xml:lang="ja">接続実行</uui:name>
+      <uui:name xml:lang="en">Plug Zap</uui:name>
+      <uui:description xml:lang="ja">「接続実行」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Plug Zap” in development and systems contexts.</uui:description>
+      <uui:category id="development" xml:lang="ja">開発とシステム</uui:category>
+      <uui:category id="development" xml:lang="en">Development and systems</uui:category>
+      <uui:keywords xml:lang="ja">接続実行, 開発とシステム, plug, zap</uui:keywords>
+      <uui:keywords xml:lang="en">Plug Zap, Development and systems, plug, zap</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/development/plug-zap.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3cd6623608ea3e7d7610f2475c5139831491f2f51f0a6a0c48283a63e05c644b"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M6.3 20.3a2.4 2.4 0 0 0 3.4 0L12 18l-6-6-2.3 2.3a2.4 2.4 0 0 0 0 3.4Z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m2 22 3-3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M7.5 13.5 10 11" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M10.5 16.5 13 14" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m18 3-4 4h6l-4 4" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

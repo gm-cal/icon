@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0421-color-title uui-0421-color-desc" data-icon-id="UUI-0421" data-icon-name="luggage" data-icon-variant="color" data-icon-category="travel">
+  <title id="uui-0421-color-title" xml:lang="ja">旅行かばん</title>
+  <desc id="uui-0421-color-desc" xml:lang="ja">「旅行かばん」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0421" slug="luggage" variant="color">
+      <uui:name xml:lang="ja">旅行かばん</uui:name>
+      <uui:name xml:lang="en">Luggage</uui:name>
+      <uui:description xml:lang="ja">「旅行かばん」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Luggage” in maps and travel contexts.</uui:description>
+      <uui:category id="travel" xml:lang="ja">地図と移動</uui:category>
+      <uui:category id="travel" xml:lang="en">Maps and travel</uui:category>
+      <uui:keywords xml:lang="ja">旅行かばん, 地図と移動, luggage</uui:keywords>
+      <uui:keywords xml:lang="en">Luggage, Maps and travel, luggage</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/travel/luggage.svg"/>
+      <uui:palette primary="#0F766E" accent="#2DD4BF" secondary="#5EEAD4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="60d7371a5b9133f860888ee67ddc57378f14c535a23774d118fd24b1c8c998ec"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M6 20a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2" stroke="#0F766E" data-uui-role="primary"/>
+    <path d="M8 18V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v14" stroke="#2DD4BF" data-uui-role="accent"/>
+    <path d="M10 20h4" stroke="#5EEAD4" data-uui-role="secondary"/>
+    <circle cx="16" cy="20" r="2" stroke="#2DD4BF" data-uui-role="accent"/>
+    <circle cx="8" cy="20" r="2" stroke="#2DD4BF" data-uui-role="accent"/>
+  </g>
+</svg>

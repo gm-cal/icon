@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0378-color-title uui-0378-color-desc" data-icon-id="UUI-0378" data-icon-name="hammer" data-icon-variant="color" data-icon-category="tools">
+  <title id="uui-0378-color-title" xml:lang="ja">ハンマー</title>
+  <desc id="uui-0378-color-desc" xml:lang="ja">「ハンマー」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0378" slug="hammer" variant="color">
+      <uui:name xml:lang="ja">ハンマー</uui:name>
+      <uui:name xml:lang="en">Hammer</uui:name>
+      <uui:description xml:lang="ja">「ハンマー」を表す汎用UIアイコン。設定と工具に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Hammer” in settings and tools contexts.</uui:description>
+      <uui:category id="tools" xml:lang="ja">設定と工具</uui:category>
+      <uui:category id="tools" xml:lang="en">Settings and tools</uui:category>
+      <uui:keywords xml:lang="ja">ハンマー, 設定と工具, hammer</uui:keywords>
+      <uui:keywords xml:lang="en">Hammer, Settings and tools, hammer</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/tools/hammer.svg"/>
+      <uui:palette primary="#57534E" accent="#A8A29E" secondary="#D6D3D1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d0cc66ccb2f1ee3755e8d9c093a314dad457860b4c52bc210ea94315f8d70410"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m15 12-9.373 9.373a1 1 0 0 1-3.001-3L12 9" stroke="#57534E" data-uui-role="primary"/>
+    <path d="m18 15 4-4" stroke="#A8A29E" data-uui-role="accent"/>
+    <path d="m21.5 11.5-1.914-1.914A2 2 0 0 1 19 8.172v-.344a2 2 0 0 0-.586-1.414l-1.657-1.657A6 6 0 0 0 12.516 3H9l1.243 1.243A6 6 0 0 1 12 8.485V10l2 2h1.172a2 2 0 0 1 1.414.586L18.5 14.5" stroke="#A8A29E" data-uui-role="accent"/>
+  </g>
+</svg>

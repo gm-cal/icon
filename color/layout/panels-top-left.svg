@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0122-color-title uui-0122-color-desc" data-icon-id="UUI-0122" data-icon-name="panels-top-left" data-icon-variant="color" data-icon-category="layout">
+  <title id="uui-0122-color-title" xml:lang="ja">ダッシュボード</title>
+  <desc id="uui-0122-color-desc" xml:lang="ja">「ダッシュボード」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0122" slug="panels-top-left" variant="color">
+      <uui:name xml:lang="ja">ダッシュボード</uui:name>
+      <uui:name xml:lang="en">Panels Top Left</uui:name>
+      <uui:description xml:lang="ja">「ダッシュボード」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Panels Top Left” in layout and windows contexts.</uui:description>
+      <uui:category id="layout" xml:lang="ja">画面とレイアウト</uui:category>
+      <uui:category id="layout" xml:lang="en">Layout and windows</uui:category>
+      <uui:keywords xml:lang="ja">ダッシュボード, 画面とレイアウト, panels, top, left</uui:keywords>
+      <uui:keywords xml:lang="en">Panels Top Left, Layout and windows, panels, top, left</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/layout/panels-top-left.svg"/>
+      <uui:palette primary="#0369A1" accent="#0EA5E9" secondary="#38BDF8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="9969609d90a1e2282f4d7d18da13dc74fe1aab3b72fa9fd9a702e4072d512acb"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect width="18" height="18" x="3" y="3" rx="2" stroke="#0369A1" data-uui-role="primary"/>
+    <path d="M3 9h18" stroke="#0EA5E9" data-uui-role="accent"/>
+    <path d="M9 21V9" stroke="#0EA5E9" data-uui-role="accent"/>
+  </g>
+</svg>

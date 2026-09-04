@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0307-monochrome-title uui-0307-monochrome-desc" data-icon-id="UUI-0307" data-icon-name="package-minus" data-icon-variant="monochrome" data-icon-category="commerce">
+  <title id="uui-0307-monochrome-title" xml:lang="ja">荷物削除</title>
+  <desc id="uui-0307-monochrome-desc" xml:lang="ja">「荷物削除」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0307" slug="package-minus" variant="monochrome">
+      <uui:name xml:lang="ja">荷物削除</uui:name>
+      <uui:name xml:lang="en">Package Minus</uui:name>
+      <uui:description xml:lang="ja">「荷物削除」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Package Minus” in commerce and finance contexts.</uui:description>
+      <uui:category id="commerce" xml:lang="ja">商取引と金融</uui:category>
+      <uui:category id="commerce" xml:lang="en">Commerce and finance</uui:category>
+      <uui:keywords xml:lang="ja">荷物削除, 商取引と金融, package, minus</uui:keywords>
+      <uui:keywords xml:lang="en">Package Minus, Commerce and finance, package, minus</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/commerce/package-minus.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="a205c510382af2bf33c4f11c465a1e607250d781dfc9e0fbc3839f2ecf32738d"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 22V12" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16 17h6" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M21 13V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.729l7 4a2 2 0 0 0 2 .001l1.675-.955" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M3.29 7 12 12l8.71-5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m7.5 4.27 8.997 5.148" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

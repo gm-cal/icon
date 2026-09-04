@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0208-color-title uui-0208-color-desc" data-icon-id="UUI-0208" data-icon-name="calendar-range" data-icon-variant="color" data-icon-category="time">
+  <title id="uui-0208-color-title" xml:lang="ja">期間</title>
+  <desc id="uui-0208-color-desc" xml:lang="ja">「期間」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0208" slug="calendar-range" variant="color">
+      <uui:name xml:lang="ja">期間</uui:name>
+      <uui:name xml:lang="en">Calendar Range</uui:name>
+      <uui:description xml:lang="ja">「期間」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Calendar Range” in date and time contexts.</uui:description>
+      <uui:category id="time" xml:lang="ja">日時と履歴</uui:category>
+      <uui:category id="time" xml:lang="en">Date and time</uui:category>
+      <uui:keywords xml:lang="ja">期間, 日時と履歴, calendar, range</uui:keywords>
+      <uui:keywords xml:lang="en">Calendar Range, Date and time, calendar, range</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/time/calendar-range.svg"/>
+      <uui:palette primary="#A16207" accent="#EAB308" secondary="#FACC15"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="1267b635b85e6f0d67b4fcadec0c511d32da51ef06a05a5f34ca468092f877ac"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect width="18" height="18" x="3" y="4" rx="2" stroke="#A16207" data-uui-role="primary"/>
+    <path d="M16 2v4" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M3 10h18" stroke="#FACC15" data-uui-role="secondary"/>
+    <path d="M8 2v4" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M17 14h-6" stroke="#FACC15" data-uui-role="secondary"/>
+    <path d="M13 18H7" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M7 14h.01" stroke="#FACC15" data-uui-role="secondary"/>
+    <path d="M17 18h.01" stroke="#EAB308" data-uui-role="accent"/>
+  </g>
+</svg>

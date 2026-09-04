@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0334-monochrome-title uui-0334-monochrome-desc" data-icon-id="UUI-0334" data-icon-name="loader-circle" data-icon-variant="monochrome" data-icon-category="status">
+  <title id="uui-0334-monochrome-title" xml:lang="ja">処理中</title>
+  <desc id="uui-0334-monochrome-desc" xml:lang="ja">「処理中」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0334" slug="loader-circle" variant="monochrome">
+      <uui:name xml:lang="ja">処理中</uui:name>
+      <uui:name xml:lang="en">Loader Circle</uui:name>
+      <uui:description xml:lang="ja">「処理中」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Loader Circle” in status and feedback contexts.</uui:description>
+      <uui:category id="status" xml:lang="ja">状態とフィードバック</uui:category>
+      <uui:category id="status" xml:lang="en">Status and feedback</uui:category>
+      <uui:keywords xml:lang="ja">処理中, 状態とフィードバック, loader, circle</uui:keywords>
+      <uui:keywords xml:lang="en">Loader Circle, Status and feedback, loader, circle</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/status/loader-circle.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="8ba9886a28c1f8573f5ace7b0c21a2f2bfade9a3cef065e83dd5eef9df03705a"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M21 12a9 9 0 1 1-6.219-8.56" stroke="currentColor" data-uui-role="primary"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0108-monochrome-title uui-0108-monochrome-desc" data-icon-id="UUI-0108" data-icon-name="panel-right-close" data-icon-variant="monochrome" data-icon-category="layout">
+  <title id="uui-0108-monochrome-title" xml:lang="ja">右パネルを閉じる</title>
+  <desc id="uui-0108-monochrome-desc" xml:lang="ja">「右パネルを閉じる」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0108" slug="panel-right-close" variant="monochrome">
+      <uui:name xml:lang="ja">右パネルを閉じる</uui:name>
+      <uui:name xml:lang="en">Panel Right Close</uui:name>
+      <uui:description xml:lang="ja">「右パネルを閉じる」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Panel Right Close” in layout and windows contexts.</uui:description>
+      <uui:category id="layout" xml:lang="ja">画面とレイアウト</uui:category>
+      <uui:category id="layout" xml:lang="en">Layout and windows</uui:category>
+      <uui:keywords xml:lang="ja">右パネルを閉じる, 画面とレイアウト, panel, right, close</uui:keywords>
+      <uui:keywords xml:lang="en">Panel Right Close, Layout and windows, panel, right, close</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/layout/panel-right-close.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7a1faeaecd9819187923baf4d5d73b90adfa3e28615e771b716265eeab2c7a08"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect width="18" height="18" x="3" y="3" rx="2" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M15 3v18" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m8 9 3 3-3 3" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

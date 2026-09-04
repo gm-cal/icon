@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0489-color-title uui-0489-color-desc" data-icon-id="UUI-0489" data-icon-name="leaf" data-icon-variant="color" data-icon-category="weather">
+  <title id="uui-0489-color-title" xml:lang="ja">葉</title>
+  <desc id="uui-0489-color-desc" xml:lang="ja">「葉」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0489" slug="leaf" variant="color">
+      <uui:name xml:lang="ja">葉</uui:name>
+      <uui:name xml:lang="en">Leaf</uui:name>
+      <uui:description xml:lang="ja">「葉」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Leaf” in nature and weather contexts.</uui:description>
+      <uui:category id="weather" xml:lang="ja">自然と天候</uui:category>
+      <uui:category id="weather" xml:lang="en">Nature and weather</uui:category>
+      <uui:keywords xml:lang="ja">葉, 自然と天候, leaf</uui:keywords>
+      <uui:keywords xml:lang="en">Leaf, Nature and weather, leaf</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/weather/leaf.svg"/>
+      <uui:palette primary="#0284C7" accent="#F59E0B" secondary="#38BDF8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="b876a0b43779fa86402cff2a30340eb528c9c089b91c4b592005c652d19ef32f"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z" stroke="#0284C7" data-uui-role="primary"/>
+    <path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12" stroke="#F59E0B" data-uui-role="accent"/>
+  </g>
+</svg>

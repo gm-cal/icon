@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0254-monochrome-title uui-0254-monochrome-desc" data-icon-id="UUI-0254" data-icon-name="chart-area" data-icon-variant="monochrome" data-icon-category="data">
+  <title id="uui-0254-monochrome-title" xml:lang="ja">面グラフ</title>
+  <desc id="uui-0254-monochrome-desc" xml:lang="ja">「面グラフ」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0254" slug="chart-area" variant="monochrome">
+      <uui:name xml:lang="ja">面グラフ</uui:name>
+      <uui:name xml:lang="en">Chart Area</uui:name>
+      <uui:description xml:lang="ja">「面グラフ」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Chart Area” in data and analytics contexts.</uui:description>
+      <uui:category id="data" xml:lang="ja">データと分析</uui:category>
+      <uui:category id="data" xml:lang="en">Data and analytics</uui:category>
+      <uui:keywords xml:lang="ja">面グラフ, データと分析, chart, area</uui:keywords>
+      <uui:keywords xml:lang="en">Chart Area, Data and analytics, chart, area</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/data/chart-area.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="5f1716b005589702c01807f06c0759b28b4a19d4d73c577fca1eb504e313dc8b"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M3 3v16a2 2 0 0 0 2 2h16" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M7 11.207a.5.5 0 0 1 .146-.353l2-2a.5.5 0 0 1 .708 0l3.292 3.292a.5.5 0 0 0 .708 0l4.292-4.292a.5.5 0 0 1 .854.353V16a1 1 0 0 1-1 1H8a1 1 0 0 1-1-1z" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0281-monochrome-title uui-0281-monochrome-desc" data-icon-id="UUI-0281" data-icon-name="bug" data-icon-variant="monochrome" data-icon-category="development">
+  <title id="uui-0281-monochrome-title" xml:lang="ja">不具合</title>
+  <desc id="uui-0281-monochrome-desc" xml:lang="ja">「不具合」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0281" slug="bug" variant="monochrome">
+      <uui:name xml:lang="ja">不具合</uui:name>
+      <uui:name xml:lang="en">Bug</uui:name>
+      <uui:description xml:lang="ja">「不具合」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Bug” in development and systems contexts.</uui:description>
+      <uui:category id="development" xml:lang="ja">開発とシステム</uui:category>
+      <uui:category id="development" xml:lang="en">Development and systems</uui:category>
+      <uui:keywords xml:lang="ja">不具合, 開発とシステム, bug</uui:keywords>
+      <uui:keywords xml:lang="en">Bug, Development and systems, bug</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/development/bug.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e2ee39e52ba1c899cd128076c3b3ed28b557c49ee3d02c2ee47ccd9dd8333780"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 20v-9" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M14 7a4 4 0 0 1 4 4v3a6 6 0 0 1-12 0v-3a4 4 0 0 1 4-4z" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M14.12 3.88 16 2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M21 21a4 4 0 0 0-3.81-4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M21 5a4 4 0 0 1-3.55 3.97" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M22 13h-4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M3 21a4 4 0 0 1 3.81-4" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M3 5a4 4 0 0 0 3.55 3.97" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M6 13H2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m8 2 1.88 1.88" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M9 7.13V6a3 3 0 1 1 6 0v1.13" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

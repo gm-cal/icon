@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0373-monochrome-title uui-0373-monochrome-desc" data-icon-id="UUI-0373" data-icon-name="radio-tower" data-icon-variant="monochrome" data-icon-category="devices">
+  <title id="uui-0373-monochrome-title" xml:lang="ja">無線基地局</title>
+  <desc id="uui-0373-monochrome-desc" xml:lang="ja">「無線基地局」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0373" slug="radio-tower" variant="monochrome">
+      <uui:name xml:lang="ja">無線基地局</uui:name>
+      <uui:name xml:lang="en">Radio Tower</uui:name>
+      <uui:description xml:lang="ja">「無線基地局」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Radio Tower” in devices and connectivity contexts.</uui:description>
+      <uui:category id="devices" xml:lang="ja">機器と接続</uui:category>
+      <uui:category id="devices" xml:lang="en">Devices and connectivity</uui:category>
+      <uui:keywords xml:lang="ja">無線基地局, 機器と接続, radio, tower</uui:keywords>
+      <uui:keywords xml:lang="en">Radio Tower, Devices and connectivity, radio, tower</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/devices/radio-tower.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="85753971dcf894a77994ce71ece6a7426e7da2e6e529deb5acd0126b71f23496"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4.9 16.1C1 12.2 1 5.8 4.9 1.9" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M7.8 4.7a6.14 6.14 0 0 0-.8 7.5" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="12" cy="9" r="2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M16.2 4.8c2 2 2.26 5.11.8 7.47" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M19.1 1.9a9.96 9.96 0 0 1 0 14.1" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M9.5 18h5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m8 22 4-11 4 11" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

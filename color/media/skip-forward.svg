@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0230-color-title uui-0230-color-desc" data-icon-id="UUI-0230" data-icon-name="skip-forward" data-icon-variant="color" data-icon-category="media">
+  <title id="uui-0230-color-title" xml:lang="ja">次へスキップ</title>
+  <desc id="uui-0230-color-desc" xml:lang="ja">「次へスキップ」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0230" slug="skip-forward" variant="color">
+      <uui:name xml:lang="ja">次へスキップ</uui:name>
+      <uui:name xml:lang="en">Skip Forward</uui:name>
+      <uui:description xml:lang="ja">「次へスキップ」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Skip Forward” in media contexts.</uui:description>
+      <uui:category id="media" xml:lang="ja">画像・音声・映像</uui:category>
+      <uui:category id="media" xml:lang="en">Media</uui:category>
+      <uui:keywords xml:lang="ja">次へスキップ, 画像・音声・映像, skip, forward</uui:keywords>
+      <uui:keywords xml:lang="en">Skip Forward, Media, skip, forward</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/media/skip-forward.svg"/>
+      <uui:palette primary="#BE185D" accent="#EC4899" secondary="#F472B6"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e8c8524fbfe26ef21d15def8fcc7428d8d04e1ef55567760c066d2cb89b11930"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M21 4v16" stroke="#BE185D" data-uui-role="primary"/>
+    <path d="M6.029 4.285A2 2 0 0 0 3 6v12a2 2 0 0 0 3.029 1.715l9.997-5.998a2 2 0 0 0 .003-3.432z" stroke="#EC4899" data-uui-role="accent"/>
+  </g>
+</svg>

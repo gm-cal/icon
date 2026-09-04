@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0253-monochrome-title uui-0253-monochrome-desc" data-icon-id="UUI-0253" data-icon-name="chart-pie" data-icon-variant="monochrome" data-icon-category="data">
+  <title id="uui-0253-monochrome-title" xml:lang="ja">円グラフ</title>
+  <desc id="uui-0253-monochrome-desc" xml:lang="ja">「円グラフ」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0253" slug="chart-pie" variant="monochrome">
+      <uui:name xml:lang="ja">円グラフ</uui:name>
+      <uui:name xml:lang="en">Chart Pie</uui:name>
+      <uui:description xml:lang="ja">「円グラフ」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Chart Pie” in data and analytics contexts.</uui:description>
+      <uui:category id="data" xml:lang="ja">データと分析</uui:category>
+      <uui:category id="data" xml:lang="en">Data and analytics</uui:category>
+      <uui:keywords xml:lang="ja">円グラフ, データと分析, chart, pie</uui:keywords>
+      <uui:keywords xml:lang="en">Chart Pie, Data and analytics, chart, pie</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/data/chart-pie.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d3e48f3857a87e87e16098f4b74316564ca78422796d6fbe69f6b8b9a8f4d28c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M21 12c.552 0 1.005-.449.95-.998a10 10 0 0 0-8.953-8.951c-.55-.055-.998.398-.998.95v8a1 1 0 0 0 1 1z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M21.21 15.89A10 10 0 1 1 8 2.83" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

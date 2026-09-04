@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0168-color-title uui-0168-color-desc" data-icon-id="UUI-0168" data-icon-name="door-open" data-icon-variant="color" data-icon-category="users">
+  <title id="uui-0168-color-title" xml:lang="ja">入室</title>
+  <desc id="uui-0168-color-desc" xml:lang="ja">「入室」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0168" slug="door-open" variant="color">
+      <uui:name xml:lang="ja">入室</uui:name>
+      <uui:name xml:lang="en">Door Open</uui:name>
+      <uui:description xml:lang="ja">「入室」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Door Open” in users and identity contexts.</uui:description>
+      <uui:category id="users" xml:lang="ja">ユーザーと認証</uui:category>
+      <uui:category id="users" xml:lang="en">Users and identity</uui:category>
+      <uui:keywords xml:lang="ja">入室, ユーザーと認証, door, open</uui:keywords>
+      <uui:keywords xml:lang="en">Door Open, Users and identity, door, open</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/users/door-open.svg"/>
+      <uui:palette primary="#9333EA" accent="#D946EF" secondary="#E879F9"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="98716326e752d683a5d962e2af875dd15f3dd63b2e2cb2003394985be805c718"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M11 20H2" stroke="#9333EA" data-uui-role="primary"/>
+    <path d="M11 4.562v16.157a1 1 0 0 0 1.242.97L19 20V5.562a2 2 0 0 0-1.515-1.94l-4-1A2 2 0 0 0 11 4.561z" stroke="#D946EF" data-uui-role="accent"/>
+    <path d="M11 4H8a2 2 0 0 0-2 2v14" stroke="#E879F9" data-uui-role="secondary"/>
+    <path d="M14 12h.01" stroke="#D946EF" data-uui-role="accent"/>
+    <path d="M22 20h-3" stroke="#D946EF" data-uui-role="accent"/>
+  </g>
+</svg>

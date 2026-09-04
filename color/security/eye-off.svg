@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0187-color-title uui-0187-color-desc" data-icon-id="UUI-0187" data-icon-name="eye-off" data-icon-variant="color" data-icon-category="security">
+  <title id="uui-0187-color-title" xml:lang="ja">非表示</title>
+  <desc id="uui-0187-color-desc" xml:lang="ja">「非表示」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0187" slug="eye-off" variant="color">
+      <uui:name xml:lang="ja">非表示</uui:name>
+      <uui:name xml:lang="en">Eye Off</uui:name>
+      <uui:description xml:lang="ja">「非表示」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Eye Off” in security and privacy contexts.</uui:description>
+      <uui:category id="security" xml:lang="ja">セキュリティ</uui:category>
+      <uui:category id="security" xml:lang="en">Security and privacy</uui:category>
+      <uui:keywords xml:lang="ja">非表示, セキュリティ, eye, off</uui:keywords>
+      <uui:keywords xml:lang="en">Eye Off, Security and privacy, eye, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/security/eye-off.svg"/>
+      <uui:palette primary="#B91C1C" accent="#EF4444" secondary="#F87171"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7158556a7e9f61d7cab1f74d7b61b271a9d185b3881cf2d25d48a749643d1543"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10.733 5.076a10.744 10.744 0 0 1 11.205 6.575 1 1 0 0 1 0 .696 10.747 10.747 0 0 1-1.444 2.49" stroke="#B91C1C" data-uui-role="primary"/>
+    <path d="M14.084 14.158a3 3 0 0 1-4.242-4.242" stroke="#EF4444" data-uui-role="accent"/>
+    <path d="M17.479 17.499a10.75 10.75 0 0 1-15.417-5.151 1 1 0 0 1 0-.696 10.75 10.75 0 0 1 4.446-5.143" stroke="#F87171" data-uui-role="secondary"/>
+    <path d="m2 2 20 20" stroke="#EF4444" data-uui-role="accent"/>
+  </g>
+</svg>

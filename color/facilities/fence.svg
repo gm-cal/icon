@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0450-color-title uui-0450-color-desc" data-icon-id="UUI-0450" data-icon-name="fence" data-icon-variant="color" data-icon-category="facilities">
+  <title id="uui-0450-color-title" xml:lang="ja">境界</title>
+  <desc id="uui-0450-color-desc" xml:lang="ja">「境界」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0450" slug="fence" variant="color">
+      <uui:name xml:lang="ja">境界</uui:name>
+      <uui:name xml:lang="en">Fence</uui:name>
+      <uui:description xml:lang="ja">「境界」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Fence” in buildings and facilities contexts.</uui:description>
+      <uui:category id="facilities" xml:lang="ja">建物と生活設備</uui:category>
+      <uui:category id="facilities" xml:lang="en">Buildings and facilities</uui:category>
+      <uui:keywords xml:lang="ja">境界, 建物と生活設備, fence</uui:keywords>
+      <uui:keywords xml:lang="en">Fence, Buildings and facilities, fence</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/facilities/fence.svg"/>
+      <uui:palette primary="#92400E" accent="#D97706" secondary="#F59E0B"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="da473451c93c42f6853228c8404e80dd9436895a4f2e18091c065352a48805b4"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 3 2 5v15c0 .6.4 1 1 1h2c.6 0 1-.4 1-1V5Z" stroke="#92400E" data-uui-role="primary"/>
+    <path d="M6 8h4" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M6 18h4" stroke="#F59E0B" data-uui-role="secondary"/>
+    <path d="m12 3-2 2v15c0 .6.4 1 1 1h2c.6 0 1-.4 1-1V5Z" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M14 8h4" stroke="#F59E0B" data-uui-role="secondary"/>
+    <path d="M14 18h4" stroke="#D97706" data-uui-role="accent"/>
+    <path d="m20 3-2 2v15c0 .6.4 1 1 1h2c.6 0 1-.4 1-1V5Z" stroke="#D97706" data-uui-role="accent"/>
+  </g>
+</svg>

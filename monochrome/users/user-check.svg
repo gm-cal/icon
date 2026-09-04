@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0157-monochrome-title uui-0157-monochrome-desc" data-icon-id="UUI-0157" data-icon-name="user-check" data-icon-variant="monochrome" data-icon-category="users">
+  <title id="uui-0157-monochrome-title" xml:lang="ja">確認済みユーザー</title>
+  <desc id="uui-0157-monochrome-desc" xml:lang="ja">「確認済みユーザー」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0157" slug="user-check" variant="monochrome">
+      <uui:name xml:lang="ja">確認済みユーザー</uui:name>
+      <uui:name xml:lang="en">User Check</uui:name>
+      <uui:description xml:lang="ja">「確認済みユーザー」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “User Check” in users and identity contexts.</uui:description>
+      <uui:category id="users" xml:lang="ja">ユーザーと認証</uui:category>
+      <uui:category id="users" xml:lang="en">Users and identity</uui:category>
+      <uui:keywords xml:lang="ja">確認済みユーザー, ユーザーと認証, user, check</uui:keywords>
+      <uui:keywords xml:lang="en">User Check, Users and identity, user, check</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/users/user-check.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="68845cd76add59b8639fb8acfcc5afa1d57fc54f2862c4fa2157b2dce697d569"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m16 11 2 2 4-4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="9" cy="7" r="4" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

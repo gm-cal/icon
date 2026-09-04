@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0341-monochrome-title uui-0341-monochrome-desc" data-icon-id="UUI-0341" data-icon-name="smile" data-icon-variant="monochrome" data-icon-category="status">
+  <title id="uui-0341-monochrome-title" xml:lang="ja">満足</title>
+  <desc id="uui-0341-monochrome-desc" xml:lang="ja">「満足」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0341" slug="smile" variant="monochrome">
+      <uui:name xml:lang="ja">満足</uui:name>
+      <uui:name xml:lang="en">Smile</uui:name>
+      <uui:description xml:lang="ja">「満足」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Smile” in status and feedback contexts.</uui:description>
+      <uui:category id="status" xml:lang="ja">状態とフィードバック</uui:category>
+      <uui:category id="status" xml:lang="en">Status and feedback</uui:category>
+      <uui:keywords xml:lang="ja">満足, 状態とフィードバック, smile</uui:keywords>
+      <uui:keywords xml:lang="en">Smile, Status and feedback, smile</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/status/smile.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="fc6636080a7f18ad2bc0374915f59833cf08b7b0fbe7a698445d0719a3a6f41e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="10" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M8 14s1.5 2 4 2 4-2 4-2" stroke="currentColor" data-uui-role="accent"/>
+    <line x1="9" x2="9.01" y1="9" y2="9" stroke="currentColor" data-uui-role="secondary"/>
+    <line x1="15" x2="15.01" y1="9" y2="9" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

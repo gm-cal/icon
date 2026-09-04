@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0432-monochrome-title uui-0432-monochrome-desc" data-icon-id="UUI-0432" data-icon-name="school" data-icon-variant="monochrome" data-icon-category="facilities">
+  <title id="uui-0432-monochrome-title" xml:lang="ja">学校</title>
+  <desc id="uui-0432-monochrome-desc" xml:lang="ja">「学校」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0432" slug="school" variant="monochrome">
+      <uui:name xml:lang="ja">学校</uui:name>
+      <uui:name xml:lang="en">School</uui:name>
+      <uui:description xml:lang="ja">「学校」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “School” in buildings and facilities contexts.</uui:description>
+      <uui:category id="facilities" xml:lang="ja">建物と生活設備</uui:category>
+      <uui:category id="facilities" xml:lang="en">Buildings and facilities</uui:category>
+      <uui:keywords xml:lang="ja">学校, 建物と生活設備, school</uui:keywords>
+      <uui:keywords xml:lang="en">School, Buildings and facilities, school</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/facilities/school.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3c82794335e2ddc302b3dc967e19d081ff5e8fc6d828f38b4f915a8af93150a7"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M14 21v-3a2 2 0 0 0-4 0v3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M18 4.933V21" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m4 6 7.106-3.79a2 2 0 0 1 1.788 0L20 6" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m6 11-3.52 2.147a1 1 0 0 0-.48.854V19a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-5a1 1 0 0 0-.48-.853L18 11" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M6 4.933V21" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="12" cy="9" r="2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

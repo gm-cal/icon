@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0326-color-title uui-0326-color-desc" data-icon-id="UUI-0326" data-icon-name="circle-check" data-icon-variant="color" data-icon-category="status">
+  <title id="uui-0326-color-title" xml:lang="ja">成功</title>
+  <desc id="uui-0326-color-desc" xml:lang="ja">「成功」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0326" slug="circle-check" variant="color">
+      <uui:name xml:lang="ja">成功</uui:name>
+      <uui:name xml:lang="en">Circle Check</uui:name>
+      <uui:description xml:lang="ja">「成功」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Circle Check” in status and feedback contexts.</uui:description>
+      <uui:category id="status" xml:lang="ja">状態とフィードバック</uui:category>
+      <uui:category id="status" xml:lang="en">Status and feedback</uui:category>
+      <uui:keywords xml:lang="ja">成功, 状態とフィードバック, circle, check</uui:keywords>
+      <uui:keywords xml:lang="en">Circle Check, Status and feedback, circle, check</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/status/circle-check.svg"/>
+      <uui:palette primary="#15803D" accent="#22C55E" secondary="#86EFAC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="0aba62d9ca377dd360885de87301f2a8866545a524ffe5a6cca422800f6d3ae1"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="10" stroke="#15803D" data-uui-role="primary"/>
+    <path d="m9 12 2 2 4-4" stroke="#22C55E" data-uui-role="accent"/>
+  </g>
+</svg>

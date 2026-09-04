@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0190-monochrome-title uui-0190-monochrome-desc" data-icon-id="UUI-0190" data-icon-name="key" data-icon-variant="monochrome" data-icon-category="security">
+  <title id="uui-0190-monochrome-title" xml:lang="ja">鍵</title>
+  <desc id="uui-0190-monochrome-desc" xml:lang="ja">「鍵」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0190" slug="key" variant="monochrome">
+      <uui:name xml:lang="ja">鍵</uui:name>
+      <uui:name xml:lang="en">Key</uui:name>
+      <uui:description xml:lang="ja">「鍵」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Key” in security and privacy contexts.</uui:description>
+      <uui:category id="security" xml:lang="ja">セキュリティ</uui:category>
+      <uui:category id="security" xml:lang="en">Security and privacy</uui:category>
+      <uui:keywords xml:lang="ja">鍵, セキュリティ, key</uui:keywords>
+      <uui:keywords xml:lang="en">Key, Security and privacy, key</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/security/key.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="ddd0e327a761fd4d000d874edba01ae7c6d762365a4d313b9a10297339b8f5c4"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m15.5 7.5 2.3 2.3a1 1 0 0 0 1.4 0l2.1-2.1a1 1 0 0 0 0-1.4L19 4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m21 2-9.6 9.6" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="7.5" cy="15.5" r="5.5" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

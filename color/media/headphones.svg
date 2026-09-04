@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0237-color-title uui-0237-color-desc" data-icon-id="UUI-0237" data-icon-name="headphones" data-icon-variant="color" data-icon-category="media">
+  <title id="uui-0237-color-title" xml:lang="ja">ヘッドホン</title>
+  <desc id="uui-0237-color-desc" xml:lang="ja">「ヘッドホン」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0237" slug="headphones" variant="color">
+      <uui:name xml:lang="ja">ヘッドホン</uui:name>
+      <uui:name xml:lang="en">Headphones</uui:name>
+      <uui:description xml:lang="ja">「ヘッドホン」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Headphones” in media contexts.</uui:description>
+      <uui:category id="media" xml:lang="ja">画像・音声・映像</uui:category>
+      <uui:category id="media" xml:lang="en">Media</uui:category>
+      <uui:keywords xml:lang="ja">ヘッドホン, 画像・音声・映像, headphones</uui:keywords>
+      <uui:keywords xml:lang="en">Headphones, Media, headphones</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/media/headphones.svg"/>
+      <uui:palette primary="#BE185D" accent="#EC4899" secondary="#F472B6"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="914150a89b9bc3056f8d24d9a97b90d407ad0a363735033580621f37c3b249f2"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3" stroke="#BE185D" data-uui-role="primary"/>
+  </g>
+</svg>

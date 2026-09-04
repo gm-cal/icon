@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0038-monochrome-title uui-0038-monochrome-desc" data-icon-id="UUI-0038" data-icon-name="redo-2" data-icon-variant="monochrome" data-icon-category="actions">
+  <title id="uui-0038-monochrome-title" xml:lang="ja">やり直す</title>
+  <desc id="uui-0038-monochrome-desc" xml:lang="ja">「やり直す」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0038" slug="redo-2" variant="monochrome">
+      <uui:name xml:lang="ja">やり直す</uui:name>
+      <uui:name xml:lang="en">Redo 2</uui:name>
+      <uui:description xml:lang="ja">「やり直す」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Redo 2” in actions contexts.</uui:description>
+      <uui:category id="actions" xml:lang="ja">基本操作</uui:category>
+      <uui:category id="actions" xml:lang="en">Actions</uui:category>
+      <uui:keywords xml:lang="ja">やり直す, 基本操作, redo, 2</uui:keywords>
+      <uui:keywords xml:lang="en">Redo 2, Actions, redo, 2</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/actions/redo-2.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="c25adc0fc2b6b0c9255a3f1385d85ee49fdd8a3ad56fd531615d0b4698cf0dcd"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m15 14 5-5-5-5" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M20 9H9.5A5.5 5.5 0 0 0 4 14.5A5.5 5.5 0 0 0 9.5 20H13" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0164-color-title uui-0164-color-desc" data-icon-id="UUI-0164" data-icon-name="scan-face" data-icon-variant="color" data-icon-category="users">
+  <title id="uui-0164-color-title" xml:lang="ja">顔認証</title>
+  <desc id="uui-0164-color-desc" xml:lang="ja">「顔認証」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0164" slug="scan-face" variant="color">
+      <uui:name xml:lang="ja">顔認証</uui:name>
+      <uui:name xml:lang="en">Scan Face</uui:name>
+      <uui:description xml:lang="ja">「顔認証」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Scan Face” in users and identity contexts.</uui:description>
+      <uui:category id="users" xml:lang="ja">ユーザーと認証</uui:category>
+      <uui:category id="users" xml:lang="en">Users and identity</uui:category>
+      <uui:keywords xml:lang="ja">顔認証, ユーザーと認証, scan, face</uui:keywords>
+      <uui:keywords xml:lang="en">Scan Face, Users and identity, scan, face</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/users/scan-face.svg"/>
+      <uui:palette primary="#9333EA" accent="#D946EF" secondary="#E879F9"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3138a8d7be952b7dda239474a314f06697358af4b0e7d11f1e82c206b2019715"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M3 7V5a2 2 0 0 1 2-2h2" stroke="#9333EA" data-uui-role="primary"/>
+    <path d="M17 3h2a2 2 0 0 1 2 2v2" stroke="#D946EF" data-uui-role="accent"/>
+    <path d="M21 17v2a2 2 0 0 1-2 2h-2" stroke="#E879F9" data-uui-role="secondary"/>
+    <path d="M7 21H5a2 2 0 0 1-2-2v-2" stroke="#D946EF" data-uui-role="accent"/>
+    <path d="M8 14s1.5 2 4 2 4-2 4-2" stroke="#E879F9" data-uui-role="secondary"/>
+    <path d="M9 9h.01" stroke="#D946EF" data-uui-role="accent"/>
+    <path d="M15 9h.01" stroke="#D946EF" data-uui-role="accent"/>
+  </g>
+</svg>

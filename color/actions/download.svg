@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0040-color-title uui-0040-color-desc" data-icon-id="UUI-0040" data-icon-name="download" data-icon-variant="color" data-icon-category="actions">
+  <title id="uui-0040-color-title" xml:lang="ja">ダウンロード</title>
+  <desc id="uui-0040-color-desc" xml:lang="ja">「ダウンロード」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0040" slug="download" variant="color">
+      <uui:name xml:lang="ja">ダウンロード</uui:name>
+      <uui:name xml:lang="en">Download</uui:name>
+      <uui:description xml:lang="ja">「ダウンロード」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Download” in actions contexts.</uui:description>
+      <uui:category id="actions" xml:lang="ja">基本操作</uui:category>
+      <uui:category id="actions" xml:lang="en">Actions</uui:category>
+      <uui:keywords xml:lang="ja">ダウンロード, 基本操作, download</uui:keywords>
+      <uui:keywords xml:lang="en">Download, Actions, download</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/actions/download.svg"/>
+      <uui:palette primary="#0F766E" accent="#14B8A6" secondary="#5EEAD4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e0fa296985600d9ad021ba1a74c28c6612d098dad43e3d514c158d2274e6e352"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 15V3" stroke="#0F766E" data-uui-role="primary"/>
+    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" stroke="#14B8A6" data-uui-role="accent"/>
+    <path d="m7 10 5 5 5-5" stroke="#14B8A6" data-uui-role="accent"/>
+  </g>
+</svg>

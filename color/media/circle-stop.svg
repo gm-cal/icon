@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0228-color-title uui-0228-color-desc" data-icon-id="UUI-0228" data-icon-name="circle-stop" data-icon-variant="color" data-icon-category="media">
+  <title id="uui-0228-color-title" xml:lang="ja">停止</title>
+  <desc id="uui-0228-color-desc" xml:lang="ja">「停止」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0228" slug="circle-stop" variant="color">
+      <uui:name xml:lang="ja">停止</uui:name>
+      <uui:name xml:lang="en">Circle Stop</uui:name>
+      <uui:description xml:lang="ja">「停止」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Circle Stop” in media contexts.</uui:description>
+      <uui:category id="media" xml:lang="ja">画像・音声・映像</uui:category>
+      <uui:category id="media" xml:lang="en">Media</uui:category>
+      <uui:keywords xml:lang="ja">停止, 画像・音声・映像, circle, stop</uui:keywords>
+      <uui:keywords xml:lang="en">Circle Stop, Media, circle, stop</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/media/circle-stop.svg"/>
+      <uui:palette primary="#B91C1C" accent="#EF4444" secondary="#FCA5A5"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="dccdb1017d13ca4e07391b7383f5a87e2304c610f5e2410d59a3ac0371914fb3"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="10" stroke="#B91C1C" data-uui-role="primary"/>
+    <rect x="9" y="9" width="6" height="6" rx="1" stroke="#EF4444" data-uui-role="accent"/>
+  </g>
+</svg>

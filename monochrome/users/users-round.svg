@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0153-monochrome-title uui-0153-monochrome-desc" data-icon-id="UUI-0153" data-icon-name="users-round" data-icon-variant="monochrome" data-icon-category="users">
+  <title id="uui-0153-monochrome-title" xml:lang="ja">ユーザー一覧</title>
+  <desc id="uui-0153-monochrome-desc" xml:lang="ja">「ユーザー一覧」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0153" slug="users-round" variant="monochrome">
+      <uui:name xml:lang="ja">ユーザー一覧</uui:name>
+      <uui:name xml:lang="en">Users Round</uui:name>
+      <uui:description xml:lang="ja">「ユーザー一覧」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Users Round” in users and identity contexts.</uui:description>
+      <uui:category id="users" xml:lang="ja">ユーザーと認証</uui:category>
+      <uui:category id="users" xml:lang="en">Users and identity</uui:category>
+      <uui:keywords xml:lang="ja">ユーザー一覧, ユーザーと認証, users, round</uui:keywords>
+      <uui:keywords xml:lang="en">Users Round, Users and identity, users, round</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/users/users-round.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="fa9e91087b0a13514fec2d9fcdb4a89b380acd070814f6e060e580bd42b4a315"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M18 21a8 8 0 0 0-16 0" stroke="currentColor" data-uui-role="primary"/>
+    <circle cx="10" cy="8" r="5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M22 20c0-3.37-2-6.5-4-8a5 5 0 0 0-.45-8.3" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0111-color-title uui-0111-color-desc" data-icon-id="UUI-0111" data-icon-name="grid-2x2" data-icon-variant="color" data-icon-category="layout">
+  <title id="uui-0111-color-title" xml:lang="ja">グリッド</title>
+  <desc id="uui-0111-color-desc" xml:lang="ja">「グリッド」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0111" slug="grid-2x2" variant="color">
+      <uui:name xml:lang="ja">グリッド</uui:name>
+      <uui:name xml:lang="en">Grid 2x2</uui:name>
+      <uui:description xml:lang="ja">「グリッド」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Grid 2x2” in layout and windows contexts.</uui:description>
+      <uui:category id="layout" xml:lang="ja">画面とレイアウト</uui:category>
+      <uui:category id="layout" xml:lang="en">Layout and windows</uui:category>
+      <uui:keywords xml:lang="ja">グリッド, 画面とレイアウト, grid, 2x2</uui:keywords>
+      <uui:keywords xml:lang="en">Grid 2x2, Layout and windows, grid, 2x2</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/layout/grid-2x2.svg"/>
+      <uui:palette primary="#0369A1" accent="#0EA5E9" secondary="#38BDF8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="90bfd9df00708e16fdc46de8da319feb5473ee7dcec10ddac36b4b9fff822c0f"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 3v18" stroke="#0369A1" data-uui-role="primary"/>
+    <path d="M3 12h18" stroke="#0EA5E9" data-uui-role="accent"/>
+    <rect x="3" y="3" width="18" height="18" rx="2" stroke="#0EA5E9" data-uui-role="accent"/>
+  </g>
+</svg>

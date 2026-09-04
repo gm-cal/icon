@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0225-color-title uui-0225-color-desc" data-icon-id="UUI-0225" data-icon-name="bell-ring" data-icon-variant="color" data-icon-category="time">
+  <title id="uui-0225-color-title" xml:lang="ja">通知時刻</title>
+  <desc id="uui-0225-color-desc" xml:lang="ja">「通知時刻」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0225" slug="bell-ring" variant="color">
+      <uui:name xml:lang="ja">通知時刻</uui:name>
+      <uui:name xml:lang="en">Bell Ring</uui:name>
+      <uui:description xml:lang="ja">「通知時刻」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Bell Ring” in date and time contexts.</uui:description>
+      <uui:category id="time" xml:lang="ja">日時と履歴</uui:category>
+      <uui:category id="time" xml:lang="en">Date and time</uui:category>
+      <uui:keywords xml:lang="ja">通知時刻, 日時と履歴, bell, ring</uui:keywords>
+      <uui:keywords xml:lang="en">Bell Ring, Date and time, bell, ring</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/time/bell-ring.svg"/>
+      <uui:palette primary="#A16207" accent="#F59E0B" secondary="#FCD34D"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4871993692aa2d287a2dbd132d5177c11d319296111d50d2b537126651a54a47"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10.268 21a2 2 0 0 0 3.464 0" stroke="#A16207" data-uui-role="primary"/>
+    <path d="M22 8c0-2.3-.8-4.3-2-6" stroke="#F59E0B" data-uui-role="accent"/>
+    <path d="M3.262 15.326A1 1 0 0 0 4 17h16a1 1 0 0 0 .74-1.673C19.41 13.956 18 12.499 18 8A6 6 0 0 0 6 8c0 4.499-1.411 5.956-2.738 7.326" stroke="#FCD34D" data-uui-role="secondary"/>
+    <path d="M4 2C2.8 3.7 2 5.7 2 8" stroke="#F59E0B" data-uui-role="accent"/>
+  </g>
+</svg>

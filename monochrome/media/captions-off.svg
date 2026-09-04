@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0247-monochrome-title uui-0247-monochrome-desc" data-icon-id="UUI-0247" data-icon-name="captions-off" data-icon-variant="monochrome" data-icon-category="media">
+  <title id="uui-0247-monochrome-title" xml:lang="ja">字幕非表示</title>
+  <desc id="uui-0247-monochrome-desc" xml:lang="ja">「字幕非表示」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0247" slug="captions-off" variant="monochrome">
+      <uui:name xml:lang="ja">字幕非表示</uui:name>
+      <uui:name xml:lang="en">Captions Off</uui:name>
+      <uui:description xml:lang="ja">「字幕非表示」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Captions Off” in media contexts.</uui:description>
+      <uui:category id="media" xml:lang="ja">画像・音声・映像</uui:category>
+      <uui:category id="media" xml:lang="en">Media</uui:category>
+      <uui:keywords xml:lang="ja">字幕非表示, 画像・音声・映像, captions, off</uui:keywords>
+      <uui:keywords xml:lang="en">Captions Off, Media, captions, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/media/captions-off.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="90425de96368acc3e43a09e59d3f7c7164d93a8c889f5634b7c146f79f0b35b6"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10.5 5H19a2 2 0 0 1 2 2v8.5" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M17 11h-.5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M19 19H5a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m2 2 20 20" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M7 11h4" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M7 15h2.5" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

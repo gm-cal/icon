@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0141-monochrome-title uui-0141-monochrome-desc" data-icon-id="UUI-0141" data-icon-name="mic-off" data-icon-variant="monochrome" data-icon-category="communication">
+  <title id="uui-0141-monochrome-title" xml:lang="ja">マイク無効</title>
+  <desc id="uui-0141-monochrome-desc" xml:lang="ja">「マイク無効」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0141" slug="mic-off" variant="monochrome">
+      <uui:name xml:lang="ja">マイク無効</uui:name>
+      <uui:name xml:lang="en">Mic Off</uui:name>
+      <uui:description xml:lang="ja">「マイク無効」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Mic Off” in communication contexts.</uui:description>
+      <uui:category id="communication" xml:lang="ja">通信と連絡</uui:category>
+      <uui:category id="communication" xml:lang="en">Communication</uui:category>
+      <uui:keywords xml:lang="ja">マイク無効, 通信と連絡, mic, off</uui:keywords>
+      <uui:keywords xml:lang="en">Mic Off, Communication, mic, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/communication/mic-off.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="8102d641c3fcf85945481a689d1805f57de7a0f9cf8fbcf5ecb23b6b5ec59279"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 19v3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M15 9.34V5a3 3 0 0 0-5.68-1.33" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M16.95 16.95A7 7 0 0 1 5 12v-2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M18.89 13.23A7 7 0 0 0 19 12v-2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m2 2 20 20" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M9 9v3a3 3 0 0 0 5.12 2.12" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

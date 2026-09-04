@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0005-monochrome-title uui-0005-monochrome-desc" data-icon-id="UUI-0005" data-icon-name="arrow-up-left" data-icon-variant="monochrome" data-icon-category="navigation">
+  <title id="uui-0005-monochrome-title" xml:lang="ja">左上へ</title>
+  <desc id="uui-0005-monochrome-desc" xml:lang="ja">「左上へ」を表す汎用UIアイコン。ナビゲーションに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0005" slug="arrow-up-left" variant="monochrome">
+      <uui:name xml:lang="ja">左上へ</uui:name>
+      <uui:name xml:lang="en">Arrow Up Left</uui:name>
+      <uui:description xml:lang="ja">「左上へ」を表す汎用UIアイコン。ナビゲーションに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Arrow Up Left” in navigation contexts.</uui:description>
+      <uui:category id="navigation" xml:lang="ja">ナビゲーション</uui:category>
+      <uui:category id="navigation" xml:lang="en">Navigation</uui:category>
+      <uui:keywords xml:lang="ja">左上へ, ナビゲーション, arrow, up, left</uui:keywords>
+      <uui:keywords xml:lang="en">Arrow Up Left, Navigation, arrow, up, left</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/navigation/arrow-up-left.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="0a5b4dce724ca5a5361478e8cb9526417c715360600f2cfaf844cba311f899ff"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M7 17V7h10" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M17 17 7 7" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

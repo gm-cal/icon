@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0003-color-title uui-0003-color-desc" data-icon-id="UUI-0003" data-icon-name="arrow-left" data-icon-variant="color" data-icon-category="navigation">
+  <title id="uui-0003-color-title" xml:lang="ja">左へ</title>
+  <desc id="uui-0003-color-desc" xml:lang="ja">「左へ」を表す汎用UIアイコン。ナビゲーションに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0003" slug="arrow-left" variant="color">
+      <uui:name xml:lang="ja">左へ</uui:name>
+      <uui:name xml:lang="en">Arrow Left</uui:name>
+      <uui:description xml:lang="ja">「左へ」を表す汎用UIアイコン。ナビゲーションに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Arrow Left” in navigation contexts.</uui:description>
+      <uui:category id="navigation" xml:lang="ja">ナビゲーション</uui:category>
+      <uui:category id="navigation" xml:lang="en">Navigation</uui:category>
+      <uui:keywords xml:lang="ja">左へ, ナビゲーション, arrow, left</uui:keywords>
+      <uui:keywords xml:lang="en">Arrow Left, Navigation, arrow, left</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/navigation/arrow-left.svg"/>
+      <uui:palette primary="#2563EB" accent="#06B6D4" secondary="#60A5FA"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3d4b4db320f90ace8a58bbe1a5beae179c58647d5d31e0d0242a5145592b605d"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m12 19-7-7 7-7" stroke="#2563EB" data-uui-role="primary"/>
+    <path d="M19 12H5" stroke="#06B6D4" data-uui-role="accent"/>
+  </g>
+</svg>

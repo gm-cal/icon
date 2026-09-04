@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0201-color-title uui-0201-color-desc" data-icon-id="UUI-0201" data-icon-name="calendar" data-icon-variant="color" data-icon-category="time">
+  <title id="uui-0201-color-title" xml:lang="ja">カレンダー</title>
+  <desc id="uui-0201-color-desc" xml:lang="ja">「カレンダー」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0201" slug="calendar" variant="color">
+      <uui:name xml:lang="ja">カレンダー</uui:name>
+      <uui:name xml:lang="en">Calendar</uui:name>
+      <uui:description xml:lang="ja">「カレンダー」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Calendar” in date and time contexts.</uui:description>
+      <uui:category id="time" xml:lang="ja">日時と履歴</uui:category>
+      <uui:category id="time" xml:lang="en">Date and time</uui:category>
+      <uui:keywords xml:lang="ja">カレンダー, 日時と履歴, calendar</uui:keywords>
+      <uui:keywords xml:lang="en">Calendar, Date and time, calendar</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/time/calendar.svg"/>
+      <uui:palette primary="#A16207" accent="#EAB308" secondary="#FACC15"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="b46184e2779d33f2631a4ac459f9fd885633525d13f5e914d38125d15f56d90d"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M8 2v4" stroke="#A16207" data-uui-role="primary"/>
+    <path d="M16 2v4" stroke="#EAB308" data-uui-role="accent"/>
+    <rect width="18" height="18" x="3" y="4" rx="2" stroke="#FACC15" data-uui-role="secondary"/>
+    <path d="M3 10h18" stroke="#EAB308" data-uui-role="accent"/>
+  </g>
+</svg>

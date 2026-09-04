@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0368-color-title uui-0368-color-desc" data-icon-id="UUI-0368" data-icon-name="gamepad-2" data-icon-variant="color" data-icon-category="devices">
+  <title id="uui-0368-color-title" xml:lang="ja">ゲームコントローラー</title>
+  <desc id="uui-0368-color-desc" xml:lang="ja">「ゲームコントローラー」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0368" slug="gamepad-2" variant="color">
+      <uui:name xml:lang="ja">ゲームコントローラー</uui:name>
+      <uui:name xml:lang="en">Gamepad 2</uui:name>
+      <uui:description xml:lang="ja">「ゲームコントローラー」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Gamepad 2” in devices and connectivity contexts.</uui:description>
+      <uui:category id="devices" xml:lang="ja">機器と接続</uui:category>
+      <uui:category id="devices" xml:lang="en">Devices and connectivity</uui:category>
+      <uui:keywords xml:lang="ja">ゲームコントローラー, 機器と接続, gamepad, 2</uui:keywords>
+      <uui:keywords xml:lang="en">Gamepad 2, Devices and connectivity, gamepad, 2</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/devices/gamepad-2.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#3B82F6" secondary="#93C5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="797a111ed463292f8a9f9d7e0ec100caf4e457de658b30db9c7fd49bba8b5d59"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <line x1="6" x2="10" y1="11" y2="11" stroke="#1D4ED8" data-uui-role="primary"/>
+    <line x1="8" x2="8" y1="9" y2="13" stroke="#3B82F6" data-uui-role="accent"/>
+    <line x1="15" x2="15.01" y1="12" y2="12" stroke="#93C5FD" data-uui-role="secondary"/>
+    <line x1="18" x2="18.01" y1="10" y2="10" stroke="#3B82F6" data-uui-role="accent"/>
+    <path d="M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z" stroke="#3B82F6" data-uui-role="accent"/>
+  </g>
+</svg>

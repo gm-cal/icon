@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0022-color-title uui-0022-color-desc" data-icon-id="UUI-0022" data-icon-name="corner-down-left" data-icon-variant="color" data-icon-category="navigation">
+  <title id="uui-0022-color-title" xml:lang="ja">左下へ折り返す</title>
+  <desc id="uui-0022-color-desc" xml:lang="ja">「左下へ折り返す」を表す汎用UIアイコン。ナビゲーションに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0022" slug="corner-down-left" variant="color">
+      <uui:name xml:lang="ja">左下へ折り返す</uui:name>
+      <uui:name xml:lang="en">Corner Down Left</uui:name>
+      <uui:description xml:lang="ja">「左下へ折り返す」を表す汎用UIアイコン。ナビゲーションに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Corner Down Left” in navigation contexts.</uui:description>
+      <uui:category id="navigation" xml:lang="ja">ナビゲーション</uui:category>
+      <uui:category id="navigation" xml:lang="en">Navigation</uui:category>
+      <uui:keywords xml:lang="ja">左下へ折り返す, ナビゲーション, corner, down, left</uui:keywords>
+      <uui:keywords xml:lang="en">Corner Down Left, Navigation, corner, down, left</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/navigation/corner-down-left.svg"/>
+      <uui:palette primary="#2563EB" accent="#06B6D4" secondary="#60A5FA"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="52abb600761d8ffa3ca8af5660cc252ac979bbdec82c4f3d1f47cb3833bb9568"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M20 4v7a4 4 0 0 1-4 4H4" stroke="#2563EB" data-uui-role="primary"/>
+    <path d="m9 10-5 5 5 5" stroke="#06B6D4" data-uui-role="accent"/>
+  </g>
+</svg>

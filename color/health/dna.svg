@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0462-color-title uui-0462-color-desc" data-icon-id="UUI-0462" data-icon-name="dna" data-icon-variant="color" data-icon-category="health">
+  <title id="uui-0462-color-title" xml:lang="ja">DNA</title>
+  <desc id="uui-0462-color-desc" xml:lang="ja">「DNA」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0462" slug="dna" variant="color">
+      <uui:name xml:lang="ja">DNA</uui:name>
+      <uui:name xml:lang="en">DNA</uui:name>
+      <uui:description xml:lang="ja">「DNA」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “DNA” in health and medical contexts.</uui:description>
+      <uui:category id="health" xml:lang="ja">医療と健康</uui:category>
+      <uui:category id="health" xml:lang="en">Health and medical</uui:category>
+      <uui:keywords xml:lang="ja">DNA, 医療と健康, dna</uui:keywords>
+      <uui:keywords xml:lang="en">DNA, Health and medical, dna</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/health/dna.svg"/>
+      <uui:palette primary="#BE123C" accent="#FB7185" secondary="#FDA4AF"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="9f7d57b8245707dd500f2850c0e0d0ae8aa44be84fe46bd805afcaacfa654e22"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m10 16 1.5 1.5" stroke="#BE123C" data-uui-role="primary"/>
+    <path d="m14 8-1.5-1.5" stroke="#FB7185" data-uui-role="accent"/>
+    <path d="M15 2c-1.798 1.998-2.518 3.995-2.807 5.993" stroke="#FDA4AF" data-uui-role="secondary"/>
+    <path d="m16.5 10.5 1 1" stroke="#FB7185" data-uui-role="accent"/>
+    <path d="m17 6-2.891-2.891" stroke="#FDA4AF" data-uui-role="secondary"/>
+    <path d="M2 15c6.667-6 13.333 0 20-6" stroke="#FB7185" data-uui-role="accent"/>
+    <path d="m20 9 .891.891" stroke="#FDA4AF" data-uui-role="secondary"/>
+    <path d="M3.109 14.109 4 15" stroke="#FB7185" data-uui-role="accent"/>
+    <path d="m6.5 12.5 1 1" stroke="#FDA4AF" data-uui-role="secondary"/>
+    <path d="m7 18 2.891 2.891" stroke="#FB7185" data-uui-role="accent"/>
+    <path d="M9 22c1.798-1.998 2.518-3.995 2.807-5.993" stroke="#FB7185" data-uui-role="accent"/>
+  </g>
+</svg>

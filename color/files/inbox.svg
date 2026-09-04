@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0066-color-title uui-0066-color-desc" data-icon-id="UUI-0066" data-icon-name="inbox" data-icon-variant="color" data-icon-category="files">
+  <title id="uui-0066-color-title" xml:lang="ja">受信箱</title>
+  <desc id="uui-0066-color-desc" xml:lang="ja">「受信箱」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0066" slug="inbox" variant="color">
+      <uui:name xml:lang="ja">受信箱</uui:name>
+      <uui:name xml:lang="en">Inbox</uui:name>
+      <uui:description xml:lang="ja">「受信箱」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Inbox” in files and folders contexts.</uui:description>
+      <uui:category id="files" xml:lang="ja">ファイルとフォルダー</uui:category>
+      <uui:category id="files" xml:lang="en">Files and folders</uui:category>
+      <uui:keywords xml:lang="ja">受信箱, ファイルとフォルダー, inbox</uui:keywords>
+      <uui:keywords xml:lang="en">Inbox, Files and folders, inbox</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/files/inbox.svg"/>
+      <uui:palette primary="#7C3AED" accent="#A855F7" secondary="#C084FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="0cb51228a8a1d101c9d860746f372a6225270e70ab8dd78f93231345f0170e69"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <polyline points="22 12 16 12 14 15 10 15 8 12 2 12" stroke="#7C3AED" data-uui-role="primary"/>
+    <path d="M5.45 5.11 2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z" stroke="#A855F7" data-uui-role="accent"/>
+  </g>
+</svg>

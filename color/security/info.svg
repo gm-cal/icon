@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0198-color-title uui-0198-color-desc" data-icon-id="UUI-0198" data-icon-name="info" data-icon-variant="color" data-icon-category="security">
+  <title id="uui-0198-color-title" xml:lang="ja">情報</title>
+  <desc id="uui-0198-color-desc" xml:lang="ja">「情報」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0198" slug="info" variant="color">
+      <uui:name xml:lang="ja">情報</uui:name>
+      <uui:name xml:lang="en">Info</uui:name>
+      <uui:description xml:lang="ja">「情報」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Info” in security and privacy contexts.</uui:description>
+      <uui:category id="security" xml:lang="ja">セキュリティ</uui:category>
+      <uui:category id="security" xml:lang="en">Security and privacy</uui:category>
+      <uui:keywords xml:lang="ja">情報, セキュリティ, info</uui:keywords>
+      <uui:keywords xml:lang="en">Info, Security and privacy, info</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/security/info.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#3B82F6" secondary="#93C5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="2edd27fc3eca02320e4ce0e72af9459cbffbf7882a7aa09cace6d368eb0b3501"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="10" stroke="#1D4ED8" data-uui-role="primary"/>
+    <path d="M12 16v-4" stroke="#3B82F6" data-uui-role="accent"/>
+    <path d="M12 8h.01" stroke="#3B82F6" data-uui-role="accent"/>
+  </g>
+</svg>

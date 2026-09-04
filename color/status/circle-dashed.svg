@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0335-color-title uui-0335-color-desc" data-icon-id="UUI-0335" data-icon-name="circle-dashed" data-icon-variant="color" data-icon-category="status">
+  <title id="uui-0335-color-title" xml:lang="ja">未確定</title>
+  <desc id="uui-0335-color-desc" xml:lang="ja">「未確定」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0335" slug="circle-dashed" variant="color">
+      <uui:name xml:lang="ja">未確定</uui:name>
+      <uui:name xml:lang="en">Circle Dashed</uui:name>
+      <uui:description xml:lang="ja">「未確定」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Circle Dashed” in status and feedback contexts.</uui:description>
+      <uui:category id="status" xml:lang="ja">状態とフィードバック</uui:category>
+      <uui:category id="status" xml:lang="en">Status and feedback</uui:category>
+      <uui:keywords xml:lang="ja">未確定, 状態とフィードバック, circle, dashed</uui:keywords>
+      <uui:keywords xml:lang="en">Circle Dashed, Status and feedback, circle, dashed</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/status/circle-dashed.svg"/>
+      <uui:palette primary="#0E7490" accent="#22D3EE" secondary="#67E8F9"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="fde8699d96de7738ddbd43962af78c4e678f4910a30d14c864663e977568cb60"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10.1 2.182a10 10 0 0 1 3.8 0" stroke="#0E7490" data-uui-role="primary"/>
+    <path d="M13.9 21.818a10 10 0 0 1-3.8 0" stroke="#22D3EE" data-uui-role="accent"/>
+    <path d="M17.609 3.721a10 10 0 0 1 2.69 2.7" stroke="#67E8F9" data-uui-role="secondary"/>
+    <path d="M2.182 13.9a10 10 0 0 1 0-3.8" stroke="#22D3EE" data-uui-role="accent"/>
+    <path d="M20.279 17.609a10 10 0 0 1-2.7 2.69" stroke="#67E8F9" data-uui-role="secondary"/>
+    <path d="M21.818 10.1a10 10 0 0 1 0 3.8" stroke="#22D3EE" data-uui-role="accent"/>
+    <path d="M3.721 6.391a10 10 0 0 1 2.7-2.69" stroke="#67E8F9" data-uui-role="secondary"/>
+    <path d="M6.391 20.279a10 10 0 0 1-2.69-2.7" stroke="#22D3EE" data-uui-role="accent"/>
+  </g>
+</svg>

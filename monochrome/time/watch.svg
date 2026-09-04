@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0224-monochrome-title uui-0224-monochrome-desc" data-icon-id="UUI-0224" data-icon-name="watch" data-icon-variant="monochrome" data-icon-category="time">
+  <title id="uui-0224-monochrome-title" xml:lang="ja">腕時計</title>
+  <desc id="uui-0224-monochrome-desc" xml:lang="ja">「腕時計」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0224" slug="watch" variant="monochrome">
+      <uui:name xml:lang="ja">腕時計</uui:name>
+      <uui:name xml:lang="en">Watch</uui:name>
+      <uui:description xml:lang="ja">「腕時計」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Watch” in date and time contexts.</uui:description>
+      <uui:category id="time" xml:lang="ja">日時と履歴</uui:category>
+      <uui:category id="time" xml:lang="en">Date and time</uui:category>
+      <uui:keywords xml:lang="ja">腕時計, 日時と履歴, watch</uui:keywords>
+      <uui:keywords xml:lang="en">Watch, Date and time, watch</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/time/watch.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="63b264a2b7c80151af545882d2c6b41208744068f6e0ed7801e58a166d0a99c8"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 10v2.2l1.6 1" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m16.13 7.66-.81-4.05a2 2 0 0 0-2-1.61h-2.68a2 2 0 0 0-2 1.61l-.78 4.05" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m7.88 16.36.8 4a2 2 0 0 0 2 1.61h2.72a2 2 0 0 0 2-1.61l.81-4.05" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="12" cy="12" r="6" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

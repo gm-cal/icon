@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0152-color-title uui-0152-color-desc" data-icon-id="UUI-0152" data-icon-name="circle-user" data-icon-variant="color" data-icon-category="users">
+  <title id="uui-0152-color-title" xml:lang="ja">ユーザーアカウント</title>
+  <desc id="uui-0152-color-desc" xml:lang="ja">「ユーザーアカウント」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0152" slug="circle-user" variant="color">
+      <uui:name xml:lang="ja">ユーザーアカウント</uui:name>
+      <uui:name xml:lang="en">Circle User</uui:name>
+      <uui:description xml:lang="ja">「ユーザーアカウント」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Circle User” in users and identity contexts.</uui:description>
+      <uui:category id="users" xml:lang="ja">ユーザーと認証</uui:category>
+      <uui:category id="users" xml:lang="en">Users and identity</uui:category>
+      <uui:keywords xml:lang="ja">ユーザーアカウント, ユーザーと認証, circle, user</uui:keywords>
+      <uui:keywords xml:lang="en">Circle User, Users and identity, circle, user</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/users/circle-user.svg"/>
+      <uui:palette primary="#9333EA" accent="#D946EF" secondary="#E879F9"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="dab8f1195859befc310b70f821a6283c03ed3e6c05b123b8312d83ab0aa895d6"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="10" stroke="#9333EA" data-uui-role="primary"/>
+    <circle cx="12" cy="10" r="3" stroke="#D946EF" data-uui-role="accent"/>
+    <path d="M7 20.662V19a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v1.662" stroke="#D946EF" data-uui-role="accent"/>
+  </g>
+</svg>

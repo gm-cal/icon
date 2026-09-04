@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0155-monochrome-title uui-0155-monochrome-desc" data-icon-id="UUI-0155" data-icon-name="user-cog" data-icon-variant="monochrome" data-icon-category="users">
+  <title id="uui-0155-monochrome-title" xml:lang="ja">アカウント設定</title>
+  <desc id="uui-0155-monochrome-desc" xml:lang="ja">「アカウント設定」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0155" slug="user-cog" variant="monochrome">
+      <uui:name xml:lang="ja">アカウント設定</uui:name>
+      <uui:name xml:lang="en">User Cog</uui:name>
+      <uui:description xml:lang="ja">「アカウント設定」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “User Cog” in users and identity contexts.</uui:description>
+      <uui:category id="users" xml:lang="ja">ユーザーと認証</uui:category>
+      <uui:category id="users" xml:lang="en">Users and identity</uui:category>
+      <uui:keywords xml:lang="ja">アカウント設定, ユーザーと認証, user, cog</uui:keywords>
+      <uui:keywords xml:lang="en">User Cog, Users and identity, user, cog</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/users/user-cog.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="efaa62b1a448a8883b3b5122b0afaf434694ddfa99033544d1b0546ef8848fe2"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 15H6a4 4 0 0 0-4 4v2" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m14.305 16.53.923-.382" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m15.228 13.852-.923-.383" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m16.852 12.228-.383-.923" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m16.852 17.772-.383.924" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m19.148 12.228.383-.923" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m19.53 18.696-.382-.924" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m20.772 13.852.924-.383" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m20.772 16.148.924.383" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="18" cy="15" r="3" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="9" cy="7" r="4" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

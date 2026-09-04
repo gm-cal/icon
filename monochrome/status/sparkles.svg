@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0345-monochrome-title uui-0345-monochrome-desc" data-icon-id="UUI-0345" data-icon-name="sparkles" data-icon-variant="monochrome" data-icon-category="status">
+  <title id="uui-0345-monochrome-title" xml:lang="ja">新機能</title>
+  <desc id="uui-0345-monochrome-desc" xml:lang="ja">「新機能」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0345" slug="sparkles" variant="monochrome">
+      <uui:name xml:lang="ja">新機能</uui:name>
+      <uui:name xml:lang="en">Sparkles</uui:name>
+      <uui:description xml:lang="ja">「新機能」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Sparkles” in status and feedback contexts.</uui:description>
+      <uui:category id="status" xml:lang="ja">状態とフィードバック</uui:category>
+      <uui:category id="status" xml:lang="en">Status and feedback</uui:category>
+      <uui:keywords xml:lang="ja">新機能, 状態とフィードバック, sparkles</uui:keywords>
+      <uui:keywords xml:lang="en">Sparkles, Status and feedback, sparkles</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/status/sparkles.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="76c4a014f2c8937301165655bc58e830310d774fdf48a65e9c01ff7758462b63"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M20 2v4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M22 4h-4" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="4" cy="20" r="2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

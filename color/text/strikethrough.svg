@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0079-color-title uui-0079-color-desc" data-icon-id="UUI-0079" data-icon-name="strikethrough" data-icon-variant="color" data-icon-category="text">
+  <title id="uui-0079-color-title" xml:lang="ja">取り消し線</title>
+  <desc id="uui-0079-color-desc" xml:lang="ja">「取り消し線」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0079" slug="strikethrough" variant="color">
+      <uui:name xml:lang="ja">取り消し線</uui:name>
+      <uui:name xml:lang="en">Strikethrough</uui:name>
+      <uui:description xml:lang="ja">「取り消し線」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Strikethrough” in text editing contexts.</uui:description>
+      <uui:category id="text" xml:lang="ja">文字編集</uui:category>
+      <uui:category id="text" xml:lang="en">Text editing</uui:category>
+      <uui:keywords xml:lang="ja">取り消し線, 文字編集, strikethrough</uui:keywords>
+      <uui:keywords xml:lang="en">Strikethrough, Text editing, strikethrough</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/text/strikethrough.svg"/>
+      <uui:palette primary="#4F46E5" accent="#8B5CF6" secondary="#A78BFA"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="88e03d45ed3ad515d921fa708f92b6e0780f8cb4b3d0e79a75141074913be81e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M16 4H9a3 3 0 0 0-2.83 4" stroke="#4F46E5" data-uui-role="primary"/>
+    <path d="M14 12a4 4 0 0 1 0 8H6" stroke="#8B5CF6" data-uui-role="accent"/>
+    <line x1="4" x2="20" y1="12" y2="12" stroke="#8B5CF6" data-uui-role="accent"/>
+  </g>
+</svg>

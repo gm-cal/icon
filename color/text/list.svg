@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0086-color-title uui-0086-color-desc" data-icon-id="UUI-0086" data-icon-name="list" data-icon-variant="color" data-icon-category="text">
+  <title id="uui-0086-color-title" xml:lang="ja">箇条書き</title>
+  <desc id="uui-0086-color-desc" xml:lang="ja">「箇条書き」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0086" slug="list" variant="color">
+      <uui:name xml:lang="ja">箇条書き</uui:name>
+      <uui:name xml:lang="en">List</uui:name>
+      <uui:description xml:lang="ja">「箇条書き」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “List” in text editing contexts.</uui:description>
+      <uui:category id="text" xml:lang="ja">文字編集</uui:category>
+      <uui:category id="text" xml:lang="en">Text editing</uui:category>
+      <uui:keywords xml:lang="ja">箇条書き, 文字編集, list</uui:keywords>
+      <uui:keywords xml:lang="en">List, Text editing, list</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/text/list.svg"/>
+      <uui:palette primary="#4F46E5" accent="#8B5CF6" secondary="#A78BFA"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="2509e885fc347e824a475bf98b2ffc16cac1d21186caa3a17150d61f30574037"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M3 5h.01" stroke="#4F46E5" data-uui-role="primary"/>
+    <path d="M3 12h.01" stroke="#8B5CF6" data-uui-role="accent"/>
+    <path d="M3 19h.01" stroke="#A78BFA" data-uui-role="secondary"/>
+    <path d="M8 5h13" stroke="#8B5CF6" data-uui-role="accent"/>
+    <path d="M8 12h13" stroke="#A78BFA" data-uui-role="secondary"/>
+    <path d="M8 19h13" stroke="#8B5CF6" data-uui-role="accent"/>
+  </g>
+</svg>

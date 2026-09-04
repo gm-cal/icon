@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0413-color-title uui-0413-color-desc" data-icon-id="UUI-0413" data-icon-name="train-front" data-icon-variant="color" data-icon-category="travel">
+  <title id="uui-0413-color-title" xml:lang="ja">鉄道</title>
+  <desc id="uui-0413-color-desc" xml:lang="ja">「鉄道」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0413" slug="train-front" variant="color">
+      <uui:name xml:lang="ja">鉄道</uui:name>
+      <uui:name xml:lang="en">Train Front</uui:name>
+      <uui:description xml:lang="ja">「鉄道」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Train Front” in maps and travel contexts.</uui:description>
+      <uui:category id="travel" xml:lang="ja">地図と移動</uui:category>
+      <uui:category id="travel" xml:lang="en">Maps and travel</uui:category>
+      <uui:keywords xml:lang="ja">鉄道, 地図と移動, train, front</uui:keywords>
+      <uui:keywords xml:lang="en">Train Front, Maps and travel, train, front</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/travel/train-front.svg"/>
+      <uui:palette primary="#0F766E" accent="#2DD4BF" secondary="#5EEAD4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="96cb86cfd3377d308642de27da44262973f11cb04548f53e20044a4f850e8b5f"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M8 3.1V7a4 4 0 0 0 8 0V3.1" stroke="#0F766E" data-uui-role="primary"/>
+    <path d="m9 15-1-1" stroke="#2DD4BF" data-uui-role="accent"/>
+    <path d="m15 15 1-1" stroke="#5EEAD4" data-uui-role="secondary"/>
+    <path d="M9 19c-2.8 0-5-2.2-5-5v-4a8 8 0 0 1 16 0v4c0 2.8-2.2 5-5 5Z" stroke="#2DD4BF" data-uui-role="accent"/>
+    <path d="m8 19-2 3" stroke="#5EEAD4" data-uui-role="secondary"/>
+    <path d="m16 19 2 3" stroke="#2DD4BF" data-uui-role="accent"/>
+  </g>
+</svg>

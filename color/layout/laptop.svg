@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0121-color-title uui-0121-color-desc" data-icon-id="UUI-0121" data-icon-name="laptop" data-icon-variant="color" data-icon-category="layout">
+  <title id="uui-0121-color-title" xml:lang="ja">ノートPC画面</title>
+  <desc id="uui-0121-color-desc" xml:lang="ja">「ノートPC画面」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0121" slug="laptop" variant="color">
+      <uui:name xml:lang="ja">ノートPC画面</uui:name>
+      <uui:name xml:lang="en">Laptop</uui:name>
+      <uui:description xml:lang="ja">「ノートPC画面」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Laptop” in layout and windows contexts.</uui:description>
+      <uui:category id="layout" xml:lang="ja">画面とレイアウト</uui:category>
+      <uui:category id="layout" xml:lang="en">Layout and windows</uui:category>
+      <uui:keywords xml:lang="ja">ノートPC画面, 画面とレイアウト, laptop</uui:keywords>
+      <uui:keywords xml:lang="en">Laptop, Layout and windows, laptop</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/layout/laptop.svg"/>
+      <uui:palette primary="#0369A1" accent="#0EA5E9" secondary="#38BDF8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="0f2eaa51f3f719fe9e223e772452e1cddea7db8a46213ecbcef0dda449b67baa"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M18 5a2 2 0 0 1 2 2v8.526a2 2 0 0 0 .212.897l1.068 2.127a1 1 0 0 1-.9 1.45H3.62a1 1 0 0 1-.9-1.45l1.068-2.127A2 2 0 0 0 4 15.526V7a2 2 0 0 1 2-2z" stroke="#0369A1" data-uui-role="primary"/>
+    <path d="M20.054 15.987H3.946" stroke="#0EA5E9" data-uui-role="accent"/>
+  </g>
+</svg>

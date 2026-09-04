@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0124-monochrome-title uui-0124-monochrome-desc" data-icon-id="UUI-0124" data-icon-name="stretch-horizontal" data-icon-variant="monochrome" data-icon-category="layout">
+  <title id="uui-0124-monochrome-title" xml:lang="ja">横幅に合わせる</title>
+  <desc id="uui-0124-monochrome-desc" xml:lang="ja">「横幅に合わせる」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0124" slug="stretch-horizontal" variant="monochrome">
+      <uui:name xml:lang="ja">横幅に合わせる</uui:name>
+      <uui:name xml:lang="en">Stretch Horizontal</uui:name>
+      <uui:description xml:lang="ja">「横幅に合わせる」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Stretch Horizontal” in layout and windows contexts.</uui:description>
+      <uui:category id="layout" xml:lang="ja">画面とレイアウト</uui:category>
+      <uui:category id="layout" xml:lang="en">Layout and windows</uui:category>
+      <uui:keywords xml:lang="ja">横幅に合わせる, 画面とレイアウト, stretch, horizontal</uui:keywords>
+      <uui:keywords xml:lang="en">Stretch Horizontal, Layout and windows, stretch, horizontal</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/layout/stretch-horizontal.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="45493a78395ecb3bf73622a036c3be5cc9a34397dc07b4a8b57b1f35ccfa2b31"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect width="20" height="6" x="2" y="4" rx="2" stroke="currentColor" data-uui-role="primary"/>
+    <rect width="20" height="6" x="2" y="14" rx="2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

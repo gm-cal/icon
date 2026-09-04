@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0286-color-title uui-0286-color-desc" data-icon-id="UUI-0286" data-icon-name="blocks" data-icon-variant="color" data-icon-category="development">
+  <title id="uui-0286-color-title" xml:lang="ja">モジュール</title>
+  <desc id="uui-0286-color-desc" xml:lang="ja">「モジュール」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0286" slug="blocks" variant="color">
+      <uui:name xml:lang="ja">モジュール</uui:name>
+      <uui:name xml:lang="en">Blocks</uui:name>
+      <uui:description xml:lang="ja">「モジュール」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Blocks” in development and systems contexts.</uui:description>
+      <uui:category id="development" xml:lang="ja">開発とシステム</uui:category>
+      <uui:category id="development" xml:lang="en">Development and systems</uui:category>
+      <uui:keywords xml:lang="ja">モジュール, 開発とシステム, blocks</uui:keywords>
+      <uui:keywords xml:lang="en">Blocks, Development and systems, blocks</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/development/blocks.svg"/>
+      <uui:palette primary="#334155" accent="#64748B" secondary="#94A3B8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="2ea33bffb8fcdf9e323beb9d560084a1ae9c85806e1579832ea194663ffe5455"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 22V7a1 1 0 0 0-1-1H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-5a1 1 0 0 0-1-1H2" stroke="#334155" data-uui-role="primary"/>
+    <rect x="14" y="2" width="8" height="8" rx="1" stroke="#64748B" data-uui-role="accent"/>
+  </g>
+</svg>

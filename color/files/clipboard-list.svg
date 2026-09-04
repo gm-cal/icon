@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0075-color-title uui-0075-color-desc" data-icon-id="UUI-0075" data-icon-name="clipboard-list" data-icon-variant="color" data-icon-category="files">
+  <title id="uui-0075-color-title" xml:lang="ja">チェックリスト</title>
+  <desc id="uui-0075-color-desc" xml:lang="ja">「チェックリスト」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0075" slug="clipboard-list" variant="color">
+      <uui:name xml:lang="ja">チェックリスト</uui:name>
+      <uui:name xml:lang="en">Clipboard List</uui:name>
+      <uui:description xml:lang="ja">「チェックリスト」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Clipboard List” in files and folders contexts.</uui:description>
+      <uui:category id="files" xml:lang="ja">ファイルとフォルダー</uui:category>
+      <uui:category id="files" xml:lang="en">Files and folders</uui:category>
+      <uui:keywords xml:lang="ja">チェックリスト, ファイルとフォルダー, clipboard, list</uui:keywords>
+      <uui:keywords xml:lang="en">Clipboard List, Files and folders, clipboard, list</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/files/clipboard-list.svg"/>
+      <uui:palette primary="#7C3AED" accent="#A855F7" secondary="#C084FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="08ab3f0f97a0596424d562c04040081e6e6b9ba9224c5cce6ffb8f2a4f8ada2f"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect width="8" height="4" x="8" y="2" rx="1" ry="1" stroke="#7C3AED" data-uui-role="primary"/>
+    <path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2" stroke="#A855F7" data-uui-role="accent"/>
+    <path d="M12 11h4" stroke="#C084FC" data-uui-role="secondary"/>
+    <path d="M12 16h4" stroke="#A855F7" data-uui-role="accent"/>
+    <path d="M8 11h.01" stroke="#C084FC" data-uui-role="secondary"/>
+    <path d="M8 16h.01" stroke="#A855F7" data-uui-role="accent"/>
+  </g>
+</svg>

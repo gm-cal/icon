@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0485-monochrome-title uui-0485-monochrome-desc" data-icon-id="UUI-0485" data-icon-name="snowflake" data-icon-variant="monochrome" data-icon-category="weather">
+  <title id="uui-0485-monochrome-title" xml:lang="ja">雪の結晶</title>
+  <desc id="uui-0485-monochrome-desc" xml:lang="ja">「雪の結晶」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0485" slug="snowflake" variant="monochrome">
+      <uui:name xml:lang="ja">雪の結晶</uui:name>
+      <uui:name xml:lang="en">Snowflake</uui:name>
+      <uui:description xml:lang="ja">「雪の結晶」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Snowflake” in nature and weather contexts.</uui:description>
+      <uui:category id="weather" xml:lang="ja">自然と天候</uui:category>
+      <uui:category id="weather" xml:lang="en">Nature and weather</uui:category>
+      <uui:keywords xml:lang="ja">雪の結晶, 自然と天候, snowflake</uui:keywords>
+      <uui:keywords xml:lang="en">Snowflake, Nature and weather, snowflake</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/weather/snowflake.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="96ae4c82c6174f9610ee4f91efa87d763cb8287acf03eed80cad137175e4d885"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m10 20-1.25-2.5L6 18" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M10 4 8.75 6.5 6 6" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m14 20 1.25-2.5L18 18" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m14 4 1.25 2.5L18 6" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m17 21-3-6h-4" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m17 3-3 6 1.5 3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M2 12h6.5L10 9" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m20 10-1.5 2 1.5 2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M22 12h-6.5L14 15" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m4 10 1.5 2L4 14" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m7 21 3-6-1.5-3" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m7 3 3 6h4" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

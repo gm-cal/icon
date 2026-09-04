@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0227-color-title uui-0227-color-desc" data-icon-id="UUI-0227" data-icon-name="pause" data-icon-variant="color" data-icon-category="media">
+  <title id="uui-0227-color-title" xml:lang="ja">一時停止</title>
+  <desc id="uui-0227-color-desc" xml:lang="ja">「一時停止」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0227" slug="pause" variant="color">
+      <uui:name xml:lang="ja">一時停止</uui:name>
+      <uui:name xml:lang="en">Pause</uui:name>
+      <uui:description xml:lang="ja">「一時停止」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Pause” in media contexts.</uui:description>
+      <uui:category id="media" xml:lang="ja">画像・音声・映像</uui:category>
+      <uui:category id="media" xml:lang="en">Media</uui:category>
+      <uui:keywords xml:lang="ja">一時停止, 画像・音声・映像, pause</uui:keywords>
+      <uui:keywords xml:lang="en">Pause, Media, pause</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/media/pause.svg"/>
+      <uui:palette primary="#A16207" accent="#F59E0B" secondary="#FCD34D"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="c54db0a28f0cdbe0136f109724e26c5d4880771fe6a0418799216d1c04187d7f"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect x="14" y="3" width="5" height="18" rx="1" stroke="#A16207" data-uui-role="primary"/>
+    <rect x="5" y="3" width="5" height="18" rx="1" stroke="#F59E0B" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0045-color-title uui-0045-color-desc" data-icon-id="UUI-0045" data-icon-name="search" data-icon-variant="color" data-icon-category="actions">
+  <title id="uui-0045-color-title" xml:lang="ja">検索</title>
+  <desc id="uui-0045-color-desc" xml:lang="ja">「検索」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0045" slug="search" variant="color">
+      <uui:name xml:lang="ja">検索</uui:name>
+      <uui:name xml:lang="en">Search</uui:name>
+      <uui:description xml:lang="ja">「検索」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Search” in actions contexts.</uui:description>
+      <uui:category id="actions" xml:lang="ja">基本操作</uui:category>
+      <uui:category id="actions" xml:lang="en">Actions</uui:category>
+      <uui:keywords xml:lang="ja">検索, 基本操作, search</uui:keywords>
+      <uui:keywords xml:lang="en">Search, Actions, search</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/actions/search.svg"/>
+      <uui:palette primary="#0F766E" accent="#14B8A6" secondary="#5EEAD4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7ef625bc9cd6f86bafe04b5b707937af56db855eeb74894d275f2b56b5d3c42e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m21 21-4.34-4.34" stroke="#0F766E" data-uui-role="primary"/>
+    <circle cx="11" cy="11" r="8" stroke="#14B8A6" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0459-color-title uui-0459-color-desc" data-icon-id="UUI-0459" data-icon-name="brain" data-icon-variant="color" data-icon-category="health">
+  <title id="uui-0459-color-title" xml:lang="ja">脳</title>
+  <desc id="uui-0459-color-desc" xml:lang="ja">「脳」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0459" slug="brain" variant="color">
+      <uui:name xml:lang="ja">脳</uui:name>
+      <uui:name xml:lang="en">Brain</uui:name>
+      <uui:description xml:lang="ja">「脳」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Brain” in health and medical contexts.</uui:description>
+      <uui:category id="health" xml:lang="ja">医療と健康</uui:category>
+      <uui:category id="health" xml:lang="en">Health and medical</uui:category>
+      <uui:keywords xml:lang="ja">脳, 医療と健康, brain</uui:keywords>
+      <uui:keywords xml:lang="en">Brain, Health and medical, brain</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/health/brain.svg"/>
+      <uui:palette primary="#BE123C" accent="#FB7185" secondary="#FDA4AF"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="aa7de522aa2e79fc49670c876f39b23d5013d150573125b929156622ecc80219"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 18V5" stroke="#BE123C" data-uui-role="primary"/>
+    <path d="M15 13a4.17 4.17 0 0 1-3-4 4.17 4.17 0 0 1-3 4" stroke="#FB7185" data-uui-role="accent"/>
+    <path d="M17.598 6.5A3 3 0 1 0 12 5a3 3 0 1 0-5.598 1.5" stroke="#FDA4AF" data-uui-role="secondary"/>
+    <path d="M17.997 5.125a4 4 0 0 1 2.526 5.77" stroke="#FB7185" data-uui-role="accent"/>
+    <path d="M18 18a4 4 0 0 0 2-7.464" stroke="#FDA4AF" data-uui-role="secondary"/>
+    <path d="M19.967 17.483A4 4 0 1 1 12 18a4 4 0 1 1-7.967-.517" stroke="#FB7185" data-uui-role="accent"/>
+    <path d="M6 18a4 4 0 0 1-2-7.464" stroke="#FDA4AF" data-uui-role="secondary"/>
+    <path d="M6.003 5.125a4 4 0 0 0-2.526 5.77" stroke="#FB7185" data-uui-role="accent"/>
+  </g>
+</svg>

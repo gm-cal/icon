@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0285-monochrome-title uui-0285-monochrome-desc" data-icon-id="UUI-0285" data-icon-name="container" data-icon-variant="monochrome" data-icon-category="development">
+  <title id="uui-0285-monochrome-title" xml:lang="ja">コンテナ</title>
+  <desc id="uui-0285-monochrome-desc" xml:lang="ja">「コンテナ」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0285" slug="container" variant="monochrome">
+      <uui:name xml:lang="ja">コンテナ</uui:name>
+      <uui:name xml:lang="en">Container</uui:name>
+      <uui:description xml:lang="ja">「コンテナ」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Container” in development and systems contexts.</uui:description>
+      <uui:category id="development" xml:lang="ja">開発とシステム</uui:category>
+      <uui:category id="development" xml:lang="en">Development and systems</uui:category>
+      <uui:keywords xml:lang="ja">コンテナ, 開発とシステム, container</uui:keywords>
+      <uui:keywords xml:lang="en">Container, Development and systems, container</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/development/container.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="437952a8f6b69a98bb11712b5fcc3065e54ce3c544c5d5d779e2e25e9faafb8c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M22 7.7c0-.6-.4-1.2-.8-1.5l-6.3-3.9a1.72 1.72 0 0 0-1.7 0l-10.3 6c-.5.2-.9.8-.9 1.4v6.6c0 .5.4 1.2.8 1.5l6.3 3.9a1.72 1.72 0 0 0 1.7 0l10.3-6c.5-.3.9-1 .9-1.5Z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M10 21.9V14L2.1 9.1" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m10 14 11.9-6.9" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M14 19.8v-8.1" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M18 17.5V9.4" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

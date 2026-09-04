@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0412-monochrome-title uui-0412-monochrome-desc" data-icon-id="UUI-0412" data-icon-name="bus" data-icon-variant="monochrome" data-icon-category="travel">
+  <title id="uui-0412-monochrome-title" xml:lang="ja">バス</title>
+  <desc id="uui-0412-monochrome-desc" xml:lang="ja">「バス」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0412" slug="bus" variant="monochrome">
+      <uui:name xml:lang="ja">バス</uui:name>
+      <uui:name xml:lang="en">Bus</uui:name>
+      <uui:description xml:lang="ja">「バス」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Bus” in maps and travel contexts.</uui:description>
+      <uui:category id="travel" xml:lang="ja">地図と移動</uui:category>
+      <uui:category id="travel" xml:lang="en">Maps and travel</uui:category>
+      <uui:keywords xml:lang="ja">バス, 地図と移動, bus</uui:keywords>
+      <uui:keywords xml:lang="en">Bus, Maps and travel, bus</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/travel/bus.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e666049bbf703b6b9511cef954bdf33e0452dd375837d6027a1ff8c1caa0248c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M8 6v6" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M15 6v6" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M2 12h19.6" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M18 18h3s.5-1.7.8-2.8c.1-.4.2-.8.2-1.2 0-.4-.1-.8-.2-1.2l-1.4-5C20.1 6.8 19.1 6 18 6H4a2 2 0 0 0-2 2v10h3" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="7" cy="18" r="2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M9 18h5" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="16" cy="18" r="2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

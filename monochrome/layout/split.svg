@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0123-monochrome-title uui-0123-monochrome-desc" data-icon-id="UUI-0123" data-icon-name="split" data-icon-variant="monochrome" data-icon-category="layout">
+  <title id="uui-0123-monochrome-title" xml:lang="ja">分割</title>
+  <desc id="uui-0123-monochrome-desc" xml:lang="ja">「分割」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0123" slug="split" variant="monochrome">
+      <uui:name xml:lang="ja">分割</uui:name>
+      <uui:name xml:lang="en">Split</uui:name>
+      <uui:description xml:lang="ja">「分割」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Split” in layout and windows contexts.</uui:description>
+      <uui:category id="layout" xml:lang="ja">画面とレイアウト</uui:category>
+      <uui:category id="layout" xml:lang="en">Layout and windows</uui:category>
+      <uui:keywords xml:lang="ja">分割, 画面とレイアウト, split</uui:keywords>
+      <uui:keywords xml:lang="en">Split, Layout and windows, split</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/layout/split.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="652b028d54e67381f57573c4440bb0e9d48a441d3c095d23d5cd14a5b8fd652f"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M16 3h5v5" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M8 3H3v5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M12 22v-8.3a4 4 0 0 0-1.172-2.872L3 3" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m15 9 6-6" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

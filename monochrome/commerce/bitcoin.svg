@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0316-monochrome-title uui-0316-monochrome-desc" data-icon-id="UUI-0316" data-icon-name="bitcoin" data-icon-variant="monochrome" data-icon-category="commerce">
+  <title id="uui-0316-monochrome-title" xml:lang="ja">ビットコイン</title>
+  <desc id="uui-0316-monochrome-desc" xml:lang="ja">「ビットコイン」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0316" slug="bitcoin" variant="monochrome">
+      <uui:name xml:lang="ja">ビットコイン</uui:name>
+      <uui:name xml:lang="en">Bitcoin</uui:name>
+      <uui:description xml:lang="ja">「ビットコイン」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Bitcoin” in commerce and finance contexts.</uui:description>
+      <uui:category id="commerce" xml:lang="ja">商取引と金融</uui:category>
+      <uui:category id="commerce" xml:lang="en">Commerce and finance</uui:category>
+      <uui:keywords xml:lang="ja">ビットコイン, 商取引と金融, bitcoin</uui:keywords>
+      <uui:keywords xml:lang="en">Bitcoin, Commerce and finance, bitcoin</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/commerce/bitcoin.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="0a88a99c379dcc1976aa9d924b5dcac74eb21273ba90dae2351434a9f12639a7"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M11.767 19.089c4.924.868 6.14-6.025 1.216-6.894m-1.216 6.894L5.86 18.047m5.908 1.042-.347 1.97m1.563-8.864c4.924.869 6.14-6.025 1.215-6.893m-1.215 6.893-3.94-.694m5.155-6.2L8.29 4.26m5.908 1.042.348-1.97M7.48 20.364l3.126-17.727" stroke="currentColor" data-uui-role="primary"/>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0202-monochrome-title uui-0202-monochrome-desc" data-icon-id="UUI-0202" data-icon-name="calendar-days" data-icon-variant="monochrome" data-icon-category="time">
+  <title id="uui-0202-monochrome-title" xml:lang="ja">日程</title>
+  <desc id="uui-0202-monochrome-desc" xml:lang="ja">「日程」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0202" slug="calendar-days" variant="monochrome">
+      <uui:name xml:lang="ja">日程</uui:name>
+      <uui:name xml:lang="en">Calendar Days</uui:name>
+      <uui:description xml:lang="ja">「日程」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Calendar Days” in date and time contexts.</uui:description>
+      <uui:category id="time" xml:lang="ja">日時と履歴</uui:category>
+      <uui:category id="time" xml:lang="en">Date and time</uui:category>
+      <uui:keywords xml:lang="ja">日程, 日時と履歴, calendar, days</uui:keywords>
+      <uui:keywords xml:lang="en">Calendar Days, Date and time, calendar, days</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/time/calendar-days.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7fee830191c3288637329062cd674129b78ea99e099b491cbb85cd7f3f2b1ea2"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M8 2v4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16 2v4" stroke="currentColor" data-uui-role="accent"/>
+    <rect width="18" height="18" x="3" y="4" rx="2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M3 10h18" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M8 14h.01" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M12 14h.01" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M16 14h.01" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M8 18h.01" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M12 18h.01" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M16 18h.01" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

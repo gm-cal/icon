@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0331-color-title uui-0331-color-desc" data-icon-id="UUI-0331" data-icon-name="badge-info" data-icon-variant="color" data-icon-category="status">
+  <title id="uui-0331-color-title" xml:lang="ja">情報バッジ</title>
+  <desc id="uui-0331-color-desc" xml:lang="ja">「情報バッジ」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0331" slug="badge-info" variant="color">
+      <uui:name xml:lang="ja">情報バッジ</uui:name>
+      <uui:name xml:lang="en">Badge Info</uui:name>
+      <uui:description xml:lang="ja">「情報バッジ」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Badge Info” in status and feedback contexts.</uui:description>
+      <uui:category id="status" xml:lang="ja">状態とフィードバック</uui:category>
+      <uui:category id="status" xml:lang="en">Status and feedback</uui:category>
+      <uui:keywords xml:lang="ja">情報バッジ, 状態とフィードバック, badge, info</uui:keywords>
+      <uui:keywords xml:lang="en">Badge Info, Status and feedback, badge, info</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/status/badge-info.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#3B82F6" secondary="#93C5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d03102ab94d120107afbc22a56110200666ce5c181eab7b99f001f7aae670eaa"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="#1D4ED8" data-uui-role="primary"/>
+    <line x1="12" x2="12" y1="16" y2="12" stroke="#3B82F6" data-uui-role="accent"/>
+    <line x1="12" x2="12.01" y1="8" y2="8" stroke="#3B82F6" data-uui-role="accent"/>
+  </g>
+</svg>

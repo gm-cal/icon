@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0347-color-title uui-0347-color-desc" data-icon-id="UUI-0347" data-icon-name="ellipsis-vertical" data-icon-variant="color" data-icon-category="status">
+  <title id="uui-0347-color-title" xml:lang="ja">追加操作</title>
+  <desc id="uui-0347-color-desc" xml:lang="ja">「追加操作」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0347" slug="ellipsis-vertical" variant="color">
+      <uui:name xml:lang="ja">追加操作</uui:name>
+      <uui:name xml:lang="en">Ellipsis Vertical</uui:name>
+      <uui:description xml:lang="ja">「追加操作」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Ellipsis Vertical” in status and feedback contexts.</uui:description>
+      <uui:category id="status" xml:lang="ja">状態とフィードバック</uui:category>
+      <uui:category id="status" xml:lang="en">Status and feedback</uui:category>
+      <uui:keywords xml:lang="ja">追加操作, 状態とフィードバック, ellipsis, vertical</uui:keywords>
+      <uui:keywords xml:lang="en">Ellipsis Vertical, Status and feedback, ellipsis, vertical</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/status/ellipsis-vertical.svg"/>
+      <uui:palette primary="#0E7490" accent="#22D3EE" secondary="#67E8F9"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="b233ecf540cd36a2f86431832cb963231ff423898f2559cb50eea3e21b717a21"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="1" stroke="#0E7490" data-uui-role="primary"/>
+    <circle cx="12" cy="5" r="1" stroke="#22D3EE" data-uui-role="accent"/>
+    <circle cx="12" cy="19" r="1" stroke="#22D3EE" data-uui-role="accent"/>
+  </g>
+</svg>

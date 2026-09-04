@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0348-color-title uui-0348-color-desc" data-icon-id="UUI-0348" data-icon-name="circle-pause" data-icon-variant="color" data-icon-category="status">
+  <title id="uui-0348-color-title" xml:lang="ja">一時停止中</title>
+  <desc id="uui-0348-color-desc" xml:lang="ja">「一時停止中」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0348" slug="circle-pause" variant="color">
+      <uui:name xml:lang="ja">一時停止中</uui:name>
+      <uui:name xml:lang="en">Circle Pause</uui:name>
+      <uui:description xml:lang="ja">「一時停止中」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Circle Pause” in status and feedback contexts.</uui:description>
+      <uui:category id="status" xml:lang="ja">状態とフィードバック</uui:category>
+      <uui:category id="status" xml:lang="en">Status and feedback</uui:category>
+      <uui:keywords xml:lang="ja">一時停止中, 状態とフィードバック, circle, pause</uui:keywords>
+      <uui:keywords xml:lang="en">Circle Pause, Status and feedback, circle, pause</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/status/circle-pause.svg"/>
+      <uui:palette primary="#A16207" accent="#F59E0B" secondary="#FCD34D"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="13411c1bb27fb4f432810e1c4355426c8faa66ab087b7ff17d118cf155c4a80c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="10" stroke="#A16207" data-uui-role="primary"/>
+    <line x1="10" x2="10" y1="15" y2="9" stroke="#F59E0B" data-uui-role="accent"/>
+    <line x1="14" x2="14" y1="15" y2="9" stroke="#F59E0B" data-uui-role="accent"/>
+  </g>
+</svg>

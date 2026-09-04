@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0337-color-title uui-0337-color-desc" data-icon-id="UUI-0337" data-icon-name="wifi-off" data-icon-variant="color" data-icon-category="status">
+  <title id="uui-0337-color-title" xml:lang="ja">通信なし</title>
+  <desc id="uui-0337-color-desc" xml:lang="ja">「通信なし」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0337" slug="wifi-off" variant="color">
+      <uui:name xml:lang="ja">通信なし</uui:name>
+      <uui:name xml:lang="en">Wi-Fi Off</uui:name>
+      <uui:description xml:lang="ja">「通信なし」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Wi-Fi Off” in status and feedback contexts.</uui:description>
+      <uui:category id="status" xml:lang="ja">状態とフィードバック</uui:category>
+      <uui:category id="status" xml:lang="en">Status and feedback</uui:category>
+      <uui:keywords xml:lang="ja">通信なし, 状態とフィードバック, wifi, off</uui:keywords>
+      <uui:keywords xml:lang="en">Wi-Fi Off, Status and feedback, wifi, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/status/wifi-off.svg"/>
+      <uui:palette primary="#334155" accent="#64748B" secondary="#CBD5E1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="ecc235c8e6180db7013e4fc578eb62d97b45d7ad25f9791f668e22fe88a8e4cc"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 20h.01" stroke="#334155" data-uui-role="primary"/>
+    <path d="M8.5 16.429a5 5 0 0 1 7 0" stroke="#64748B" data-uui-role="accent"/>
+    <path d="M5 12.859a10 10 0 0 1 5.17-2.69" stroke="#CBD5E1" data-uui-role="secondary"/>
+    <path d="M19 12.859a10 10 0 0 0-2.007-1.523" stroke="#64748B" data-uui-role="accent"/>
+    <path d="M2 8.82a15 15 0 0 1 4.177-2.643" stroke="#CBD5E1" data-uui-role="secondary"/>
+    <path d="M22 8.82a15 15 0 0 0-11.288-3.764" stroke="#64748B" data-uui-role="accent"/>
+    <path d="m2 2 20 20" stroke="#64748B" data-uui-role="accent"/>
+  </g>
+</svg>

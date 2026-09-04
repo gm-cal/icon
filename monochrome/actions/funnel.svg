@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0046-monochrome-title uui-0046-monochrome-desc" data-icon-id="UUI-0046" data-icon-name="funnel" data-icon-variant="monochrome" data-icon-category="actions">
+  <title id="uui-0046-monochrome-title" xml:lang="ja">絞り込み</title>
+  <desc id="uui-0046-monochrome-desc" xml:lang="ja">「絞り込み」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0046" slug="funnel" variant="monochrome">
+      <uui:name xml:lang="ja">絞り込み</uui:name>
+      <uui:name xml:lang="en">Funnel</uui:name>
+      <uui:description xml:lang="ja">「絞り込み」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Funnel” in actions contexts.</uui:description>
+      <uui:category id="actions" xml:lang="ja">基本操作</uui:category>
+      <uui:category id="actions" xml:lang="en">Actions</uui:category>
+      <uui:keywords xml:lang="ja">絞り込み, 基本操作, funnel</uui:keywords>
+      <uui:keywords xml:lang="en">Funnel, Actions, funnel</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/actions/funnel.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="bddd314022c0d0156660d43197d1cbefc4ad1137ecf13c8ab62361862e19ed7a"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 20a1 1 0 0 0 .553.895l2 1A1 1 0 0 0 14 21v-7a2 2 0 0 1 .517-1.341L21.74 4.67A1 1 0 0 0 21 3H3a1 1 0 0 0-.742 1.67l7.225 7.989A2 2 0 0 1 10 14z" stroke="currentColor" data-uui-role="primary"/>
+  </g>
+</svg>

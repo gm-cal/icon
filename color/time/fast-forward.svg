@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0222-color-title uui-0222-color-desc" data-icon-id="UUI-0222" data-icon-name="fast-forward" data-icon-variant="color" data-icon-category="time">
+  <title id="uui-0222-color-title" xml:lang="ja">早送り</title>
+  <desc id="uui-0222-color-desc" xml:lang="ja">「早送り」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0222" slug="fast-forward" variant="color">
+      <uui:name xml:lang="ja">早送り</uui:name>
+      <uui:name xml:lang="en">Fast Forward</uui:name>
+      <uui:description xml:lang="ja">「早送り」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Fast Forward” in date and time contexts.</uui:description>
+      <uui:category id="time" xml:lang="ja">日時と履歴</uui:category>
+      <uui:category id="time" xml:lang="en">Date and time</uui:category>
+      <uui:keywords xml:lang="ja">早送り, 日時と履歴, fast, forward</uui:keywords>
+      <uui:keywords xml:lang="en">Fast Forward, Date and time, fast, forward</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/time/fast-forward.svg"/>
+      <uui:palette primary="#A16207" accent="#EAB308" secondary="#FACC15"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="f9e903a90c27a9a59a04a2a333d9daa4452caab764e94b275c67039c43e0a8f6"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 6a2 2 0 0 1 3.414-1.414l6 6a2 2 0 0 1 0 2.828l-6 6A2 2 0 0 1 12 18z" stroke="#A16207" data-uui-role="primary"/>
+    <path d="M2 6a2 2 0 0 1 3.414-1.414l6 6a2 2 0 0 1 0 2.828l-6 6A2 2 0 0 1 2 18z" stroke="#EAB308" data-uui-role="accent"/>
+  </g>
+</svg>

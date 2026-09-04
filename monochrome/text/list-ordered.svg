@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0087-monochrome-title uui-0087-monochrome-desc" data-icon-id="UUI-0087" data-icon-name="list-ordered" data-icon-variant="monochrome" data-icon-category="text">
+  <title id="uui-0087-monochrome-title" xml:lang="ja">番号付き一覧</title>
+  <desc id="uui-0087-monochrome-desc" xml:lang="ja">「番号付き一覧」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0087" slug="list-ordered" variant="monochrome">
+      <uui:name xml:lang="ja">番号付き一覧</uui:name>
+      <uui:name xml:lang="en">List Ordered</uui:name>
+      <uui:description xml:lang="ja">「番号付き一覧」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “List Ordered” in text editing contexts.</uui:description>
+      <uui:category id="text" xml:lang="ja">文字編集</uui:category>
+      <uui:category id="text" xml:lang="en">Text editing</uui:category>
+      <uui:keywords xml:lang="ja">番号付き一覧, 文字編集, list, ordered</uui:keywords>
+      <uui:keywords xml:lang="en">List Ordered, Text editing, list, ordered</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/text/list-ordered.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4031c6f01814bea03d9679e2414fff7fbccb5609d4d9db9d601b7ae2cdfbbd93"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M11 5h10" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M11 12h10" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M11 19h10" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M4 4h1v5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M4 9h2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M6.5 20H3.4c0-1 2.6-1.925 2.6-3.5a1.5 1.5 0 0 0-2.6-1.02" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

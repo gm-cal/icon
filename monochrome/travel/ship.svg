@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0415-monochrome-title uui-0415-monochrome-desc" data-icon-id="UUI-0415" data-icon-name="ship" data-icon-variant="monochrome" data-icon-category="travel">
+  <title id="uui-0415-monochrome-title" xml:lang="ja">船</title>
+  <desc id="uui-0415-monochrome-desc" xml:lang="ja">「船」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0415" slug="ship" variant="monochrome">
+      <uui:name xml:lang="ja">船</uui:name>
+      <uui:name xml:lang="en">Ship</uui:name>
+      <uui:description xml:lang="ja">「船」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Ship” in maps and travel contexts.</uui:description>
+      <uui:category id="travel" xml:lang="ja">地図と移動</uui:category>
+      <uui:category id="travel" xml:lang="en">Maps and travel</uui:category>
+      <uui:keywords xml:lang="ja">船, 地図と移動, ship</uui:keywords>
+      <uui:keywords xml:lang="en">Ship, Maps and travel, ship</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/travel/ship.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="83131d25b9bff5feac3ae8a75457c5a8770ed2b526232e895838f9a528837000"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 10.189V14" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M12 2v3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M19 13V7a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v6" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M19.38 20A11.6 11.6 0 0 0 21 14l-8.188-3.639a2 2 0 0 0-1.624 0L3 14a11.6 11.6 0 0 0 2.81 7.76" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M2 21c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1s1.2 1 2.5 1c2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

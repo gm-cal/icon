@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0305-color-title uui-0305-color-desc" data-icon-id="UUI-0305" data-icon-name="package-open" data-icon-variant="color" data-icon-category="commerce">
+  <title id="uui-0305-color-title" xml:lang="ja">開封した荷物</title>
+  <desc id="uui-0305-color-desc" xml:lang="ja">「開封した荷物」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0305" slug="package-open" variant="color">
+      <uui:name xml:lang="ja">開封した荷物</uui:name>
+      <uui:name xml:lang="en">Package Open</uui:name>
+      <uui:description xml:lang="ja">「開封した荷物」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Package Open” in commerce and finance contexts.</uui:description>
+      <uui:category id="commerce" xml:lang="ja">商取引と金融</uui:category>
+      <uui:category id="commerce" xml:lang="en">Commerce and finance</uui:category>
+      <uui:keywords xml:lang="ja">開封した荷物, 商取引と金融, package, open</uui:keywords>
+      <uui:keywords xml:lang="en">Package Open, Commerce and finance, package, open</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/commerce/package-open.svg"/>
+      <uui:palette primary="#15803D" accent="#22C55E" secondary="#4ADE80"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="b9df284079992acd158a0e545b6f27baaafad99147745600a1f00d0b118ee27b"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 22v-9" stroke="#15803D" data-uui-role="primary"/>
+    <path d="M15.17 2.21a1.67 1.67 0 0 1 1.63 0L21 4.57a1.93 1.93 0 0 1 0 3.36L8.82 14.79a1.655 1.655 0 0 1-1.64 0L3 12.43a1.93 1.93 0 0 1 0-3.36z" stroke="#22C55E" data-uui-role="accent"/>
+    <path d="M20 13v3.87a2.06 2.06 0 0 1-1.11 1.83l-6 3.08a1.93 1.93 0 0 1-1.78 0l-6-3.08A2.06 2.06 0 0 1 4 16.87V13" stroke="#4ADE80" data-uui-role="secondary"/>
+    <path d="M21 12.43a1.93 1.93 0 0 0 0-3.36L8.83 2.2a1.64 1.64 0 0 0-1.63 0L3 4.57a1.93 1.93 0 0 0 0 3.36l12.18 6.86a1.636 1.636 0 0 0 1.63 0z" stroke="#22C55E" data-uui-role="accent"/>
+  </g>
+</svg>

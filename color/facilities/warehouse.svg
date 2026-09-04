@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0430-color-title uui-0430-color-desc" data-icon-id="UUI-0430" data-icon-name="warehouse" data-icon-variant="color" data-icon-category="facilities">
+  <title id="uui-0430-color-title" xml:lang="ja">倉庫</title>
+  <desc id="uui-0430-color-desc" xml:lang="ja">「倉庫」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0430" slug="warehouse" variant="color">
+      <uui:name xml:lang="ja">倉庫</uui:name>
+      <uui:name xml:lang="en">Warehouse</uui:name>
+      <uui:description xml:lang="ja">「倉庫」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Warehouse” in buildings and facilities contexts.</uui:description>
+      <uui:category id="facilities" xml:lang="ja">建物と生活設備</uui:category>
+      <uui:category id="facilities" xml:lang="en">Buildings and facilities</uui:category>
+      <uui:keywords xml:lang="ja">倉庫, 建物と生活設備, warehouse</uui:keywords>
+      <uui:keywords xml:lang="en">Warehouse, Buildings and facilities, warehouse</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/facilities/warehouse.svg"/>
+      <uui:palette primary="#92400E" accent="#D97706" secondary="#F59E0B"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="327d5e4ebfc40455c5dcf481f177420eaac870949aa8cb0e13afdffac6671e64"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M18 21V10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1v11" stroke="#92400E" data-uui-role="primary"/>
+    <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V8a2 2 0 0 1 1.132-1.803l7.95-3.974a2 2 0 0 1 1.837 0l7.948 3.974A2 2 0 0 1 22 8z" stroke="#D97706" data-uui-role="accent"/>
+    <path d="M6 13h12" stroke="#F59E0B" data-uui-role="secondary"/>
+    <path d="M6 17h12" stroke="#D97706" data-uui-role="accent"/>
+  </g>
+</svg>

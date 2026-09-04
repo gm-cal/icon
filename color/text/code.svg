@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0096-color-title uui-0096-color-desc" data-icon-id="UUI-0096" data-icon-name="code" data-icon-variant="color" data-icon-category="text">
+  <title id="uui-0096-color-title" xml:lang="ja">コード</title>
+  <desc id="uui-0096-color-desc" xml:lang="ja">「コード」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0096" slug="code" variant="color">
+      <uui:name xml:lang="ja">コード</uui:name>
+      <uui:name xml:lang="en">Code</uui:name>
+      <uui:description xml:lang="ja">「コード」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Code” in text editing contexts.</uui:description>
+      <uui:category id="text" xml:lang="ja">文字編集</uui:category>
+      <uui:category id="text" xml:lang="en">Text editing</uui:category>
+      <uui:keywords xml:lang="ja">コード, 文字編集, code</uui:keywords>
+      <uui:keywords xml:lang="en">Code, Text editing, code</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/text/code.svg"/>
+      <uui:palette primary="#4F46E5" accent="#8B5CF6" secondary="#A78BFA"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="1374b54a64aacf379704c057ee0a72b2571064ae5caca781bb7a561103363998"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m16 18 6-6-6-6" stroke="#4F46E5" data-uui-role="primary"/>
+    <path d="m8 6-6 6 6 6" stroke="#8B5CF6" data-uui-role="accent"/>
+  </g>
+</svg>

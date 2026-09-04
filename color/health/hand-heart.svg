@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0470-color-title uui-0470-color-desc" data-icon-id="UUI-0470" data-icon-name="hand-heart" data-icon-variant="color" data-icon-category="health">
+  <title id="uui-0470-color-title" xml:lang="ja">健康支援</title>
+  <desc id="uui-0470-color-desc" xml:lang="ja">「健康支援」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0470" slug="hand-heart" variant="color">
+      <uui:name xml:lang="ja">健康支援</uui:name>
+      <uui:name xml:lang="en">Hand Heart</uui:name>
+      <uui:description xml:lang="ja">「健康支援」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Hand Heart” in health and medical contexts.</uui:description>
+      <uui:category id="health" xml:lang="ja">医療と健康</uui:category>
+      <uui:category id="health" xml:lang="en">Health and medical</uui:category>
+      <uui:keywords xml:lang="ja">健康支援, 医療と健康, hand, heart</uui:keywords>
+      <uui:keywords xml:lang="en">Hand Heart, Health and medical, hand, heart</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/health/hand-heart.svg"/>
+      <uui:palette primary="#BE123C" accent="#FB7185" secondary="#FDA4AF"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7c26f1c85b043216a6f54f7c62e28aa6268b35d7feb27ca37cae84d21a900da7"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M11 14h2a2 2 0 0 0 0-4h-3c-.6 0-1.1.2-1.4.6L3 16" stroke="#BE123C" data-uui-role="primary"/>
+    <path d="m14.45 13.39 5.05-4.694C20.196 8 21 6.85 21 5.75a2.75 2.75 0 0 0-4.797-1.837.276.276 0 0 1-.406 0A2.75 2.75 0 0 0 11 5.75c0 1.2.802 2.248 1.5 2.946L16 11.95" stroke="#FB7185" data-uui-role="accent"/>
+    <path d="m2 15 6 6" stroke="#FDA4AF" data-uui-role="secondary"/>
+    <path d="m7 20 1.6-1.4c.3-.4.8-.6 1.4-.6h4c1.1 0 2.1-.4 2.8-1.2l4.6-4.4a1 1 0 0 0-2.75-2.91" stroke="#FB7185" data-uui-role="accent"/>
+  </g>
+</svg>

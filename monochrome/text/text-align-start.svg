@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0089-monochrome-title uui-0089-monochrome-desc" data-icon-id="UUI-0089" data-icon-name="text-align-start" data-icon-variant="monochrome" data-icon-category="text">
+  <title id="uui-0089-monochrome-title" xml:lang="ja">左揃え</title>
+  <desc id="uui-0089-monochrome-desc" xml:lang="ja">「左揃え」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0089" slug="text-align-start" variant="monochrome">
+      <uui:name xml:lang="ja">左揃え</uui:name>
+      <uui:name xml:lang="en">Text Align Start</uui:name>
+      <uui:description xml:lang="ja">「左揃え」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Text Align Start” in text editing contexts.</uui:description>
+      <uui:category id="text" xml:lang="ja">文字編集</uui:category>
+      <uui:category id="text" xml:lang="en">Text editing</uui:category>
+      <uui:keywords xml:lang="ja">左揃え, 文字編集, text, align, start</uui:keywords>
+      <uui:keywords xml:lang="en">Text Align Start, Text editing, text, align, start</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/text/text-align-start.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7619af20a021818b2a7a8dd7be434553b62c85205e78bffa539a1981c669bd59"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M21 5H3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M15 12H3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M17 19H3" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0173-color-title uui-0173-color-desc" data-icon-id="UUI-0173" data-icon-name="square-user-round" data-icon-variant="color" data-icon-category="users">
+  <title id="uui-0173-color-title" xml:lang="ja">プロフィールカード</title>
+  <desc id="uui-0173-color-desc" xml:lang="ja">「プロフィールカード」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0173" slug="square-user-round" variant="color">
+      <uui:name xml:lang="ja">プロフィールカード</uui:name>
+      <uui:name xml:lang="en">Square User Round</uui:name>
+      <uui:description xml:lang="ja">「プロフィールカード」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Square User Round” in users and identity contexts.</uui:description>
+      <uui:category id="users" xml:lang="ja">ユーザーと認証</uui:category>
+      <uui:category id="users" xml:lang="en">Users and identity</uui:category>
+      <uui:keywords xml:lang="ja">プロフィールカード, ユーザーと認証, square, user, round</uui:keywords>
+      <uui:keywords xml:lang="en">Square User Round, Users and identity, square, user, round</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/users/square-user-round.svg"/>
+      <uui:palette primary="#9333EA" accent="#D946EF" secondary="#E879F9"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="1a9a3700d9b32b3ebc994f77d47176d79f6b9811594a531bb59a735fab7d1bf1"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M18 21a6 6 0 0 0-12 0" stroke="#9333EA" data-uui-role="primary"/>
+    <circle cx="12" cy="11" r="4" stroke="#D946EF" data-uui-role="accent"/>
+    <rect width="18" height="18" x="3" y="3" rx="2" stroke="#D946EF" data-uui-role="accent"/>
+  </g>
+</svg>

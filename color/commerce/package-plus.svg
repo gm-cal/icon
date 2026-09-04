@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0306-color-title uui-0306-color-desc" data-icon-id="UUI-0306" data-icon-name="package-plus" data-icon-variant="color" data-icon-category="commerce">
+  <title id="uui-0306-color-title" xml:lang="ja">荷物追加</title>
+  <desc id="uui-0306-color-desc" xml:lang="ja">「荷物追加」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0306" slug="package-plus" variant="color">
+      <uui:name xml:lang="ja">荷物追加</uui:name>
+      <uui:name xml:lang="en">Package Plus</uui:name>
+      <uui:description xml:lang="ja">「荷物追加」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Package Plus” in commerce and finance contexts.</uui:description>
+      <uui:category id="commerce" xml:lang="ja">商取引と金融</uui:category>
+      <uui:category id="commerce" xml:lang="en">Commerce and finance</uui:category>
+      <uui:keywords xml:lang="ja">荷物追加, 商取引と金融, package, plus</uui:keywords>
+      <uui:keywords xml:lang="en">Package Plus, Commerce and finance, package, plus</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/commerce/package-plus.svg"/>
+      <uui:palette primary="#15803D" accent="#22C55E" secondary="#4ADE80"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="28e71607246a2be84eebf3d77f8c3897081422c143dde9ac929a8cdf2974ade0"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 22V12" stroke="#15803D" data-uui-role="primary"/>
+    <path d="M16 17h6" stroke="#22C55E" data-uui-role="accent"/>
+    <path d="M19 14v6" stroke="#4ADE80" data-uui-role="secondary"/>
+    <path d="M21 10.535V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.729l7 4a2 2 0 0 0 2 .001l1.675-.955" stroke="#22C55E" data-uui-role="accent"/>
+    <path d="M3.29 7 12 12l8.71-5" stroke="#4ADE80" data-uui-role="secondary"/>
+    <path d="m7.5 4.27 8.997 5.148" stroke="#22C55E" data-uui-role="accent"/>
+  </g>
+</svg>

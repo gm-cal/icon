@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0245-color-title uui-0245-color-desc" data-icon-id="UUI-0245" data-icon-name="picture-in-picture" data-icon-variant="color" data-icon-category="media">
+  <title id="uui-0245-color-title" xml:lang="ja">小窓再生</title>
+  <desc id="uui-0245-color-desc" xml:lang="ja">「小窓再生」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0245" slug="picture-in-picture" variant="color">
+      <uui:name xml:lang="ja">小窓再生</uui:name>
+      <uui:name xml:lang="en">Picture In Picture</uui:name>
+      <uui:description xml:lang="ja">「小窓再生」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Picture In Picture” in media contexts.</uui:description>
+      <uui:category id="media" xml:lang="ja">画像・音声・映像</uui:category>
+      <uui:category id="media" xml:lang="en">Media</uui:category>
+      <uui:keywords xml:lang="ja">小窓再生, 画像・音声・映像, picture, in</uui:keywords>
+      <uui:keywords xml:lang="en">Picture In Picture, Media, picture, in</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/media/picture-in-picture.svg"/>
+      <uui:palette primary="#BE185D" accent="#EC4899" secondary="#F472B6"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="82f283fc569b75a7a7454f8eaab9814ee809067da4db0abcb3a3073a2626d2f7"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2 10h6V4" stroke="#BE185D" data-uui-role="primary"/>
+    <path d="m2 4 6 6" stroke="#EC4899" data-uui-role="accent"/>
+    <path d="M21 10V7a2 2 0 0 0-2-2h-7" stroke="#F472B6" data-uui-role="secondary"/>
+    <path d="M3 14v2a2 2 0 0 0 2 2h3" stroke="#EC4899" data-uui-role="accent"/>
+    <rect x="12" y="14" width="10" height="7" rx="1" stroke="#EC4899" data-uui-role="accent"/>
+  </g>
+</svg>

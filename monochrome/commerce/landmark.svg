@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0324-monochrome-title uui-0324-monochrome-desc" data-icon-id="UUI-0324" data-icon-name="landmark" data-icon-variant="monochrome" data-icon-category="commerce">
+  <title id="uui-0324-monochrome-title" xml:lang="ja">金融機関</title>
+  <desc id="uui-0324-monochrome-desc" xml:lang="ja">「金融機関」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0324" slug="landmark" variant="monochrome">
+      <uui:name xml:lang="ja">金融機関</uui:name>
+      <uui:name xml:lang="en">Landmark</uui:name>
+      <uui:description xml:lang="ja">「金融機関」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Landmark” in commerce and finance contexts.</uui:description>
+      <uui:category id="commerce" xml:lang="ja">商取引と金融</uui:category>
+      <uui:category id="commerce" xml:lang="en">Commerce and finance</uui:category>
+      <uui:keywords xml:lang="ja">金融機関, 商取引と金融, landmark</uui:keywords>
+      <uui:keywords xml:lang="en">Landmark, Commerce and finance, landmark</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/commerce/landmark.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="94c9e633062bf8130652ec6f369f10690a327d89e40fcb42aaca2bcd87861ff1"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 18v-7" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M11.12 2.198a2 2 0 0 1 1.76.006l7.866 3.847c.476.233.31.949-.22.949H3.474c-.53 0-.695-.716-.22-.949z" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M14 18v-7" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M18 18v-7" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M3 22h18" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M6 18v-7" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

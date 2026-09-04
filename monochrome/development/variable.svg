@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0289-monochrome-title uui-0289-monochrome-desc" data-icon-id="UUI-0289" data-icon-name="variable" data-icon-variant="monochrome" data-icon-category="development">
+  <title id="uui-0289-monochrome-title" xml:lang="ja">変数</title>
+  <desc id="uui-0289-monochrome-desc" xml:lang="ja">「変数」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0289" slug="variable" variant="monochrome">
+      <uui:name xml:lang="ja">変数</uui:name>
+      <uui:name xml:lang="en">Variable</uui:name>
+      <uui:description xml:lang="ja">「変数」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Variable” in development and systems contexts.</uui:description>
+      <uui:category id="development" xml:lang="ja">開発とシステム</uui:category>
+      <uui:category id="development" xml:lang="en">Development and systems</uui:category>
+      <uui:keywords xml:lang="ja">変数, 開発とシステム, variable</uui:keywords>
+      <uui:keywords xml:lang="en">Variable, Development and systems, variable</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/development/variable.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="ba049ff6c2479cae486582a5929979ddc8fdb720e9bc216a6f5042026be9a0a7"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M8 21s-4-3-4-9 4-9 4-9" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16 3s4 3 4 9-4 9-4 9" stroke="currentColor" data-uui-role="accent"/>
+    <line x1="15" x2="9" y1="9" y2="15" stroke="currentColor" data-uui-role="secondary"/>
+    <line x1="9" x2="15" y1="9" y2="15" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

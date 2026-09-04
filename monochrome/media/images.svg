@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0243-monochrome-title uui-0243-monochrome-desc" data-icon-id="UUI-0243" data-icon-name="images" data-icon-variant="monochrome" data-icon-category="media">
+  <title id="uui-0243-monochrome-title" xml:lang="ja">画像一覧</title>
+  <desc id="uui-0243-monochrome-desc" xml:lang="ja">「画像一覧」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0243" slug="images" variant="monochrome">
+      <uui:name xml:lang="ja">画像一覧</uui:name>
+      <uui:name xml:lang="en">Images</uui:name>
+      <uui:description xml:lang="ja">「画像一覧」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Images” in media contexts.</uui:description>
+      <uui:category id="media" xml:lang="ja">画像・音声・映像</uui:category>
+      <uui:category id="media" xml:lang="en">Media</uui:category>
+      <uui:keywords xml:lang="ja">画像一覧, 画像・音声・映像, images</uui:keywords>
+      <uui:keywords xml:lang="en">Images, Media, images</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/media/images.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="b2af95ecd1b8f8151253b64252e28f682eb88f500ddf057fc27461023e1a5b8d"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m22 11-1.296-1.296a2.4 2.4 0 0 0-3.408 0L11 16" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M4 8a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="13" cy="7" r="1" fill="currentColor" stroke="currentColor" data-uui-role="secondary"/>
+    <rect x="8" y="2" width="14" height="14" rx="2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

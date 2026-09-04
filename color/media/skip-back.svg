@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0229-color-title uui-0229-color-desc" data-icon-id="UUI-0229" data-icon-name="skip-back" data-icon-variant="color" data-icon-category="media">
+  <title id="uui-0229-color-title" xml:lang="ja">前へスキップ</title>
+  <desc id="uui-0229-color-desc" xml:lang="ja">「前へスキップ」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0229" slug="skip-back" variant="color">
+      <uui:name xml:lang="ja">前へスキップ</uui:name>
+      <uui:name xml:lang="en">Skip Back</uui:name>
+      <uui:description xml:lang="ja">「前へスキップ」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Skip Back” in media contexts.</uui:description>
+      <uui:category id="media" xml:lang="ja">画像・音声・映像</uui:category>
+      <uui:category id="media" xml:lang="en">Media</uui:category>
+      <uui:keywords xml:lang="ja">前へスキップ, 画像・音声・映像, skip, back</uui:keywords>
+      <uui:keywords xml:lang="en">Skip Back, Media, skip, back</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/media/skip-back.svg"/>
+      <uui:palette primary="#BE185D" accent="#EC4899" secondary="#F472B6"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="99a0241eec6c633afd5940bf2d794a03e5188c4ee7e703a6b799ab3019c9164b"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M17.971 4.285A2 2 0 0 1 21 6v12a2 2 0 0 1-3.029 1.715l-9.997-5.998a2 2 0 0 1-.003-3.432z" stroke="#BE185D" data-uui-role="primary"/>
+    <path d="M3 20V4" stroke="#EC4899" data-uui-role="accent"/>
+  </g>
+</svg>

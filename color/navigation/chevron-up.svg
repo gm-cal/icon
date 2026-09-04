@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0009-color-title uui-0009-color-desc" data-icon-id="UUI-0009" data-icon-name="chevron-up" data-icon-variant="color" data-icon-category="navigation">
+  <title id="uui-0009-color-title" xml:lang="ja">上へ移動</title>
+  <desc id="uui-0009-color-desc" xml:lang="ja">「上へ移動」を表す汎用UIアイコン。ナビゲーションに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0009" slug="chevron-up" variant="color">
+      <uui:name xml:lang="ja">上へ移動</uui:name>
+      <uui:name xml:lang="en">Chevron Up</uui:name>
+      <uui:description xml:lang="ja">「上へ移動」を表す汎用UIアイコン。ナビゲーションに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Chevron Up” in navigation contexts.</uui:description>
+      <uui:category id="navigation" xml:lang="ja">ナビゲーション</uui:category>
+      <uui:category id="navigation" xml:lang="en">Navigation</uui:category>
+      <uui:keywords xml:lang="ja">上へ移動, ナビゲーション, chevron, up</uui:keywords>
+      <uui:keywords xml:lang="en">Chevron Up, Navigation, chevron, up</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/navigation/chevron-up.svg"/>
+      <uui:palette primary="#2563EB" accent="#06B6D4" secondary="#60A5FA"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="eef83bafa221914f5f966a217f2bd390805632b21ba17d2e277df5a0a522adbe"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m18 15-6-6-6 6" stroke="#2563EB" data-uui-role="primary"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0474-color-title uui-0474-color-desc" data-icon-id="UUI-0474" data-icon-name="baby" data-icon-variant="color" data-icon-category="health">
+  <title id="uui-0474-color-title" xml:lang="ja">乳幼児</title>
+  <desc id="uui-0474-color-desc" xml:lang="ja">「乳幼児」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0474" slug="baby" variant="color">
+      <uui:name xml:lang="ja">乳幼児</uui:name>
+      <uui:name xml:lang="en">Baby</uui:name>
+      <uui:description xml:lang="ja">「乳幼児」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Baby” in health and medical contexts.</uui:description>
+      <uui:category id="health" xml:lang="ja">医療と健康</uui:category>
+      <uui:category id="health" xml:lang="en">Health and medical</uui:category>
+      <uui:keywords xml:lang="ja">乳幼児, 医療と健康, baby</uui:keywords>
+      <uui:keywords xml:lang="en">Baby, Health and medical, baby</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/health/baby.svg"/>
+      <uui:palette primary="#BE123C" accent="#FB7185" secondary="#FDA4AF"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="67693229c67f588b80377e79d25ad0caceca26ed7768a60df0c3427bc46f6855"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 16c.5.3 1.2.5 2 .5s1.5-.2 2-.5" stroke="#BE123C" data-uui-role="primary"/>
+    <path d="M15 12h.01" stroke="#FB7185" data-uui-role="accent"/>
+    <path d="M19.38 6.813A9 9 0 0 1 20.8 10.2a2 2 0 0 1 0 3.6 9 9 0 0 1-17.6 0 2 2 0 0 1 0-3.6A9 9 0 0 1 12 3c2 0 3.5 1.1 3.5 2.5s-.9 2.5-2 2.5c-.8 0-1.5-.4-1.5-1" stroke="#FDA4AF" data-uui-role="secondary"/>
+    <path d="M9 12h.01" stroke="#FB7185" data-uui-role="accent"/>
+  </g>
+</svg>

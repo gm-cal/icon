@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0203-monochrome-title uui-0203-monochrome-desc" data-icon-id="UUI-0203" data-icon-name="calendar-check-2" data-icon-variant="monochrome" data-icon-category="time">
+  <title id="uui-0203-monochrome-title" xml:lang="ja">予定確定</title>
+  <desc id="uui-0203-monochrome-desc" xml:lang="ja">「予定確定」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0203" slug="calendar-check-2" variant="monochrome">
+      <uui:name xml:lang="ja">予定確定</uui:name>
+      <uui:name xml:lang="en">Calendar Check 2</uui:name>
+      <uui:description xml:lang="ja">「予定確定」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Calendar Check 2” in date and time contexts.</uui:description>
+      <uui:category id="time" xml:lang="ja">日時と履歴</uui:category>
+      <uui:category id="time" xml:lang="en">Date and time</uui:category>
+      <uui:keywords xml:lang="ja">予定確定, 日時と履歴, calendar, check, 2</uui:keywords>
+      <uui:keywords xml:lang="en">Calendar Check 2, Date and time, calendar, check, 2</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/time/calendar-check-2.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="940ccdc7a4804ad200653719b9a78fc4ab199a5b8cfb175245085eb85891b08e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M8 2v4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16 2v4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M21 14V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h8" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M3 10h18" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m16 20 2 2 4-4" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

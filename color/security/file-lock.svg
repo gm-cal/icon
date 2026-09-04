@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0200-color-title uui-0200-color-desc" data-icon-id="UUI-0200" data-icon-name="file-lock" data-icon-variant="color" data-icon-category="security">
+  <title id="uui-0200-color-title" xml:lang="ja">保護ファイル</title>
+  <desc id="uui-0200-color-desc" xml:lang="ja">「保護ファイル」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0200" slug="file-lock" variant="color">
+      <uui:name xml:lang="ja">保護ファイル</uui:name>
+      <uui:name xml:lang="en">File Lock</uui:name>
+      <uui:description xml:lang="ja">「保護ファイル」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Lock” in security and privacy contexts.</uui:description>
+      <uui:category id="security" xml:lang="ja">セキュリティ</uui:category>
+      <uui:category id="security" xml:lang="en">Security and privacy</uui:category>
+      <uui:keywords xml:lang="ja">保護ファイル, セキュリティ, file, lock</uui:keywords>
+      <uui:keywords xml:lang="en">File Lock, Security and privacy, file, lock</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/security/file-lock.svg"/>
+      <uui:palette primary="#B91C1C" accent="#EF4444" secondary="#F87171"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e06a7bdbe6f59a8d08a155be437e98540e2fc31884630494fce71172f1865663"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 9.8V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.706.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2h-3" stroke="#B91C1C" data-uui-role="primary"/>
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="#EF4444" data-uui-role="accent"/>
+    <path d="M9 17v-2a2 2 0 0 0-4 0v2" stroke="#F87171" data-uui-role="secondary"/>
+    <rect width="8" height="5" x="3" y="17" rx="1" stroke="#EF4444" data-uui-role="accent"/>
+  </g>
+</svg>

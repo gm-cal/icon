@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0417-monochrome-title uui-0417-monochrome-desc" data-icon-id="UUI-0417" data-icon-name="footprints" data-icon-variant="monochrome" data-icon-category="travel">
+  <title id="uui-0417-monochrome-title" xml:lang="ja">徒歩</title>
+  <desc id="uui-0417-monochrome-desc" xml:lang="ja">「徒歩」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0417" slug="footprints" variant="monochrome">
+      <uui:name xml:lang="ja">徒歩</uui:name>
+      <uui:name xml:lang="en">Footprints</uui:name>
+      <uui:description xml:lang="ja">「徒歩」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Footprints” in maps and travel contexts.</uui:description>
+      <uui:category id="travel" xml:lang="ja">地図と移動</uui:category>
+      <uui:category id="travel" xml:lang="en">Maps and travel</uui:category>
+      <uui:keywords xml:lang="ja">徒歩, 地図と移動, footprints</uui:keywords>
+      <uui:keywords xml:lang="en">Footprints, Maps and travel, footprints</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/travel/footprints.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="656159898379c43b0dde62d2282c48f04b6f1b64ac8160b7c87b969960bec9f7"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 16v-2.38C4 11.5 2.97 10.5 3 8c.03-2.72 1.49-6 4.5-6C9.37 2 10 3.8 10 5.5c0 3.11-2 5.66-2 8.68V16a2 2 0 1 1-4 0Z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M20 20v-2.38c0-2.12 1.03-3.12 1-5.62-.03-2.72-1.49-6-4.5-6C14.63 6 14 7.8 14 9.5c0 3.11 2 5.66 2 8.68V20a2 2 0 1 0 4 0Z" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M16 17h4" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M4 13h4" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

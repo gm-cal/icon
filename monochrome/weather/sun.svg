@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0476-monochrome-title uui-0476-monochrome-desc" data-icon-id="UUI-0476" data-icon-name="sun" data-icon-variant="monochrome" data-icon-category="weather">
+  <title id="uui-0476-monochrome-title" xml:lang="ja">晴れ</title>
+  <desc id="uui-0476-monochrome-desc" xml:lang="ja">「晴れ」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0476" slug="sun" variant="monochrome">
+      <uui:name xml:lang="ja">晴れ</uui:name>
+      <uui:name xml:lang="en">Sun</uui:name>
+      <uui:description xml:lang="ja">「晴れ」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Sun” in nature and weather contexts.</uui:description>
+      <uui:category id="weather" xml:lang="ja">自然と天候</uui:category>
+      <uui:category id="weather" xml:lang="en">Nature and weather</uui:category>
+      <uui:keywords xml:lang="ja">晴れ, 自然と天候, sun</uui:keywords>
+      <uui:keywords xml:lang="en">Sun, Nature and weather, sun</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/weather/sun.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="00ac7e740a646c428ece1bf4633d12f2c4440e270b655e268edbd8720be80049"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M12 2v2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M12 20v2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m4.93 4.93 1.41 1.41" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m17.66 17.66 1.41 1.41" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M2 12h2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M20 12h2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m6.34 17.66-1.41 1.41" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m19.07 4.93-1.41 1.41" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

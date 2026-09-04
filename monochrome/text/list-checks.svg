@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0088-monochrome-title uui-0088-monochrome-desc" data-icon-id="UUI-0088" data-icon-name="list-checks" data-icon-variant="monochrome" data-icon-category="text">
+  <title id="uui-0088-monochrome-title" xml:lang="ja">確認一覧</title>
+  <desc id="uui-0088-monochrome-desc" xml:lang="ja">「確認一覧」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0088" slug="list-checks" variant="monochrome">
+      <uui:name xml:lang="ja">確認一覧</uui:name>
+      <uui:name xml:lang="en">List Checks</uui:name>
+      <uui:description xml:lang="ja">「確認一覧」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “List Checks” in text editing contexts.</uui:description>
+      <uui:category id="text" xml:lang="ja">文字編集</uui:category>
+      <uui:category id="text" xml:lang="en">Text editing</uui:category>
+      <uui:keywords xml:lang="ja">確認一覧, 文字編集, list, checks</uui:keywords>
+      <uui:keywords xml:lang="en">List Checks, Text editing, list, checks</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/text/list-checks.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="9efb7aa6f69075f7717c7d1c414f73a8540b0608431c68334f2fbdfbc61169b9"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M13 5h8" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M13 12h8" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M13 19h8" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m3 17 2 2 4-4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m3 7 2 2 4-4" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

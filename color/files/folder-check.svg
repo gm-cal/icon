@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0062-color-title uui-0062-color-desc" data-icon-id="UUI-0062" data-icon-name="folder-check" data-icon-variant="color" data-icon-category="files">
+  <title id="uui-0062-color-title" xml:lang="ja">確認済みフォルダー</title>
+  <desc id="uui-0062-color-desc" xml:lang="ja">「確認済みフォルダー」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0062" slug="folder-check" variant="color">
+      <uui:name xml:lang="ja">確認済みフォルダー</uui:name>
+      <uui:name xml:lang="en">Folder Check</uui:name>
+      <uui:description xml:lang="ja">「確認済みフォルダー」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Folder Check” in files and folders contexts.</uui:description>
+      <uui:category id="files" xml:lang="ja">ファイルとフォルダー</uui:category>
+      <uui:category id="files" xml:lang="en">Files and folders</uui:category>
+      <uui:keywords xml:lang="ja">確認済みフォルダー, ファイルとフォルダー, folder, check</uui:keywords>
+      <uui:keywords xml:lang="en">Folder Check, Files and folders, folder, check</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/files/folder-check.svg"/>
+      <uui:palette primary="#7C3AED" accent="#A855F7" secondary="#C084FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="241a29427f5c8b3eea03a7035024f743d4cdec316d4c2855cf84a86fa1280c72"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z" stroke="#7C3AED" data-uui-role="primary"/>
+    <path d="m9 13 2 2 4-4" stroke="#A855F7" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0194-color-title uui-0194-color-desc" data-icon-id="UUI-0194" data-icon-name="circle-alert" data-icon-variant="color" data-icon-category="security">
+  <title id="uui-0194-color-title" xml:lang="ja">注意</title>
+  <desc id="uui-0194-color-desc" xml:lang="ja">「注意」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0194" slug="circle-alert" variant="color">
+      <uui:name xml:lang="ja">注意</uui:name>
+      <uui:name xml:lang="en">Circle Alert</uui:name>
+      <uui:description xml:lang="ja">「注意」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Circle Alert” in security and privacy contexts.</uui:description>
+      <uui:category id="security" xml:lang="ja">セキュリティ</uui:category>
+      <uui:category id="security" xml:lang="en">Security and privacy</uui:category>
+      <uui:keywords xml:lang="ja">注意, セキュリティ, circle, alert</uui:keywords>
+      <uui:keywords xml:lang="en">Circle Alert, Security and privacy, circle, alert</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/security/circle-alert.svg"/>
+      <uui:palette primary="#B91C1C" accent="#EF4444" secondary="#FCA5A5"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="68d8233ad53ba9aa6df29beb594eca452b97c0cbae0c331a5c6713752ff73ac3"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="10" stroke="#B91C1C" data-uui-role="primary"/>
+    <line x1="12" x2="12" y1="8" y2="12" stroke="#EF4444" data-uui-role="accent"/>
+    <line x1="12" x2="12.01" y1="16" y2="16" stroke="#EF4444" data-uui-role="accent"/>
+  </g>
+</svg>

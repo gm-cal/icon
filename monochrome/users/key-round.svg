@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0170-monochrome-title uui-0170-monochrome-desc" data-icon-id="UUI-0170" data-icon-name="key-round" data-icon-variant="monochrome" data-icon-category="users">
+  <title id="uui-0170-monochrome-title" xml:lang="ja">認証キー</title>
+  <desc id="uui-0170-monochrome-desc" xml:lang="ja">「認証キー」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0170" slug="key-round" variant="monochrome">
+      <uui:name xml:lang="ja">認証キー</uui:name>
+      <uui:name xml:lang="en">Key Round</uui:name>
+      <uui:description xml:lang="ja">「認証キー」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Key Round” in users and identity contexts.</uui:description>
+      <uui:category id="users" xml:lang="ja">ユーザーと認証</uui:category>
+      <uui:category id="users" xml:lang="en">Users and identity</uui:category>
+      <uui:keywords xml:lang="ja">認証キー, ユーザーと認証, key, round</uui:keywords>
+      <uui:keywords xml:lang="en">Key Round, Users and identity, key, round</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/users/key-round.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="a97ec82073e2eeafb3a35aed93ecf2f30f5d219dc5bca5c3087f5e1bd146c7d5"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2.586 17.414A2 2 0 0 0 2 18.828V21a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h1a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h.172a2 2 0 0 0 1.414-.586l.814-.814a6.5 6.5 0 1 0-4-4z" stroke="currentColor" data-uui-role="primary"/>
+    <circle cx="16.5" cy="7.5" r=".5" fill="currentColor" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

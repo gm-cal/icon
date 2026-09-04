@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0490-monochrome-title uui-0490-monochrome-desc" data-icon-id="UUI-0490" data-icon-name="sprout" data-icon-variant="monochrome" data-icon-category="weather">
+  <title id="uui-0490-monochrome-title" xml:lang="ja">芽</title>
+  <desc id="uui-0490-monochrome-desc" xml:lang="ja">「芽」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0490" slug="sprout" variant="monochrome">
+      <uui:name xml:lang="ja">芽</uui:name>
+      <uui:name xml:lang="en">Sprout</uui:name>
+      <uui:description xml:lang="ja">「芽」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Sprout” in nature and weather contexts.</uui:description>
+      <uui:category id="weather" xml:lang="ja">自然と天候</uui:category>
+      <uui:category id="weather" xml:lang="en">Nature and weather</uui:category>
+      <uui:keywords xml:lang="ja">芽, 自然と天候, sprout</uui:keywords>
+      <uui:keywords xml:lang="en">Sprout, Nature and weather, sprout</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/weather/sprout.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="690d884a54e4bfee057a5bf3552da8adbeebeff7a9edf0c6d840a39374f55f08"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M14 9.536V7a4 4 0 0 1 4-4h1.5a.5.5 0 0 1 .5.5V5a4 4 0 0 1-4 4 4 4 0 0 0-4 4c0 2 1 3 1 5a5 5 0 0 1-1 3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M4 9a5 5 0 0 1 8 4 5 5 0 0 1-8-4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M5 21h14" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

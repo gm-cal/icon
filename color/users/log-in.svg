@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0166-color-title uui-0166-color-desc" data-icon-id="UUI-0166" data-icon-name="log-in" data-icon-variant="color" data-icon-category="users">
+  <title id="uui-0166-color-title" xml:lang="ja">ログイン</title>
+  <desc id="uui-0166-color-desc" xml:lang="ja">「ログイン」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0166" slug="log-in" variant="color">
+      <uui:name xml:lang="ja">ログイン</uui:name>
+      <uui:name xml:lang="en">Log In</uui:name>
+      <uui:description xml:lang="ja">「ログイン」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Log In” in users and identity contexts.</uui:description>
+      <uui:category id="users" xml:lang="ja">ユーザーと認証</uui:category>
+      <uui:category id="users" xml:lang="en">Users and identity</uui:category>
+      <uui:keywords xml:lang="ja">ログイン, ユーザーと認証, log, in</uui:keywords>
+      <uui:keywords xml:lang="en">Log In, Users and identity, log, in</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/users/log-in.svg"/>
+      <uui:palette primary="#9333EA" accent="#D946EF" secondary="#E879F9"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="9d13ebc100b676032dd498c918bc2aff2656ac4fcc148acadfcc95f352c6aff4"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m10 17 5-5-5-5" stroke="#9333EA" data-uui-role="primary"/>
+    <path d="M15 12H3" stroke="#D946EF" data-uui-role="accent"/>
+    <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4" stroke="#D946EF" data-uui-role="accent"/>
+  </g>
+</svg>

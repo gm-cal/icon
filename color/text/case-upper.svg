@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0081-color-title uui-0081-color-desc" data-icon-id="UUI-0081" data-icon-name="case-upper" data-icon-variant="color" data-icon-category="text">
+  <title id="uui-0081-color-title" xml:lang="ja">大文字</title>
+  <desc id="uui-0081-color-desc" xml:lang="ja">「大文字」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0081" slug="case-upper" variant="color">
+      <uui:name xml:lang="ja">大文字</uui:name>
+      <uui:name xml:lang="en">Case Upper</uui:name>
+      <uui:description xml:lang="ja">「大文字」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Case Upper” in text editing contexts.</uui:description>
+      <uui:category id="text" xml:lang="ja">文字編集</uui:category>
+      <uui:category id="text" xml:lang="en">Text editing</uui:category>
+      <uui:keywords xml:lang="ja">大文字, 文字編集, case, upper</uui:keywords>
+      <uui:keywords xml:lang="en">Case Upper, Text editing, case, upper</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/text/case-upper.svg"/>
+      <uui:palette primary="#4F46E5" accent="#8B5CF6" secondary="#A78BFA"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7cd7e0633a1a2ca28e870799598d554f4f8902e9ef4db974c781534f1756e37d"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M15 11h4.5a1 1 0 0 1 0 5h-4a.5.5 0 0 1-.5-.5v-9a.5.5 0 0 1 .5-.5h3a1 1 0 0 1 0 5" stroke="#4F46E5" data-uui-role="primary"/>
+    <path d="m2 16 4.039-9.69a.5.5 0 0 1 .923 0L11 16" stroke="#8B5CF6" data-uui-role="accent"/>
+    <path d="M3.304 13h6.392" stroke="#8B5CF6" data-uui-role="accent"/>
+  </g>
+</svg>

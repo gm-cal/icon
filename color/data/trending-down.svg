@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0257-color-title uui-0257-color-desc" data-icon-id="UUI-0257" data-icon-name="trending-down" data-icon-variant="color" data-icon-category="data">
+  <title id="uui-0257-color-title" xml:lang="ja">下降傾向</title>
+  <desc id="uui-0257-color-desc" xml:lang="ja">「下降傾向」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0257" slug="trending-down" variant="color">
+      <uui:name xml:lang="ja">下降傾向</uui:name>
+      <uui:name xml:lang="en">Trending Down</uui:name>
+      <uui:description xml:lang="ja">「下降傾向」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Trending Down” in data and analytics contexts.</uui:description>
+      <uui:category id="data" xml:lang="ja">データと分析</uui:category>
+      <uui:category id="data" xml:lang="en">Data and analytics</uui:category>
+      <uui:keywords xml:lang="ja">下降傾向, データと分析, trending, down</uui:keywords>
+      <uui:keywords xml:lang="en">Trending Down, Data and analytics, trending, down</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/data/trending-down.svg"/>
+      <uui:palette primary="#B91C1C" accent="#EF4444" secondary="#FCA5A5"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="688d9594f0e488e86b09a6cbd8e728cbd7524b381c5721f01bed6a7eddb505f2"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M16 17h6v-6" stroke="#B91C1C" data-uui-role="primary"/>
+    <path d="m22 17-8.5-8.5-5 5L2 7" stroke="#EF4444" data-uui-role="accent"/>
+  </g>
+</svg>

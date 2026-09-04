@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0085-monochrome-title uui-0085-monochrome-desc" data-icon-id="UUI-0085" data-icon-name="heading-2" data-icon-variant="monochrome" data-icon-category="text">
+  <title id="uui-0085-monochrome-title" xml:lang="ja">見出し2</title>
+  <desc id="uui-0085-monochrome-desc" xml:lang="ja">「見出し2」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0085" slug="heading-2" variant="monochrome">
+      <uui:name xml:lang="ja">見出し2</uui:name>
+      <uui:name xml:lang="en">Heading 2</uui:name>
+      <uui:description xml:lang="ja">「見出し2」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Heading 2” in text editing contexts.</uui:description>
+      <uui:category id="text" xml:lang="ja">文字編集</uui:category>
+      <uui:category id="text" xml:lang="en">Text editing</uui:category>
+      <uui:keywords xml:lang="ja">見出し2, 文字編集, heading, 2</uui:keywords>
+      <uui:keywords xml:lang="en">Heading 2, Text editing, heading, 2</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/text/heading-2.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="1a6273f8d866fde3ddcfbe5b65df6a12f2ecbcbbb9ff674af1179053b1ce3258"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 12h8" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M4 18V6" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M12 18V6" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M21 18h-4c0-4 4-3 4-6 0-1.5-2-2.5-4-1" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0483-color-title uui-0483-color-desc" data-icon-id="UUI-0483" data-icon-name="wind" data-icon-variant="color" data-icon-category="weather">
+  <title id="uui-0483-color-title" xml:lang="ja">風</title>
+  <desc id="uui-0483-color-desc" xml:lang="ja">「風」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0483" slug="wind" variant="color">
+      <uui:name xml:lang="ja">風</uui:name>
+      <uui:name xml:lang="en">Wind</uui:name>
+      <uui:description xml:lang="ja">「風」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Wind” in nature and weather contexts.</uui:description>
+      <uui:category id="weather" xml:lang="ja">自然と天候</uui:category>
+      <uui:category id="weather" xml:lang="en">Nature and weather</uui:category>
+      <uui:keywords xml:lang="ja">風, 自然と天候, wind</uui:keywords>
+      <uui:keywords xml:lang="en">Wind, Nature and weather, wind</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/weather/wind.svg"/>
+      <uui:palette primary="#0284C7" accent="#F59E0B" secondary="#38BDF8"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="99def2b4559c19b86c45b7044d4912b761f064336794a0efb2dabca25e3dc048"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12.8 19.6A2 2 0 1 0 14 16H2" stroke="#0284C7" data-uui-role="primary"/>
+    <path d="M17.5 8a2.5 2.5 0 1 1 2 4H2" stroke="#F59E0B" data-uui-role="accent"/>
+    <path d="M9.8 4.4A2 2 0 1 1 11 8H2" stroke="#F59E0B" data-uui-role="accent"/>
+  </g>
+</svg>

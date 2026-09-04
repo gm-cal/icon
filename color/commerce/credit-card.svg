@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0310-color-title uui-0310-color-desc" data-icon-id="UUI-0310" data-icon-name="credit-card" data-icon-variant="color" data-icon-category="commerce">
+  <title id="uui-0310-color-title" xml:lang="ja">クレジットカード</title>
+  <desc id="uui-0310-color-desc" xml:lang="ja">「クレジットカード」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0310" slug="credit-card" variant="color">
+      <uui:name xml:lang="ja">クレジットカード</uui:name>
+      <uui:name xml:lang="en">Credit Card</uui:name>
+      <uui:description xml:lang="ja">「クレジットカード」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Credit Card” in commerce and finance contexts.</uui:description>
+      <uui:category id="commerce" xml:lang="ja">商取引と金融</uui:category>
+      <uui:category id="commerce" xml:lang="en">Commerce and finance</uui:category>
+      <uui:keywords xml:lang="ja">クレジットカード, 商取引と金融, credit, card</uui:keywords>
+      <uui:keywords xml:lang="en">Credit Card, Commerce and finance, credit, card</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/commerce/credit-card.svg"/>
+      <uui:palette primary="#15803D" accent="#22C55E" secondary="#4ADE80"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="5b4af4ee2fb531417924d1604cf63691d6429b0fa6c46fcd72ee25429749975a"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect width="20" height="14" x="2" y="5" rx="2" stroke="#15803D" data-uui-role="primary"/>
+    <line x1="2" x2="22" y1="10" y2="10" stroke="#22C55E" data-uui-role="accent"/>
+  </g>
+</svg>

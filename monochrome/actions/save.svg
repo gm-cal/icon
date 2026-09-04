@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0034-monochrome-title uui-0034-monochrome-desc" data-icon-id="UUI-0034" data-icon-name="save" data-icon-variant="monochrome" data-icon-category="actions">
+  <title id="uui-0034-monochrome-title" xml:lang="ja">保存</title>
+  <desc id="uui-0034-monochrome-desc" xml:lang="ja">「保存」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0034" slug="save" variant="monochrome">
+      <uui:name xml:lang="ja">保存</uui:name>
+      <uui:name xml:lang="en">Save</uui:name>
+      <uui:description xml:lang="ja">「保存」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Save” in actions contexts.</uui:description>
+      <uui:category id="actions" xml:lang="ja">基本操作</uui:category>
+      <uui:category id="actions" xml:lang="en">Actions</uui:category>
+      <uui:keywords xml:lang="ja">保存, 基本操作, save</uui:keywords>
+      <uui:keywords xml:lang="en">Save, Actions, save</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/actions/save.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="b86e20515f7c07551173dae4856435322962704c351fb1c61fb14ca64b89373c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M15.2 3a2 2 0 0 1 1.4.6l3.8 3.8a2 2 0 0 1 .6 1.4V19a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M17 21v-7a1 1 0 0 0-1-1H8a1 1 0 0 0-1 1v7" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M7 3v4a1 1 0 0 0 1 1h7" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

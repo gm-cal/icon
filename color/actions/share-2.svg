@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0042-color-title uui-0042-color-desc" data-icon-id="UUI-0042" data-icon-name="share-2" data-icon-variant="color" data-icon-category="actions">
+  <title id="uui-0042-color-title" xml:lang="ja">共有</title>
+  <desc id="uui-0042-color-desc" xml:lang="ja">「共有」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0042" slug="share-2" variant="color">
+      <uui:name xml:lang="ja">共有</uui:name>
+      <uui:name xml:lang="en">Share 2</uui:name>
+      <uui:description xml:lang="ja">「共有」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Share 2” in actions contexts.</uui:description>
+      <uui:category id="actions" xml:lang="ja">基本操作</uui:category>
+      <uui:category id="actions" xml:lang="en">Actions</uui:category>
+      <uui:keywords xml:lang="ja">共有, 基本操作, share, 2</uui:keywords>
+      <uui:keywords xml:lang="en">Share 2, Actions, share, 2</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/actions/share-2.svg"/>
+      <uui:palette primary="#0F766E" accent="#14B8A6" secondary="#5EEAD4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="9b99338828d3a6b695d9a6a04bcbd893224c885b5d470e5b920039cab80478fe"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="18" cy="5" r="3" stroke="#0F766E" data-uui-role="primary"/>
+    <circle cx="6" cy="12" r="3" stroke="#14B8A6" data-uui-role="accent"/>
+    <circle cx="18" cy="19" r="3" stroke="#5EEAD4" data-uui-role="secondary"/>
+    <line x1="8.59" x2="15.42" y1="13.51" y2="17.49" stroke="#14B8A6" data-uui-role="accent"/>
+    <line x1="15.41" x2="8.59" y1="6.51" y2="10.49" stroke="#14B8A6" data-uui-role="accent"/>
+  </g>
+</svg>

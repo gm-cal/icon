@@ -1,0 +1,9 @@
+{
+  "name": "universal-ui-icons-500",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node tools/validate.mjs"
+  }
+}

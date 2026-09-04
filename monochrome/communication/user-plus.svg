@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0147-monochrome-title uui-0147-monochrome-desc" data-icon-id="UUI-0147" data-icon-name="user-plus" data-icon-variant="monochrome" data-icon-category="communication">
+  <title id="uui-0147-monochrome-title" xml:lang="ja">メンバー追加</title>
+  <desc id="uui-0147-monochrome-desc" xml:lang="ja">「メンバー追加」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0147" slug="user-plus" variant="monochrome">
+      <uui:name xml:lang="ja">メンバー追加</uui:name>
+      <uui:name xml:lang="en">User Plus</uui:name>
+      <uui:description xml:lang="ja">「メンバー追加」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “User Plus” in communication contexts.</uui:description>
+      <uui:category id="communication" xml:lang="ja">通信と連絡</uui:category>
+      <uui:category id="communication" xml:lang="en">Communication</uui:category>
+      <uui:keywords xml:lang="ja">メンバー追加, 通信と連絡, user, plus</uui:keywords>
+      <uui:keywords xml:lang="en">User Plus, Communication, user, plus</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/communication/user-plus.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="23844bb4b55272edc942a70cf3c66abfd4b578807f26bc31c5d83bd61532dab0"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" stroke="currentColor" data-uui-role="primary"/>
+    <circle cx="9" cy="7" r="4" stroke="currentColor" data-uui-role="accent"/>
+    <line x1="19" x2="19" y1="8" y2="14" stroke="currentColor" data-uui-role="secondary"/>
+    <line x1="22" x2="16" y1="11" y2="11" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

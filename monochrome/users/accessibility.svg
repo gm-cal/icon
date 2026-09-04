@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0163-monochrome-title uui-0163-monochrome-desc" data-icon-id="UUI-0163" data-icon-name="accessibility" data-icon-variant="monochrome" data-icon-category="users">
+  <title id="uui-0163-monochrome-title" xml:lang="ja">アクセシビリティ</title>
+  <desc id="uui-0163-monochrome-desc" xml:lang="ja">「アクセシビリティ」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0163" slug="accessibility" variant="monochrome">
+      <uui:name xml:lang="ja">アクセシビリティ</uui:name>
+      <uui:name xml:lang="en">Accessibility</uui:name>
+      <uui:description xml:lang="ja">「アクセシビリティ」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Accessibility” in users and identity contexts.</uui:description>
+      <uui:category id="users" xml:lang="ja">ユーザーと認証</uui:category>
+      <uui:category id="users" xml:lang="en">Users and identity</uui:category>
+      <uui:keywords xml:lang="ja">アクセシビリティ, ユーザーと認証, accessibility</uui:keywords>
+      <uui:keywords xml:lang="en">Accessibility, Users and identity, accessibility</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/users/accessibility.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="586cdfa3c929d690fdda366d4623dbc53cc496ddd438a94dd0e2526080f169eb"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="16" cy="4" r="1" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m18 19 1-7-6 1" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m5 8 3-3 5.5 3-2.36 3.5" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M4.24 14.5a5 5 0 0 0 6.88 6" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M13.76 17.5a5 5 0 0 0-6.88-6" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>
