@@ -1,0 +1,422 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0f172a">
+  <title>Universal UI Icons Preview</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      font-family: Inter, "Noto Sans JP", "Yu Gothic UI", system-ui, sans-serif;
+      background: #f8fafc;
+      color: #0f172a;
+    }
+    * { box-sizing: border-box; }
+    html { min-height: 100%; }
+    body { margin: 0; min-height: 100vh; background: #f8fafc; color: #0f172a; }
+    button, input, select { font: inherit; }
+    button { touch-action: manipulation; }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      padding: calc(12px + env(safe-area-inset-top)) 14px 12px;
+      background: rgba(255,255,255,.94);
+      border-bottom: 1px solid #e2e8f0;
+      backdrop-filter: blur(14px);
+    }
+    .topbar-inner { max-width: 1180px; margin: 0 auto; }
+    .heading { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 10px; }
+    h1 { margin: 0; font-size: clamp(18px, 4.8vw, 24px); line-height: 1.2; }
+    #count { margin: 0; color: #64748b; font-size: 12px; white-space: nowrap; }
+    .controls { display: grid; grid-template-columns: minmax(0, 1fr) minmax(150px, .45fr); gap: 8px; }
+    .search-wrap { grid-column: 1 / -1; }
+    input[type="search"], select {
+      width: 100%;
+      min-height: 44px;
+      border: 1px solid #cbd5e1;
+      border-radius: 11px;
+      padding: 0 12px;
+      background: #fff;
+      color: #0f172a;
+      outline: none;
+    }
+    input[type="search"]:focus, select:focus { border-color: #64748b; box-shadow: 0 0 0 3px rgba(100,116,139,.12); }
+    .segments { display: grid; grid-template-columns: 1fr 1fr; border: 1px solid #cbd5e1; border-radius: 11px; overflow: hidden; min-height: 44px; }
+    .segments button { border: 0; background: #fff; color: #475569; padding: 0 10px; }
+    .segments button + button { border-left: 1px solid #cbd5e1; }
+    .segments button[aria-pressed="true"] { background: #0f172a; color: #fff; font-weight: 700; }
+
+    main { max-width: 1180px; margin: 0 auto; padding: 14px 14px calc(52px + env(safe-area-inset-bottom)); }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 12px; }
+    .card {
+      width: 100%;
+      min-width: 0;
+      min-height: 154px;
+      border: 1px solid #e2e8f0;
+      border-radius: 15px;
+      background: #fff;
+      color: inherit;
+      padding: 14px;
+      text-align: left;
+      box-shadow: 0 1px 2px rgba(15,23,42,.04);
+      cursor: pointer;
+    }
+    .card:active { transform: scale(.985); }
+    .card:focus-visible { outline: 3px solid rgba(37,99,235,.35); outline-offset: 2px; }
+    .glyph-box { height: 62px; display: grid; place-items: center; margin-bottom: 10px; }
+    .glyph { width: 52px; height: 52px; object-fit: contain; }
+    .ja { font-size: 14px; font-weight: 750; line-height: 1.35; overflow-wrap: anywhere; }
+    .en { margin-top: 3px; font-size: 11px; color: #64748b; line-height: 1.35; overflow-wrap: anywhere; }
+    .meta { margin-top: 7px; display: flex; gap: 6px; flex-wrap: wrap; font-size: 10px; color: #64748b; }
+    .pill { border: 1px solid #e2e8f0; border-radius: 999px; padding: 2px 6px; max-width: 100%; overflow-wrap: anywhere; }
+    .empty, .error { padding: 48px 12px; text-align: center; color: #64748b; }
+    .error { color: #b91c1c; }
+    #sentinel { height: 1px; }
+
+    dialog {
+      width: min(560px, calc(100vw - 20px));
+      max-height: min(78vh, 720px);
+      margin: auto auto max(10px, env(safe-area-inset-bottom));
+      padding: 0;
+      border: 0;
+      border-radius: 20px 20px 16px 16px;
+      background: #fff;
+      color: #0f172a;
+      box-shadow: 0 24px 80px rgba(15,23,42,.28);
+    }
+    dialog::backdrop { background: rgba(15,23,42,.48); backdrop-filter: blur(2px); }
+    .sheet { padding: 18px; }
+    .sheet-head { display: flex; justify-content: space-between; gap: 14px; align-items: flex-start; }
+    .sheet-title { min-width: 0; }
+    .sheet h2 { margin: 0; font-size: 20px; overflow-wrap: anywhere; }
+    .sheet .sheet-en { margin-top: 4px; color: #64748b; font-size: 13px; overflow-wrap: anywhere; }
+    .close { width: 40px; height: 40px; border-radius: 999px; border: 1px solid #e2e8f0; background: #fff; color: inherit; font-size: 22px; line-height: 1; flex: none; }
+    .detail-preview { min-height: 150px; display: grid; place-items: center; margin: 14px 0; border: 1px solid #e2e8f0; border-radius: 16px; background: #f8fafc; }
+    .detail-preview img { width: 96px; height: 96px; object-fit: contain; }
+    .description { margin: 0 0 14px; font-size: 13px; line-height: 1.7; }
+    .facts { display: grid; grid-template-columns: auto 1fr; gap: 7px 12px; margin: 0; font-size: 12px; }
+    .facts dt { color: #64748b; }
+    .facts dd { margin: 0; overflow-wrap: anywhere; }
+    .sheet-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 16px; }
+    .sheet-actions button { min-height: 44px; border: 1px solid #cbd5e1; border-radius: 11px; background: #fff; color: inherit; padding: 0 10px; }
+    .toast { position: fixed; left: 50%; bottom: calc(18px + env(safe-area-inset-bottom)); z-index: 60; transform: translateX(-50%); background: #0f172a; color: #fff; border-radius: 999px; padding: 9px 14px; font-size: 12px; opacity: 0; pointer-events: none; transition: opacity .16s ease; }
+    .toast.show { opacity: 1; }
+
+    @media (max-width: 560px) {
+      .controls { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+      .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 9px; }
+      .card { min-height: 143px; padding: 11px; border-radius: 13px; }
+      .glyph-box { height: 56px; margin-bottom: 8px; }
+      .glyph { width: 48px; height: 48px; }
+      .ja { font-size: 13px; }
+      .en { font-size: 10px; }
+      .meta { margin-top: 6px; font-size: 9px; }
+    }
+    @media (min-width: 760px) {
+      .controls { grid-template-columns: minmax(280px, 1fr) minmax(210px, .45fr) 220px; }
+      .search-wrap { grid-column: auto; }
+    }
+    @media (prefers-color-scheme: dark) {
+      :root, body { background: #0f172a; color: #e2e8f0; }
+      .topbar { background: rgba(15,23,42,.94); border-color: #334155; }
+      input[type="search"], select, .segments, .segments button, .card, dialog, .close, .sheet-actions button { background: #1e293b; color: #e2e8f0; border-color: #334155; }
+      .segments button + button { border-color: #334155; }
+      .segments button[aria-pressed="true"] { background: #e2e8f0; color: #0f172a; }
+      .card { box-shadow: none; }
+      .en, .meta, #count, .sheet .sheet-en, .facts dt { color: #94a3b8; }
+      .pill { border-color: #334155; }
+      .detail-preview { background: #0f172a; border-color: #334155; }
+      .toast { background: #e2e8f0; color: #0f172a; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="heading">
+        <h1 id="libraryName">Universal UI Icons</h1>
+        <p id="count">読み込み中…</p>
+      </div>
+      <div class="controls" aria-label="プレビュー絞り込み">
+        <div class="search-wrap">
+          <input id="query" type="search" inputmode="search" autocomplete="off" placeholder="日本語名・英語名・ID・slugで検索" aria-label="アイコンを検索">
+        </div>
+        <select id="category" aria-label="分類で絞り込み">
+          <option value="">すべての分類</option>
+        </select>
+        <div class="segments" role="group" aria-label="表示版">
+          <button id="colorButton" type="button" aria-pressed="true">カラー</button>
+          <button id="monoButton" type="button" aria-pressed="false">モノクロ</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div id="grid" class="grid" aria-live="polite"></div>
+    <div id="sentinel" aria-hidden="true"></div>
+    <div id="status" class="empty" hidden></div>
+  </main>
+
+  <dialog id="details" aria-labelledby="detailTitle">
+    <div class="sheet">
+      <div class="sheet-head">
+        <div class="sheet-title">
+          <h2 id="detailTitle"></h2>
+          <div id="detailEnglish" class="sheet-en"></div>
+        </div>
+        <button id="closeDetails" class="close" type="button" aria-label="閉じる">×</button>
+      </div>
+      <div class="detail-preview"><img id="detailImage" alt=""></div>
+      <p id="detailDescription" class="description"></p>
+      <dl class="facts">
+        <dt>ID</dt><dd id="detailId"></dd>
+        <dt>slug</dt><dd id="detailSlug"></dd>
+        <dt>分類</dt><dd id="detailCategory"></dd>
+        <dt>推奨サイズ</dt><dd id="detailSizes"></dd>
+        <dt>SVG</dt><dd id="detailPath"></dd>
+      </dl>
+      <div class="sheet-actions">
+        <button id="copyId" type="button">IDをコピー</button>
+        <button id="copyPath" type="button">SVGパスをコピー</button>
+      </div>
+    </div>
+  </dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script>
+    const BATCH_SIZE = 72;
+    const state = {
+      catalog: null,
+      filtered: [],
+      rendered: 0,
+      variant: 'color',
+      selected: null
+    };
+
+    const el = {
+      libraryName: document.getElementById('libraryName'),
+      count: document.getElementById('count'),
+      query: document.getElementById('query'),
+      category: document.getElementById('category'),
+      colorButton: document.getElementById('colorButton'),
+      monoButton: document.getElementById('monoButton'),
+      grid: document.getElementById('grid'),
+      sentinel: document.getElementById('sentinel'),
+      status: document.getElementById('status'),
+      details: document.getElementById('details'),
+      closeDetails: document.getElementById('closeDetails'),
+      detailTitle: document.getElementById('detailTitle'),
+      detailEnglish: document.getElementById('detailEnglish'),
+      detailImage: document.getElementById('detailImage'),
+      detailDescription: document.getElementById('detailDescription'),
+      detailId: document.getElementById('detailId'),
+      detailSlug: document.getElementById('detailSlug'),
+      detailCategory: document.getElementById('detailCategory'),
+      detailSizes: document.getElementById('detailSizes'),
+      detailPath: document.getElementById('detailPath'),
+      copyId: document.getElementById('copyId'),
+      copyPath: document.getElementById('copyPath'),
+      toast: document.getElementById('toast')
+    };
+
+    function assetUrl(path) {
+      return `./${path}`;
+    }
+
+    function normalize(value) {
+      return String(value ?? '').normalize('NFKC').toLocaleLowerCase('ja');
+    }
+
+    function searchableText(icon) {
+      return normalize([
+        icon.id,
+        icon.slug,
+        icon.name?.ja,
+        icon.name?.en,
+        icon.description?.ja,
+        icon.description?.en,
+        ...(icon.keywords?.ja ?? []),
+        ...(icon.keywords?.en ?? [])
+      ].join(' '));
+    }
+
+    function setVariant(variant) {
+      if (state.variant === variant) return;
+      state.variant = variant;
+      el.colorButton.setAttribute('aria-pressed', String(variant === 'color'));
+      el.monoButton.setAttribute('aria-pressed', String(variant === 'monochrome'));
+      renderReset();
+      if (state.selected && el.details.open) showDetails(state.selected);
+    }
+
+    function applyFilters() {
+      if (!state.catalog) return;
+      const query = normalize(el.query.value.trim());
+      const category = el.category.value;
+      state.filtered = state.catalog.icons.filter(icon => {
+        if (category && icon.category?.id !== category) return false;
+        return !query || searchableText(icon).includes(query);
+      });
+      renderReset();
+    }
+
+    function renderReset() {
+      state.rendered = 0;
+      el.grid.replaceChildren();
+      updateCount();
+      el.status.hidden = state.filtered.length !== 0;
+      if (!state.filtered.length) {
+        el.status.className = 'empty';
+        el.status.textContent = '該当するアイコンがありません。';
+        return;
+      }
+      renderMore();
+    }
+
+    function updateCount() {
+      const total = state.catalog?.icons?.length ?? 0;
+      el.count.textContent = `${state.filtered.length} / ${total}`;
+    }
+
+    function renderMore() {
+      if (state.rendered >= state.filtered.length) return;
+      const end = Math.min(state.rendered + BATCH_SIZE, state.filtered.length);
+      const fragment = document.createDocumentFragment();
+      for (let i = state.rendered; i < end; i++) {
+        fragment.appendChild(createCard(state.filtered[i]));
+      }
+      state.rendered = end;
+      el.grid.appendChild(fragment);
+    }
+
+    function createCard(icon) {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'card';
+      button.setAttribute('aria-label', `${icon.name?.ja ?? icon.slug}、詳細を表示`);
+      button.addEventListener('click', () => openDetails(icon));
+
+      const glyphBox = document.createElement('div');
+      glyphBox.className = 'glyph-box';
+      const img = document.createElement('img');
+      img.className = 'glyph';
+      img.loading = 'lazy';
+      img.decoding = 'async';
+      img.alt = '';
+      img.src = assetUrl(icon.files[state.variant]);
+      glyphBox.appendChild(img);
+
+      const ja = document.createElement('div');
+      ja.className = 'ja';
+      ja.textContent = icon.name?.ja ?? icon.slug;
+
+      const en = document.createElement('div');
+      en.className = 'en';
+      en.textContent = icon.name?.en ?? '';
+
+      const meta = document.createElement('div');
+      meta.className = 'meta';
+      const id = document.createElement('span');
+      id.className = 'pill';
+      id.textContent = icon.id;
+      const slug = document.createElement('span');
+      slug.className = 'pill';
+      slug.textContent = icon.slug;
+      meta.append(id, slug);
+
+      button.append(glyphBox, ja, en, meta);
+      return button;
+    }
+
+    function openDetails(icon) {
+      state.selected = icon;
+      showDetails(icon);
+      if (!el.details.open) el.details.showModal();
+    }
+
+    function showDetails(icon) {
+      const path = icon.files[state.variant];
+      el.detailTitle.textContent = icon.name?.ja ?? icon.slug;
+      el.detailEnglish.textContent = icon.name?.en ?? '';
+      el.detailImage.src = assetUrl(path);
+      el.detailImage.alt = icon.name?.ja ?? icon.slug;
+      el.detailDescription.textContent = icon.description?.ja ?? '';
+      el.detailId.textContent = icon.id;
+      el.detailSlug.textContent = icon.slug;
+      el.detailCategory.textContent = `${icon.category?.ja ?? ''} / ${icon.category?.en ?? icon.category?.id ?? ''}`;
+      el.detailSizes.textContent = (icon.recommendedSizesPx ?? []).map(x => `${x}px`).join(' / ');
+      el.detailPath.textContent = path;
+    }
+
+    async function copyText(text, message) {
+      try {
+        await navigator.clipboard.writeText(text);
+        showToast(message);
+      } catch {
+        showToast('コピーできませんでした');
+      }
+    }
+
+    let toastTimer;
+    function showToast(message) {
+      clearTimeout(toastTimer);
+      el.toast.textContent = message;
+      el.toast.classList.add('show');
+      toastTimer = setTimeout(() => el.toast.classList.remove('show'), 1400);
+    }
+
+    async function loadCatalog() {
+      try {
+        const response = await fetch('./catalog/catalog-v1.json', { cache: 'no-cache' });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        state.catalog = await response.json();
+        el.libraryName.textContent = state.catalog.library?.name ?? 'Universal UI Icons';
+        document.title = `${el.libraryName.textContent} Preview`;
+        for (const category of state.catalog.categories ?? []) {
+          const option = document.createElement('option');
+          option.value = category.id;
+          option.textContent = `${category.ja} / ${category.en}`;
+          el.category.appendChild(option);
+        }
+        state.filtered = state.catalog.icons ?? [];
+        renderReset();
+      } catch (error) {
+        console.error(error);
+        el.count.textContent = '読み込み失敗';
+        el.status.hidden = false;
+        el.status.className = 'error';
+        el.status.textContent = 'カタログを読み込めませんでした。ページを再読み込みしてください。';
+      }
+    }
+
+    let inputTimer;
+    el.query.addEventListener('input', () => {
+      clearTimeout(inputTimer);
+      inputTimer = setTimeout(applyFilters, 120);
+    });
+    el.category.addEventListener('change', applyFilters);
+    el.colorButton.addEventListener('click', () => setVariant('color'));
+    el.monoButton.addEventListener('click', () => setVariant('monochrome'));
+    el.closeDetails.addEventListener('click', () => el.details.close());
+    el.details.addEventListener('click', event => {
+      if (event.target === el.details) el.details.close();
+    });
+    el.copyId.addEventListener('click', () => state.selected && copyText(state.selected.id, 'IDをコピーしました'));
+    el.copyPath.addEventListener('click', () => state.selected && copyText(state.selected.files[state.variant], 'SVGパスをコピーしました'));
+
+    const observer = new IntersectionObserver(entries => {
+      if (entries.some(entry => entry.isIntersecting)) renderMore();
+    }, { rootMargin: '600px 0px' });
+    observer.observe(el.sentinel);
+
+    loadCatalog();
+  </script>
+</body>
+</html>
