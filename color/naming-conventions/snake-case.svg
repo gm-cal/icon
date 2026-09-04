@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0501-color-title uui-0501-color-desc" data-icon-id="UUI-0501" data-icon-name="snake-case" data-icon-variant="color" data-icon-category="naming-conventions">
+  <title id="uui-0501-color-title" xml:lang="ja">snake_case</title>
+  <desc id="uui-0501-color-desc" xml:lang="ja">「snake_case」を表す汎用UIアイコン。命名規則に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="1.1.0" id="UUI-0501" slug="snake-case" variant="color">
+      <uui:name xml:lang="ja">snake_case</uui:name>
+      <uui:name xml:lang="en">snake_case</uui:name>
+      <uui:description xml:lang="ja">「snake_case」を表す汎用UIアイコン。命名規則に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “snake_case” in naming conventions contexts.</uui:description>
+      <uui:category id="naming-conventions" xml:lang="ja">命名規則</uui:category>
+      <uui:category id="naming-conventions" xml:lang="en">Naming conventions</uui:category>
+      <uui:keywords xml:lang="ja">snake_case, 命名規則, snake, case</uui:keywords>
+      <uui:keywords xml:lang="en">snake_case, Naming conventions, snake, case</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/naming-conventions/snake-case.svg"/>
+      <uui:palette primary="#166534" accent="#22C55E" secondary="#86EFAC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7ec5991ba79c5618a08486f2dc3000053218c58177b2a5c10508f2b3b34f7e61"/>
+      <uui:source project="Universal UI Icons" version="1.1.0" license="Project" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M5 15.5c1.2 2.6 4.2 3.9 7 3.1l3.4-1c1.9-.6 3-2.5 2.4-4.4-.5-1.5-1.8-2.5-3.3-2.7l-4-.5a3.6 3.6 0 0 1-3.1-4.4c.5-2.1 2.7-3.4 4.8-2.8l3.1.9" stroke="#166534" data-uui-role="primary"/>
+    <path d="m15.3 3.7 3.4-.7L21 5.4l-2.5 2.2-3-.7" stroke="#22C55E" data-uui-role="accent"/>
+    <circle cx="18.7" cy="5" r=".35" stroke="#86EFAC" data-uui-role="secondary"/>
+    <path d="M6 22h12" stroke="#22C55E" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -12,9 +12,9 @@
       "properties": {
         "name": { "type": "string" },
         "version": { "type": "string" },
-        "iconCount": { "const": 500 },
+        "iconCount": { "type": "integer", "minimum": 1 },
         "variantCount": { "const": 2 },
-        "svgCount": { "const": 1000 },
+        "svgCount": { "type": "integer", "minimum": 2 },
         "viewBox": { "const": "0 0 24 24" },
         "minimumSizePx": { "type": "integer", "minimum": 1 },
         "recommendedSizesPx": { "type": "array", "items": { "type": "integer", "minimum": 1 }, "minItems": 1, "uniqueItems": true },
@@ -24,8 +24,7 @@
     },
     "categories": {
       "type": "array",
-      "minItems": 20,
-      "maxItems": 20,
+      "minItems": 1,
       "items": {
         "type": "object",
         "required": ["id", "ja", "en", "palette"],
@@ -49,8 +48,7 @@
     },
     "icons": {
       "type": "array",
-      "minItems": 500,
-      "maxItems": 500,
+      "minItems": 1,
       "items": { "$ref": "#/$defs/icon" }
     }
   },

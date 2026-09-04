@@ -31,10 +31,12 @@ function expect(condition, message) {
 const catalogPath = path.join(root, "catalog", "catalog-v1.json");
 const catalog = JSON.parse(await readFile(catalogPath, "utf8"));
 expect(catalog.schemaVersion === "1.0", "Catalog schemaVersion must be 1.0.");
-expect(catalog.library?.iconCount === 500, "Catalog iconCount must be 500.");
-expect(catalog.library?.svgCount === 1000, "Catalog svgCount must be 1000.");
-expect(catalog.categories?.length === 20, "Exactly 20 categories are required.");
-expect(catalog.icons?.length === 500, "Exactly 500 catalog entries are required.");
+const expectedIconCount = catalog.library?.iconCount;
+const expectedSvgCount = expectedIconCount * 2;
+expect(Number.isInteger(expectedIconCount) && expectedIconCount > 0, "Catalog iconCount must be a positive integer.");
+expect(catalog.library?.svgCount === expectedSvgCount, `Catalog svgCount must be ${expectedSvgCount}.`);
+expect(Array.isArray(catalog.categories) && catalog.categories.length > 0, "At least one category is required.");
+expect(catalog.icons?.length === expectedIconCount, `Exactly ${expectedIconCount} catalog entries are required.`);
 
 const ids = new Set();
 const slugs = new Set();
@@ -74,14 +76,14 @@ for (const icon of catalog.icons) {
 
 const colorFiles = await svgFiles(path.join(root, "color"));
 const monochromeFiles = await svgFiles(path.join(root, "monochrome"));
-expect(colorFiles.length === 500, `Expected 500 color SVGs; found ${colorFiles.length}.`);
-expect(monochromeFiles.length === 500, `Expected 500 monochrome SVGs; found ${monochromeFiles.length}.`);
+expect(colorFiles.length === expectedIconCount, `Expected ${expectedIconCount} color SVGs; found ${colorFiles.length}.`);
+expect(monochromeFiles.length === expectedIconCount, `Expected ${expectedIconCount} monochrome SVGs; found ${monochromeFiles.length}.`);
 
 for (const variant of ["color", "monochrome"]) {
   const spritePath = path.join(root, "sprites", `${variant}.svg`);
   const sprite = await readFile(spritePath, "utf8");
   const symbols = sprite.match(/<symbol\b/g) ?? [];
-  expect(symbols.length === 500, `Expected 500 symbols in ${variant} sprite; found ${symbols.length}.`);
+  expect(symbols.length === expectedIconCount, `Expected ${expectedIconCount} symbols in ${variant} sprite; found ${symbols.length}.`);
 }
 
 if (errors.length) {
@@ -91,6 +93,6 @@ if (errors.length) {
   process.exitCode = 1;
 } else {
   const digest = createHash("sha256").update(JSON.stringify(catalog.icons.map(({ id, slug, geometrySha256 }) => ({ id, slug, geometrySha256 })))).digest("hex");
-  console.log(`Validation passed: 500 icons, 1,000 paired SVGs, 20 categories.`);
+  console.log(`Validation passed: ${expectedIconCount} icons, ${expectedSvgCount.toLocaleString("en-US")} paired SVGs, ${catalog.categories.length} categories.`);
   console.log(`Catalog identity SHA-256: ${digest}`);
 }

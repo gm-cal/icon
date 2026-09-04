@@ -2,10 +2,10 @@
   "schemaVersion": "1.0",
   "library": {
     "name": "Universal UI Icons 500",
-    "version": "1.0.0",
-    "iconCount": 500,
+    "version": "1.1.0",
+    "iconCount": 503,
     "variantCount": 2,
-    "svgCount": 1000,
+    "svgCount": 1006,
     "viewBox": "0 0 24 24",
     "minimumSizePx": 16,
     "recommendedSizesPx": [
@@ -15,7 +15,7 @@
       32,
       48
     ],
-    "license": "ISC (Lucide-derived geometry; see THIRD_PARTY_NOTICES.md)"
+    "license": "Lucide-derived geometry: ISC/MIT; project-original geometry: project terms"
   },
   "categories": [
     {
@@ -216,6 +216,16 @@
         "primary": "#0284C7",
         "accent": "#F59E0B",
         "secondary": "#38BDF8"
+      }
+    },
+    {
+      "id": "naming-conventions",
+      "ja": "命名規則",
+      "en": "Naming conventions",
+      "palette": {
+        "primary": "#334155",
+        "accent": "#64748B",
+        "secondary": "#94A3B8"
       }
     }
   ],
@@ -24321,6 +24331,157 @@
       "files": {
         "color": "color/weather/sunrise.svg",
         "monochrome": "monochrome/weather/sunrise.svg"
+      },
+      "minimumSizePx": 16,
+      "recommendedSizesPx": [
+        16,
+        20,
+        24,
+        32,
+        48
+      ]
+    },
+    {
+      "id": "UUI-0501",
+      "slug": "snake-case",
+      "name": {
+        "ja": "snake_case",
+        "en": "snake_case"
+      },
+      "description": {
+        "ja": "「snake_case」を表す汎用UIアイコン。命名規則に関する操作または状態表示に使用する。",
+        "en": "Universal UI icon representing “snake_case” in naming conventions contexts."
+      },
+      "category": {
+        "id": "naming-conventions",
+        "ja": "命名規則",
+        "en": "Naming conventions"
+      },
+      "keywords": {
+        "ja": [
+          "snake_case",
+          "命名規則",
+          "snake",
+          "case"
+        ],
+        "en": [
+          "snake_case",
+          "Naming conventions",
+          "snake",
+          "case"
+        ]
+      },
+      "palette": {
+        "primary": "#166534",
+        "accent": "#22C55E",
+        "secondary": "#86EFAC"
+      },
+      "geometrySha256": "7ec5991ba79c5618a08486f2dc3000053218c58177b2a5c10508f2b3b34f7e61",
+      "files": {
+        "color": "color/naming-conventions/snake-case.svg",
+        "monochrome": "monochrome/naming-conventions/snake-case.svg"
+      },
+      "minimumSizePx": 16,
+      "recommendedSizesPx": [
+        16,
+        20,
+        24,
+        32,
+        48
+      ]
+    },
+    {
+      "id": "UUI-0502",
+      "slug": "upper-camel-case",
+      "name": {
+        "ja": "UpperCamel",
+        "en": "UpperCamel"
+      },
+      "description": {
+        "ja": "「UpperCamel」を表す汎用UIアイコン。命名規則に関する操作または状態表示に使用する。",
+        "en": "Universal UI icon representing “UpperCamel” in naming conventions contexts."
+      },
+      "category": {
+        "id": "naming-conventions",
+        "ja": "命名規則",
+        "en": "Naming conventions"
+      },
+      "keywords": {
+        "ja": [
+          "UpperCamel",
+          "命名規則",
+          "upper",
+          "camel",
+          "case"
+        ],
+        "en": [
+          "UpperCamel",
+          "Naming conventions",
+          "upper",
+          "camel",
+          "case"
+        ]
+      },
+      "palette": {
+        "primary": "#92400E",
+        "accent": "#D97706",
+        "secondary": "#FBBF24"
+      },
+      "geometrySha256": "c09ef4ed3365b545b5cdcf5dc7535577971043c6bc1f1965bccd11bba4cd02b1",
+      "files": {
+        "color": "color/naming-conventions/upper-camel-case.svg",
+        "monochrome": "monochrome/naming-conventions/upper-camel-case.svg"
+      },
+      "minimumSizePx": 16,
+      "recommendedSizesPx": [
+        16,
+        20,
+        24,
+        32,
+        48
+      ]
+    },
+    {
+      "id": "UUI-0503",
+      "slug": "lower-camel-case",
+      "name": {
+        "ja": "lowerCamel",
+        "en": "lowerCamel"
+      },
+      "description": {
+        "ja": "「lowerCamel」を表す汎用UIアイコン。命名規則に関する操作または状態表示に使用する。",
+        "en": "Universal UI icon representing “lowerCamel” in naming conventions contexts."
+      },
+      "category": {
+        "id": "naming-conventions",
+        "ja": "命名規則",
+        "en": "Naming conventions"
+      },
+      "keywords": {
+        "ja": [
+          "lowerCamel",
+          "命名規則",
+          "lower",
+          "camel",
+          "case"
+        ],
+        "en": [
+          "lowerCamel",
+          "Naming conventions",
+          "lower",
+          "camel",
+          "case"
+        ]
+      },
+      "palette": {
+        "primary": "#92400E",
+        "accent": "#D97706",
+        "secondary": "#FBBF24"
+      },
+      "geometrySha256": "c2cd23bb07d6adccac6de87e1f485979e6af1870932336981eb311c9b71215a4",
+      "files": {
+        "color": "color/naming-conventions/lower-camel-case.svg",
+        "monochrome": "monochrome/naming-conventions/lower-camel-case.svg"
       },
       "minimumSizePx": 16,
       "recommendedSizesPx": [

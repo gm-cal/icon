@@ -41,7 +41,7 @@ SVGルートでは `xmlns:uui="urn:universal-ui-icons:metadata:1.0"` として�
 | フィールド | 必須 | 内容 |
 | --- | --- | --- |
 | `schemaVersion` | 必須 | メタデータ仕様の版 |
-| `libraryVersion` | 必須 | アイコンセットの版 |
+| `libraryVersion` | 必須 | 当該SVGが追加または形状更新された時点のアイコンセットの版 |
 | `id` | 必須 | 意味に対して固定される安定ID |
 | `slug` | 必須 | ファイル名とスプライト参照に使う英字名 |
 | `variant` | 必須 | `color` または `monochrome` |
