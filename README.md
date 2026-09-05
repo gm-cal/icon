@@ -29,13 +29,39 @@ universal-ui-icons-1000/
 │  ├─ color.svg           カラー版SVGスプライト
 │  └─ monochrome.svg      モノクロ版SVGスプライト
 ├─ preview/
-│  ├─ index.html          検索・分類・版切替プレビュー
+│  ├─ index.html          自己完結型の検索・分類・版切替プレビュー
 │  └─ categories/         分類別5×5プレビュー
+├─ pages/
+│  └─ index.html          GitHub Pages向けモバイル優先プレビュー
 ├─ schema/                カタログJSON Schema
 ├─ docs/                  設計・メタデータ仕様
 ├─ tools/validate.mjs     無依存の整合性検査
 └─ SHA256SUMS             配布ファイルのハッシュ一覧
 ```
+
+## Webプレビュー
+
+GitHub Pagesでは `pages/index.html` を入口として、`catalog/catalog-v1.json`、`color/`、`monochrome/` を公開用アーティファクトへ組み立てます。`main` 更新時に `.github/workflows/pages-preview.yml` が検証・ビルド・デプロイを実行します。
+
+想定URL:
+
+```text
+https://gm-cal.github.io/icon/
+```
+
+初回のみ、リポジトリの **Settings > Pages > Build and deployment > Source** を **GitHub Actions** に設定してください。Pagesの公開範囲はGitHubの契約プランおよびリポジトリ／Organization設定に従います。
+
+モバイル向けプレビューは次を提供します。
+
+- スマートフォンでは2列を基本とするレスポンシブ一覧
+- 日本語名・英語名・ID・slug・キーワード検索
+- 分類による絞り込み
+- カラー／モノクロ切替
+- タップによる詳細表示とSVGパス／IDコピー
+- `loading="lazy"` と段階描画による大量アイコン向け遅延読み込み
+- OSのライト／ダークテーマ追従
+
+既存の `preview/index.html` はローカルで単体表示できる自己完結型プレビューとして維持します。
 
 ## 使い方
 
