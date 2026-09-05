@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0516-monochrome-title uui-0516-monochrome-desc" data-icon-id="UUI-0516" data-icon-name="text-search" data-icon-variant="monochrome" data-icon-category="code-editing">
+  <title id="uui-0516-monochrome-title" xml:lang="ja">文章検索</title>
+  <desc id="uui-0516-monochrome-desc" xml:lang="ja">「文章検索」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0516" slug="text-search" variant="monochrome">
+      <uui:name xml:lang="ja">文章検索</uui:name>
+      <uui:name xml:lang="en">Text Search</uui:name>
+      <uui:description xml:lang="ja">「文章検索」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Text Search” in code editing contexts.</uui:description>
+      <uui:category id="code-editing" xml:lang="ja">コード編集</uui:category>
+      <uui:category id="code-editing" xml:lang="en">Code editing</uui:category>
+      <uui:keywords xml:lang="ja">文章検索, コード編集, text, search</uui:keywords>
+      <uui:keywords xml:lang="en">Text Search, Code editing, text, search</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/code-editing/text-search.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="6700332206f5d27dae68e19b76c7657c3c77fdd5e792fec6ffcae3bcbf672672"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M21 5H3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M10 12H3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M10 19H3" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="17" cy="15" r="3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m21 19-1.9-1.9" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

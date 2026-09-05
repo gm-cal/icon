@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0604-color-title uui-0604-color-desc" data-icon-id="UUI-0604" data-icon-name="cloud-backup" data-icon-variant="color" data-icon-category="cloud-infrastructure">
+  <title id="uui-0604-color-title" xml:lang="ja">クラウドバックアップ</title>
+  <desc id="uui-0604-color-desc" xml:lang="ja">「クラウドバックアップ」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0604" slug="cloud-backup" variant="color">
+      <uui:name xml:lang="ja">クラウドバックアップ</uui:name>
+      <uui:name xml:lang="en">Cloud Backup</uui:name>
+      <uui:description xml:lang="ja">「クラウドバックアップ」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Cloud Backup” in cloud and infrastructure contexts.</uui:description>
+      <uui:category id="cloud-infrastructure" xml:lang="ja">クラウドと基盤</uui:category>
+      <uui:category id="cloud-infrastructure" xml:lang="en">Cloud and infrastructure</uui:category>
+      <uui:keywords xml:lang="ja">クラウドバックアップ, クラウドと基盤, cloud, backup</uui:keywords>
+      <uui:keywords xml:lang="en">Cloud Backup, Cloud and infrastructure, cloud, backup</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/cloud-infrastructure/cloud-backup.svg"/>
+      <uui:palette primary="#0369A1" accent="#0EA5E9" secondary="#7DD3FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="1311920de6ea570fe86e5ea913a154b4adb5f03a162d031b9b702e0fc04ac0fa"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M21 15.251A4.5 4.5 0 0 0 17.5 8h-1.79A7 7 0 1 0 3 13.607" stroke="#0369A1" data-uui-role="primary"/>
+    <path d="M7 11v4h4" stroke="#0EA5E9" data-uui-role="accent"/>
+    <path d="M8 19a5 5 0 0 0 9-3 4.5 4.5 0 0 0-4.5-4.5 4.82 4.82 0 0 0-3.41 1.41L7 15" stroke="#0EA5E9" data-uui-role="accent"/>
+  </g>
+</svg>

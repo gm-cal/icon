@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0840-monochrome-title uui-0840-monochrome-desc" data-icon-id="UUI-0840" data-icon-name="languages" data-icon-variant="monochrome" data-icon-category="hr-organization">
+  <title id="uui-0840-monochrome-title" xml:lang="ja">言語対応</title>
+  <desc id="uui-0840-monochrome-desc" xml:lang="ja">「言語対応」を表す汎用UIアイコン。人事・組織・研修に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0840" slug="languages" variant="monochrome">
+      <uui:name xml:lang="ja">言語対応</uui:name>
+      <uui:name xml:lang="en">Languages</uui:name>
+      <uui:description xml:lang="ja">「言語対応」を表す汎用UIアイコン。人事・組織・研修に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Languages” in hr, organization, and training contexts.</uui:description>
+      <uui:category id="hr-organization" xml:lang="ja">人事・組織・研修</uui:category>
+      <uui:category id="hr-organization" xml:lang="en">HR, organization, and training</uui:category>
+      <uui:keywords xml:lang="ja">言語対応, 人事・組織・研修, languages</uui:keywords>
+      <uui:keywords xml:lang="en">Languages, HR, organization, and training, languages</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/hr-organization/languages.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="03de6ada62e89c16e4c2e509ff7ac4c7d51bc1b609275d289fa0ff2fb2e3c97c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m5 8 6 6" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m4 14 6-6 2-3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M2 5h12" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M7 2h1" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m22 22-5-10-5 10" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M14 18h6" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

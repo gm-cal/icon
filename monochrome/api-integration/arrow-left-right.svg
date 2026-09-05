@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0576-monochrome-title uui-0576-monochrome-desc" data-icon-id="UUI-0576" data-icon-name="arrow-left-right" data-icon-variant="monochrome" data-icon-category="api-integration">
+  <title id="uui-0576-monochrome-title" xml:lang="ja">双方向通信</title>
+  <desc id="uui-0576-monochrome-desc" xml:lang="ja">「双方向通信」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0576" slug="arrow-left-right" variant="monochrome">
+      <uui:name xml:lang="ja">双方向通信</uui:name>
+      <uui:name xml:lang="en">Arrow Left Right</uui:name>
+      <uui:description xml:lang="ja">「双方向通信」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Arrow Left Right” in api and integration contexts.</uui:description>
+      <uui:category id="api-integration" xml:lang="ja">APIと連携</uui:category>
+      <uui:category id="api-integration" xml:lang="en">API and integration</uui:category>
+      <uui:keywords xml:lang="ja">双方向通信, APIと連携, arrow, left, right</uui:keywords>
+      <uui:keywords xml:lang="en">Arrow Left Right, API and integration, arrow, left, right</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/api-integration/arrow-left-right.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="75a808dc033277bf5b34e705f6374b23c15cf8905679a9b3fae1f2aee5da9ee3"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M8 3 4 7l4 4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M4 7h16" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m16 21 4-4-4-4" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M20 17H4" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

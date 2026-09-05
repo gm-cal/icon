@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0627-color-title uui-0627-color-desc" data-icon-id="UUI-0627" data-icon-name="power-off" data-icon-variant="color" data-icon-category="cloud-infrastructure">
+  <title id="uui-0627-color-title" xml:lang="ja">システム停止</title>
+  <desc id="uui-0627-color-desc" xml:lang="ja">「システム停止」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0627" slug="power-off" variant="color">
+      <uui:name xml:lang="ja">システム停止</uui:name>
+      <uui:name xml:lang="en">Power Off</uui:name>
+      <uui:description xml:lang="ja">「システム停止」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Power Off” in cloud and infrastructure contexts.</uui:description>
+      <uui:category id="cloud-infrastructure" xml:lang="ja">クラウドと基盤</uui:category>
+      <uui:category id="cloud-infrastructure" xml:lang="en">Cloud and infrastructure</uui:category>
+      <uui:keywords xml:lang="ja">システム停止, クラウドと基盤, power, off</uui:keywords>
+      <uui:keywords xml:lang="en">Power Off, Cloud and infrastructure, power, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/cloud-infrastructure/power-off.svg"/>
+      <uui:palette primary="#0369A1" accent="#0EA5E9" secondary="#7DD3FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="5d819d1b4bc310dca6e4848512d5de4d891b9ec0dba62ac77e1027ef7b74abc9"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M18.36 6.64A9 9 0 0 1 20.77 15" stroke="#0369A1" data-uui-role="primary"/>
+    <path d="M6.16 6.16a9 9 0 1 0 12.68 12.68" stroke="#0EA5E9" data-uui-role="accent"/>
+    <path d="M12 2v4" stroke="#7DD3FC" data-uui-role="secondary"/>
+    <path d="m2 2 20 20" stroke="#0EA5E9" data-uui-role="accent"/>
+  </g>
+</svg>

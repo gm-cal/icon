@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0533-monochrome-title uui-0533-monochrome-desc" data-icon-id="UUI-0533" data-icon-name="git-graph" data-icon-variant="monochrome" data-icon-category="source-control">
+  <title id="uui-0533-monochrome-title" xml:lang="ja">Gitグラフ</title>
+  <desc id="uui-0533-monochrome-desc" xml:lang="ja">「Gitグラフ」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0533" slug="git-graph" variant="monochrome">
+      <uui:name xml:lang="ja">Gitグラフ</uui:name>
+      <uui:name xml:lang="en">Git Graph</uui:name>
+      <uui:description xml:lang="ja">「Gitグラフ」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Git Graph” in source control contexts.</uui:description>
+      <uui:category id="source-control" xml:lang="ja">ソース管理</uui:category>
+      <uui:category id="source-control" xml:lang="en">Source control</uui:category>
+      <uui:keywords xml:lang="ja">Gitグラフ, ソース管理, git, graph</uui:keywords>
+      <uui:keywords xml:lang="en">Git Graph, Source control, git, graph</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/source-control/git-graph.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="f57f6e6f3fa275690b32c24b1099dd0a0ba156c709e3ce4835ae1981017994ee"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="5" cy="6" r="3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M5 9v6" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="5" cy="18" r="3" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M12 3v18" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="19" cy="6" r="3" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M16 15.7A9 9 0 0 0 19 9" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

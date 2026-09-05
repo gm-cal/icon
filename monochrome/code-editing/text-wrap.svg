@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0517-monochrome-title uui-0517-monochrome-desc" data-icon-id="UUI-0517" data-icon-name="text-wrap" data-icon-variant="monochrome" data-icon-category="code-editing">
+  <title id="uui-0517-monochrome-title" xml:lang="ja">行折り返し</title>
+  <desc id="uui-0517-monochrome-desc" xml:lang="ja">「行折り返し」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0517" slug="text-wrap" variant="monochrome">
+      <uui:name xml:lang="ja">行折り返し</uui:name>
+      <uui:name xml:lang="en">Text Wrap</uui:name>
+      <uui:description xml:lang="ja">「行折り返し」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Text Wrap” in code editing contexts.</uui:description>
+      <uui:category id="code-editing" xml:lang="ja">コード編集</uui:category>
+      <uui:category id="code-editing" xml:lang="en">Code editing</uui:category>
+      <uui:keywords xml:lang="ja">行折り返し, コード編集, text, wrap</uui:keywords>
+      <uui:keywords xml:lang="en">Text Wrap, Code editing, text, wrap</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/code-editing/text-wrap.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="971f9b06374e2db453d21c96dd5119011e4634e35c21a8bc7864a49fdf69f206"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m16 16-3 3 3 3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M3 12h14.5a1 1 0 0 1 0 7H13" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M3 19h6" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M3 5h18" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0938-color-title uui-0938-color-desc" data-icon-id="UUI-0938" data-icon-name="circle-slash" data-icon-variant="color" data-icon-category="notification-status">
+  <title id="uui-0938-color-title" xml:lang="ja">対象外</title>
+  <desc id="uui-0938-color-desc" xml:lang="ja">「対象外」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0938" slug="circle-slash" variant="color">
+      <uui:name xml:lang="ja">対象外</uui:name>
+      <uui:name xml:lang="en">Circle Slash</uui:name>
+      <uui:description xml:lang="ja">「対象外」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Circle Slash” in notifications and status contexts.</uui:description>
+      <uui:category id="notification-status" xml:lang="ja">通知と状態詳細</uui:category>
+      <uui:category id="notification-status" xml:lang="en">Notifications and status</uui:category>
+      <uui:keywords xml:lang="ja">対象外, 通知と状態詳細, circle, slash</uui:keywords>
+      <uui:keywords xml:lang="en">Circle Slash, Notifications and status, circle, slash</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/notification-status/circle-slash.svg"/>
+      <uui:palette primary="#0891B2" accent="#22D3EE" secondary="#A5F3FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="c85acd7184e7ec886e788a0ea8367fe157f51ffa67d92993a9bf42a712f3dd30"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="10" stroke="#0891B2" data-uui-role="primary"/>
+    <line x1="9" x2="15" y1="15" y2="9" stroke="#22D3EE" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0666-color-title uui-0666-color-desc" data-icon-id="UUI-0666" data-icon-name="file-key" data-icon-variant="color" data-icon-category="dev-security">
+  <title id="uui-0666-color-title" xml:lang="ja">鍵付きファイル</title>
+  <desc id="uui-0666-color-desc" xml:lang="ja">「鍵付きファイル」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0666" slug="file-key" variant="color">
+      <uui:name xml:lang="ja">鍵付きファイル</uui:name>
+      <uui:name xml:lang="en">File Key</uui:name>
+      <uui:description xml:lang="ja">「鍵付きファイル」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Key” in development security contexts.</uui:description>
+      <uui:category id="dev-security" xml:lang="ja">開発セキュリティ</uui:category>
+      <uui:category id="dev-security" xml:lang="en">Development security</uui:category>
+      <uui:keywords xml:lang="ja">鍵付きファイル, 開発セキュリティ, file, key</uui:keywords>
+      <uui:keywords xml:lang="en">File Key, Development security, file, key</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/dev-security/file-key.svg"/>
+      <uui:palette primary="#B91C1C" accent="#EF4444" secondary="#FCA5A5"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="a06038018413bc39ef872c41e73c599195427496ef864b9f4f53d02a02f0c314"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="#B91C1C" data-uui-role="primary"/>
+    <path d="M4 12v6" stroke="#EF4444" data-uui-role="accent"/>
+    <path d="M4 14h2" stroke="#FCA5A5" data-uui-role="secondary"/>
+    <path d="M9.65 22H18a2 2 0 0 0 2-2V8a2.4 2.4 0 0 0-.706-1.706l-3.588-3.588A2.4 2.4 0 0 0 14 2H6a2 2 0 0 0-2 2v4" stroke="#EF4444" data-uui-role="accent"/>
+    <circle cx="4" cy="20" r="2" stroke="#EF4444" data-uui-role="accent"/>
+  </g>
+</svg>

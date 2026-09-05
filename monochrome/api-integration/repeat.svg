@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0573-monochrome-title uui-0573-monochrome-desc" data-icon-id="UUI-0573" data-icon-name="repeat" data-icon-variant="monochrome" data-icon-category="api-integration">
+  <title id="uui-0573-monochrome-title" xml:lang="ja">繰り返し連携</title>
+  <desc id="uui-0573-monochrome-desc" xml:lang="ja">「繰り返し連携」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0573" slug="repeat" variant="monochrome">
+      <uui:name xml:lang="ja">繰り返し連携</uui:name>
+      <uui:name xml:lang="en">Repeat</uui:name>
+      <uui:description xml:lang="ja">「繰り返し連携」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Repeat” in api and integration contexts.</uui:description>
+      <uui:category id="api-integration" xml:lang="ja">APIと連携</uui:category>
+      <uui:category id="api-integration" xml:lang="en">API and integration</uui:category>
+      <uui:keywords xml:lang="ja">繰り返し連携, APIと連携, repeat</uui:keywords>
+      <uui:keywords xml:lang="en">Repeat, API and integration, repeat</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/api-integration/repeat.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="2e4d739f56b51db7bed86b97dea1b677e148e52520ae6f0b56f42281ec3cb869"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m17 2 4 4-4 4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M3 11v-1a4 4 0 0 1 4-4h14" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m7 22-4-4 4-4" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M21 13v1a4 4 0 0 1-4 4H3" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

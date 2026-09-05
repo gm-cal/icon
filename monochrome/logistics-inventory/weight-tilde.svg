@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0875-monochrome-title uui-0875-monochrome-desc" data-icon-id="UUI-0875" data-icon-name="weight-tilde" data-icon-variant="monochrome" data-icon-category="logistics-inventory">
+  <title id="uui-0875-monochrome-title" xml:lang="ja">概算重量</title>
+  <desc id="uui-0875-monochrome-desc" xml:lang="ja">「概算重量」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0875" slug="weight-tilde" variant="monochrome">
+      <uui:name xml:lang="ja">概算重量</uui:name>
+      <uui:name xml:lang="en">Weight Tilde</uui:name>
+      <uui:description xml:lang="ja">「概算重量」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Weight Tilde” in logistics and inventory contexts.</uui:description>
+      <uui:category id="logistics-inventory" xml:lang="ja">物流と在庫</uui:category>
+      <uui:category id="logistics-inventory" xml:lang="en">Logistics and inventory</uui:category>
+      <uui:keywords xml:lang="ja">概算重量, 物流と在庫, weight, tilde</uui:keywords>
+      <uui:keywords xml:lang="en">Weight Tilde, Logistics and inventory, weight, tilde</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/logistics-inventory/weight-tilde.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="56ad0e8b048f4ec23e954bc1a1eb4fab533631d8bd2a5c248beff0a4e8ec8074"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M6.5 8a2 2 0 0 0-1.906 1.46L2.1 18.5A2 2 0 0 0 4 21h16a2 2 0 0 0 1.925-2.54L19.4 9.5A2 2 0 0 0 17.48 8z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M7.999 15a2.5 2.5 0 0 1 4 0 2.5 2.5 0 0 0 4 0" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="12" cy="5" r="3" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

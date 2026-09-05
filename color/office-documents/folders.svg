@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0752-color-title uui-0752-color-desc" data-icon-id="UUI-0752" data-icon-name="folders" data-icon-variant="color" data-icon-category="office-documents">
+  <title id="uui-0752-color-title" xml:lang="ja">複数フォルダー</title>
+  <desc id="uui-0752-color-desc" xml:lang="ja">「複数フォルダー」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0752" slug="folders" variant="color">
+      <uui:name xml:lang="ja">複数フォルダー</uui:name>
+      <uui:name xml:lang="en">Folders</uui:name>
+      <uui:description xml:lang="ja">「複数フォルダー」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Folders” in office documents contexts.</uui:description>
+      <uui:category id="office-documents" xml:lang="ja">業務文書</uui:category>
+      <uui:category id="office-documents" xml:lang="en">Office documents</uui:category>
+      <uui:keywords xml:lang="ja">複数フォルダー, 業務文書, folders</uui:keywords>
+      <uui:keywords xml:lang="en">Folders, Office documents, folders</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/office-documents/folders.svg"/>
+      <uui:palette primary="#7E22CE" accent="#A855F7" secondary="#D8B4FE"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="496a27b653ff1530300460012e4003a39d05daf0fef85f218ecce2ed04f30198"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M20 5a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h2.5a1.5 1.5 0 0 1 1.2.6l.6.8a1.5 1.5 0 0 0 1.2.6z" stroke="#7E22CE" data-uui-role="primary"/>
+    <path d="M3 8.268a2 2 0 0 0-1 1.738V19a2 2 0 0 0 2 2h11a2 2 0 0 0 1.732-1" stroke="#A855F7" data-uui-role="accent"/>
+  </g>
+</svg>

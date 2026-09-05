@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0746-monochrome-title uui-0746-monochrome-desc" data-icon-id="UUI-0746" data-icon-name="folder-archive" data-icon-variant="monochrome" data-icon-category="office-documents">
+  <title id="uui-0746-monochrome-title" xml:lang="ja">保管フォルダー</title>
+  <desc id="uui-0746-monochrome-desc" xml:lang="ja">「保管フォルダー」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0746" slug="folder-archive" variant="monochrome">
+      <uui:name xml:lang="ja">保管フォルダー</uui:name>
+      <uui:name xml:lang="en">Folder Archive</uui:name>
+      <uui:description xml:lang="ja">「保管フォルダー」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Folder Archive” in office documents contexts.</uui:description>
+      <uui:category id="office-documents" xml:lang="ja">業務文書</uui:category>
+      <uui:category id="office-documents" xml:lang="en">Office documents</uui:category>
+      <uui:keywords xml:lang="ja">保管フォルダー, 業務文書, folder, archive</uui:keywords>
+      <uui:keywords xml:lang="en">Folder Archive, Office documents, folder, archive</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/office-documents/folder-archive.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3986e03827f5de79bdb32fea131e6a1158df6e87437090caf2c0f13b84ca419a"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="15" cy="19" r="2" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M20.9 19.8A2 2 0 0 0 22 18V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2h5.1" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M15 11v-1" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M15 17v-2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

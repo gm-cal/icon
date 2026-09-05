@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0725-monochrome-title uui-0725-monochrome-desc" data-icon-id="UUI-0725" data-icon-name="refresh-ccw-dot" data-icon-variant="monochrome" data-icon-category="business-workflow">
+  <title id="uui-0725-monochrome-title" xml:lang="ja">起点から再実行</title>
+  <desc id="uui-0725-monochrome-desc" xml:lang="ja">「起点から再実行」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0725" slug="refresh-ccw-dot" variant="monochrome">
+      <uui:name xml:lang="ja">起点から再実行</uui:name>
+      <uui:name xml:lang="en">Refresh Ccw Dot</uui:name>
+      <uui:description xml:lang="ja">「起点から再実行」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Refresh Ccw Dot” in business workflow contexts.</uui:description>
+      <uui:category id="business-workflow" xml:lang="ja">業務フロー</uui:category>
+      <uui:category id="business-workflow" xml:lang="en">Business workflow</uui:category>
+      <uui:keywords xml:lang="ja">起点から再実行, 業務フロー, refresh, ccw, dot</uui:keywords>
+      <uui:keywords xml:lang="en">Refresh Ccw Dot, Business workflow, refresh, ccw, dot</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/business-workflow/refresh-ccw-dot.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3e0aa2526f92cab3bd8c9e7cc0b95eb45636693d3cb1df525b30552e49bdc58c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M3 3v5h5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M16 16h5v5" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="12" cy="12" r="1" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

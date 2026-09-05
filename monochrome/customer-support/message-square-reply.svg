@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0818-monochrome-title uui-0818-monochrome-desc" data-icon-id="UUI-0818" data-icon-name="message-square-reply" data-icon-variant="monochrome" data-icon-category="customer-support">
+  <title id="uui-0818-monochrome-title" xml:lang="ja">メッセージ返信</title>
+  <desc id="uui-0818-monochrome-desc" xml:lang="ja">「メッセージ返信」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0818" slug="message-square-reply" variant="monochrome">
+      <uui:name xml:lang="ja">メッセージ返信</uui:name>
+      <uui:name xml:lang="en">Message Square Reply</uui:name>
+      <uui:description xml:lang="ja">「メッセージ返信」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Message Square Reply” in customer support contexts.</uui:description>
+      <uui:category id="customer-support" xml:lang="ja">顧客サポート</uui:category>
+      <uui:category id="customer-support" xml:lang="en">Customer support</uui:category>
+      <uui:keywords xml:lang="ja">メッセージ返信, 顧客サポート, message, square, reply</uui:keywords>
+      <uui:keywords xml:lang="en">Message Square Reply, Customer support, message, square, reply</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/customer-support/message-square-reply.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="6afaacec0327ae666c1c11ca3eae77f863ca3b512cb8e1ffc5a35495a793b51f"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m10 8-3 3 3 3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M17 14v-1a2 2 0 0 0-2-2H7" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

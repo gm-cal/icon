@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0569-color-title uui-0569-color-desc" data-icon-id="UUI-0569" data-icon-name="share" data-icon-variant="color" data-icon-category="api-integration">
+  <title id="uui-0569-color-title" xml:lang="ja">外部共有</title>
+  <desc id="uui-0569-color-desc" xml:lang="ja">「外部共有」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0569" slug="share" variant="color">
+      <uui:name xml:lang="ja">外部共有</uui:name>
+      <uui:name xml:lang="en">Share</uui:name>
+      <uui:description xml:lang="ja">「外部共有」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Share” in api and integration contexts.</uui:description>
+      <uui:category id="api-integration" xml:lang="ja">APIと連携</uui:category>
+      <uui:category id="api-integration" xml:lang="en">API and integration</uui:category>
+      <uui:keywords xml:lang="ja">外部共有, APIと連携, share</uui:keywords>
+      <uui:keywords xml:lang="en">Share, API and integration, share</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/api-integration/share.svg"/>
+      <uui:palette primary="#0E7490" accent="#06B6D4" secondary="#67E8F9"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="686803d6b68253034483ee3223e483664b9828f7b82e831f00d3160afde7d583"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 2v13" stroke="#0E7490" data-uui-role="primary"/>
+    <path d="m16 6-4-4-4 4" stroke="#06B6D4" data-uui-role="accent"/>
+    <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8" stroke="#06B6D4" data-uui-role="accent"/>
+  </g>
+</svg>

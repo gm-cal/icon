@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="736" viewBox="0 0 840 736" color="#1F2937">
+  <rect width="100%" height="100%" fill="#F8FAFC"/>
+  <text x="24" y="34" font-size="22" font-weight="700" fill="#0F172A">財務と会計 — モノクロ版</text>
+  <text x="24" y="57" font-size="12" fill="#64748B">Finance and accounting · 25 icons</text>
+    <g transform="translate(0 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M12 7v10" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M15.4 10a4 4 0 1 0 0 4" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">セント通貨</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0754 · badge-cent</text>
+    </g>
+    <g transform="translate(168 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M16 8h-6a2 2 0 1 0 0 4h4a2 2 0 1 1 0 4H8" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M12 18V6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ドル金額</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0755 · badge-dollar-sign</text>
+    </g>
+    <g transform="translate(336 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 12h5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M15 9.4a4 4 0 1 0 0 5.2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーロ金額</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0756 · badge-euro</text>
+    </g>
+    <g transform="translate(504 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m9 8 3 3v7" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m12 11 3-3" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M9 12h6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M9 16h6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">円金額</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0757 · badge-japanese-yen</text>
+    </g>
+    <g transform="translate(672 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M8 12h4" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M10 16V9.5a2.5 2.5 0 0 1 5 0" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M8 16h7" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ポンド金額</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0758 · badge-pound-sterling</text>
+    </g>
+    <g transform="translate(0 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 18H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m16 19 3 3 3-3" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M18 12h.01" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M19 16v6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M6 12h.01" stroke="currentColor" data-uui-role="secondary"/>
+        <circle cx="12" cy="12" r="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">入金</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0759 · banknote-arrow-down</text>
+    </g>
+    <g transform="translate(168 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 18H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M18 12h.01" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M19 22v-6" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m22 19-3-3-3 3" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M6 12h.01" stroke="currentColor" data-uui-role="secondary"/>
+        <circle cx="12" cy="12" r="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">出金</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0760 · banknote-arrow-up</text>
+    </g>
+    <g transform="translate(336 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M13 18H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m17 17 5 5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M18 12h.01" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m22 17-5 5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M6 12h.01" stroke="currentColor" data-uui-role="secondary"/>
+        <circle cx="12" cy="12" r="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">支払取消</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0761 · banknote-x</text>
+    </g>
+    <g transform="translate(504 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m15 9-6 6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M9 9h.01" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M15 15h.01" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">割合</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0762 · circle-percent</text>
+    </g>
+    <g transform="translate(672 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2.7 10.3a2.41 2.41 0 0 0 0 3.41l7.59 7.59a2.41 2.41 0 0 0 3.41 0l7.59-7.59a2.41 2.41 0 0 0 0-3.41L13.7 2.71a2.41 2.41 0 0 0-3.41 0Z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M9.2 9.2h.01" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m14.5 9.5-5 5" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M14.7 14.8h.01" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">特別割引率</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0763 · diamond-percent</text>
+    </g>
+    <g transform="translate(0 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="18" height="18" x="3" y="3" rx="2" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m15 9-6 6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M9 9h.01" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M15 15h.01" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">税率</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0764 · square-percent</text>
+    </g>
+    <g transform="translate(168 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 7v10" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M14.828 14.829a4 4 0 0 1-5.656 0 4 4 0 0 1 0-5.657 4 4 0 0 1 5.656 0" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">セント建て領収書</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0765 · receipt-cent</text>
+    </g>
+    <g transform="translate(336 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M15.828 14.829a4 4 0 0 1-5.656 0 4 4 0 0 1 0-5.657 4 4 0 0 1 5.656 0" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M8 12h5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーロ建て領収書</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0766 · receipt-euro</text>
+    </g>
+    <g transform="translate(504 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M8 11h8" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M8 7h8" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M9 7a4 4 0 0 1 0 8H8l3 2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ルピー建て領収書</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0767 · receipt-indian-rupee</text>
+    </g>
+    <g transform="translate(672 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m12 10 3-3" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M9 11h6" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M9 15h6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m9 7 3 3v7" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">円建て領収書</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0768 · receipt-japanese-yen</text>
+    </g>
+    <g transform="translate(0 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10 17V9.5a1 1 0 0 1 5 0" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M8 13h5" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M8 17h7" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ポンド建て領収書</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0769 · receipt-pound-sterling</text>
+    </g>
+    <g transform="translate(168 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M11 15h2a2 2 0 1 0 0-4h-3c-.6 0-1.1.2-1.4.6L3 17" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m7 21 1.6-1.4c.3-.4.8-.6 1.4-.6h4c1.1 0 2.1-.4 2.8-1.2l4.6-4.4a2 2 0 0 0-2.75-2.91l-4.2 3.9" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m2 16 6 6" stroke="currentColor" data-uui-role="secondary"/>
+        <circle cx="16" cy="9" r="2.9" stroke="currentColor" data-uui-role="accent"/>
+        <circle cx="6" cy="5" r="3" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">現金受渡し</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0770 · hand-coins</text>
+    </g>
+    <g transform="translate(336 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="18" height="18" x="3" y="3" rx="2" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M3 9a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3 11h3c.8 0 1.6.3 2.1.9l1.1.9c1.6 1.6 4.1 1.6 5.7 0l1.1-.9c.5-.5 1.3-.9 2.1-.9H21" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">カード財布</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0771 · wallet-cards</text>
+    </g>
+    <g transform="translate(504 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M17 14h.01" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 7h12a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">簡易財布</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0772 · wallet-minimal</text>
+    </g>
+    <g transform="translate(672 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2 9a3 3 0 1 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 1 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M9 9h.01" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m15 9-6 6" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M15 15h.01" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">割引券</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0773 · ticket-percent</text>
+    </g>
+    <g transform="translate(0 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M8 8h8" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M8 12h8" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m13 17-5-1h1a4 4 0 0 0 0-8" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ルピー金額</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0774 · badge-indian-rupee</text>
+    </g>
+    <g transform="translate(168 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M10 16V9.5a1 1 0 0 1 5 0" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M8 12h4" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M8 16h7" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ポンド</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0775 · circle-pound-sterling</text>
+    </g>
+    <g transform="translate(336 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M11 17V8h4" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M11 12h3" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M9 16h4" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">スイスフラン</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0776 · badge-swiss-franc</text>
+    </g>
+    <g transform="translate(504 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M11 7v10a5 5 0 0 0 5-5" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m15 8-6 3" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">トルコリラ</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0777 · badge-turkish-lira</text>
+    </g>
+    <g transform="translate(672 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="19" x2="5" y1="5" y2="19" stroke="currentColor" data-uui-role="primary"/>
+        <circle cx="6.5" cy="6.5" r="2.5" stroke="currentColor" data-uui-role="accent"/>
+        <circle cx="17.5" cy="17.5" r="2.5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">パーセント</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0778 · percent</text>
+    </g>
+</svg>

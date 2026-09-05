@@ -20,7 +20,7 @@
 
 ## 命名
 
-- 安定ID: `UUI-` + 4桁以上の連番（現在は `UUI-0001` ～ `UUI-0503`）
+- 安定ID: `UUI-` + 4桁以上の連番（現在は `UUI-0001` ～ `UUI-1000`）
 - ファイル名: 小文字kebab-case
 - 配置: `<variant>/<category>/<slug>.svg`
 - スプライトID: `uui-<slug>`

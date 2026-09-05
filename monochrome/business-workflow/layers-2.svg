@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0718-monochrome-title uui-0718-monochrome-desc" data-icon-id="UUI-0718" data-icon-name="layers-2" data-icon-variant="monochrome" data-icon-category="business-workflow">
+  <title id="uui-0718-monochrome-title" xml:lang="ja">工程レイヤー</title>
+  <desc id="uui-0718-monochrome-desc" xml:lang="ja">「工程レイヤー」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0718" slug="layers-2" variant="monochrome">
+      <uui:name xml:lang="ja">工程レイヤー</uui:name>
+      <uui:name xml:lang="en">Layers 2</uui:name>
+      <uui:description xml:lang="ja">「工程レイヤー」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Layers 2” in business workflow contexts.</uui:description>
+      <uui:category id="business-workflow" xml:lang="ja">業務フロー</uui:category>
+      <uui:category id="business-workflow" xml:lang="en">Business workflow</uui:category>
+      <uui:keywords xml:lang="ja">工程レイヤー, 業務フロー, layers, 2</uui:keywords>
+      <uui:keywords xml:lang="en">Layers 2, Business workflow, layers, 2</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/business-workflow/layers-2.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="018121117dea046bd0ca4148cada136955816bc42779988aa47a9f7c241b4b25"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M13 13.74a2 2 0 0 1-2 0L2.5 8.87a1 1 0 0 1 0-1.74L11 2.26a2 2 0 0 1 2 0l8.5 4.87a1 1 0 0 1 0 1.74z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m20 14.285 1.5.845a1 1 0 0 1 0 1.74L13 21.74a2 2 0 0 1-2 0l-8.5-4.87a1 1 0 0 1 0-1.74l1.5-.845" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

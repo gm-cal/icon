@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0778-monochrome-title uui-0778-monochrome-desc" data-icon-id="UUI-0778" data-icon-name="percent" data-icon-variant="monochrome" data-icon-category="finance-accounting">
+  <title id="uui-0778-monochrome-title" xml:lang="ja">パーセント</title>
+  <desc id="uui-0778-monochrome-desc" xml:lang="ja">「パーセント」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0778" slug="percent" variant="monochrome">
+      <uui:name xml:lang="ja">パーセント</uui:name>
+      <uui:name xml:lang="en">Percent</uui:name>
+      <uui:description xml:lang="ja">「パーセント」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Percent” in finance and accounting contexts.</uui:description>
+      <uui:category id="finance-accounting" xml:lang="ja">財務と会計</uui:category>
+      <uui:category id="finance-accounting" xml:lang="en">Finance and accounting</uui:category>
+      <uui:keywords xml:lang="ja">パーセント, 財務と会計, percent</uui:keywords>
+      <uui:keywords xml:lang="en">Percent, Finance and accounting, percent</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/finance-accounting/percent.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d5812a10691da085571b282d11a567e8614e8c20b70c4c5e50ff60413ede2134"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <line x1="19" x2="5" y1="5" y2="19" stroke="currentColor" data-uui-role="primary"/>
+    <circle cx="6.5" cy="6.5" r="2.5" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="17.5" cy="17.5" r="2.5" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

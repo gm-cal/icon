@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0603-color-title uui-0603-color-desc" data-icon-id="UUI-0603" data-icon-name="sigma" data-icon-variant="color" data-icon-category="database-analytics">
+  <title id="uui-0603-color-title" xml:lang="ja">集計</title>
+  <desc id="uui-0603-color-desc" xml:lang="ja">「集計」を表す汎用UIアイコン。データベース詳細に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0603" slug="sigma" variant="color">
+      <uui:name xml:lang="ja">集計</uui:name>
+      <uui:name xml:lang="en">Sigma</uui:name>
+      <uui:description xml:lang="ja">「集計」を表す汎用UIアイコン。データベース詳細に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Sigma” in database and analytics contexts.</uui:description>
+      <uui:category id="database-analytics" xml:lang="ja">データベース詳細</uui:category>
+      <uui:category id="database-analytics" xml:lang="en">Database and analytics</uui:category>
+      <uui:keywords xml:lang="ja">集計, データベース詳細, sigma</uui:keywords>
+      <uui:keywords xml:lang="en">Sigma, Database and analytics, sigma</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/database-analytics/sigma.svg"/>
+      <uui:palette primary="#047857" accent="#10B981" secondary="#6EE7B7"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="bbd2e20fdcbb03e71ce517bd4729c6913e6cfac9da3aa7bafeb627c286fbcbb2"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M18 7V5a1 1 0 0 0-1-1H6.5a.5.5 0 0 0-.4.8l4.5 6a2 2 0 0 1 0 2.4l-4.5 6a.5.5 0 0 0 .4.8H17a1 1 0 0 0 1-1v-2" stroke="#047857" data-uui-role="primary"/>
+  </g>
+</svg>

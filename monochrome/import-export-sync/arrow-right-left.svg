@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0978-monochrome-title uui-0978-monochrome-desc" data-icon-id="UUI-0978" data-icon-name="arrow-right-left" data-icon-variant="monochrome" data-icon-category="import-export-sync">
+  <title id="uui-0978-monochrome-title" xml:lang="ja">双方向入替</title>
+  <desc id="uui-0978-monochrome-desc" xml:lang="ja">「双方向入替」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0978" slug="arrow-right-left" variant="monochrome">
+      <uui:name xml:lang="ja">双方向入替</uui:name>
+      <uui:name xml:lang="en">Arrow Right Left</uui:name>
+      <uui:description xml:lang="ja">「双方向入替」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Arrow Right Left” in import, export, and sync contexts.</uui:description>
+      <uui:category id="import-export-sync" xml:lang="ja">入出力と同期</uui:category>
+      <uui:category id="import-export-sync" xml:lang="en">Import, export, and sync</uui:category>
+      <uui:keywords xml:lang="ja">双方向入替, 入出力と同期, arrow, right, left</uui:keywords>
+      <uui:keywords xml:lang="en">Arrow Right Left, Import, export, and sync, arrow, right, left</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/import-export-sync/arrow-right-left.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="2bb828f0b904e5def040679147cee0cd7450bfafe8ec8232324407c8b198d0f4"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m16 3 4 4-4 4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M20 7H4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m8 21-4-4 4-4" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M4 17h16" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

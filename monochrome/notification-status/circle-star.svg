@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0940-monochrome-title uui-0940-monochrome-desc" data-icon-id="UUI-0940" data-icon-name="circle-star" data-icon-variant="monochrome" data-icon-category="notification-status">
+  <title id="uui-0940-monochrome-title" xml:lang="ja">注目状態</title>
+  <desc id="uui-0940-monochrome-desc" xml:lang="ja">「注目状態」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0940" slug="circle-star" variant="monochrome">
+      <uui:name xml:lang="ja">注目状態</uui:name>
+      <uui:name xml:lang="en">Circle Star</uui:name>
+      <uui:description xml:lang="ja">「注目状態」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Circle Star” in notifications and status contexts.</uui:description>
+      <uui:category id="notification-status" xml:lang="ja">通知と状態詳細</uui:category>
+      <uui:category id="notification-status" xml:lang="en">Notifications and status</uui:category>
+      <uui:keywords xml:lang="ja">注目状態, 通知と状態詳細, circle, star</uui:keywords>
+      <uui:keywords xml:lang="en">Circle Star, Notifications and status, circle, star</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/notification-status/circle-star.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="ce084048f410aa1b2d2e34853fa224e6971fa2f4a3ebe8d910174f2f59ec4ed1"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="10" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M11.051 7.616a1 1 0 0 1 1.909.024l.737 1.452a1 1 0 0 0 .737.535l1.634.256a1 1 0 0 1 .588 1.806l-1.172 1.168a1 1 0 0 0-.282.866l.259 1.613a1 1 0 0 1-1.541 1.134l-1.465-.75a1 1 0 0 0-.912 0l-1.465.75a1 1 0 0 1-1.539-1.133l.258-1.613a1 1 0 0 0-.282-.867l-1.156-1.152a1 1 0 0 1 .572-1.822l1.633-.256a1 1 0 0 0 .737-.535z" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

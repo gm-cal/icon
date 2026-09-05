@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0563-monochrome-title uui-0563-monochrome-desc" data-icon-id="UUI-0563" data-icon-name="ethernet-port" data-icon-variant="monochrome" data-icon-category="api-integration">
+  <title id="uui-0563-monochrome-title" xml:lang="ja">Ethernetポート</title>
+  <desc id="uui-0563-monochrome-desc" xml:lang="ja">「Ethernetポート」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0563" slug="ethernet-port" variant="monochrome">
+      <uui:name xml:lang="ja">Ethernetポート</uui:name>
+      <uui:name xml:lang="en">Ethernet Port</uui:name>
+      <uui:description xml:lang="ja">「Ethernetポート」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Ethernet Port” in api and integration contexts.</uui:description>
+      <uui:category id="api-integration" xml:lang="ja">APIと連携</uui:category>
+      <uui:category id="api-integration" xml:lang="en">API and integration</uui:category>
+      <uui:keywords xml:lang="ja">Ethernetポート, APIと連携, ethernet, port</uui:keywords>
+      <uui:keywords xml:lang="en">Ethernet Port, API and integration, ethernet, port</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/api-integration/ethernet-port.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="08713638c763a4716a8c36187a5f17e410422c4d0ac2a93be84b29673b7288bc"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m15 20 3-3h2a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h2l3 3z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M6 8v1" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M10 8v1" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M14 8v1" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M18 8v1" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

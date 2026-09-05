@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0931-monochrome-title uui-0931-monochrome-desc" data-icon-id="UUI-0931" data-icon-name="bell-minus" data-icon-variant="monochrome" data-icon-category="notification-status">
+  <title id="uui-0931-monochrome-title" xml:lang="ja">通知削除</title>
+  <desc id="uui-0931-monochrome-desc" xml:lang="ja">「通知削除」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0931" slug="bell-minus" variant="monochrome">
+      <uui:name xml:lang="ja">通知削除</uui:name>
+      <uui:name xml:lang="en">Bell Minus</uui:name>
+      <uui:description xml:lang="ja">「通知削除」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Bell Minus” in notifications and status contexts.</uui:description>
+      <uui:category id="notification-status" xml:lang="ja">通知と状態詳細</uui:category>
+      <uui:category id="notification-status" xml:lang="en">Notifications and status</uui:category>
+      <uui:keywords xml:lang="ja">通知削除, 通知と状態詳細, bell, minus</uui:keywords>
+      <uui:keywords xml:lang="en">Bell Minus, Notifications and status, bell, minus</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/notification-status/bell-minus.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="387f71145f92761f8e3e7c578c797362a11bd5d8a95626f5d99e38589245900a"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10.268 21a2 2 0 0 0 3.464 0" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M15 8h6" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M16.243 3.757A6 6 0 0 0 6 8c0 4.499-1.411 5.956-2.738 7.326A1 1 0 0 0 4 17h16a1 1 0 0 0 .74-1.673A9.4 9.4 0 0 1 18.667 12" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

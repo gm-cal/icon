@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0917-monochrome-title uui-0917-monochrome-desc" data-icon-id="UUI-0917" data-icon-name="funnel-plus" data-icon-variant="monochrome" data-icon-category="sorting-view">
+  <title id="uui-0917-monochrome-title" xml:lang="ja">絞り込み条件追加</title>
+  <desc id="uui-0917-monochrome-desc" xml:lang="ja">「絞り込み条件追加」を表す汎用UIアイコン。並べ替えと表示に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0917" slug="funnel-plus" variant="monochrome">
+      <uui:name xml:lang="ja">絞り込み条件追加</uui:name>
+      <uui:name xml:lang="en">Funnel Plus</uui:name>
+      <uui:description xml:lang="ja">「絞り込み条件追加」を表す汎用UIアイコン。並べ替えと表示に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Funnel Plus” in sorting and view contexts.</uui:description>
+      <uui:category id="sorting-view" xml:lang="ja">並べ替えと表示</uui:category>
+      <uui:category id="sorting-view" xml:lang="en">Sorting and view</uui:category>
+      <uui:keywords xml:lang="ja">絞り込み条件追加, 並べ替えと表示, funnel, plus</uui:keywords>
+      <uui:keywords xml:lang="en">Funnel Plus, Sorting and view, funnel, plus</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/sorting-view/funnel-plus.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="680ea43f8795e1b76302649befc730da3c199d02c1150eaeeec5b3e9cbb984b7"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M13.354 3H3a1 1 0 0 0-.742 1.67l7.225 7.989A2 2 0 0 1 10 14v6a1 1 0 0 0 .553.895l2 1A1 1 0 0 0 14 21v-7a2 2 0 0 1 .517-1.341l1.218-1.348" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16 6h6" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M19 3v6" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

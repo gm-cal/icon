@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0893-color-title uui-0893-color-desc" data-icon-id="UUI-0893" data-icon-name="mouse-pointer" data-icon-variant="color" data-icon-category="forms-input">
+  <title id="uui-0893-color-title" xml:lang="ja">ポインター</title>
+  <desc id="uui-0893-color-desc" xml:lang="ja">「ポインター」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0893" slug="mouse-pointer" variant="color">
+      <uui:name xml:lang="ja">ポインター</uui:name>
+      <uui:name xml:lang="en">Mouse Pointer</uui:name>
+      <uui:description xml:lang="ja">「ポインター」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Mouse Pointer” in forms and input contexts.</uui:description>
+      <uui:category id="forms-input" xml:lang="ja">フォームと入力</uui:category>
+      <uui:category id="forms-input" xml:lang="en">Forms and input</uui:category>
+      <uui:keywords xml:lang="ja">ポインター, フォームと入力, mouse, pointer</uui:keywords>
+      <uui:keywords xml:lang="en">Mouse Pointer, Forms and input, mouse, pointer</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/forms-input/mouse-pointer.svg"/>
+      <uui:palette primary="#4F46E5" accent="#818CF8" secondary="#C7D2FE"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="524927587a5bc9ad7674bd7af42ab7eaa96fbf8da1fef653a15f654de5293836"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12.586 12.586 19 19" stroke="#4F46E5" data-uui-role="primary"/>
+    <path d="M3.688 3.037a.497.497 0 0 0-.651.651l6.5 15.999a.501.501 0 0 0 .947-.062l1.569-6.083a2 2 0 0 1 1.448-1.479l6.124-1.579a.5.5 0 0 0 .063-.947z" stroke="#818CF8" data-uui-role="accent"/>
+  </g>
+</svg>

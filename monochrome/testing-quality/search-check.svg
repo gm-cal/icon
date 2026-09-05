@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0637-monochrome-title uui-0637-monochrome-desc" data-icon-id="UUI-0637" data-icon-name="search-check" data-icon-variant="monochrome" data-icon-category="testing-quality">
+  <title id="uui-0637-monochrome-title" xml:lang="ja">検索結果正常</title>
+  <desc id="uui-0637-monochrome-desc" xml:lang="ja">「検索結果正常」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0637" slug="search-check" variant="monochrome">
+      <uui:name xml:lang="ja">検索結果正常</uui:name>
+      <uui:name xml:lang="en">Search Check</uui:name>
+      <uui:description xml:lang="ja">「検索結果正常」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Search Check” in testing and quality contexts.</uui:description>
+      <uui:category id="testing-quality" xml:lang="ja">テストと品質</uui:category>
+      <uui:category id="testing-quality" xml:lang="en">Testing and quality</uui:category>
+      <uui:keywords xml:lang="ja">検索結果正常, テストと品質, search, check</uui:keywords>
+      <uui:keywords xml:lang="en">Search Check, Testing and quality, search, check</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/testing-quality/search-check.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="9bde7a6c630b737db464a30ac4bee3c4d8d8caa44124ce7965ae6fa99cb12a26"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m8 11 2 2 4-4" stroke="currentColor" data-uui-role="primary"/>
+    <circle cx="11" cy="11" r="8" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m21 21-4.3-4.3" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0877-monochrome-title uui-0877-monochrome-desc" data-icon-id="UUI-0877" data-icon-name="map-pin-plus" data-icon-variant="monochrome" data-icon-category="logistics-inventory">
+  <title id="uui-0877-monochrome-title" xml:lang="ja">配送先追加</title>
+  <desc id="uui-0877-monochrome-desc" xml:lang="ja">「配送先追加」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0877" slug="map-pin-plus" variant="monochrome">
+      <uui:name xml:lang="ja">配送先追加</uui:name>
+      <uui:name xml:lang="en">Map Pin Plus</uui:name>
+      <uui:description xml:lang="ja">「配送先追加」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Map Pin Plus” in logistics and inventory contexts.</uui:description>
+      <uui:category id="logistics-inventory" xml:lang="ja">物流と在庫</uui:category>
+      <uui:category id="logistics-inventory" xml:lang="en">Logistics and inventory</uui:category>
+      <uui:keywords xml:lang="ja">配送先追加, 物流と在庫, map, pin, plus</uui:keywords>
+      <uui:keywords xml:lang="en">Map Pin Plus, Logistics and inventory, map, pin, plus</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/logistics-inventory/map-pin-plus.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3a2861fc48702a996b6abb3f9cb85bae31044e7e6f760876008cccb1e97b06f8"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M19.914 11.105A7.298 7.298 0 0 0 20 10a8 8 0 0 0-16 0c0 4.993 5.539 10.193 7.399 11.799a1 1 0 0 0 1.202 0 32 32 0 0 0 .824-.738" stroke="currentColor" data-uui-role="primary"/>
+    <circle cx="12" cy="10" r="3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M16 18h6" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M19 15v6" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0562-monochrome-title uui-0562-monochrome-desc" data-icon-id="UUI-0562" data-icon-name="plug-2" data-icon-variant="monochrome" data-icon-category="api-integration">
+  <title id="uui-0562-monochrome-title" xml:lang="ja">プラグ接続</title>
+  <desc id="uui-0562-monochrome-desc" xml:lang="ja">「プラグ接続」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0562" slug="plug-2" variant="monochrome">
+      <uui:name xml:lang="ja">プラグ接続</uui:name>
+      <uui:name xml:lang="en">Plug 2</uui:name>
+      <uui:description xml:lang="ja">「プラグ接続」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Plug 2” in api and integration contexts.</uui:description>
+      <uui:category id="api-integration" xml:lang="ja">APIと連携</uui:category>
+      <uui:category id="api-integration" xml:lang="en">API and integration</uui:category>
+      <uui:keywords xml:lang="ja">プラグ接続, APIと連携, plug, 2</uui:keywords>
+      <uui:keywords xml:lang="en">Plug 2, API and integration, plug, 2</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/api-integration/plug-2.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="a44743b545c7cfd8e0944ede383167c0e787ced9292bd6e258c740f5382afc81"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M9 2v6" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M15 2v6" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M12 17v5" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M5 8h14" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M6 11V8h12v3a6 6 0 1 1-12 0Z" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

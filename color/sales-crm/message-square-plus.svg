@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0801-color-title uui-0801-color-desc" data-icon-id="UUI-0801" data-icon-name="message-square-plus" data-icon-variant="color" data-icon-category="sales-crm">
+  <title id="uui-0801-color-title" xml:lang="ja">商談メモ追加</title>
+  <desc id="uui-0801-color-desc" xml:lang="ja">「商談メモ追加」を表す汎用UIアイコン。営業と顧客管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0801" slug="message-square-plus" variant="color">
+      <uui:name xml:lang="ja">商談メモ追加</uui:name>
+      <uui:name xml:lang="en">Message Square Plus</uui:name>
+      <uui:description xml:lang="ja">「商談メモ追加」を表す汎用UIアイコン。営業と顧客管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Message Square Plus” in sales and crm contexts.</uui:description>
+      <uui:category id="sales-crm" xml:lang="ja">営業と顧客管理</uui:category>
+      <uui:category id="sales-crm" xml:lang="en">Sales and CRM</uui:category>
+      <uui:keywords xml:lang="ja">商談メモ追加, 営業と顧客管理, message, square, plus</uui:keywords>
+      <uui:keywords xml:lang="en">Message Square Plus, Sales and CRM, message, square, plus</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/sales-crm/message-square-plus.svg"/>
+      <uui:palette primary="#C2410C" accent="#F97316" secondary="#FDBA74"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="fb0e2a8e7bd730f807a1633921eaca6104653b3abbd4cb8144626a337a22100d"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z" stroke="#C2410C" data-uui-role="primary"/>
+    <path d="M12 8v6" stroke="#F97316" data-uui-role="accent"/>
+    <path d="M9 11h6" stroke="#F97316" data-uui-role="accent"/>
+  </g>
+</svg>

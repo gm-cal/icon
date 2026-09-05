@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0861-monochrome-title uui-0861-monochrome-desc" data-icon-id="UUI-0861" data-icon-name="ship-wheel" data-icon-variant="monochrome" data-icon-category="logistics-inventory">
+  <title id="uui-0861-monochrome-title" xml:lang="ja">船舶輸送</title>
+  <desc id="uui-0861-monochrome-desc" xml:lang="ja">「船舶輸送」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0861" slug="ship-wheel" variant="monochrome">
+      <uui:name xml:lang="ja">船舶輸送</uui:name>
+      <uui:name xml:lang="en">Ship Wheel</uui:name>
+      <uui:description xml:lang="ja">「船舶輸送」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Ship Wheel” in logistics and inventory contexts.</uui:description>
+      <uui:category id="logistics-inventory" xml:lang="ja">物流と在庫</uui:category>
+      <uui:category id="logistics-inventory" xml:lang="en">Logistics and inventory</uui:category>
+      <uui:keywords xml:lang="ja">船舶輸送, 物流と在庫, ship, wheel</uui:keywords>
+      <uui:keywords xml:lang="en">Ship Wheel, Logistics and inventory, ship, wheel</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/logistics-inventory/ship-wheel.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="f8a8e8e5357b5703073b942c2e0b38201f004a9ec5e3c3f36131d5b448b133c1"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="8" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M12 2v7.5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m19 5-5.23 5.23" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M22 12h-7.5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m19 19-5.23-5.23" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M12 14.5V22" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M10.23 13.77 5 19" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M9.5 12H2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M10.23 10.23 5 5" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="12" cy="12" r="2.5" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

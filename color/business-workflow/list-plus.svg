@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0707-color-title uui-0707-color-desc" data-icon-id="UUI-0707" data-icon-name="list-plus" data-icon-variant="color" data-icon-category="business-workflow">
+  <title id="uui-0707-color-title" xml:lang="ja">工程追加</title>
+  <desc id="uui-0707-color-desc" xml:lang="ja">「工程追加」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0707" slug="list-plus" variant="color">
+      <uui:name xml:lang="ja">工程追加</uui:name>
+      <uui:name xml:lang="en">List Plus</uui:name>
+      <uui:description xml:lang="ja">「工程追加」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “List Plus” in business workflow contexts.</uui:description>
+      <uui:category id="business-workflow" xml:lang="ja">業務フロー</uui:category>
+      <uui:category id="business-workflow" xml:lang="en">Business workflow</uui:category>
+      <uui:keywords xml:lang="ja">工程追加, 業務フロー, list, plus</uui:keywords>
+      <uui:keywords xml:lang="en">List Plus, Business workflow, list, plus</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/business-workflow/list-plus.svg"/>
+      <uui:palette primary="#0F766E" accent="#14B8A6" secondary="#5EEAD4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e69df256166d128586fb0c2cc59572fd2834236c8e7756927b549e5f7730f2e6"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M16 5H3" stroke="#0F766E" data-uui-role="primary"/>
+    <path d="M11 12H3" stroke="#14B8A6" data-uui-role="accent"/>
+    <path d="M16 19H3" stroke="#5EEAD4" data-uui-role="secondary"/>
+    <path d="M18 9v6" stroke="#14B8A6" data-uui-role="accent"/>
+    <path d="M21 12h-6" stroke="#14B8A6" data-uui-role="accent"/>
+  </g>
+</svg>

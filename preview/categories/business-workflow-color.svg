@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="736" viewBox="0 0 840 736">
+  <rect width="100%" height="100%" fill="#F8FAFC"/>
+  <text x="24" y="34" font-size="22" font-weight="700" fill="#0F172A">業務フロー — カラー版</text>
+  <text x="24" y="57" font-size="12" fill="#64748B">Business workflow · 25 icons</text>
+    <g transform="translate(0 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 5h8" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M3 12h8" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M3 19h8" stroke="#5EEAD4" data-uui-role="secondary"/>
+        <path d="m15 5 3 3 3-3" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="m15 19 3-3 3 3" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">一覧を縮める</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0704 · list-chevrons-down-up</text>
+    </g>
+    <g transform="translate(168 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 5h8" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M3 12h8" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M3 19h8" stroke="#5EEAD4" data-uui-role="secondary"/>
+        <path d="m15 8 3-3 3 3" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="m15 16 3 3 3-3" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">一覧を広げる</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0705 · list-chevrons-up-down</text>
+    </g>
+    <g transform="translate(336 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10 5h11" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M10 12h11" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M10 19h11" stroke="#5EEAD4" data-uui-role="secondary"/>
+        <path d="m3 10 3-3-3-3" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="m3 20 3-3-3-3" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">一覧を折り畳む</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0706 · list-collapse</text>
+    </g>
+    <g transform="translate(504 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 5H3" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M11 12H3" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M16 19H3" stroke="#5EEAD4" data-uui-role="secondary"/>
+        <path d="M18 9v6" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M21 12h-6" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">工程追加</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0707 · list-plus</text>
+    </g>
+    <g transform="translate(672 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 5H3" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M11 12H3" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M16 19H3" stroke="#5EEAD4" data-uui-role="secondary"/>
+        <path d="M21 12h-6" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">工程削除</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0708 · list-minus</text>
+    </g>
+    <g transform="translate(0 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 5H2" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M6 12h12" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M9 19h6" stroke="#5EEAD4" data-uui-role="secondary"/>
+        <path d="M16 5h6" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M19 8V2" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">条件工程追加</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0709 · list-filter-plus</text>
+    </g>
+    <g transform="translate(168 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M8 19H5c-1 0-2-1-2-2V7c0-1 1-2 2-2h3" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M16 5h3c1 0 2 1 2 2v10c0 1-1 2-2 2h-3" stroke="#14B8A6" data-uui-role="accent"/>
+        <line x1="12" x2="12" y1="4" y2="20" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">横分岐</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0710 · square-split-horizontal</text>
+    </g>
+    <g transform="translate(336 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M5 8V5c0-1 1-2 2-2h10c1 0 2 1 2 2v3" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M19 16v3c0 1-1 2-2 2H7c-1 0-2-1-2-2v-3" stroke="#14B8A6" data-uui-role="accent"/>
+        <line x1="4" x2="20" y1="12" y2="12" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">縦分岐</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0711 · square-split-vertical</text>
+    </g>
+    <g transform="translate(504 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="8" y="8" width="8" height="8" rx="2" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M4 10a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M14 20a2 2 0 0 0 2 2h4a2 2 0 0 0 2-2v-4a2 2 0 0 0-2-2" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">前面工程</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0712 · bring-to-front</text>
+    </g>
+    <g transform="translate(672 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="14" y="14" width="8" height="8" rx="2" stroke="#0F766E" data-uui-role="primary"/>
+        <rect x="2" y="2" width="8" height="8" rx="2" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M7 14v1a2 2 0 0 0 2 2h1" stroke="#5EEAD4" data-uui-role="secondary"/>
+        <path d="M14 7h1a2 2 0 0 1 2 2v1" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">背面工程</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0713 · send-to-back</text>
+    </g>
+    <g transform="translate(0 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 7V5c0-1.1.9-2 2-2h2" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M17 3h2c1.1 0 2 .9 2 2v2" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M21 17v2c0 1.1-.9 2-2 2h-2" stroke="#5EEAD4" data-uui-role="secondary"/>
+        <path d="M7 21H5c-1.1 0-2-.9-2-2v-2" stroke="#14B8A6" data-uui-role="accent"/>
+        <rect width="7" height="5" x="7" y="7" rx="1" stroke="#5EEAD4" data-uui-role="secondary"/>
+        <rect width="7" height="5" x="10" y="12" rx="1" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">工程グループ化</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0714 · group</text>
+    </g>
+    <g transform="translate(168 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="8" height="6" x="5" y="4" rx="1" stroke="#0F766E" data-uui-role="primary"/>
+        <rect width="8" height="6" x="11" y="14" rx="1" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">工程グループ解除</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0715 · ungroup</text>
+    </g>
+    <g transform="translate(336 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m16 14 4 4-4 4" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M20 10a8 8 0 1 0-8 8h8" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">反時計回り反復</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0716 · iteration-ccw</text>
+    </g>
+    <g transform="translate(504 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 10a8 8 0 1 1 8 8H4" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="m8 22-4-4 4-4" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">時計回り反復</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0717 · iteration-cw</text>
+    </g>
+    <g transform="translate(672 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M13 13.74a2 2 0 0 1-2 0L2.5 8.87a1 1 0 0 1 0-1.74L11 2.26a2 2 0 0 1 2 0l8.5 4.87a1 1 0 0 1 0 1.74z" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="m20 14.285 1.5.845a1 1 0 0 1 0 1.74L13 21.74a2 2 0 0 1-2 0l-8.5-4.87a1 1 0 0 1 0-1.74l1.5-.845" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">工程レイヤー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0718 · layers-2</text>
+    </g>
+    <g transform="translate(0 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 .83.18 2 2 0 0 0 .83-.18l8.58-3.9a1 1 0 0 0 0-1.831z" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M16 17h6" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M19 14v6" stroke="#5EEAD4" data-uui-role="secondary"/>
+        <path d="M2 12a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 .825.178" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M2 17a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l2.116-.962" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">工程レイヤー追加</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0719 · layers-plus</text>
+    </g>
+    <g transform="translate(168 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="15" x2="15" y1="12" y2="18" stroke="#0F766E" data-uui-role="primary"/>
+        <line x1="12" x2="18" y1="15" y2="15" stroke="#14B8A6" data-uui-role="accent"/>
+        <rect width="14" height="14" x="8" y="8" rx="2" ry="2" stroke="#5EEAD4" data-uui-role="secondary"/>
+        <path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">工程複製追加</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0720 · copy-plus</text>
+    </g>
+    <g transform="translate(336 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="12" x2="18" y1="15" y2="15" stroke="#0F766E" data-uui-role="primary"/>
+        <rect width="14" height="14" x="8" y="8" rx="2" ry="2" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">工程複製削除</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0721 · copy-minus</text>
+    </g>
+    <g transform="translate(504 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="12" x2="18" y1="18" y2="12" stroke="#0F766E" data-uui-role="primary"/>
+        <rect width="14" height="14" x="8" y="8" rx="2" ry="2" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">複製禁止</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0722 · copy-slash</text>
+    </g>
+    <g transform="translate(672 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="17" r="1" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M21 7v6h-6" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M3 17a9 9 0 0 1 9-9 9 9 0 0 1 6 2.3l3 2.7" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">次工程へ進む</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0723 · redo-dot</text>
+    </g>
+    <g transform="translate(0 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 17a9 9 0 0 0-15-6.7L3 13" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M3 7v6h6" stroke="#14B8A6" data-uui-role="accent"/>
+        <circle cx="12" cy="17" r="1" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">前工程へ戻る</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0724 · undo-dot</text>
+    </g>
+    <g transform="translate(168 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M3 3v5h5" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16" stroke="#5EEAD4" data-uui-role="secondary"/>
+        <path d="M16 16h5v5" stroke="#14B8A6" data-uui-role="accent"/>
+        <circle cx="12" cy="12" r="1" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">起点から再実行</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0725 · refresh-ccw-dot</text>
+    </g>
+    <g transform="translate(336 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 8L18.74 5.74A9.75 9.75 0 0 0 12 3C11 3 10.03 3.16 9.13 3.47" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M8 16H3v5" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M3 12C3 9.51 4 7.26 5.64 5.64" stroke="#5EEAD4" data-uui-role="secondary"/>
+        <path d="m3 16 2.26 2.26A9.75 9.75 0 0 0 12 21c2.49 0 4.74-1 6.36-2.64" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M21 12c0 1-.16 1.97-.47 2.87" stroke="#5EEAD4" data-uui-role="secondary"/>
+        <path d="M21 3v5h-5" stroke="#14B8A6" data-uui-role="accent"/>
+        <path d="M22 22 2 2" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">自動更新停止</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0726 · refresh-cw-off</text>
+    </g>
+    <g transform="translate(504 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M13.971 4.285A2 2 0 0 1 17 6v12a2 2 0 0 1-3.029 1.715l-9.997-5.998a2 2 0 0 1-.003-3.432z" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M21 20V4" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">一工程戻る</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0727 · step-back</text>
+    </g>
+    <g transform="translate(672 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10.029 4.285A2 2 0 0 0 7 6v12a2 2 0 0 0 3.029 1.715l9.997-5.998a2 2 0 0 0 .003-3.432z" stroke="#0F766E" data-uui-role="primary"/>
+        <path d="M3 4v16" stroke="#14B8A6" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">一工程進む</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0728 · step-forward</text>
+    </g>
+</svg>

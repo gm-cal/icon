@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0835-color-title uui-0835-color-desc" data-icon-id="UUI-0835" data-icon-name="user-round-x" data-icon-variant="color" data-icon-category="hr-organization">
+  <title id="uui-0835-color-title" xml:lang="ja">退職者</title>
+  <desc id="uui-0835-color-desc" xml:lang="ja">「退職者」を表す汎用UIアイコン。人事・組織・研修に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0835" slug="user-round-x" variant="color">
+      <uui:name xml:lang="ja">退職者</uui:name>
+      <uui:name xml:lang="en">User Round X</uui:name>
+      <uui:description xml:lang="ja">「退職者」を表す汎用UIアイコン。人事・組織・研修に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “User Round X” in hr, organization, and training contexts.</uui:description>
+      <uui:category id="hr-organization" xml:lang="ja">人事・組織・研修</uui:category>
+      <uui:category id="hr-organization" xml:lang="en">HR, organization, and training</uui:category>
+      <uui:keywords xml:lang="ja">退職者, 人事・組織・研修, user, round, x</uui:keywords>
+      <uui:keywords xml:lang="en">User Round X, HR, organization, and training, user, round, x</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/hr-organization/user-round-x.svg"/>
+      <uui:palette primary="#BE185D" accent="#EC4899" secondary="#F9A8D4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e487c645d41d1fe0d162bea8553991300e8fd5ef9f8faecd69e547c822c680eb"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2 21a8 8 0 0 1 11.873-7" stroke="#BE185D" data-uui-role="primary"/>
+    <circle cx="10" cy="8" r="5" stroke="#EC4899" data-uui-role="accent"/>
+    <path d="m17 17 5 5" stroke="#F9A8D4" data-uui-role="secondary"/>
+    <path d="m22 17-5 5" stroke="#EC4899" data-uui-role="accent"/>
+  </g>
+</svg>

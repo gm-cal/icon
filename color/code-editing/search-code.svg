@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0521-color-title uui-0521-color-desc" data-icon-id="UUI-0521" data-icon-name="search-code" data-icon-variant="color" data-icon-category="code-editing">
+  <title id="uui-0521-color-title" xml:lang="ja">コード検索</title>
+  <desc id="uui-0521-color-desc" xml:lang="ja">「コード検索」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0521" slug="search-code" variant="color">
+      <uui:name xml:lang="ja">コード検索</uui:name>
+      <uui:name xml:lang="en">Search Code</uui:name>
+      <uui:description xml:lang="ja">「コード検索」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Search Code” in code editing contexts.</uui:description>
+      <uui:category id="code-editing" xml:lang="ja">コード編集</uui:category>
+      <uui:category id="code-editing" xml:lang="en">Code editing</uui:category>
+      <uui:keywords xml:lang="ja">コード検索, コード編集, search, code</uui:keywords>
+      <uui:keywords xml:lang="en">Search Code, Code editing, search, code</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/code-editing/search-code.svg"/>
+      <uui:palette primary="#4338CA" accent="#6366F1" secondary="#A5B4FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d45ac111a50a66bdce66273b117fff851a107a7645850c71fe011e9263b558f0"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m13 13.5 2-2.5-2-2.5" stroke="#4338CA" data-uui-role="primary"/>
+    <path d="m21 21-4.3-4.3" stroke="#6366F1" data-uui-role="accent"/>
+    <path d="M9 8.5 7 11l2 2.5" stroke="#A5B4FC" data-uui-role="secondary"/>
+    <circle cx="11" cy="11" r="8" stroke="#6366F1" data-uui-role="accent"/>
+  </g>
+</svg>

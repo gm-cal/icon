@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0511-monochrome-title uui-0511-monochrome-desc" data-icon-id="UUI-0511" data-icon-name="parentheses" data-icon-variant="monochrome" data-icon-category="code-editing">
+  <title id="uui-0511-monochrome-title" xml:lang="ja">丸括弧</title>
+  <desc id="uui-0511-monochrome-desc" xml:lang="ja">「丸括弧」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0511" slug="parentheses" variant="monochrome">
+      <uui:name xml:lang="ja">丸括弧</uui:name>
+      <uui:name xml:lang="en">Parentheses</uui:name>
+      <uui:description xml:lang="ja">「丸括弧」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Parentheses” in code editing contexts.</uui:description>
+      <uui:category id="code-editing" xml:lang="ja">コード編集</uui:category>
+      <uui:category id="code-editing" xml:lang="en">Code editing</uui:category>
+      <uui:keywords xml:lang="ja">丸括弧, コード編集, parentheses</uui:keywords>
+      <uui:keywords xml:lang="en">Parentheses, Code editing, parentheses</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/code-editing/parentheses.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="fcfe3d09e43d94150b144c387bde8ca0e5a29f705b251866903d2e65dd2ae4ce"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M8 21s-4-3-4-9 4-9 4-9" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16 3s4 3 4 9-4 9-4 9" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

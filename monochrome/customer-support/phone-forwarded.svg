@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0824-monochrome-title uui-0824-monochrome-desc" data-icon-id="UUI-0824" data-icon-name="phone-forwarded" data-icon-variant="monochrome" data-icon-category="customer-support">
+  <title id="uui-0824-monochrome-title" xml:lang="ja">電話転送</title>
+  <desc id="uui-0824-monochrome-desc" xml:lang="ja">「電話転送」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0824" slug="phone-forwarded" variant="monochrome">
+      <uui:name xml:lang="ja">電話転送</uui:name>
+      <uui:name xml:lang="en">Phone Forwarded</uui:name>
+      <uui:description xml:lang="ja">「電話転送」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Phone Forwarded” in customer support contexts.</uui:description>
+      <uui:category id="customer-support" xml:lang="ja">顧客サポート</uui:category>
+      <uui:category id="customer-support" xml:lang="en">Customer support</uui:category>
+      <uui:keywords xml:lang="ja">電話転送, 顧客サポート, phone, forwarded</uui:keywords>
+      <uui:keywords xml:lang="en">Phone Forwarded, Customer support, phone, forwarded</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/customer-support/phone-forwarded.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="44fbf0111ad3f124567db63de35c766d4e0a471fb3b87448aca8fa3a0fc3d276"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M14 6h8" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m18 2 4 4-4 4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

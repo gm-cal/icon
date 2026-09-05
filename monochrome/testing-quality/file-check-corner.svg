@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0644-monochrome-title uui-0644-monochrome-desc" data-icon-id="UUI-0644" data-icon-name="file-check-corner" data-icon-variant="monochrome" data-icon-category="testing-quality">
+  <title id="uui-0644-monochrome-title" xml:lang="ja">ファイル部分検証</title>
+  <desc id="uui-0644-monochrome-desc" xml:lang="ja">「ファイル部分検証」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0644" slug="file-check-corner" variant="monochrome">
+      <uui:name xml:lang="ja">ファイル部分検証</uui:name>
+      <uui:name xml:lang="en">File Check Corner</uui:name>
+      <uui:description xml:lang="ja">「ファイル部分検証」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Check Corner” in testing and quality contexts.</uui:description>
+      <uui:category id="testing-quality" xml:lang="ja">テストと品質</uui:category>
+      <uui:category id="testing-quality" xml:lang="en">Testing and quality</uui:category>
+      <uui:keywords xml:lang="ja">ファイル部分検証, テストと品質, file, check, corner</uui:keywords>
+      <uui:keywords xml:lang="en">File Check Corner, Testing and quality, file, check, corner</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/testing-quality/file-check-corner.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="9fe20cf0906e3e55d3bf7452f8ad01ab13c0028e8365eedb64753c6374c7b925"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10.5 22H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.706.706l3.588 3.588A2.4 2.4 0 0 1 20 8v6" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m14 20 2 2 4-4" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

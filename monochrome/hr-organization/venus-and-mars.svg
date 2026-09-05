@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0850-monochrome-title uui-0850-monochrome-desc" data-icon-id="UUI-0850" data-icon-name="venus-and-mars" data-icon-variant="monochrome" data-icon-category="hr-organization">
+  <title id="uui-0850-monochrome-title" xml:lang="ja">性別区分</title>
+  <desc id="uui-0850-monochrome-desc" xml:lang="ja">「性別区分」を表す汎用UIアイコン。人事・組織・研修に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0850" slug="venus-and-mars" variant="monochrome">
+      <uui:name xml:lang="ja">性別区分</uui:name>
+      <uui:name xml:lang="en">Venus And Mars</uui:name>
+      <uui:description xml:lang="ja">「性別区分」を表す汎用UIアイコン。人事・組織・研修に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Venus And Mars” in hr, organization, and training contexts.</uui:description>
+      <uui:category id="hr-organization" xml:lang="ja">人事・組織・研修</uui:category>
+      <uui:category id="hr-organization" xml:lang="en">HR, organization, and training</uui:category>
+      <uui:keywords xml:lang="ja">性別区分, 人事・組織・研修, venus, and, mars</uui:keywords>
+      <uui:keywords xml:lang="en">Venus And Mars, HR, organization, and training, venus, and, mars</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/hr-organization/venus-and-mars.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="55271e53203a3aa7f74e1eb7ea5e6d9119940016f5581fa5732f30a3bbb20495"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 20h4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M12 16v6" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M17 2h4v4" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m21 2-5.46 5.46" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="12" cy="11" r="5" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

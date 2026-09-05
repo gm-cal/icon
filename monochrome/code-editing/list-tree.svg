@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0523-monochrome-title uui-0523-monochrome-desc" data-icon-id="UUI-0523" data-icon-name="list-tree" data-icon-variant="monochrome" data-icon-category="code-editing">
+  <title id="uui-0523-monochrome-title" xml:lang="ja">構造ツリー</title>
+  <desc id="uui-0523-monochrome-desc" xml:lang="ja">「構造ツリー」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0523" slug="list-tree" variant="monochrome">
+      <uui:name xml:lang="ja">構造ツリー</uui:name>
+      <uui:name xml:lang="en">List Tree</uui:name>
+      <uui:description xml:lang="ja">「構造ツリー」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “List Tree” in code editing contexts.</uui:description>
+      <uui:category id="code-editing" xml:lang="ja">コード編集</uui:category>
+      <uui:category id="code-editing" xml:lang="en">Code editing</uui:category>
+      <uui:keywords xml:lang="ja">構造ツリー, コード編集, list, tree</uui:keywords>
+      <uui:keywords xml:lang="en">List Tree, Code editing, list, tree</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/code-editing/list-tree.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="1c747591fc05bfdee6d8e28a4294433e595a0fdcdda60b745b9d0a0491aa62b4"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M8 5h13" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M13 12h8" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M13 19h8" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M3 10a2 2 0 0 0 2 2h3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M3 5v12a2 2 0 0 0 2 2h3" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0651-color-title uui-0651-color-desc" data-icon-id="UUI-0651" data-icon-name="grid-2x2-check" data-icon-variant="color" data-icon-category="testing-quality">
+  <title id="uui-0651-color-title" xml:lang="ja">グリッド検証</title>
+  <desc id="uui-0651-color-desc" xml:lang="ja">「グリッド検証」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0651" slug="grid-2x2-check" variant="color">
+      <uui:name xml:lang="ja">グリッド検証</uui:name>
+      <uui:name xml:lang="en">Grid 2x2 Check</uui:name>
+      <uui:description xml:lang="ja">「グリッド検証」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Grid 2x2 Check” in testing and quality contexts.</uui:description>
+      <uui:category id="testing-quality" xml:lang="ja">テストと品質</uui:category>
+      <uui:category id="testing-quality" xml:lang="en">Testing and quality</uui:category>
+      <uui:keywords xml:lang="ja">グリッド検証, テストと品質, grid, 2x2, check</uui:keywords>
+      <uui:keywords xml:lang="en">Grid 2x2 Check, Testing and quality, grid, 2x2, check</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/testing-quality/grid-2x2-check.svg"/>
+      <uui:palette primary="#4D7C0F" accent="#84CC16" secondary="#BEF264"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="9f26c3c225708789184095ed76d4ae3bad06c8b8e189191e1a3b7962c572637e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 3v17a1 1 0 0 1-1 1H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v6a1 1 0 0 1-1 1H3" stroke="#4D7C0F" data-uui-role="primary"/>
+    <path d="m16 19 2 2 4-4" stroke="#84CC16" data-uui-role="accent"/>
+  </g>
+</svg>

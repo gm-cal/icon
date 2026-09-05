@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0932-color-title uui-0932-color-desc" data-icon-id="UUI-0932" data-icon-name="bell-plus" data-icon-variant="color" data-icon-category="notification-status">
+  <title id="uui-0932-color-title" xml:lang="ja">通知追加</title>
+  <desc id="uui-0932-color-desc" xml:lang="ja">「通知追加」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0932" slug="bell-plus" variant="color">
+      <uui:name xml:lang="ja">通知追加</uui:name>
+      <uui:name xml:lang="en">Bell Plus</uui:name>
+      <uui:description xml:lang="ja">「通知追加」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Bell Plus” in notifications and status contexts.</uui:description>
+      <uui:category id="notification-status" xml:lang="ja">通知と状態詳細</uui:category>
+      <uui:category id="notification-status" xml:lang="en">Notifications and status</uui:category>
+      <uui:keywords xml:lang="ja">通知追加, 通知と状態詳細, bell, plus</uui:keywords>
+      <uui:keywords xml:lang="en">Bell Plus, Notifications and status, bell, plus</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/notification-status/bell-plus.svg"/>
+      <uui:palette primary="#0891B2" accent="#22D3EE" secondary="#A5F3FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="61150f439b74539941944184f8bdac521c308d0b345d5ba9a96212fe8e7f8efc"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10.268 21a2 2 0 0 0 3.464 0" stroke="#0891B2" data-uui-role="primary"/>
+    <path d="M15 8h6" stroke="#22D3EE" data-uui-role="accent"/>
+    <path d="M18 5v6" stroke="#A5F3FC" data-uui-role="secondary"/>
+    <path d="M20.002 14.464a9 9 0 0 0 .738.863A1 1 0 0 1 20 17H4a1 1 0 0 1-.74-1.673C4.59 13.956 6 12.499 6 8a6 6 0 0 1 8.75-5.332" stroke="#22D3EE" data-uui-role="accent"/>
+  </g>
+</svg>

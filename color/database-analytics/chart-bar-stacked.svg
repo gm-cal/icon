@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0602-color-title uui-0602-color-desc" data-icon-id="UUI-0602" data-icon-name="chart-bar-stacked" data-icon-variant="color" data-icon-category="database-analytics">
+  <title id="uui-0602-color-title" xml:lang="ja">積み上げ横棒</title>
+  <desc id="uui-0602-color-desc" xml:lang="ja">「積み上げ横棒」を表す汎用UIアイコン。データベース詳細に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0602" slug="chart-bar-stacked" variant="color">
+      <uui:name xml:lang="ja">積み上げ横棒</uui:name>
+      <uui:name xml:lang="en">Chart Bar Stacked</uui:name>
+      <uui:description xml:lang="ja">「積み上げ横棒」を表す汎用UIアイコン。データベース詳細に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Chart Bar Stacked” in database and analytics contexts.</uui:description>
+      <uui:category id="database-analytics" xml:lang="ja">データベース詳細</uui:category>
+      <uui:category id="database-analytics" xml:lang="en">Database and analytics</uui:category>
+      <uui:keywords xml:lang="ja">積み上げ横棒, データベース詳細, chart, bar, stacked</uui:keywords>
+      <uui:keywords xml:lang="en">Chart Bar Stacked, Database and analytics, chart, bar, stacked</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/database-analytics/chart-bar-stacked.svg"/>
+      <uui:palette primary="#047857" accent="#10B981" secondary="#6EE7B7"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="9600002a23d08a7a66baaf4d0a7b71056637461a31790ad8a302d82c7317cbd5"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M11 13v4" stroke="#047857" data-uui-role="primary"/>
+    <path d="M15 5v4" stroke="#10B981" data-uui-role="accent"/>
+    <path d="M3 3v16a2 2 0 0 0 2 2h16" stroke="#6EE7B7" data-uui-role="secondary"/>
+    <rect x="7" y="13" width="9" height="4" rx="1" stroke="#10B981" data-uui-role="accent"/>
+    <rect x="7" y="5" width="12" height="4" rx="1" stroke="#10B981" data-uui-role="accent"/>
+  </g>
+</svg>

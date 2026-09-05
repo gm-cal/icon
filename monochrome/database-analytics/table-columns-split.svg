@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0586-monochrome-title uui-0586-monochrome-desc" data-icon-id="UUI-0586" data-icon-name="table-columns-split" data-icon-variant="monochrome" data-icon-category="database-analytics">
+  <title id="uui-0586-monochrome-title" xml:lang="ja">列分割</title>
+  <desc id="uui-0586-monochrome-desc" xml:lang="ja">「列分割」を表す汎用UIアイコン。データベース詳細に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0586" slug="table-columns-split" variant="monochrome">
+      <uui:name xml:lang="ja">列分割</uui:name>
+      <uui:name xml:lang="en">Table Columns Split</uui:name>
+      <uui:description xml:lang="ja">「列分割」を表す汎用UIアイコン。データベース詳細に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Table Columns Split” in database and analytics contexts.</uui:description>
+      <uui:category id="database-analytics" xml:lang="ja">データベース詳細</uui:category>
+      <uui:category id="database-analytics" xml:lang="en">Database and analytics</uui:category>
+      <uui:keywords xml:lang="ja">列分割, データベース詳細, table, columns, split</uui:keywords>
+      <uui:keywords xml:lang="en">Table Columns Split, Database and analytics, table, columns, split</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/database-analytics/table-columns-split.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7d03cbb8e75bd05d104be6b8f9af357154263055f524aee60f2ed76413b4ff93"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M14 14v2" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M14 20v2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M14 2v2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M14 8v2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M2 15h8" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M2 3h6a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M2 9h8" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M22 15h-4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M22 3h-2a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M22 9h-4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M5 3v18" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

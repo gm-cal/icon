@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0685-color-title uui-0685-color-desc" data-icon-id="UUI-0685" data-icon-name="goal" data-icon-variant="color" data-icon-category="project-management">
+  <title id="uui-0685-color-title" xml:lang="ja">達成目標</title>
+  <desc id="uui-0685-color-desc" xml:lang="ja">「達成目標」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0685" slug="goal" variant="color">
+      <uui:name xml:lang="ja">達成目標</uui:name>
+      <uui:name xml:lang="en">Goal</uui:name>
+      <uui:description xml:lang="ja">「達成目標」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Goal” in project management contexts.</uui:description>
+      <uui:category id="project-management" xml:lang="ja">プロジェクト管理</uui:category>
+      <uui:category id="project-management" xml:lang="en">Project management</uui:category>
+      <uui:keywords xml:lang="ja">達成目標, プロジェクト管理, goal</uui:keywords>
+      <uui:keywords xml:lang="en">Goal, Project management, goal</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/project-management/goal.svg"/>
+      <uui:palette primary="#A16207" accent="#EAB308" secondary="#FDE047"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="5953b19c286044550037b8db9f50ed6b479f989aa2a92ee2c2920123509b3a83"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 13V2l8 4-8 4" stroke="#A16207" data-uui-role="primary"/>
+    <path d="M20.561 10.222a9 9 0 1 1-12.55-5.29" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M8.002 9.997a5 5 0 1 0 8.9 2.02" stroke="#EAB308" data-uui-role="accent"/>
+  </g>
+</svg>

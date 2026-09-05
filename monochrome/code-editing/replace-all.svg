@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0519-monochrome-title uui-0519-monochrome-desc" data-icon-id="UUI-0519" data-icon-name="replace-all" data-icon-variant="monochrome" data-icon-category="code-editing">
+  <title id="uui-0519-monochrome-title" xml:lang="ja">すべて置換</title>
+  <desc id="uui-0519-monochrome-desc" xml:lang="ja">「すべて置換」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0519" slug="replace-all" variant="monochrome">
+      <uui:name xml:lang="ja">すべて置換</uui:name>
+      <uui:name xml:lang="en">Replace All</uui:name>
+      <uui:description xml:lang="ja">「すべて置換」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Replace All” in code editing contexts.</uui:description>
+      <uui:category id="code-editing" xml:lang="ja">コード編集</uui:category>
+      <uui:category id="code-editing" xml:lang="en">Code editing</uui:category>
+      <uui:keywords xml:lang="ja">すべて置換, コード編集, replace, all</uui:keywords>
+      <uui:keywords xml:lang="en">Replace All, Code editing, replace, all</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/code-editing/replace-all.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="95e503507a472c3472887e3723fcede90f34317d3b1ed0240d5088f19166654e"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M14 14a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M14 4a1 1 0 0 1 1-1" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M15 10a1 1 0 0 1-1-1" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M19 14a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M21 4a1 1 0 0 0-1-1" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M21 9a1 1 0 0 1-1 1" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m3 7 3 3 3-3" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M6 10V5a2 2 0 0 1 2-2h2" stroke="currentColor" data-uui-role="accent"/>
+    <rect x="3" y="14" width="7" height="7" rx="1" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

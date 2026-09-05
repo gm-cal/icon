@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0556-color-title uui-0556-color-desc" data-icon-id="UUI-0556" data-icon-name="message-square-code" data-icon-variant="color" data-icon-category="api-integration">
+  <title id="uui-0556-color-title" xml:lang="ja">APIメッセージ</title>
+  <desc id="uui-0556-color-desc" xml:lang="ja">「APIメッセージ」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0556" slug="message-square-code" variant="color">
+      <uui:name xml:lang="ja">APIメッセージ</uui:name>
+      <uui:name xml:lang="en">Message Square Code</uui:name>
+      <uui:description xml:lang="ja">「APIメッセージ」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Message Square Code” in api and integration contexts.</uui:description>
+      <uui:category id="api-integration" xml:lang="ja">APIと連携</uui:category>
+      <uui:category id="api-integration" xml:lang="en">API and integration</uui:category>
+      <uui:keywords xml:lang="ja">APIメッセージ, APIと連携, message, square, code</uui:keywords>
+      <uui:keywords xml:lang="en">Message Square Code, API and integration, message, square, code</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/api-integration/message-square-code.svg"/>
+      <uui:palette primary="#0E7490" accent="#06B6D4" secondary="#67E8F9"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="5d44fc3cb47ab5dada7613d5cabe3f1b480af1546ae1028410885a56697bec38"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z" stroke="#0E7490" data-uui-role="primary"/>
+    <path d="m10 8-3 3 3 3" stroke="#06B6D4" data-uui-role="accent"/>
+    <path d="m14 14 3-3-3-3" stroke="#06B6D4" data-uui-role="accent"/>
+  </g>
+</svg>

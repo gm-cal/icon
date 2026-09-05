@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0658-monochrome-title uui-0658-monochrome-desc" data-icon-id="UUI-0658" data-icon-name="shield-off" data-icon-variant="monochrome" data-icon-category="dev-security">
+  <title id="uui-0658-monochrome-title" xml:lang="ja">保護無効</title>
+  <desc id="uui-0658-monochrome-desc" xml:lang="ja">「保護無効」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0658" slug="shield-off" variant="monochrome">
+      <uui:name xml:lang="ja">保護無効</uui:name>
+      <uui:name xml:lang="en">Shield Off</uui:name>
+      <uui:description xml:lang="ja">「保護無効」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Shield Off” in development security contexts.</uui:description>
+      <uui:category id="dev-security" xml:lang="ja">開発セキュリティ</uui:category>
+      <uui:category id="dev-security" xml:lang="en">Development security</uui:category>
+      <uui:keywords xml:lang="ja">保護無効, 開発セキュリティ, shield, off</uui:keywords>
+      <uui:keywords xml:lang="en">Shield Off, Development security, shield, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/dev-security/shield-off.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="6644f68b713dd232ccad1f66bf898e9c8fd812ad0fdf8668d3ef7dd5cc7b28ea"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m2 2 20 20" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M5 5a1 1 0 0 0-1 1v7c0 5 3.5 7.5 7.67 8.94a1 1 0 0 0 .67.01c2.35-.82 4.48-1.97 5.9-3.71" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M9.309 3.652A12.252 12.252 0 0 0 11.24 2.28a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1v7a9.784 9.784 0 0 1-.08 1.264" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

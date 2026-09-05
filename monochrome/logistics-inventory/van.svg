@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0873-monochrome-title uui-0873-monochrome-desc" data-icon-id="UUI-0873" data-icon-name="van" data-icon-variant="monochrome" data-icon-category="logistics-inventory">
+  <title id="uui-0873-monochrome-title" xml:lang="ja">配送バン</title>
+  <desc id="uui-0873-monochrome-desc" xml:lang="ja">「配送バン」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0873" slug="van" variant="monochrome">
+      <uui:name xml:lang="ja">配送バン</uui:name>
+      <uui:name xml:lang="en">Van</uui:name>
+      <uui:description xml:lang="ja">「配送バン」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Van” in logistics and inventory contexts.</uui:description>
+      <uui:category id="logistics-inventory" xml:lang="ja">物流と在庫</uui:category>
+      <uui:category id="logistics-inventory" xml:lang="en">Logistics and inventory</uui:category>
+      <uui:keywords xml:lang="ja">配送バン, 物流と在庫, van</uui:keywords>
+      <uui:keywords xml:lang="en">Van, Logistics and inventory, van</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/logistics-inventory/van.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="cd80cbd7d73d852ecbec058d6afa1fc864c0609639bd3edbc2ba22b5fc200db9"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M13 6v5a1 1 0 0 0 1 1h6.102a1 1 0 0 1 .712.298l.898.91a1 1 0 0 1 .288.702V17a1 1 0 0 1-1 1h-3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M5 18H3a1 1 0 0 1-1-1V8a2 2 0 0 1 2-2h12c1.1 0 2.1.8 2.4 1.8l1.176 4.2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M9 18h5" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="16" cy="18" r="2" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="7" cy="18" r="2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

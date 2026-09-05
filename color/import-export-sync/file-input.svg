@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0954-color-title uui-0954-color-desc" data-icon-id="UUI-0954" data-icon-name="file-input" data-icon-variant="color" data-icon-category="import-export-sync">
+  <title id="uui-0954-color-title" xml:lang="ja">ファイル取り込み</title>
+  <desc id="uui-0954-color-desc" xml:lang="ja">「ファイル取り込み」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0954" slug="file-input" variant="color">
+      <uui:name xml:lang="ja">ファイル取り込み</uui:name>
+      <uui:name xml:lang="en">File Input</uui:name>
+      <uui:description xml:lang="ja">「ファイル取り込み」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Input” in import, export, and sync contexts.</uui:description>
+      <uui:category id="import-export-sync" xml:lang="ja">入出力と同期</uui:category>
+      <uui:category id="import-export-sync" xml:lang="en">Import, export, and sync</uui:category>
+      <uui:keywords xml:lang="ja">ファイル取り込み, 入出力と同期, file, input</uui:keywords>
+      <uui:keywords xml:lang="en">File Input, Import, export, and sync, file, input</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/import-export-sync/file-input.svg"/>
+      <uui:palette primary="#2563EB" accent="#60A5FA" secondary="#BFDBFE"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="29261869c61a3e491dda59359612cf742365f799c8952dc25b577df9201dc451"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 11V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.706.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-1" stroke="#2563EB" data-uui-role="primary"/>
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="#60A5FA" data-uui-role="accent"/>
+    <path d="M2 15h10" stroke="#BFDBFE" data-uui-role="secondary"/>
+    <path d="m9 18 3-3-3-3" stroke="#60A5FA" data-uui-role="accent"/>
+  </g>
+</svg>

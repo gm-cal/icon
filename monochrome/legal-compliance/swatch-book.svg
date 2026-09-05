@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0998-monochrome-title uui-0998-monochrome-desc" data-icon-id="UUI-0998" data-icon-name="swatch-book" data-icon-variant="monochrome" data-icon-category="legal-compliance">
+  <title id="uui-0998-monochrome-title" xml:lang="ja">標準集</title>
+  <desc id="uui-0998-monochrome-desc" xml:lang="ja">「標準集」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0998" slug="swatch-book" variant="monochrome">
+      <uui:name xml:lang="ja">標準集</uui:name>
+      <uui:name xml:lang="en">Swatch Book</uui:name>
+      <uui:description xml:lang="ja">「標準集」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Swatch Book” in legal and compliance contexts.</uui:description>
+      <uui:category id="legal-compliance" xml:lang="ja">法務とコンプライアンス</uui:category>
+      <uui:category id="legal-compliance" xml:lang="en">Legal and compliance</uui:category>
+      <uui:keywords xml:lang="ja">標準集, 法務とコンプライアンス, swatch, book</uui:keywords>
+      <uui:keywords xml:lang="en">Swatch Book, Legal and compliance, swatch, book</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/legal-compliance/swatch-book.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="6ec60d2b072514e05a56e8113c9965f1acbc4276d48ddebfb7c9175711dc0ab1"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M11 17a4 4 0 0 1-8 0V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2Z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16.7 13H19a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2H7" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M 7 17h.01" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="m11 8 2.3-2.3a2.4 2.4 0 0 1 3.404.004L18.6 7.6a2.4 2.4 0 0 1 .026 3.434L9.9 19.8" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

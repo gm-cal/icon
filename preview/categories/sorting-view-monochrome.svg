@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="736" viewBox="0 0 840 736" color="#1F2937">
+  <rect width="100%" height="100%" fill="#F8FAFC"/>
+  <text x="24" y="34" font-size="22" font-weight="700" fill="#0F172A">並べ替えと表示 — モノクロ版</text>
+  <text x="24" y="57" font-size="12" fill="#64748B">Sorting and view · 25 icons</text>
+    <g transform="translate(0 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m14 11 4-4 4 4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M18 16V7" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m2 16 4.039-9.69a.5.5 0 0 1 .923 0L11 16" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M3.304 13h6.392" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">文字を拡大</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0904 · a-arrow-up</text>
+    </g>
+    <g transform="translate(168 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m3 16 4 4 4-4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 20V4" stroke="currentColor" data-uui-role="accent"/>
+        <rect x="15" y="4" width="4" height="6" ry="2" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M17 20v-6h-2" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M15 20h4" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">数字昇順</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0905 · arrow-down-0-1</text>
+    </g>
+    <g transform="translate(336 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m3 16 4 4 4-4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 20V4" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M17 10V4h-2" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M15 10h4" stroke="currentColor" data-uui-role="accent"/>
+        <rect x="15" y="14" width="4" height="6" ry="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">数字降順</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0906 · arrow-down-1-0</text>
+    </g>
+    <g transform="translate(504 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m3 16 4 4 4-4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 20V4" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M20 8h-5" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M15 10V6.5a2.5 2.5 0 0 1 5 0V10" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M15 14h5l-5 6h5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">英字昇順</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0907 · arrow-down-a-z</text>
+    </g>
+    <g transform="translate(672 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m3 16 4 4 4-4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 20V4" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M11 4h4" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M11 8h7" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M11 12h10" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">小さい順</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0908 · arrow-down-narrow-wide</text>
+    </g>
+    <g transform="translate(0 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m3 16 4 4 4-4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 20V4" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M11 4h10" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M11 8h7" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M11 12h4" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">大きい順</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0909 · arrow-down-wide-narrow</text>
+    </g>
+    <g transform="translate(168 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m3 16 4 4 4-4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 4v16" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M15 4h5l-5 6h5" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M15 20v-3.5a2.5 2.5 0 0 1 5 0V20" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M20 18h-5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">英字降順</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0910 · arrow-down-z-a</text>
+    </g>
+    <g transform="translate(336 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m3 8 4-4 4 4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 4v16" stroke="currentColor" data-uui-role="accent"/>
+        <rect x="15" y="4" width="4" height="6" ry="2" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M17 20v-6h-2" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M15 20h4" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">下から数字昇順</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0911 · arrow-up-0-1</text>
+    </g>
+    <g transform="translate(504 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m3 8 4-4 4 4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 4v16" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M17 10V4h-2" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M15 10h4" stroke="currentColor" data-uui-role="accent"/>
+        <rect x="15" y="14" width="4" height="6" ry="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">下から数字降順</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0912 · arrow-up-1-0</text>
+    </g>
+    <g transform="translate(672 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m3 8 4-4 4 4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 4v16" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M20 8h-5" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M15 10V6.5a2.5 2.5 0 0 1 5 0V10" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M15 14h5l-5 6h5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">下から英字昇順</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0913 · arrow-up-a-z</text>
+    </g>
+    <g transform="translate(0 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m3 8 4-4 4 4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 4v16" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M11 12h4" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M11 16h7" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M11 20h10" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">下から小さい順</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0914 · arrow-up-narrow-wide</text>
+    </g>
+    <g transform="translate(168 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m3 8 4-4 4 4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 4v16" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M11 12h10" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M11 16h7" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M11 20h4" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">下から大きい順</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0915 · arrow-up-wide-narrow</text>
+    </g>
+    <g transform="translate(336 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m3 8 4-4 4 4" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 4v16" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M15 4h5l-5 6h5" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M15 20v-3.5a2.5 2.5 0 0 1 5 0V20" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M20 18h-5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">下から英字降順</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0916 · arrow-up-z-a</text>
+    </g>
+    <g transform="translate(504 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M13.354 3H3a1 1 0 0 0-.742 1.67l7.225 7.989A2 2 0 0 1 10 14v6a1 1 0 0 0 .553.895l2 1A1 1 0 0 0 14 21v-7a2 2 0 0 1 .517-1.341l1.218-1.348" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M16 6h6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M19 3v6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">絞り込み条件追加</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0917 · funnel-plus</text>
+    </g>
+    <g transform="translate(672 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12.531 3H3a1 1 0 0 0-.742 1.67l7.225 7.989A2 2 0 0 1 10 14v6a1 1 0 0 0 .553.895l2 1A1 1 0 0 0 14 21v-7a2 2 0 0 1 .517-1.341l.427-.473" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m16.5 3.5 5 5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m21.5 3.5-5 5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">絞り込み解除</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0918 · funnel-x</text>
+    </g>
+    <g transform="translate(0 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2 7v10" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M6 5v14" stroke="currentColor" data-uui-role="accent"/>
+        <rect width="12" height="18" x="10" y="3" rx="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">横ギャラリー末尾</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0919 · gallery-horizontal-end</text>
+    </g>
+    <g transform="translate(168 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="18" height="14" x="3" y="3" rx="2" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M4 21h1" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M9 21h1" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M14 21h1" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M19 21h1" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">サムネイル一覧</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0920 · gallery-thumbnails</text>
+    </g>
+    <g transform="translate(336 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 2h18" stroke="currentColor" data-uui-role="primary"/>
+        <rect width="18" height="12" x="3" y="6" rx="2" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3 22h18" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">縦ギャラリー</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0921 · gallery-vertical</text>
+    </g>
+    <g transform="translate(504 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 2h10" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M5 6h14" stroke="currentColor" data-uui-role="accent"/>
+        <rect width="18" height="12" x="3" y="10" rx="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">縦ギャラリー末尾</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0922 · gallery-vertical-end</text>
+    </g>
+    <g transform="translate(672 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 3v17a1 1 0 0 1-1 1H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v6a1 1 0 0 1-1 1H3" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M16 19h6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M19 22v-6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">グリッド追加</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0923 · grid-2x2-plus</text>
+    </g>
+    <g transform="translate(0 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 3v17a1 1 0 0 1-1 1H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v6a1 1 0 0 1-1 1H3" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m16 16 5 5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m16 21 5-5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">グリッド削除</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0924 · grid-2x2-x</text>
+    </g>
+    <g transform="translate(168 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="7" height="9" x="3" y="3" rx="1" stroke="currentColor" data-uui-role="primary"/>
+        <rect width="7" height="5" x="14" y="3" rx="1" stroke="currentColor" data-uui-role="accent"/>
+        <rect width="7" height="9" x="14" y="12" rx="1" stroke="currentColor" data-uui-role="secondary"/>
+        <rect width="7" height="5" x="3" y="16" rx="1" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ダッシュボード配置</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0925 · layout-dashboard</text>
+    </g>
+    <g transform="translate(336 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="18" height="7" x="3" y="3" rx="1" stroke="currentColor" data-uui-role="primary"/>
+        <rect width="9" height="7" x="3" y="14" rx="1" stroke="currentColor" data-uui-role="accent"/>
+        <rect width="5" height="7" x="16" y="14" rx="1" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">テンプレート配置</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0926 · layout-template</text>
+    </g>
+    <g transform="translate(504 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m15 18-.722-3.25" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M2 8a10.645 10.645 0 0 0 20 0" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m20 15-1.726-2.05" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="m4 15 1.726-2.05" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m9 18 .722-3.25" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">閉じた表示</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0927 · eye-closed</text>
+    </g>
+    <g transform="translate(672 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M8 3H5a2 2 0 0 0-2 2v3" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M21 8V5a2 2 0 0 0-2-2h-3" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3 16v3a2 2 0 0 0 2 2h3" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M16 21h3a2 2 0 0 0 2-2v-3" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">表示領域拡大</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0928 · maximize</text>
+    </g>
+</svg>

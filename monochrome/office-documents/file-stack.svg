@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0742-monochrome-title uui-0742-monochrome-desc" data-icon-id="UUI-0742" data-icon-name="file-stack" data-icon-variant="monochrome" data-icon-category="office-documents">
+  <title id="uui-0742-monochrome-title" xml:lang="ja">ファイル束</title>
+  <desc id="uui-0742-monochrome-desc" xml:lang="ja">「ファイル束」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0742" slug="file-stack" variant="monochrome">
+      <uui:name xml:lang="ja">ファイル束</uui:name>
+      <uui:name xml:lang="en">File Stack</uui:name>
+      <uui:description xml:lang="ja">「ファイル束」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Stack” in office documents contexts.</uui:description>
+      <uui:category id="office-documents" xml:lang="ja">業務文書</uui:category>
+      <uui:category id="office-documents" xml:lang="en">Office documents</uui:category>
+      <uui:keywords xml:lang="ja">ファイル束, 業務文書, file, stack</uui:keywords>
+      <uui:keywords xml:lang="en">File Stack, Office documents, file, stack</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/office-documents/file-stack.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="644862e330e8546b2cef671a8a0e09c30fb0f645add7a3903fb7f7419bbcaff7"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M11 21a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-8a1 1 0 0 1 1-1" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16 16a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M21 6a2 2 0 0 0-.586-1.414l-2-2A2 2 0 0 0 17 2h-3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1z" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

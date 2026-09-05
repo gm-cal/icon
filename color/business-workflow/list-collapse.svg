@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0706-color-title uui-0706-color-desc" data-icon-id="UUI-0706" data-icon-name="list-collapse" data-icon-variant="color" data-icon-category="business-workflow">
+  <title id="uui-0706-color-title" xml:lang="ja">一覧を折り畳む</title>
+  <desc id="uui-0706-color-desc" xml:lang="ja">「一覧を折り畳む」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0706" slug="list-collapse" variant="color">
+      <uui:name xml:lang="ja">一覧を折り畳む</uui:name>
+      <uui:name xml:lang="en">List Collapse</uui:name>
+      <uui:description xml:lang="ja">「一覧を折り畳む」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “List Collapse” in business workflow contexts.</uui:description>
+      <uui:category id="business-workflow" xml:lang="ja">業務フロー</uui:category>
+      <uui:category id="business-workflow" xml:lang="en">Business workflow</uui:category>
+      <uui:keywords xml:lang="ja">一覧を折り畳む, 業務フロー, list, collapse</uui:keywords>
+      <uui:keywords xml:lang="en">List Collapse, Business workflow, list, collapse</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/business-workflow/list-collapse.svg"/>
+      <uui:palette primary="#0F766E" accent="#14B8A6" secondary="#5EEAD4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4b3f0789d1654e2cdcb2599c1c648bdd1c52459382ad4aa821ffba25b60f5efd"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 5h11" stroke="#0F766E" data-uui-role="primary"/>
+    <path d="M10 12h11" stroke="#14B8A6" data-uui-role="accent"/>
+    <path d="M10 19h11" stroke="#5EEAD4" data-uui-role="secondary"/>
+    <path d="m3 10 3-3-3-3" stroke="#14B8A6" data-uui-role="accent"/>
+    <path d="m3 20 3-3-3-3" stroke="#14B8A6" data-uui-role="accent"/>
+  </g>
+</svg>

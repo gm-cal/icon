@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0863-monochrome-title uui-0863-monochrome-desc" data-icon-id="UUI-0863" data-icon-name="plane-takeoff" data-icon-variant="monochrome" data-icon-category="logistics-inventory">
+  <title id="uui-0863-monochrome-title" xml:lang="ja">航空便出発</title>
+  <desc id="uui-0863-monochrome-desc" xml:lang="ja">「航空便出発」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0863" slug="plane-takeoff" variant="monochrome">
+      <uui:name xml:lang="ja">航空便出発</uui:name>
+      <uui:name xml:lang="en">Plane Takeoff</uui:name>
+      <uui:description xml:lang="ja">「航空便出発」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Plane Takeoff” in logistics and inventory contexts.</uui:description>
+      <uui:category id="logistics-inventory" xml:lang="ja">物流と在庫</uui:category>
+      <uui:category id="logistics-inventory" xml:lang="en">Logistics and inventory</uui:category>
+      <uui:keywords xml:lang="ja">航空便出発, 物流と在庫, plane, takeoff</uui:keywords>
+      <uui:keywords xml:lang="en">Plane Takeoff, Logistics and inventory, plane, takeoff</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/logistics-inventory/plane-takeoff.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="a08360d7d25039dd895d0045cce5842f60dd4d8c5d0f6e18b40e5fe8651a9133"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2 22h20" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M6.36 17.4 4 17l-2-4 1.1-.55a2 2 0 0 1 1.8 0l.17.1a2 2 0 0 0 1.8 0L8 12 5 6l.9-.45a2 2 0 0 1 2.09.2l4.02 3a2 2 0 0 0 2.1.2l4.19-2.06a2.41 2.41 0 0 1 1.73-.17L21 7a1.4 1.4 0 0 1 .87 1.99l-.38.76c-.23.46-.6.84-1.07 1.08L7.58 17.2a2 2 0 0 1-1.22.18Z" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

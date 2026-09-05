@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0886-monochrome-title uui-0886-monochrome-desc" data-icon-id="UUI-0886" data-icon-name="square-round-corner" data-icon-variant="monochrome" data-icon-category="forms-input">
+  <title id="uui-0886-monochrome-title" xml:lang="ja">角丸入力欄</title>
+  <desc id="uui-0886-monochrome-desc" xml:lang="ja">「角丸入力欄」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0886" slug="square-round-corner" variant="monochrome">
+      <uui:name xml:lang="ja">角丸入力欄</uui:name>
+      <uui:name xml:lang="en">Square Round Corner</uui:name>
+      <uui:description xml:lang="ja">「角丸入力欄」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Square Round Corner” in forms and input contexts.</uui:description>
+      <uui:category id="forms-input" xml:lang="ja">フォームと入力</uui:category>
+      <uui:category id="forms-input" xml:lang="en">Forms and input</uui:category>
+      <uui:keywords xml:lang="ja">角丸入力欄, フォームと入力, square, round, corner</uui:keywords>
+      <uui:keywords xml:lang="en">Square Round Corner, Forms and input, square, round, corner</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/forms-input/square-round-corner.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="f0b1eebb070b7c2f6e6a8a1d19672526732e74a93036759b4f71c09d216d3fdb"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M21 11a8 8 0 0 0-8-8" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

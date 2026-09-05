@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0738-monochrome-title uui-0738-monochrome-desc" data-icon-id="UUI-0738" data-icon-name="file-play" data-icon-variant="monochrome" data-icon-category="office-documents">
+  <title id="uui-0738-monochrome-title" xml:lang="ja">再生ファイル</title>
+  <desc id="uui-0738-monochrome-desc" xml:lang="ja">「再生ファイル」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0738" slug="file-play" variant="monochrome">
+      <uui:name xml:lang="ja">再生ファイル</uui:name>
+      <uui:name xml:lang="en">File Play</uui:name>
+      <uui:description xml:lang="ja">「再生ファイル」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Play” in office documents contexts.</uui:description>
+      <uui:category id="office-documents" xml:lang="ja">業務文書</uui:category>
+      <uui:category id="office-documents" xml:lang="en">Office documents</uui:category>
+      <uui:keywords xml:lang="ja">再生ファイル, 業務文書, file, play</uui:keywords>
+      <uui:keywords xml:lang="en">File Play, Office documents, file, play</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/office-documents/file-play.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="b36a49fc358390381f82b7a3c4d1256d5a820c8e3544495acd780ca3a782bd12"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M15.033 13.44a.647.647 0 0 1 0 1.12l-4.065 2.352a.645.645 0 0 1-.968-.56v-4.704a.645.645 0 0 1 .967-.56z" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

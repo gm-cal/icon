@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0963-monochrome-title uui-0963-monochrome-desc" data-icon-id="UUI-0963" data-icon-name="arrow-down-to-line" data-icon-variant="monochrome" data-icon-category="import-export-sync">
+  <title id="uui-0963-monochrome-title" xml:lang="ja">下の境界へ</title>
+  <desc id="uui-0963-monochrome-desc" xml:lang="ja">「下の境界へ」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0963" slug="arrow-down-to-line" variant="monochrome">
+      <uui:name xml:lang="ja">下の境界へ</uui:name>
+      <uui:name xml:lang="en">Arrow Down To Line</uui:name>
+      <uui:description xml:lang="ja">「下の境界へ」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Arrow Down To Line” in import, export, and sync contexts.</uui:description>
+      <uui:category id="import-export-sync" xml:lang="ja">入出力と同期</uui:category>
+      <uui:category id="import-export-sync" xml:lang="en">Import, export, and sync</uui:category>
+      <uui:keywords xml:lang="ja">下の境界へ, 入出力と同期, arrow, down, to, line</uui:keywords>
+      <uui:keywords xml:lang="en">Arrow Down To Line, Import, export, and sync, arrow, down, to, line</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/import-export-sync/arrow-down-to-line.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="dcfa5b6c039ae778de780c695f42fe7239b03cb4ca1ee65bd1b385f4ec088c5d"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 17V3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m6 11 6 6 6-6" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M19 21H5" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

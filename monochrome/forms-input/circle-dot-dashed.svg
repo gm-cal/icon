@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0883-monochrome-title uui-0883-monochrome-desc" data-icon-id="UUI-0883" data-icon-name="circle-dot-dashed" data-icon-variant="monochrome" data-icon-category="forms-input">
+  <title id="uui-0883-monochrome-title" xml:lang="ja">仮選択</title>
+  <desc id="uui-0883-monochrome-desc" xml:lang="ja">「仮選択」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0883" slug="circle-dot-dashed" variant="monochrome">
+      <uui:name xml:lang="ja">仮選択</uui:name>
+      <uui:name xml:lang="en">Circle Dot Dashed</uui:name>
+      <uui:description xml:lang="ja">「仮選択」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Circle Dot Dashed” in forms and input contexts.</uui:description>
+      <uui:category id="forms-input" xml:lang="ja">フォームと入力</uui:category>
+      <uui:category id="forms-input" xml:lang="en">Forms and input</uui:category>
+      <uui:keywords xml:lang="ja">仮選択, フォームと入力, circle, dot, dashed</uui:keywords>
+      <uui:keywords xml:lang="en">Circle Dot Dashed, Forms and input, circle, dot, dashed</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/forms-input/circle-dot-dashed.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7898eec5281279e5fb288461b4682b3267ba2b28600427a90742157c6894456c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10.1 2.18a9.93 9.93 0 0 1 3.8 0" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M17.6 3.71a9.95 9.95 0 0 1 2.69 2.7" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M21.82 10.1a9.93 9.93 0 0 1 0 3.8" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M20.29 17.6a9.95 9.95 0 0 1-2.7 2.69" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M13.9 21.82a9.94 9.94 0 0 1-3.8 0" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M6.4 20.29a9.95 9.95 0 0 1-2.69-2.7" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M2.18 13.9a9.93 9.93 0 0 1 0-3.8" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M3.71 6.4a9.95 9.95 0 0 1 2.7-2.69" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="12" cy="12" r="1" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

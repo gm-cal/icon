@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0723-monochrome-title uui-0723-monochrome-desc" data-icon-id="UUI-0723" data-icon-name="redo-dot" data-icon-variant="monochrome" data-icon-category="business-workflow">
+  <title id="uui-0723-monochrome-title" xml:lang="ja">次工程へ進む</title>
+  <desc id="uui-0723-monochrome-desc" xml:lang="ja">「次工程へ進む」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0723" slug="redo-dot" variant="monochrome">
+      <uui:name xml:lang="ja">次工程へ進む</uui:name>
+      <uui:name xml:lang="en">Redo Dot</uui:name>
+      <uui:description xml:lang="ja">「次工程へ進む」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Redo Dot” in business workflow contexts.</uui:description>
+      <uui:category id="business-workflow" xml:lang="ja">業務フロー</uui:category>
+      <uui:category id="business-workflow" xml:lang="en">Business workflow</uui:category>
+      <uui:keywords xml:lang="ja">次工程へ進む, 業務フロー, redo, dot</uui:keywords>
+      <uui:keywords xml:lang="en">Redo Dot, Business workflow, redo, dot</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/business-workflow/redo-dot.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="1f9c5d7d37b510478b1d2d9fa309ac27d932555a8c76d67560465dc52decffd3"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="17" r="1" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M21 7v6h-6" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M3 17a9 9 0 0 1 9-9 9 9 0 0 1 6 2.3l3 2.7" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

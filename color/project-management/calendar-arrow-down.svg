@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0697-color-title uui-0697-color-desc" data-icon-id="UUI-0697" data-icon-name="calendar-arrow-down" data-icon-variant="color" data-icon-category="project-management">
+  <title id="uui-0697-color-title" xml:lang="ja">予定取り込み</title>
+  <desc id="uui-0697-color-desc" xml:lang="ja">「予定取り込み」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0697" slug="calendar-arrow-down" variant="color">
+      <uui:name xml:lang="ja">予定取り込み</uui:name>
+      <uui:name xml:lang="en">Calendar Arrow Down</uui:name>
+      <uui:description xml:lang="ja">「予定取り込み」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Calendar Arrow Down” in project management contexts.</uui:description>
+      <uui:category id="project-management" xml:lang="ja">プロジェクト管理</uui:category>
+      <uui:category id="project-management" xml:lang="en">Project management</uui:category>
+      <uui:keywords xml:lang="ja">予定取り込み, プロジェクト管理, calendar, arrow, down</uui:keywords>
+      <uui:keywords xml:lang="en">Calendar Arrow Down, Project management, calendar, arrow, down</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/project-management/calendar-arrow-down.svg"/>
+      <uui:palette primary="#A16207" accent="#EAB308" secondary="#FDE047"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="51f4b49190b996b5d1df30923a485055fe814e20060ad983318275ba754b57f0"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m14 18 4 4 4-4" stroke="#A16207" data-uui-role="primary"/>
+    <path d="M16 2v4" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M18 14v8" stroke="#FDE047" data-uui-role="secondary"/>
+    <path d="M21 11.354V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h7.343" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M3 10h18" stroke="#FDE047" data-uui-role="secondary"/>
+    <path d="M8 2v4" stroke="#EAB308" data-uui-role="accent"/>
+  </g>
+</svg>

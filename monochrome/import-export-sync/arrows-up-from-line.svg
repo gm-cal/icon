@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0970-monochrome-title uui-0970-monochrome-desc" data-icon-id="UUI-0970" data-icon-name="arrows-up-from-line" data-icon-variant="monochrome" data-icon-category="import-export-sync">
+  <title id="uui-0970-monochrome-title" xml:lang="ja">複数送信</title>
+  <desc id="uui-0970-monochrome-desc" xml:lang="ja">「複数送信」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0970" slug="arrows-up-from-line" variant="monochrome">
+      <uui:name xml:lang="ja">複数送信</uui:name>
+      <uui:name xml:lang="en">Arrows Up From Line</uui:name>
+      <uui:description xml:lang="ja">「複数送信」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Arrows Up From Line” in import, export, and sync contexts.</uui:description>
+      <uui:category id="import-export-sync" xml:lang="ja">入出力と同期</uui:category>
+      <uui:category id="import-export-sync" xml:lang="en">Import, export, and sync</uui:category>
+      <uui:keywords xml:lang="ja">複数送信, 入出力と同期, arrows, up, from, line</uui:keywords>
+      <uui:keywords xml:lang="en">Arrows Up From Line, Import, export, and sync, arrows, up, from, line</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/import-export-sync/arrows-up-from-line.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="019b2f532ff75237dcef4cf25caaed435dc35f92579b50a725988304d2a47bab"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m4 6 3-3 3 3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M7 17V3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m14 6 3-3 3 3" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M17 17V3" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M4 21h16" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

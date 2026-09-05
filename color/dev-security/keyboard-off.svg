@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0676-color-title uui-0676-color-desc" data-icon-id="UUI-0676" data-icon-name="keyboard-off" data-icon-variant="color" data-icon-category="dev-security">
+  <title id="uui-0676-color-title" xml:lang="ja">入力禁止</title>
+  <desc id="uui-0676-color-desc" xml:lang="ja">「入力禁止」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0676" slug="keyboard-off" variant="color">
+      <uui:name xml:lang="ja">入力禁止</uui:name>
+      <uui:name xml:lang="en">Keyboard Off</uui:name>
+      <uui:description xml:lang="ja">「入力禁止」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Keyboard Off” in development security contexts.</uui:description>
+      <uui:category id="dev-security" xml:lang="ja">開発セキュリティ</uui:category>
+      <uui:category id="dev-security" xml:lang="en">Development security</uui:category>
+      <uui:keywords xml:lang="ja">入力禁止, 開発セキュリティ, keyboard, off</uui:keywords>
+      <uui:keywords xml:lang="en">Keyboard Off, Development security, keyboard, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/dev-security/keyboard-off.svg"/>
+      <uui:palette primary="#B91C1C" accent="#EF4444" secondary="#FCA5A5"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="054b2d19076935bfffa1851e571433b2d47bfd7691d5fd0a7ff191d4d43e8291"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M 20 4 A2 2 0 0 1 22 6" stroke="#B91C1C" data-uui-role="primary"/>
+    <path d="M 22 6 L 22 16.41" stroke="#EF4444" data-uui-role="accent"/>
+    <path d="M 7 16 L 16 16" stroke="#FCA5A5" data-uui-role="secondary"/>
+    <path d="M 9.69 4 L 20 4" stroke="#EF4444" data-uui-role="accent"/>
+    <path d="M14 8h.01" stroke="#FCA5A5" data-uui-role="secondary"/>
+    <path d="M18 8h.01" stroke="#EF4444" data-uui-role="accent"/>
+    <path d="m2 2 20 20" stroke="#FCA5A5" data-uui-role="secondary"/>
+    <path d="M20 20H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2" stroke="#EF4444" data-uui-role="accent"/>
+    <path d="M6 8h.01" stroke="#FCA5A5" data-uui-role="secondary"/>
+    <path d="M8 12h.01" stroke="#EF4444" data-uui-role="accent"/>
+  </g>
+</svg>

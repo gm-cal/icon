@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0661-color-title uui-0661-color-desc" data-icon-id="UUI-0661" data-icon-name="brick-wall-fire" data-icon-variant="color" data-icon-category="dev-security">
+  <title id="uui-0661-color-title" xml:lang="ja">ファイアウォール警告</title>
+  <desc id="uui-0661-color-desc" xml:lang="ja">「ファイアウォール警告」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0661" slug="brick-wall-fire" variant="color">
+      <uui:name xml:lang="ja">ファイアウォール警告</uui:name>
+      <uui:name xml:lang="en">Brick Wall Fire</uui:name>
+      <uui:description xml:lang="ja">「ファイアウォール警告」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Brick Wall Fire” in development security contexts.</uui:description>
+      <uui:category id="dev-security" xml:lang="ja">開発セキュリティ</uui:category>
+      <uui:category id="dev-security" xml:lang="en">Development security</uui:category>
+      <uui:keywords xml:lang="ja">ファイアウォール警告, 開発セキュリティ, brick, wall, fire</uui:keywords>
+      <uui:keywords xml:lang="en">Brick Wall Fire, Development security, brick, wall, fire</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/dev-security/brick-wall-fire.svg"/>
+      <uui:palette primary="#B91C1C" accent="#EF4444" secondary="#FCA5A5"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="98ea17ea97ae46a5c25092ad6c7312cc67d59dd1a23786102ba195914de31767"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M16 3v2.107" stroke="#B91C1C" data-uui-role="primary"/>
+    <path d="M17 9c1 3 2.5 3.5 3.5 4.5A5 5 0 0 1 22 17a5 5 0 0 1-10 0c0-.3 0-.6.1-.9a2 2 0 1 0 3.3-2C13 11.5 16 9 17 9" stroke="#EF4444" data-uui-role="accent"/>
+    <path d="M21 8.274V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h3.938" stroke="#FCA5A5" data-uui-role="secondary"/>
+    <path d="M3 15h5.253" stroke="#EF4444" data-uui-role="accent"/>
+    <path d="M3 9h8.228" stroke="#FCA5A5" data-uui-role="secondary"/>
+    <path d="M8 15v6" stroke="#EF4444" data-uui-role="accent"/>
+    <path d="M8 3v6" stroke="#EF4444" data-uui-role="accent"/>
+  </g>
+</svg>

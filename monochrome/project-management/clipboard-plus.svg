@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0690-monochrome-title uui-0690-monochrome-desc" data-icon-id="UUI-0690" data-icon-name="clipboard-plus" data-icon-variant="monochrome" data-icon-category="project-management">
+  <title id="uui-0690-monochrome-title" xml:lang="ja">タスク追加</title>
+  <desc id="uui-0690-monochrome-desc" xml:lang="ja">「タスク追加」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0690" slug="clipboard-plus" variant="monochrome">
+      <uui:name xml:lang="ja">タスク追加</uui:name>
+      <uui:name xml:lang="en">Clipboard Plus</uui:name>
+      <uui:description xml:lang="ja">「タスク追加」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Clipboard Plus” in project management contexts.</uui:description>
+      <uui:category id="project-management" xml:lang="ja">プロジェクト管理</uui:category>
+      <uui:category id="project-management" xml:lang="en">Project management</uui:category>
+      <uui:keywords xml:lang="ja">タスク追加, プロジェクト管理, clipboard, plus</uui:keywords>
+      <uui:keywords xml:lang="en">Clipboard Plus, Project management, clipboard, plus</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/project-management/clipboard-plus.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e437c6796404a987621602e3d517e1d60b1875dc765df4bd017e6b048fa5ed9a"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect width="8" height="4" x="8" y="2" rx="1" ry="1" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M9 14h6" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M12 17v-6" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

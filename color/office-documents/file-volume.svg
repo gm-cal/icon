@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0745-color-title uui-0745-color-desc" data-icon-id="UUI-0745" data-icon-name="file-volume" data-icon-variant="color" data-icon-category="office-documents">
+  <title id="uui-0745-color-title" xml:lang="ja">音声ファイル</title>
+  <desc id="uui-0745-color-desc" xml:lang="ja">「音声ファイル」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0745" slug="file-volume" variant="color">
+      <uui:name xml:lang="ja">音声ファイル</uui:name>
+      <uui:name xml:lang="en">File Volume</uui:name>
+      <uui:description xml:lang="ja">「音声ファイル」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Volume” in office documents contexts.</uui:description>
+      <uui:category id="office-documents" xml:lang="ja">業務文書</uui:category>
+      <uui:category id="office-documents" xml:lang="en">Office documents</uui:category>
+      <uui:keywords xml:lang="ja">音声ファイル, 業務文書, file, volume</uui:keywords>
+      <uui:keywords xml:lang="en">File Volume, Office documents, file, volume</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/office-documents/file-volume.svg"/>
+      <uui:palette primary="#7E22CE" accent="#A855F7" secondary="#D8B4FE"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="6b7a2b6618c767691660f83aef404941af5d75365416700b2e147b520b5857eb"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M4 11.55V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.706.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2h-1.95" stroke="#7E22CE" data-uui-role="primary"/>
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="#A855F7" data-uui-role="accent"/>
+    <path d="M12 15a5 5 0 0 1 0 6" stroke="#D8B4FE" data-uui-role="secondary"/>
+    <path d="M8 14.502a.5.5 0 0 0-.826-.381l-1.893 1.631a1 1 0 0 1-.651.243H3.5a.5.5 0 0 0-.5.501v3.006a.5.5 0 0 0 .5.501h1.129a1 1 0 0 1 .652.243l1.893 1.633a.5.5 0 0 0 .826-.38z" stroke="#A855F7" data-uui-role="accent"/>
+  </g>
+</svg>

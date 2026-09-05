@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0664-monochrome-title uui-0664-monochrome-desc" data-icon-id="UUI-0664" data-icon-name="earth-lock" data-icon-variant="monochrome" data-icon-category="dev-security">
+  <title id="uui-0664-monochrome-title" xml:lang="ja">外部ネットワーク保護</title>
+  <desc id="uui-0664-monochrome-desc" xml:lang="ja">「外部ネットワーク保護」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0664" slug="earth-lock" variant="monochrome">
+      <uui:name xml:lang="ja">外部ネットワーク保護</uui:name>
+      <uui:name xml:lang="en">Earth Lock</uui:name>
+      <uui:description xml:lang="ja">「外部ネットワーク保護」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Earth Lock” in development security contexts.</uui:description>
+      <uui:category id="dev-security" xml:lang="ja">開発セキュリティ</uui:category>
+      <uui:category id="dev-security" xml:lang="en">Development security</uui:category>
+      <uui:keywords xml:lang="ja">外部ネットワーク保護, 開発セキュリティ, earth, lock</uui:keywords>
+      <uui:keywords xml:lang="en">Earth Lock, Development security, earth, lock</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/dev-security/earth-lock.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="6ad9fee2bf5c22507190412d059806a6b986918668bc93787c1a947a9e01bad7"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M7 3.34V5a3 3 0 0 0 3 3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M11 21.95V18a2 2 0 0 0-2-2 2 2 0 0 1-2-2v-1a2 2 0 0 0-2-2H2.05" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M21.54 15H17a2 2 0 0 0-2 2v4.54" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M12 2a10 10 0 1 0 9.54 13" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M20 6V4a2 2 0 1 0-4 0v2" stroke="currentColor" data-uui-role="secondary"/>
+    <rect width="8" height="5" x="14" y="6" rx="1" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

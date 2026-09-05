@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0898-color-title uui-0898-color-desc" data-icon-id="UUI-0898" data-icon-name="pointer-off" data-icon-variant="color" data-icon-category="forms-input">
+  <title id="uui-0898-color-title" xml:lang="ja">タップ無効</title>
+  <desc id="uui-0898-color-desc" xml:lang="ja">「タップ無効」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0898" slug="pointer-off" variant="color">
+      <uui:name xml:lang="ja">タップ無効</uui:name>
+      <uui:name xml:lang="en">Pointer Off</uui:name>
+      <uui:description xml:lang="ja">「タップ無効」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Pointer Off” in forms and input contexts.</uui:description>
+      <uui:category id="forms-input" xml:lang="ja">フォームと入力</uui:category>
+      <uui:category id="forms-input" xml:lang="en">Forms and input</uui:category>
+      <uui:keywords xml:lang="ja">タップ無効, フォームと入力, pointer, off</uui:keywords>
+      <uui:keywords xml:lang="en">Pointer Off, Forms and input, pointer, off</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/forms-input/pointer-off.svg"/>
+      <uui:palette primary="#4F46E5" accent="#818CF8" secondary="#C7D2FE"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d103b453635c540629f9612b51aceb2fbe165851516c38b86afd94b87e72de99"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 4.5V4a2 2 0 0 0-2.41-1.957" stroke="#4F46E5" data-uui-role="primary"/>
+    <path d="M13.9 8.4a2 2 0 0 0-1.26-1.295" stroke="#818CF8" data-uui-role="accent"/>
+    <path d="M21.7 16.2A8 8 0 0 0 22 14v-3a2 2 0 1 0-4 0v-1a2 2 0 0 0-3.63-1.158" stroke="#C7D2FE" data-uui-role="secondary"/>
+    <path d="m7 15-1.8-1.8a2 2 0 0 0-2.79 2.86L6 19.7a7.74 7.74 0 0 0 6 2.3h2a8 8 0 0 0 5.657-2.343" stroke="#818CF8" data-uui-role="accent"/>
+    <path d="M6 6v8" stroke="#C7D2FE" data-uui-role="secondary"/>
+    <path d="m2 2 20 20" stroke="#818CF8" data-uui-role="accent"/>
+  </g>
+</svg>

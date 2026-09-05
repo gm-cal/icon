@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0787-monochrome-title uui-0787-monochrome-desc" data-icon-id="UUI-0787" data-icon-name="gem" data-icon-variant="monochrome" data-icon-category="sales-crm">
+  <title id="uui-0787-monochrome-title" xml:lang="ja">優良顧客</title>
+  <desc id="uui-0787-monochrome-desc" xml:lang="ja">「優良顧客」を表す汎用UIアイコン。営業と顧客管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0787" slug="gem" variant="monochrome">
+      <uui:name xml:lang="ja">優良顧客</uui:name>
+      <uui:name xml:lang="en">Gem</uui:name>
+      <uui:description xml:lang="ja">「優良顧客」を表す汎用UIアイコン。営業と顧客管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Gem” in sales and crm contexts.</uui:description>
+      <uui:category id="sales-crm" xml:lang="ja">営業と顧客管理</uui:category>
+      <uui:category id="sales-crm" xml:lang="en">Sales and CRM</uui:category>
+      <uui:keywords xml:lang="ja">優良顧客, 営業と顧客管理, gem</uui:keywords>
+      <uui:keywords xml:lang="en">Gem, Sales and CRM, gem</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/sales-crm/gem.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="efb25cea39242764fe827f3e70957d2e2ae6efccacf12ffd03fdd6d4e3c2a5ef"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10.5 3 8 9l4 13 4-13-2.5-6" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M17 3a2 2 0 0 1 1.6.8l3 4a2 2 0 0 1 .013 2.382l-7.99 10.986a2 2 0 0 1-3.247 0l-7.99-10.986A2 2 0 0 1 2.4 7.8l2.998-3.997A2 2 0 0 1 7 3z" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M2 9h20" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

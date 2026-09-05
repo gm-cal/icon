@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0670-monochrome-title uui-0670-monochrome-desc" data-icon-id="UUI-0670" data-icon-name="rotate-ccw-key" data-icon-variant="monochrome" data-icon-category="dev-security">
+  <title id="uui-0670-monochrome-title" xml:lang="ja">鍵をローテーション</title>
+  <desc id="uui-0670-monochrome-desc" xml:lang="ja">「鍵をローテーション」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0670" slug="rotate-ccw-key" variant="monochrome">
+      <uui:name xml:lang="ja">鍵をローテーション</uui:name>
+      <uui:name xml:lang="en">Rotate Ccw Key</uui:name>
+      <uui:description xml:lang="ja">「鍵をローテーション」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Rotate Ccw Key” in development security contexts.</uui:description>
+      <uui:category id="dev-security" xml:lang="ja">開発セキュリティ</uui:category>
+      <uui:category id="dev-security" xml:lang="en">Development security</uui:category>
+      <uui:keywords xml:lang="ja">鍵をローテーション, 開発セキュリティ, rotate, ccw, key</uui:keywords>
+      <uui:keywords xml:lang="en">Rotate Ccw Key, Development security, rotate, ccw, key</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/dev-security/rotate-ccw-key.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="ace5edc36631c23366ee98d52116b556db4c05afd697e575c916bf114fc20974"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M12 7v6" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M12 9h2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M3 12a9 9 0 1 0 9-9 9.74 9.74 0 0 0-6.74 2.74L3 8" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M3 3v5h5" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="12" cy="15" r="2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

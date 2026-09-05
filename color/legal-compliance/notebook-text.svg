@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0997-color-title uui-0997-color-desc" data-icon-id="UUI-0997" data-icon-name="notebook-text" data-icon-variant="color" data-icon-category="legal-compliance">
+  <title id="uui-0997-color-title" xml:lang="ja">監査記録</title>
+  <desc id="uui-0997-color-desc" xml:lang="ja">「監査記録」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0997" slug="notebook-text" variant="color">
+      <uui:name xml:lang="ja">監査記録</uui:name>
+      <uui:name xml:lang="en">Notebook Text</uui:name>
+      <uui:description xml:lang="ja">「監査記録」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Notebook Text” in legal and compliance contexts.</uui:description>
+      <uui:category id="legal-compliance" xml:lang="ja">法務とコンプライアンス</uui:category>
+      <uui:category id="legal-compliance" xml:lang="en">Legal and compliance</uui:category>
+      <uui:keywords xml:lang="ja">監査記録, 法務とコンプライアンス, notebook, text</uui:keywords>
+      <uui:keywords xml:lang="en">Notebook Text, Legal and compliance, notebook, text</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/legal-compliance/notebook-text.svg"/>
+      <uui:palette primary="#57534E" accent="#78716C" secondary="#D6D3D1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e0bdd8398050f43af781e168bdcb3b0d3796ab558e51e71dc631b62255da523c"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2 6h4" stroke="#57534E" data-uui-role="primary"/>
+    <path d="M2 10h4" stroke="#78716C" data-uui-role="accent"/>
+    <path d="M2 14h4" stroke="#D6D3D1" data-uui-role="secondary"/>
+    <path d="M2 18h4" stroke="#78716C" data-uui-role="accent"/>
+    <rect width="16" height="20" x="4" y="2" rx="2" stroke="#D6D3D1" data-uui-role="secondary"/>
+    <path d="M9.5 8h5" stroke="#78716C" data-uui-role="accent"/>
+    <path d="M9.5 12H16" stroke="#D6D3D1" data-uui-role="secondary"/>
+    <path d="M9.5 16H14" stroke="#78716C" data-uui-role="accent"/>
+  </g>
+</svg>

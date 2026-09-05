@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0672-monochrome-title uui-0672-monochrome-desc" data-icon-id="UUI-0672" data-icon-name="user-lock" data-icon-variant="monochrome" data-icon-category="dev-security">
+  <title id="uui-0672-monochrome-title" xml:lang="ja">ユーザーロック</title>
+  <desc id="uui-0672-monochrome-desc" xml:lang="ja">「ユーザーロック」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0672" slug="user-lock" variant="monochrome">
+      <uui:name xml:lang="ja">ユーザーロック</uui:name>
+      <uui:name xml:lang="en">User Lock</uui:name>
+      <uui:description xml:lang="ja">「ユーザーロック」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “User Lock” in development security contexts.</uui:description>
+      <uui:category id="dev-security" xml:lang="ja">開発セキュリティ</uui:category>
+      <uui:category id="dev-security" xml:lang="en">Development security</uui:category>
+      <uui:keywords xml:lang="ja">ユーザーロック, 開発セキュリティ, user, lock</uui:keywords>
+      <uui:keywords xml:lang="en">User Lock, Development security, user, lock</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/dev-security/user-lock.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="867283beb317b4e19833fd2d5777605edc4c567fdec0d6a5f9084f0aa0b68872"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M19 16v-2a2 2 0 0 0-4 0v2" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M9.5 15H7a4 4 0 0 0-4 4v2" stroke="currentColor" data-uui-role="accent"/>
+    <circle cx="10" cy="7" r="4" stroke="currentColor" data-uui-role="secondary"/>
+    <rect x="13" y="16" width="8" height="5" rx=".899" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

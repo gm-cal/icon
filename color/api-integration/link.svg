@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0559-color-title uui-0559-color-desc" data-icon-id="UUI-0559" data-icon-name="link" data-icon-variant="color" data-icon-category="api-integration">
+  <title id="uui-0559-color-title" xml:lang="ja">接続リンク</title>
+  <desc id="uui-0559-color-desc" xml:lang="ja">「接続リンク」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0559" slug="link" variant="color">
+      <uui:name xml:lang="ja">接続リンク</uui:name>
+      <uui:name xml:lang="en">Link</uui:name>
+      <uui:description xml:lang="ja">「接続リンク」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Link” in api and integration contexts.</uui:description>
+      <uui:category id="api-integration" xml:lang="ja">APIと連携</uui:category>
+      <uui:category id="api-integration" xml:lang="en">API and integration</uui:category>
+      <uui:keywords xml:lang="ja">接続リンク, APIと連携, link</uui:keywords>
+      <uui:keywords xml:lang="en">Link, API and integration, link</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/api-integration/link.svg"/>
+      <uui:palette primary="#0E7490" accent="#06B6D4" secondary="#67E8F9"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="164ba43064ca308e82af7cbd76a33f5fbc71370e1a809a9e0cf604e5922af3ab"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" stroke="#0E7490" data-uui-role="primary"/>
+    <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" stroke="#06B6D4" data-uui-role="accent"/>
+  </g>
+</svg>

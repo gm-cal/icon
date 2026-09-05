@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0972-color-title uui-0972-color-desc" data-icon-id="UUI-0972" data-icon-name="circle-arrow-up" data-icon-variant="color" data-icon-category="import-export-sync">
+  <title id="uui-0972-color-title" xml:lang="ja">円形アップロード</title>
+  <desc id="uui-0972-color-desc" xml:lang="ja">「円形アップロード」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0972" slug="circle-arrow-up" variant="color">
+      <uui:name xml:lang="ja">円形アップロード</uui:name>
+      <uui:name xml:lang="en">Circle Arrow Up</uui:name>
+      <uui:description xml:lang="ja">「円形アップロード」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Circle Arrow Up” in import, export, and sync contexts.</uui:description>
+      <uui:category id="import-export-sync" xml:lang="ja">入出力と同期</uui:category>
+      <uui:category id="import-export-sync" xml:lang="en">Import, export, and sync</uui:category>
+      <uui:keywords xml:lang="ja">円形アップロード, 入出力と同期, circle, arrow, up</uui:keywords>
+      <uui:keywords xml:lang="en">Circle Arrow Up, Import, export, and sync, circle, arrow, up</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/import-export-sync/circle-arrow-up.svg"/>
+      <uui:palette primary="#2563EB" accent="#60A5FA" secondary="#BFDBFE"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4eceb32fe7df17f50d450499a6dfe8310e730b5e7122542bdb5d604a2ac8f61b"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="10" stroke="#2563EB" data-uui-role="primary"/>
+    <path d="m16 12-4-4-4 4" stroke="#60A5FA" data-uui-role="accent"/>
+    <path d="M12 16V8" stroke="#60A5FA" data-uui-role="accent"/>
+  </g>
+</svg>

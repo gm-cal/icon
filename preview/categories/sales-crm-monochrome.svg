@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="736" viewBox="0 0 840 736" color="#1F2937">
+  <rect width="100%" height="100%" fill="#F8FAFC"/>
+  <text x="24" y="34" font-size="22" font-weight="700" fill="#0F172A">営業と顧客管理 — モノクロ版</text>
+  <text x="24" y="57" font-size="12" fill="#64748B">Sales and CRM · 25 icons</text>
+    <g transform="translate(0 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m11 17 2 2a1 1 0 1 0 3-3" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m14 14 2.5 2.5a1 1 0 1 0 3-3l-3.88-3.88a3 3 0 0 0-4.24 0l-.88.88a1 1 0 1 1-3-3l2.81-2.81a5.79 5.79 0 0 1 7.06-.87l.47.28a2 2 0 0 0 1.42.25L21 4" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m21 3 1 11h-2" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M3 3 2 14l6.5 6.5a1 1 0 1 0 3-3" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M3 4h8" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">商談成立</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0779 · handshake</text>
+    </g>
+    <g transform="translate(168 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 12h.01" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M22 13a18.15 18.15 0 0 1-20 0" stroke="currentColor" data-uui-role="secondary"/>
+        <rect width="20" height="14" x="2" y="6" rx="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">法人営業</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0780 · briefcase-business</text>
+    </g>
+    <g transform="translate(336 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16" stroke="currentColor" data-uui-role="primary"/>
+        <rect width="20" height="14" x="2" y="6" rx="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">営業案件</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0781 · briefcase</text>
+    </g>
+    <g transform="translate(504 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16.051 12.616a1 1 0 0 1 1.909.024l.737 1.452a1 1 0 0 0 .737.535l1.634.256a1 1 0 0 1 .588 1.806l-1.172 1.168a1 1 0 0 0-.282.866l.259 1.613a1 1 0 0 1-1.541 1.134l-1.465-.75a1 1 0 0 0-.912 0l-1.465.75a1 1 0 0 1-1.539-1.133l.258-1.613a1 1 0 0 0-.282-.866l-1.156-1.153a1 1 0 0 1 .572-1.822l1.633-.256a1 1 0 0 0 .737-.535z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M8 15H7a4 4 0 0 0-4 4v2" stroke="currentColor" data-uui-role="accent"/>
+        <circle cx="10" cy="7" r="4" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">重要顧客</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0782 · user-star</text>
+    </g>
+    <g transform="translate(672 76)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M15 13a3 3 0 1 0-6 0" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20" stroke="currentColor" data-uui-role="accent"/>
+        <circle cx="12" cy="8" r="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">顧客台帳</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0783 · book-user</text>
+    </g>
+    <g transform="translate(0 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="18" height="18" x="3" y="3" rx="2" stroke="currentColor" data-uui-role="primary"/>
+        <circle cx="12" cy="10" r="3" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M7 21v-2a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">顧客カード</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0784 · square-user</text>
+    </g>
+    <g transform="translate(168 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M17.925 20.056a6 6 0 0 0-11.851.001" stroke="currentColor" data-uui-role="primary"/>
+        <circle cx="12" cy="11" r="4" stroke="currentColor" data-uui-role="accent"/>
+        <circle cx="12" cy="12" r="10" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">顧客プロフィール</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0785 · circle-user-round</text>
+    </g>
+    <g transform="translate(336 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 7v14" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M20 11v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-8" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M7.5 7a1 1 0 0 1 0-5A4.8 8 0 0 1 12 7a4.8 8 0 0 1 4.5-5 1 1 0 0 1 0 5" stroke="currentColor" data-uui-role="secondary"/>
+        <rect x="3" y="7" width="18" height="4" rx="1" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">特典</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0786 · gift</text>
+    </g>
+    <g transform="translate(504 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10.5 3 8 9l4 13 4-13-2.5-6" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M17 3a2 2 0 0 1 1.6.8l3 4a2 2 0 0 1 .013 2.382l-7.99 10.986a2 2 0 0 1-3.247 0l-7.99-10.986A2 2 0 0 1 2.4 7.8l2.998-3.997A2 2 0 0 1 7 3z" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M2 9h20" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">優良顧客</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0787 · gem</text>
+    </g>
+    <g transform="translate(672 208)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M11.562 3.266a.5.5 0 0 1 .876 0L15.39 8.87a1 1 0 0 0 1.516.294L21.183 5.5a.5.5 0 0 1 .798.519l-2.834 10.246a1 1 0 0 1-.956.734H5.81a1 1 0 0 1-.957-.734L2.02 6.02a.5.5 0 0 1 .798-.519l4.276 3.664a1 1 0 0 0 1.516-.294z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M5 21h14" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">最上位顧客</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0788 · crown</text>
+    </g>
+    <g transform="translate(0 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7.21 15 2.66 7.14a2 2 0 0 1 .13-2.2L4.4 2.8A2 2 0 0 1 6 2h12a2 2 0 0 1 1.6.8l1.6 2.14a2 2 0 0 1 .14 2.2L16.79 15" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M11 12 5.12 2.2" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m13 12 5.88-9.8" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M8 7h8" stroke="currentColor" data-uui-role="accent"/>
+        <circle cx="12" cy="17" r="5" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M12 18v-2h-.5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">営業実績</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0789 · medal</text>
+    </g>
+    <g transform="translate(168 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M13 5v2" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M13 17v2" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M13 11v2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">営業チケット</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0790 · ticket</text>
+    </g>
+    <g transform="translate(336 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m9 12 2 2 4-4" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">確定チケット</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0791 · ticket-check</text>
+    </g>
+    <g transform="translate(504 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M9 12h6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M12 9v6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">チケット追加</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0792 · ticket-plus</text>
+    </g>
+    <g transform="translate(672 340)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M9 12h6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">チケット削除</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0793 · ticket-minus</text>
+    </g>
+    <g transform="translate(0 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m9.5 14.5 5-5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m9.5 9.5 5 5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">チケット取消</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0794 · ticket-x</text>
+    </g>
+    <g transform="translate(168 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m3.173 8.18 11-5a2 2 0 0 1 2.647.993L18.56 8" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M6 10V8" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M6 14v1" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M6 19v2" stroke="currentColor" data-uui-role="accent"/>
+        <rect x="2" y="8" width="20" height="13" rx="2" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">複数チケット</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0795 · tickets</text>
+    </g>
+    <g transform="translate(336 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M22 13V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v12c0 1.1.9 2 2 2h8" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M19 16v6" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M16 19h6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">営業メール追加</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0796 · mail-plus</text>
+    </g>
+    <g transform="translate(504 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M22 13V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v12c0 1.1.9 2 2 2h8" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m16 19 2 2 4-4" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">メール確認済み</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0797 · mail-check</text>
+    </g>
+    <g transform="translate(672 472)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M22 10.5V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v12c0 1.1.9 2 2 2h12.5" stroke="currentColor" data-uui-role="primary"/>
+        <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M20 14v4" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M20 22v.01" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">要確認メール</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0798 · mail-warning</text>
+    </g>
+    <g transform="translate(0 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M8 12h8" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M12 8v8" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">顧客会話追加</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0799 · message-circle-plus</text>
+    </g>
+    <g transform="translate(168 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7.828 13.07A3 3 0 0 1 12 8.764a3 3 0 0 1 5.004 2.224 3 3 0 0 1-.832 2.083l-3.447 3.62a1 1 0 0 1-1.45-.001z" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">顧客好意</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0800 · message-circle-heart</text>
+    </g>
+    <g transform="translate(336 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M12 8v6" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M9 11h6" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">商談メモ追加</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0801 · message-square-plus</text>
+    </g>
+    <g transform="translate(504 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 3v16a2 2 0 0 0 2 2h16" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M7 11h8" stroke="currentColor" data-uui-role="accent"/>
+        <path d="M7 16h12" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M7 6h3" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">売上増加</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0802 · chart-bar-increasing</text>
+    </g>
+    <g transform="translate(672 604)">
+      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M14.828 14.828 21 21" stroke="currentColor" data-uui-role="primary"/>
+        <path d="M21 16v5h-5" stroke="currentColor" data-uui-role="accent"/>
+        <path d="m21 3-9 9-4-4-6 6" stroke="currentColor" data-uui-role="secondary"/>
+        <path d="M21 8V3h-5" stroke="currentColor" data-uui-role="accent"/>
+      </g>
+      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">売上変動</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0803 · trending-up-down</text>
+    </g>
+</svg>

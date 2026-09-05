@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0848-color-title uui-0848-color-desc" data-icon-id="UUI-0848" data-icon-name="mars-stroke" data-icon-variant="color" data-icon-category="hr-organization">
+  <title id="uui-0848-color-title" xml:lang="ja">男性区分</title>
+  <desc id="uui-0848-color-desc" xml:lang="ja">「男性区分」を表す汎用UIアイコン。人事・組織・研修に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0848" slug="mars-stroke" variant="color">
+      <uui:name xml:lang="ja">男性区分</uui:name>
+      <uui:name xml:lang="en">Mars Stroke</uui:name>
+      <uui:description xml:lang="ja">「男性区分」を表す汎用UIアイコン。人事・組織・研修に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Mars Stroke” in hr, organization, and training contexts.</uui:description>
+      <uui:category id="hr-organization" xml:lang="ja">人事・組織・研修</uui:category>
+      <uui:category id="hr-organization" xml:lang="en">HR, organization, and training</uui:category>
+      <uui:keywords xml:lang="ja">男性区分, 人事・組織・研修, mars, stroke</uui:keywords>
+      <uui:keywords xml:lang="en">Mars Stroke, HR, organization, and training, mars, stroke</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/hr-organization/mars-stroke.svg"/>
+      <uui:palette primary="#BE185D" accent="#EC4899" secondary="#F9A8D4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="69140e710c2825389261ffec0e45105168a2b828a5c3aebf833841fe533ab698"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m14 6 4 4" stroke="#BE185D" data-uui-role="primary"/>
+    <path d="M17 3h4v4" stroke="#EC4899" data-uui-role="accent"/>
+    <path d="m21 3-7.75 7.75" stroke="#F9A8D4" data-uui-role="secondary"/>
+    <circle cx="9" cy="15" r="6" stroke="#EC4899" data-uui-role="accent"/>
+  </g>
+</svg>

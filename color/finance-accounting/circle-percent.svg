@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0762-color-title uui-0762-color-desc" data-icon-id="UUI-0762" data-icon-name="circle-percent" data-icon-variant="color" data-icon-category="finance-accounting">
+  <title id="uui-0762-color-title" xml:lang="ja">割合</title>
+  <desc id="uui-0762-color-desc" xml:lang="ja">「割合」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0762" slug="circle-percent" variant="color">
+      <uui:name xml:lang="ja">割合</uui:name>
+      <uui:name xml:lang="en">Circle Percent</uui:name>
+      <uui:description xml:lang="ja">「割合」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Circle Percent” in finance and accounting contexts.</uui:description>
+      <uui:category id="finance-accounting" xml:lang="ja">財務と会計</uui:category>
+      <uui:category id="finance-accounting" xml:lang="en">Finance and accounting</uui:category>
+      <uui:keywords xml:lang="ja">割合, 財務と会計, circle, percent</uui:keywords>
+      <uui:keywords xml:lang="en">Circle Percent, Finance and accounting, circle, percent</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/finance-accounting/circle-percent.svg"/>
+      <uui:palette primary="#15803D" accent="#22C55E" secondary="#86EFAC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="97e9809d4167b2774e216b772a3a9bab90ce582df840b1f84afbb649b7e0f555"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="10" stroke="#15803D" data-uui-role="primary"/>
+    <path d="m15 9-6 6" stroke="#22C55E" data-uui-role="accent"/>
+    <path d="M9 9h.01" stroke="#86EFAC" data-uui-role="secondary"/>
+    <path d="M15 15h.01" stroke="#22C55E" data-uui-role="accent"/>
+  </g>
+</svg>

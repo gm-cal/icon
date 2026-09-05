@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0933-color-title uui-0933-color-desc" data-icon-id="UUI-0933" data-icon-name="mail-minus" data-icon-variant="color" data-icon-category="notification-status">
+  <title id="uui-0933-color-title" xml:lang="ja">メール削除</title>
+  <desc id="uui-0933-color-desc" xml:lang="ja">「メール削除」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0933" slug="mail-minus" variant="color">
+      <uui:name xml:lang="ja">メール削除</uui:name>
+      <uui:name xml:lang="en">Mail Minus</uui:name>
+      <uui:description xml:lang="ja">「メール削除」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Mail Minus” in notifications and status contexts.</uui:description>
+      <uui:category id="notification-status" xml:lang="ja">通知と状態詳細</uui:category>
+      <uui:category id="notification-status" xml:lang="en">Notifications and status</uui:category>
+      <uui:keywords xml:lang="ja">メール削除, 通知と状態詳細, mail, minus</uui:keywords>
+      <uui:keywords xml:lang="en">Mail Minus, Notifications and status, mail, minus</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/notification-status/mail-minus.svg"/>
+      <uui:palette primary="#0891B2" accent="#22D3EE" secondary="#A5F3FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="27d83e6da1813ca239ed21dae82de9946e9064dbcfbfb29716038c3df91a3e24"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M22 15V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v12c0 1.1.9 2 2 2h8" stroke="#0891B2" data-uui-role="primary"/>
+    <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" stroke="#22D3EE" data-uui-role="accent"/>
+    <path d="M16 19h6" stroke="#22D3EE" data-uui-role="accent"/>
+  </g>
+</svg>

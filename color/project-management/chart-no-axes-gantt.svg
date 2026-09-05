@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0683-color-title uui-0683-color-desc" data-icon-id="UUI-0683" data-icon-name="chart-no-axes-gantt" data-icon-variant="color" data-icon-category="project-management">
+  <title id="uui-0683-color-title" xml:lang="ja">簡易ガントチャート</title>
+  <desc id="uui-0683-color-desc" xml:lang="ja">「簡易ガントチャート」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0683" slug="chart-no-axes-gantt" variant="color">
+      <uui:name xml:lang="ja">簡易ガントチャート</uui:name>
+      <uui:name xml:lang="en">Chart No Axes Gantt</uui:name>
+      <uui:description xml:lang="ja">「簡易ガントチャート」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Chart No Axes Gantt” in project management contexts.</uui:description>
+      <uui:category id="project-management" xml:lang="ja">プロジェクト管理</uui:category>
+      <uui:category id="project-management" xml:lang="en">Project management</uui:category>
+      <uui:keywords xml:lang="ja">簡易ガントチャート, プロジェクト管理, chart, no, axes, gantt</uui:keywords>
+      <uui:keywords xml:lang="en">Chart No Axes Gantt, Project management, chart, no, axes, gantt</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/project-management/chart-no-axes-gantt.svg"/>
+      <uui:palette primary="#A16207" accent="#EAB308" secondary="#FDE047"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="79f062b1320ec025b7177cde363252ea3d944652c72fbd8ff26841103838291d"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M6 5h12" stroke="#A16207" data-uui-role="primary"/>
+    <path d="M4 12h10" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M12 19h8" stroke="#EAB308" data-uui-role="accent"/>
+  </g>
+</svg>

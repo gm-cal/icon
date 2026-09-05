@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0920-color-title uui-0920-color-desc" data-icon-id="UUI-0920" data-icon-name="gallery-thumbnails" data-icon-variant="color" data-icon-category="sorting-view">
+  <title id="uui-0920-color-title" xml:lang="ja">サムネイル一覧</title>
+  <desc id="uui-0920-color-desc" xml:lang="ja">「サムネイル一覧」を表す汎用UIアイコン。並べ替えと表示に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0920" slug="gallery-thumbnails" variant="color">
+      <uui:name xml:lang="ja">サムネイル一覧</uui:name>
+      <uui:name xml:lang="en">Gallery Thumbnails</uui:name>
+      <uui:description xml:lang="ja">「サムネイル一覧」を表す汎用UIアイコン。並べ替えと表示に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Gallery Thumbnails” in sorting and view contexts.</uui:description>
+      <uui:category id="sorting-view" xml:lang="ja">並べ替えと表示</uui:category>
+      <uui:category id="sorting-view" xml:lang="en">Sorting and view</uui:category>
+      <uui:keywords xml:lang="ja">サムネイル一覧, 並べ替えと表示, gallery, thumbnails</uui:keywords>
+      <uui:keywords xml:lang="en">Gallery Thumbnails, Sorting and view, gallery, thumbnails</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/sorting-view/gallery-thumbnails.svg"/>
+      <uui:palette primary="#475569" accent="#64748B" secondary="#CBD5E1"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="2975ed6ec2d9b6493bade33159b92022b9f47ca7f6e6821538e95131acfc99bb"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect width="18" height="14" x="3" y="3" rx="2" stroke="#475569" data-uui-role="primary"/>
+    <path d="M4 21h1" stroke="#64748B" data-uui-role="accent"/>
+    <path d="M9 21h1" stroke="#CBD5E1" data-uui-role="secondary"/>
+    <path d="M14 21h1" stroke="#64748B" data-uui-role="accent"/>
+    <path d="M19 21h1" stroke="#64748B" data-uui-role="accent"/>
+  </g>
+</svg>

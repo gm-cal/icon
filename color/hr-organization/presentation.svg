@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0838-color-title uui-0838-color-desc" data-icon-id="UUI-0838" data-icon-name="presentation" data-icon-variant="color" data-icon-category="hr-organization">
+  <title id="uui-0838-color-title" xml:lang="ja">社内説明</title>
+  <desc id="uui-0838-color-desc" xml:lang="ja">「社内説明」を表す汎用UIアイコン。人事・組織・研修に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0838" slug="presentation" variant="color">
+      <uui:name xml:lang="ja">社内説明</uui:name>
+      <uui:name xml:lang="en">Presentation</uui:name>
+      <uui:description xml:lang="ja">「社内説明」を表す汎用UIアイコン。人事・組織・研修に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Presentation” in hr, organization, and training contexts.</uui:description>
+      <uui:category id="hr-organization" xml:lang="ja">人事・組織・研修</uui:category>
+      <uui:category id="hr-organization" xml:lang="en">HR, organization, and training</uui:category>
+      <uui:keywords xml:lang="ja">社内説明, 人事・組織・研修, presentation</uui:keywords>
+      <uui:keywords xml:lang="en">Presentation, HR, organization, and training, presentation</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/hr-organization/presentation.svg"/>
+      <uui:palette primary="#BE185D" accent="#EC4899" secondary="#F9A8D4"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="fd8dd383babd09f885cd90663a36a85cc86fed839ebb7023345aaae0c40e1d63"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M2 3h20" stroke="#BE185D" data-uui-role="primary"/>
+    <path d="M21 3v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V3" stroke="#EC4899" data-uui-role="accent"/>
+    <path d="m7 21 5-5 5 5" stroke="#EC4899" data-uui-role="accent"/>
+  </g>
+</svg>

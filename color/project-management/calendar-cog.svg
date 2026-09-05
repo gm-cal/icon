@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0694-color-title uui-0694-color-desc" data-icon-id="UUI-0694" data-icon-name="calendar-cog" data-icon-variant="color" data-icon-category="project-management">
+  <title id="uui-0694-color-title" xml:lang="ja">日程設定</title>
+  <desc id="uui-0694-color-desc" xml:lang="ja">「日程設定」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0694" slug="calendar-cog" variant="color">
+      <uui:name xml:lang="ja">日程設定</uui:name>
+      <uui:name xml:lang="en">Calendar Cog</uui:name>
+      <uui:description xml:lang="ja">「日程設定」を表す汎用UIアイコン。プロジェクト管理に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Calendar Cog” in project management contexts.</uui:description>
+      <uui:category id="project-management" xml:lang="ja">プロジェクト管理</uui:category>
+      <uui:category id="project-management" xml:lang="en">Project management</uui:category>
+      <uui:keywords xml:lang="ja">日程設定, プロジェクト管理, calendar, cog</uui:keywords>
+      <uui:keywords xml:lang="en">Calendar Cog, Project management, calendar, cog</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/project-management/calendar-cog.svg"/>
+      <uui:palette primary="#A16207" accent="#EAB308" secondary="#FDE047"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3ecaaa13aa6274c1ebadca3b12e6af569ce8a3806929e28f23cec161984510b7"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="m15.228 16.852-.923-.383" stroke="#A16207" data-uui-role="primary"/>
+    <path d="m15.228 19.148-.923.383" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M16 2v4" stroke="#FDE047" data-uui-role="secondary"/>
+    <path d="m16.47 14.305.382.923" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="m16.852 20.772-.383.924" stroke="#FDE047" data-uui-role="secondary"/>
+    <path d="m19.148 15.228.383-.923" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="m19.53 21.696-.382-.924" stroke="#FDE047" data-uui-role="secondary"/>
+    <path d="m20.772 16.852.924-.383" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="m20.772 19.148.924.383" stroke="#FDE047" data-uui-role="secondary"/>
+    <path d="M21 10.592V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h6" stroke="#EAB308" data-uui-role="accent"/>
+    <path d="M3 10h18" stroke="#FDE047" data-uui-role="secondary"/>
+    <path d="M8 2v4" stroke="#EAB308" data-uui-role="accent"/>
+    <circle cx="18" cy="18" r="3" stroke="#EAB308" data-uui-role="accent"/>
+  </g>
+</svg>

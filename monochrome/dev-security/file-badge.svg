@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0677-monochrome-title uui-0677-monochrome-desc" data-icon-id="UUI-0677" data-icon-name="file-badge" data-icon-variant="monochrome" data-icon-category="dev-security">
+  <title id="uui-0677-monochrome-title" xml:lang="ja">認証付きファイル</title>
+  <desc id="uui-0677-monochrome-desc" xml:lang="ja">「認証付きファイル」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0677" slug="file-badge" variant="monochrome">
+      <uui:name xml:lang="ja">認証付きファイル</uui:name>
+      <uui:name xml:lang="en">File Badge</uui:name>
+      <uui:description xml:lang="ja">「認証付きファイル」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “File Badge” in development security contexts.</uui:description>
+      <uui:category id="dev-security" xml:lang="ja">開発セキュリティ</uui:category>
+      <uui:category id="dev-security" xml:lang="en">Development security</uui:category>
+      <uui:keywords xml:lang="ja">認証付きファイル, 開発セキュリティ, file, badge</uui:keywords>
+      <uui:keywords xml:lang="en">File Badge, Development security, file, badge</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/dev-security/file-badge.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="7bfce47ee813be0d4d9126a9c2f4d91ed1beb907497bac8f7c82fadc92b5ef25"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M13 22h5a2 2 0 0 0 2-2V8a2.4 2.4 0 0 0-.706-1.706l-3.588-3.588A2.4 2.4 0 0 0 14 2H6a2 2 0 0 0-2 2v3.3" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m7.69 16.479 1.29 4.88a.5.5 0 0 1-.698.591l-1.843-.849a1 1 0 0 0-.879.001l-1.846.85a.5.5 0 0 1-.692-.593l1.29-4.88" stroke="currentColor" data-uui-role="secondary"/>
+    <circle cx="6" cy="14" r="3" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0839-monochrome-title uui-0839-monochrome-desc" data-icon-id="UUI-0839" data-icon-name="speech" data-icon-variant="monochrome" data-icon-category="hr-organization">
+  <title id="uui-0839-monochrome-title" xml:lang="ja">面談</title>
+  <desc id="uui-0839-monochrome-desc" xml:lang="ja">「面談」を表す汎用UIアイコン。人事・組織・研修に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0839" slug="speech" variant="monochrome">
+      <uui:name xml:lang="ja">面談</uui:name>
+      <uui:name xml:lang="en">Speech</uui:name>
+      <uui:description xml:lang="ja">「面談」を表す汎用UIアイコン。人事・組織・研修に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “Speech” in hr, organization, and training contexts.</uui:description>
+      <uui:category id="hr-organization" xml:lang="ja">人事・組織・研修</uui:category>
+      <uui:category id="hr-organization" xml:lang="en">HR, organization, and training</uui:category>
+      <uui:keywords xml:lang="ja">面談, 人事・組織・研修, speech</uui:keywords>
+      <uui:keywords xml:lang="en">Speech, HR, organization, and training, speech</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/hr-organization/speech.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="4cbca6592e1daa1aa2a79ec53e3694e49b943f3094dc005445aa4f3417a4dbaa"/>
+      <uui:source project="Lucide Icons" version="1.8.0" license="ISC" modified="true"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M8.8 20v-4.1l1.9.2a2.3 2.3 0 0 0 2.164-2.1V8.3A5.37 5.37 0 0 0 2 8.25c0 2.8.656 3.054 1 4.55a5.77 5.77 0 0 1 .029 2.758L2 20" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M19.8 17.8a7.5 7.5 0 0 0 .003-10.603" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M17 15a3.5 3.5 0 0 0-.025-4.975" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>
