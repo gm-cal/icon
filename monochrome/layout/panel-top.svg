@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0103-monochrome-title uui-0103-monochrome-desc" data-icon-id="UUI-0103" data-icon-name="panel-top" data-icon-variant="monochrome" data-icon-category="layout">
-  <title id="uui-0103-monochrome-title" xml:lang="ja">上パネル</title>
-  <desc id="uui-0103-monochrome-desc" xml:lang="ja">「上パネル」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-lay-0003-monochrome-title uui-lay-0003-monochrome-desc" data-icon-id="UUI-LAY-0003" data-icon-legacy-id="UUI-0103" data-icon-name="panel-top" data-icon-variant="monochrome" data-icon-category="layout" data-icon-category-code="LAY">
+  <title id="uui-lay-0003-monochrome-title" xml:lang="ja">上パネル</title>
+  <desc id="uui-lay-0003-monochrome-desc" xml:lang="ja">「上パネル」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0103" slug="panel-top" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-LAY-0003" legacyId="UUI-0103" slug="panel-top" variant="monochrome">
       <uui:name xml:lang="ja">上パネル</uui:name>
       <uui:name xml:lang="en">Panel Top</uui:name>
       <uui:description xml:lang="ja">「上パネル」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Panel Top” in layout and windows contexts.</uui:description>
-      <uui:category id="layout" xml:lang="ja">画面とレイアウト</uui:category>
-      <uui:category id="layout" xml:lang="en">Layout and windows</uui:category>
+      <uui:category id="layout" code="LAY" xml:lang="ja">画面とレイアウト</uui:category>
+      <uui:category id="layout" code="LAY" xml:lang="en">Layout and windows</uui:category>
       <uui:keywords xml:lang="ja">上パネル, 画面とレイアウト, panel, top</uui:keywords>
       <uui:keywords xml:lang="en">Panel Top, Layout and windows, panel, top</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

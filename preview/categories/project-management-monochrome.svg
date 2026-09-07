@@ -11,7 +11,7 @@
         <path d="M19 3v18" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">カンバン</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0679 · kanban</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0001 · kanban</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -22,7 +22,7 @@
         <path d="M16 7v9" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">カンバンボード</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0680 · square-kanban</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0002 · square-kanban</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -44,7 +44,7 @@
         <path d="M3 9v1" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">下書きカンバン</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0681 · square-dashed-kanban</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0003 · square-dashed-kanban</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -55,7 +55,7 @@
         <path d="M8 11h7" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ガントチャート</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0682 · chart-gantt</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0004 · chart-gantt</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -65,7 +65,7 @@
         <path d="M12 19h8" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">簡易ガントチャート</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0683 · chart-no-axes-gantt</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0005 · chart-no-axes-gantt</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -76,7 +76,7 @@
         <path d="M11 16h5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ガント画面</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0684 · square-chart-gantt</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0006 · square-chart-gantt</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -86,7 +86,7 @@
         <path d="M8.002 9.997a5 5 0 1 0 8.9 2.02" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">達成目標</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0685 · goal</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0007 · goal</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -97,7 +97,7 @@
         <path d="M16 10v6" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">プロジェクトフォルダー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0686 · folder-kanban</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0008 · folder-kanban</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -109,7 +109,7 @@
         <rect x="3" y="4" width="6" height="6" rx="1" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">TODO一覧</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0687 · list-todo</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0009 · list-todo</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -120,7 +120,7 @@
         <path d="m15 18 2 2 4-4" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">完了一覧</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0688 · list-check</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0010 · list-check</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -132,7 +132,7 @@
         <rect x="8" y="2" width="8" height="4" rx="1" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">期限付きタスク</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0689 · clipboard-clock</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0011 · clipboard-clock</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -143,7 +143,7 @@
         <path d="M12 17v-6" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">タスク追加</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0690 · clipboard-plus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0012 · clipboard-plus</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -153,7 +153,7 @@
         <path d="M9 14h6" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">タスク削除</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0691 · clipboard-minus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0013 · clipboard-minus</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -164,7 +164,7 @@
         <rect x="8" y="2" width="8" height="4" rx="1" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">タスク編集</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0692 · clipboard-pen</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0014 · clipboard-pen</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -176,7 +176,7 @@
         <path d="M21.378 12.626a1 1 0 0 0-3.004-3.004l-4.01 4.012a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506z" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">タスク詳細編集</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0693 · clipboard-pen-line</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0015 · clipboard-pen-line</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -196,7 +196,7 @@
         <circle cx="18" cy="18" r="3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">日程設定</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0694 · calendar-cog</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0016 · calendar-cog</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -209,7 +209,7 @@
         <circle cx="18" cy="18" r="3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">日程検索</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0695 · calendar-search</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0017 · calendar-search</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -224,7 +224,7 @@
         <path d="M8 2v4" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">日程同期</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0696 · calendar-sync</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0018 · calendar-sync</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -237,7 +237,7 @@
         <path d="M8 2v4" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">予定取り込み</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0697 · calendar-arrow-down</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0019 · calendar-arrow-down</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -250,7 +250,7 @@
         <path d="M8 2v4" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">予定書き出し</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0698 · calendar-arrow-up</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0020 · calendar-arrow-up</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -258,7 +258,7 @@
         <path d="M18 22V2.8a.8.8 0 0 0-1.17-.71L5.45 7.78a.8.8 0 0 0 0 1.44L18 15.5" stroke="currentColor" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">開始地点</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0699 · flag-triangle-left</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0021 · flag-triangle-left</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -266,7 +266,7 @@
         <path d="M6 22V2.8a.8.8 0 0 1 1.17-.71l11.38 5.69a.8.8 0 0 1 0 1.44L6 15.5" stroke="currentColor" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">終了地点</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0700 · flag-triangle-right</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0022 · flag-triangle-right</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -279,7 +279,7 @@
         <path d="M6 9H4.5a1 1 0 0 1 0-5H6" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">成果</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0701 · trophy</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0023 · trophy</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -288,7 +288,7 @@
         <circle cx="12" cy="8" r="6" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">表彰</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0702 · award</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0024 · award</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -300,6 +300,6 @@
         <path d="M12 12v-2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">期限なし</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0703 · timer-off</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-PRJ-0025 · timer-off</text>
     </g>
 </svg>

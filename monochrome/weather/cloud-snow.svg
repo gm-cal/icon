@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0481-monochrome-title uui-0481-monochrome-desc" data-icon-id="UUI-0481" data-icon-name="cloud-snow" data-icon-variant="monochrome" data-icon-category="weather">
-  <title id="uui-0481-monochrome-title" xml:lang="ja">雪</title>
-  <desc id="uui-0481-monochrome-desc" xml:lang="ja">「雪」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-wth-0006-monochrome-title uui-wth-0006-monochrome-desc" data-icon-id="UUI-WTH-0006" data-icon-legacy-id="UUI-0481" data-icon-name="cloud-snow" data-icon-variant="monochrome" data-icon-category="weather" data-icon-category-code="WTH">
+  <title id="uui-wth-0006-monochrome-title" xml:lang="ja">雪</title>
+  <desc id="uui-wth-0006-monochrome-desc" xml:lang="ja">「雪」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0481" slug="cloud-snow" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-WTH-0006" legacyId="UUI-0481" slug="cloud-snow" variant="monochrome">
       <uui:name xml:lang="ja">雪</uui:name>
       <uui:name xml:lang="en">Cloud Snow</uui:name>
       <uui:description xml:lang="ja">「雪」を表す汎用UIアイコン。自然と天候に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Cloud Snow” in nature and weather contexts.</uui:description>
-      <uui:category id="weather" xml:lang="ja">自然と天候</uui:category>
-      <uui:category id="weather" xml:lang="en">Nature and weather</uui:category>
+      <uui:category id="weather" code="WTH" xml:lang="ja">自然と天候</uui:category>
+      <uui:category id="weather" code="WTH" xml:lang="en">Nature and weather</uui:category>
       <uui:keywords xml:lang="ja">雪, 自然と天候, cloud, snow</uui:keywords>
       <uui:keywords xml:lang="en">Cloud Snow, Nature and weather, cloud, snow</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

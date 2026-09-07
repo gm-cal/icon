@@ -177,6 +177,7 @@
       <p id="detailDescription" class="description"></p>
       <dl class="facts">
         <dt>ID</dt><dd id="detailId"></dd>
+        <dt>旧ID</dt><dd id="detailLegacyId"></dd>
         <dt>slug</dt><dd id="detailSlug"></dd>
         <dt>分類</dt><dd id="detailCategory"></dd>
         <dt>推奨サイズ</dt><dd id="detailSizes"></dd>
@@ -217,6 +218,7 @@
       detailImage: document.getElementById('detailImage'),
       detailDescription: document.getElementById('detailDescription'),
       detailId: document.getElementById('detailId'),
+      detailLegacyId: document.getElementById('detailLegacyId'),
       detailSlug: document.getElementById('detailSlug'),
       detailCategory: document.getElementById('detailCategory'),
       detailSizes: document.getElementById('detailSizes'),
@@ -237,13 +239,15 @@
     function searchableText(icon) {
       return normalize([
         icon.id,
+        icon.legacyId,
         icon.slug,
         icon.name?.ja,
         icon.name?.en,
         icon.description?.ja,
         icon.description?.en,
         ...(icon.keywords?.ja ?? []),
-        ...(icon.keywords?.en ?? [])
+        ...(icon.keywords?.en ?? []),
+        icon.category?.code
       ].join(' '));
     }
 
@@ -349,6 +353,7 @@
       el.detailImage.alt = icon.name?.ja ?? icon.slug;
       el.detailDescription.textContent = icon.description?.ja ?? '';
       el.detailId.textContent = icon.id;
+      el.detailLegacyId.textContent = icon.legacyId ?? '—';
       el.detailSlug.textContent = icon.slug;
       el.detailCategory.textContent = `${icon.category?.ja ?? ''} / ${icon.category?.en ?? icon.category?.id ?? ''}`;
       el.detailSizes.textContent = (icon.recommendedSizesPx ?? []).map(x => `${x}px`).join(' / ');

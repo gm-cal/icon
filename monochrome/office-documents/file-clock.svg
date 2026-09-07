@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0731-monochrome-title uui-0731-monochrome-desc" data-icon-id="UUI-0731" data-icon-name="file-clock" data-icon-variant="monochrome" data-icon-category="office-documents">
-  <title id="uui-0731-monochrome-title" xml:lang="ja">期限付きファイル</title>
-  <desc id="uui-0731-monochrome-desc" xml:lang="ja">「期限付きファイル」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-doc-0003-monochrome-title uui-doc-0003-monochrome-desc" data-icon-id="UUI-DOC-0003" data-icon-legacy-id="UUI-0731" data-icon-name="file-clock" data-icon-variant="monochrome" data-icon-category="office-documents" data-icon-category-code="DOC">
+  <title id="uui-doc-0003-monochrome-title" xml:lang="ja">期限付きファイル</title>
+  <desc id="uui-doc-0003-monochrome-desc" xml:lang="ja">「期限付きファイル」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0731" slug="file-clock" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-DOC-0003" legacyId="UUI-0731" slug="file-clock" variant="monochrome">
       <uui:name xml:lang="ja">期限付きファイル</uui:name>
       <uui:name xml:lang="en">File Clock</uui:name>
       <uui:description xml:lang="ja">「期限付きファイル」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “File Clock” in office documents contexts.</uui:description>
-      <uui:category id="office-documents" xml:lang="ja">業務文書</uui:category>
-      <uui:category id="office-documents" xml:lang="en">Office documents</uui:category>
+      <uui:category id="office-documents" code="DOC" xml:lang="ja">業務文書</uui:category>
+      <uui:category id="office-documents" code="DOC" xml:lang="en">Office documents</uui:category>
       <uui:keywords xml:lang="ja">期限付きファイル, 業務文書, file, clock</uui:keywords>
       <uui:keywords xml:lang="en">File Clock, Office documents, file, clock</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

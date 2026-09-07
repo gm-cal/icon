@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0561-color-title uui-0561-color-desc" data-icon-id="UUI-0561" data-icon-name="unlink-2" data-icon-variant="color" data-icon-category="api-integration">
-  <title id="uui-0561-color-title" xml:lang="ja">接続解除</title>
-  <desc id="uui-0561-color-desc" xml:lang="ja">「接続解除」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-api-0008-color-title uui-api-0008-color-desc" data-icon-id="UUI-API-0008" data-icon-legacy-id="UUI-0561" data-icon-name="unlink-2" data-icon-variant="color" data-icon-category="api-integration" data-icon-category-code="API">
+  <title id="uui-api-0008-color-title" xml:lang="ja">接続解除</title>
+  <desc id="uui-api-0008-color-desc" xml:lang="ja">「接続解除」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0561" slug="unlink-2" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-API-0008" legacyId="UUI-0561" slug="unlink-2" variant="color">
       <uui:name xml:lang="ja">接続解除</uui:name>
       <uui:name xml:lang="en">Unlink 2</uui:name>
       <uui:description xml:lang="ja">「接続解除」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Unlink 2” in api and integration contexts.</uui:description>
-      <uui:category id="api-integration" xml:lang="ja">APIと連携</uui:category>
-      <uui:category id="api-integration" xml:lang="en">API and integration</uui:category>
+      <uui:category id="api-integration" code="API" xml:lang="ja">APIと連携</uui:category>
+      <uui:category id="api-integration" code="API" xml:lang="en">API and integration</uui:category>
       <uui:keywords xml:lang="ja">接続解除, APIと連携, unlink, 2</uui:keywords>
       <uui:keywords xml:lang="en">Unlink 2, API and integration, unlink, 2</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

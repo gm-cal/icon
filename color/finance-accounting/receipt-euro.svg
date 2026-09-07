@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0766-color-title uui-0766-color-desc" data-icon-id="UUI-0766" data-icon-name="receipt-euro" data-icon-variant="color" data-icon-category="finance-accounting">
-  <title id="uui-0766-color-title" xml:lang="ja">ユーロ建て領収書</title>
-  <desc id="uui-0766-color-desc" xml:lang="ja">「ユーロ建て領収書」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-acc-0013-color-title uui-acc-0013-color-desc" data-icon-id="UUI-ACC-0013" data-icon-legacy-id="UUI-0766" data-icon-name="receipt-euro" data-icon-variant="color" data-icon-category="finance-accounting" data-icon-category-code="ACC">
+  <title id="uui-acc-0013-color-title" xml:lang="ja">ユーロ建て領収書</title>
+  <desc id="uui-acc-0013-color-desc" xml:lang="ja">「ユーロ建て領収書」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0766" slug="receipt-euro" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-ACC-0013" legacyId="UUI-0766" slug="receipt-euro" variant="color">
       <uui:name xml:lang="ja">ユーロ建て領収書</uui:name>
       <uui:name xml:lang="en">Receipt Euro</uui:name>
       <uui:description xml:lang="ja">「ユーロ建て領収書」を表す汎用UIアイコン。財務と会計に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Receipt Euro” in finance and accounting contexts.</uui:description>
-      <uui:category id="finance-accounting" xml:lang="ja">財務と会計</uui:category>
-      <uui:category id="finance-accounting" xml:lang="en">Finance and accounting</uui:category>
+      <uui:category id="finance-accounting" code="ACC" xml:lang="ja">財務と会計</uui:category>
+      <uui:category id="finance-accounting" code="ACC" xml:lang="en">Finance and accounting</uui:category>
       <uui:keywords xml:lang="ja">ユーロ建て領収書, 財務と会計, receipt, euro</uui:keywords>
       <uui:keywords xml:lang="en">Receipt Euro, Finance and accounting, receipt, euro</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

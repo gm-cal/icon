@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0471-monochrome-title uui-0471-monochrome-desc" data-icon-id="UUI-0471" data-icon-name="heart-handshake" data-icon-variant="monochrome" data-icon-category="health">
-  <title id="uui-0471-monochrome-title" xml:lang="ja">医療連携</title>
-  <desc id="uui-0471-monochrome-desc" xml:lang="ja">「医療連携」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-hlt-0021-monochrome-title uui-hlt-0021-monochrome-desc" data-icon-id="UUI-HLT-0021" data-icon-legacy-id="UUI-0471" data-icon-name="heart-handshake" data-icon-variant="monochrome" data-icon-category="health" data-icon-category-code="HLT">
+  <title id="uui-hlt-0021-monochrome-title" xml:lang="ja">医療連携</title>
+  <desc id="uui-hlt-0021-monochrome-desc" xml:lang="ja">「医療連携」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0471" slug="heart-handshake" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-HLT-0021" legacyId="UUI-0471" slug="heart-handshake" variant="monochrome">
       <uui:name xml:lang="ja">医療連携</uui:name>
       <uui:name xml:lang="en">Heart Handshake</uui:name>
       <uui:description xml:lang="ja">「医療連携」を表す汎用UIアイコン。医療と健康に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Heart Handshake” in health and medical contexts.</uui:description>
-      <uui:category id="health" xml:lang="ja">医療と健康</uui:category>
-      <uui:category id="health" xml:lang="en">Health and medical</uui:category>
+      <uui:category id="health" code="HLT" xml:lang="ja">医療と健康</uui:category>
+      <uui:category id="health" code="HLT" xml:lang="en">Health and medical</uui:category>
       <uui:keywords xml:lang="ja">医療連携, 医療と健康, heart, handshake</uui:keywords>
       <uui:keywords xml:lang="en">Heart Handshake, Health and medical, heart, handshake</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

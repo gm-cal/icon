@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0817-monochrome-title uui-0817-monochrome-desc" data-icon-id="UUI-0817" data-icon-name="message-square-more" data-icon-variant="monochrome" data-icon-category="customer-support">
-  <title id="uui-0817-monochrome-title" xml:lang="ja">追加メッセージ</title>
-  <desc id="uui-0817-monochrome-desc" xml:lang="ja">「追加メッセージ」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-sup-0014-monochrome-title uui-sup-0014-monochrome-desc" data-icon-id="UUI-SUP-0014" data-icon-legacy-id="UUI-0817" data-icon-name="message-square-more" data-icon-variant="monochrome" data-icon-category="customer-support" data-icon-category-code="SUP">
+  <title id="uui-sup-0014-monochrome-title" xml:lang="ja">追加メッセージ</title>
+  <desc id="uui-sup-0014-monochrome-desc" xml:lang="ja">「追加メッセージ」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0817" slug="message-square-more" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-SUP-0014" legacyId="UUI-0817" slug="message-square-more" variant="monochrome">
       <uui:name xml:lang="ja">追加メッセージ</uui:name>
       <uui:name xml:lang="en">Message Square More</uui:name>
       <uui:description xml:lang="ja">「追加メッセージ」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Message Square More” in customer support contexts.</uui:description>
-      <uui:category id="customer-support" xml:lang="ja">顧客サポート</uui:category>
-      <uui:category id="customer-support" xml:lang="en">Customer support</uui:category>
+      <uui:category id="customer-support" code="SUP" xml:lang="ja">顧客サポート</uui:category>
+      <uui:category id="customer-support" code="SUP" xml:lang="en">Customer support</uui:category>
       <uui:keywords xml:lang="ja">追加メッセージ, 顧客サポート, message, square, more</uui:keywords>
       <uui:keywords xml:lang="en">Message Square More, Customer support, message, square, more</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

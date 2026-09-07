@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0043-monochrome-title uui-0043-monochrome-desc" data-icon-id="UUI-0043" data-icon-name="link-2" data-icon-variant="monochrome" data-icon-category="actions">
-  <title id="uui-0043-monochrome-title" xml:lang="ja">リンク</title>
-  <desc id="uui-0043-monochrome-desc" xml:lang="ja">「リンク」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-act-0018-monochrome-title uui-act-0018-monochrome-desc" data-icon-id="UUI-ACT-0018" data-icon-legacy-id="UUI-0043" data-icon-name="link-2" data-icon-variant="monochrome" data-icon-category="actions" data-icon-category-code="ACT">
+  <title id="uui-act-0018-monochrome-title" xml:lang="ja">リンク</title>
+  <desc id="uui-act-0018-monochrome-desc" xml:lang="ja">「リンク」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0043" slug="link-2" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-ACT-0018" legacyId="UUI-0043" slug="link-2" variant="monochrome">
       <uui:name xml:lang="ja">リンク</uui:name>
       <uui:name xml:lang="en">Link 2</uui:name>
       <uui:description xml:lang="ja">「リンク」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Link 2” in actions contexts.</uui:description>
-      <uui:category id="actions" xml:lang="ja">基本操作</uui:category>
-      <uui:category id="actions" xml:lang="en">Actions</uui:category>
+      <uui:category id="actions" code="ACT" xml:lang="ja">基本操作</uui:category>
+      <uui:category id="actions" code="ACT" xml:lang="en">Actions</uui:category>
       <uui:keywords xml:lang="ja">リンク, 基本操作, link, 2</uui:keywords>
       <uui:keywords xml:lang="en">Link 2, Actions, link, 2</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

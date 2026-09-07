@@ -10,7 +10,7 @@
         <path d="M12 5v14" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">追加</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0026 · plus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0001 · plus</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -18,7 +18,7 @@
         <path d="M5 12h14" stroke="#0F766E" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">削除・減少</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0027 · minus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0002 · minus</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -27,7 +27,7 @@
         <path d="m6 6 12 12" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">閉じる</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0028 · x</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0003 · x</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -35,7 +35,7 @@
         <path d="M20 6 9 17l-5-5" stroke="#15803D" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">決定</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0029 · check</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0004 · check</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -44,7 +44,7 @@
         <path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">コピー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0030 · copy</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0005 · copy</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -56,7 +56,7 @@
         <rect x="8" y="2" width="8" height="4" rx="1" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">貼り付け</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0031 · clipboard-paste</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0006 · clipboard-paste</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -68,7 +68,7 @@
         <path d="M14.8 14.8 20 20" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">切り取り</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0032 · scissors</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0007 · scissors</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -80,7 +80,7 @@
         <path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ごみ箱</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0033 · trash-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0008 · trash-2</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -90,7 +90,7 @@
         <path d="M7 3v4a1 1 0 0 0 1 1h7" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">保存</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0034 · save</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0009 · save</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -99,7 +99,7 @@
         <path d="m15 5 4 4" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">編集</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0035 · pencil</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0010 · pencil</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -108,7 +108,7 @@
         <path d="m5.082 11.09 8.828 8.828" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">消去</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0036 · eraser</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0011 · eraser</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -117,7 +117,7 @@
         <path d="M4 9h10.5a5.5 5.5 0 0 1 5.5 5.5a5.5 5.5 0 0 1-5.5 5.5H11" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">元に戻す</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0037 · undo-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0012 · undo-2</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -126,7 +126,7 @@
         <path d="M20 9H9.5A5.5 5.5 0 0 0 4 14.5A5.5 5.5 0 0 0 9.5 20H13" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">やり直す</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0038 · redo-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0013 · redo-2</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -137,7 +137,7 @@
         <path d="M8 16H3v5" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">更新</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0039 · refresh-cw</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0014 · refresh-cw</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -147,7 +147,7 @@
         <path d="m7 10 5 5 5-5" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ダウンロード</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0040 · download</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0015 · download</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -157,7 +157,7 @@
         <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">アップロード</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0041 · upload</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0016 · upload</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -169,7 +169,7 @@
         <line x1="15.41" x2="8.59" y1="6.51" y2="10.49" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">共有</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0042 · share-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0017 · share-2</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -179,7 +179,7 @@
         <line x1="8" x2="16" y1="12" y2="12" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">リンク</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0043 · link-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0018 · link-2</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -192,7 +192,7 @@
         <line x1="19" x2="22" y1="16" y2="16" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">リンク解除</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0044 · unlink</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0019 · unlink</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -201,7 +201,7 @@
         <circle cx="11" cy="11" r="8" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">検索</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0045 · search</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0020 · search</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -209,7 +209,7 @@
         <path d="M10 20a1 1 0 0 0 .553.895l2 1A1 1 0 0 0 14 21v-7a2 2 0 0 1 .517-1.341L21.74 4.67A1 1 0 0 0 21 3H3a1 1 0 0 0-.742 1.67l7.225 7.989A2 2 0 0 1 10 14z" stroke="#0F766E" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">絞り込み</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0046 · funnel</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0021 · funnel</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -219,7 +219,7 @@
         <path d="M9 19h6" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">一覧を絞り込む</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0047 · list-filter</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0022 · list-filter</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -235,7 +235,7 @@
         <path d="M8 12H3" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">調整</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0048 · sliders-horizontal</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0023 · sliders-horizontal</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -245,7 +245,7 @@
         <circle cx="5" cy="12" r="1" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">その他</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0049 · ellipsis</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0024 · ellipsis</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -258,6 +258,6 @@
         <circle cx="15" cy="19" r="1" stroke="#14B8A6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">並べ替えハンドル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0050 · grip-vertical</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACT-0025 · grip-vertical</text>
     </g>
 </svg>

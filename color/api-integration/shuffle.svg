@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0572-color-title uui-0572-color-desc" data-icon-id="UUI-0572" data-icon-name="shuffle" data-icon-variant="color" data-icon-category="api-integration">
-  <title id="uui-0572-color-title" xml:lang="ja">経路入替</title>
-  <desc id="uui-0572-color-desc" xml:lang="ja">「経路入替」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-api-0019-color-title uui-api-0019-color-desc" data-icon-id="UUI-API-0019" data-icon-legacy-id="UUI-0572" data-icon-name="shuffle" data-icon-variant="color" data-icon-category="api-integration" data-icon-category-code="API">
+  <title id="uui-api-0019-color-title" xml:lang="ja">経路入替</title>
+  <desc id="uui-api-0019-color-desc" xml:lang="ja">「経路入替」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0572" slug="shuffle" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-API-0019" legacyId="UUI-0572" slug="shuffle" variant="color">
       <uui:name xml:lang="ja">経路入替</uui:name>
       <uui:name xml:lang="en">Shuffle</uui:name>
       <uui:description xml:lang="ja">「経路入替」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Shuffle” in api and integration contexts.</uui:description>
-      <uui:category id="api-integration" xml:lang="ja">APIと連携</uui:category>
-      <uui:category id="api-integration" xml:lang="en">API and integration</uui:category>
+      <uui:category id="api-integration" code="API" xml:lang="ja">APIと連携</uui:category>
+      <uui:category id="api-integration" code="API" xml:lang="en">API and integration</uui:category>
       <uui:keywords xml:lang="ja">経路入替, APIと連携, shuffle</uui:keywords>
       <uui:keywords xml:lang="en">Shuffle, API and integration, shuffle</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0271-color-title uui-0271-color-desc" data-icon-id="UUI-0271" data-icon-name="git-commit-horizontal" data-icon-variant="color" data-icon-category="data">
-  <title id="uui-0271-color-title" xml:lang="ja">変更点</title>
-  <desc id="uui-0271-color-desc" xml:lang="ja">「変更点」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-dat-0021-color-title uui-dat-0021-color-desc" data-icon-id="UUI-DAT-0021" data-icon-legacy-id="UUI-0271" data-icon-name="git-commit-horizontal" data-icon-variant="color" data-icon-category="data" data-icon-category-code="DAT">
+  <title id="uui-dat-0021-color-title" xml:lang="ja">変更点</title>
+  <desc id="uui-dat-0021-color-desc" xml:lang="ja">「変更点」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0271" slug="git-commit-horizontal" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-DAT-0021" legacyId="UUI-0271" slug="git-commit-horizontal" variant="color">
       <uui:name xml:lang="ja">変更点</uui:name>
       <uui:name xml:lang="en">Git Commit Horizontal</uui:name>
       <uui:description xml:lang="ja">「変更点」を表す汎用UIアイコン。データと分析に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Git Commit Horizontal” in data and analytics contexts.</uui:description>
-      <uui:category id="data" xml:lang="ja">データと分析</uui:category>
-      <uui:category id="data" xml:lang="en">Data and analytics</uui:category>
+      <uui:category id="data" code="DAT" xml:lang="ja">データと分析</uui:category>
+      <uui:category id="data" code="DAT" xml:lang="en">Data and analytics</uui:category>
       <uui:keywords xml:lang="ja">変更点, データと分析, git, commit, horizontal</uui:keywords>
       <uui:keywords xml:lang="en">Git Commit Horizontal, Data and analytics, git, commit, horizontal</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

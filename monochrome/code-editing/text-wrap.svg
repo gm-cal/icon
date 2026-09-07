@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0517-monochrome-title uui-0517-monochrome-desc" data-icon-id="UUI-0517" data-icon-name="text-wrap" data-icon-variant="monochrome" data-icon-category="code-editing">
-  <title id="uui-0517-monochrome-title" xml:lang="ja">行折り返し</title>
-  <desc id="uui-0517-monochrome-desc" xml:lang="ja">「行折り返し」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-cde-0014-monochrome-title uui-cde-0014-monochrome-desc" data-icon-id="UUI-CDE-0014" data-icon-legacy-id="UUI-0517" data-icon-name="text-wrap" data-icon-variant="monochrome" data-icon-category="code-editing" data-icon-category-code="CDE">
+  <title id="uui-cde-0014-monochrome-title" xml:lang="ja">行折り返し</title>
+  <desc id="uui-cde-0014-monochrome-desc" xml:lang="ja">「行折り返し」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0517" slug="text-wrap" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-CDE-0014" legacyId="UUI-0517" slug="text-wrap" variant="monochrome">
       <uui:name xml:lang="ja">行折り返し</uui:name>
       <uui:name xml:lang="en">Text Wrap</uui:name>
       <uui:description xml:lang="ja">「行折り返し」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Text Wrap” in code editing contexts.</uui:description>
-      <uui:category id="code-editing" xml:lang="ja">コード編集</uui:category>
-      <uui:category id="code-editing" xml:lang="en">Code editing</uui:category>
+      <uui:category id="code-editing" code="CDE" xml:lang="ja">コード編集</uui:category>
+      <uui:category id="code-editing" code="CDE" xml:lang="en">Code editing</uui:category>
       <uui:keywords xml:lang="ja">行折り返し, コード編集, text, wrap</uui:keywords>
       <uui:keywords xml:lang="en">Text Wrap, Code editing, text, wrap</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

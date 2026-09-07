@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0063-color-title uui-0063-color-desc" data-icon-id="UUI-0063" data-icon-name="folder-x" data-icon-variant="color" data-icon-category="files">
-  <title id="uui-0063-color-title" xml:lang="ja">無効なフォルダー</title>
-  <desc id="uui-0063-color-desc" xml:lang="ja">「無効なフォルダー」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-fil-0013-color-title uui-fil-0013-color-desc" data-icon-id="UUI-FIL-0013" data-icon-legacy-id="UUI-0063" data-icon-name="folder-x" data-icon-variant="color" data-icon-category="files" data-icon-category-code="FIL">
+  <title id="uui-fil-0013-color-title" xml:lang="ja">無効なフォルダー</title>
+  <desc id="uui-fil-0013-color-desc" xml:lang="ja">「無効なフォルダー」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0063" slug="folder-x" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-FIL-0013" legacyId="UUI-0063" slug="folder-x" variant="color">
       <uui:name xml:lang="ja">無効なフォルダー</uui:name>
       <uui:name xml:lang="en">Folder X</uui:name>
       <uui:description xml:lang="ja">「無効なフォルダー」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Folder X” in files and folders contexts.</uui:description>
-      <uui:category id="files" xml:lang="ja">ファイルとフォルダー</uui:category>
-      <uui:category id="files" xml:lang="en">Files and folders</uui:category>
+      <uui:category id="files" code="FIL" xml:lang="ja">ファイルとフォルダー</uui:category>
+      <uui:category id="files" code="FIL" xml:lang="en">Files and folders</uui:category>
       <uui:keywords xml:lang="ja">無効なフォルダー, ファイルとフォルダー, folder, x</uui:keywords>
       <uui:keywords xml:lang="en">Folder X, Files and folders, folder, x</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

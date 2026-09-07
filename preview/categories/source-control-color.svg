@@ -14,7 +14,7 @@
         <path d="M21 18h-6" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ブランチ追加</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0529 · git-branch-plus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0001 · git-branch-plus</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -25,7 +25,7 @@
         <circle cx="6" cy="18" r="3" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ブランチ削除</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0530 · git-branch-minus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0002 · git-branch-minus</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -35,7 +35,7 @@
         <path d="M12 15v6" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">縦表示コミット</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0531 · git-commit-vertical</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0003 · git-commit-vertical</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -48,7 +48,7 @@
         <path d="m9 15 3 3-3 3" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">リビジョン比較</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0532 · git-compare-arrows</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0004 · git-compare-arrows</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -61,7 +61,7 @@
         <path d="M16 15.7A9 9 0 0 0 19 9" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">Gitグラフ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0533 · git-graph</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0005 · git-graph</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -73,7 +73,7 @@
         <circle cx="18" cy="18" r="3" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">マージ競合</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0534 · git-merge-conflict</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0006 · git-merge-conflict</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -85,7 +85,7 @@
         <path d="M12 6h5a2 2 0 0 1 2 2v7" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">プルリクエスト更新</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0535 · git-pull-request-arrow</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0007 · git-pull-request-arrow</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -98,7 +98,7 @@
         <circle cx="18" cy="18" r="3" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">終了したプルリクエスト</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0536 · git-pull-request-closed</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0008 · git-pull-request-closed</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -111,7 +111,7 @@
         <path d="M22 18h-6" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">派生プルリクエスト</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0537 · git-pull-request-create-arrow</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0009 · git-pull-request-create-arrow</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -123,7 +123,7 @@
         <path d="M21 18h-6" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">プルリクエスト作成</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0538 · git-pull-request-create</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0010 · git-pull-request-create</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -135,7 +135,7 @@
         <line x1="6" x2="6" y1="9" y2="21" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">下書きプルリクエスト</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0539 · git-pull-request-draft</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0011 · git-pull-request-draft</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -146,7 +146,7 @@
         <path d="M7 13h3" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">Gitフォルダー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0540 · folder-git</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0012 · folder-git</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -157,7 +157,7 @@
         <circle cx="20" cy="19" r="2" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">Git作業ツリー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0541 · folder-git-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0013 · folder-git-2</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -168,7 +168,7 @@
         <path d="M9 17h6" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">差分ファイル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0542 · file-diff</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0014 · file-diff</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -178,7 +178,7 @@
         <path d="M5 21h14" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">差分</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0543 · diff</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0015 · diff</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -188,7 +188,7 @@
         <path d="m20 22-5-5" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">変更統合</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0544 · merge</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0016 · merge</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -199,7 +199,7 @@
         <path d="M12 7v4" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">差分コメント</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0545 · message-square-diff</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0017 · message-square-diff</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -210,7 +210,7 @@
         <path d="m9.5 12 5 5" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">履歴破棄</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0546 · archive-x</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0018 · archive-x</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -220,7 +220,7 @@
         <path d="M18.172 6a2 2 0 0 1 1.414.586l2.06 2.06a1.207 1.207 0 0 1 0 1.708l-2.06 2.06a2 2 0 0 1-1.414.586H4a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1z" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">マイルストーン</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0547 · milestone</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0019 · milestone</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -232,7 +232,7 @@
         <path d="m22 18-1.535 1.605a5 5 0 0 1-8-1.5" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">作業ツリー同期</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0548 · folder-sync</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0020 · folder-sync</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -242,7 +242,7 @@
         <path d="m10 18 3-3-3-3" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ファイルリンク</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0549 · file-symlink</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0021 · file-symlink</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -251,7 +251,7 @@
         <path d="m8 16 3-3-3-3" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">フォルダーリンク</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0550 · folder-symlink</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0022 · folder-symlink</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -264,7 +264,7 @@
         <rect x="3" y="3" width="7" height="7" rx="1" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">変更結合</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0551 · combine</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0023 · combine</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -278,7 +278,7 @@
         <circle cx="4" cy="12" r="2" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">履歴経路</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0552 · waypoints</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0024 · waypoints</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -287,6 +287,6 @@
         <circle cx="12" cy="12" r="1" stroke="#8B5CF6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">コミット点</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0553 · circle-dot</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SCM-0025 · circle-dot</text>
     </g>
 </svg>

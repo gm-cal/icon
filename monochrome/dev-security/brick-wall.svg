@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0660-monochrome-title uui-0660-monochrome-desc" data-icon-id="UUI-0660" data-icon-name="brick-wall" data-icon-variant="monochrome" data-icon-category="dev-security">
-  <title id="uui-0660-monochrome-title" xml:lang="ja">ファイアウォール</title>
-  <desc id="uui-0660-monochrome-desc" xml:lang="ja">「ファイアウォール」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-dvs-0007-monochrome-title uui-dvs-0007-monochrome-desc" data-icon-id="UUI-DVS-0007" data-icon-legacy-id="UUI-0660" data-icon-name="brick-wall" data-icon-variant="monochrome" data-icon-category="dev-security" data-icon-category-code="DVS">
+  <title id="uui-dvs-0007-monochrome-title" xml:lang="ja">ファイアウォール</title>
+  <desc id="uui-dvs-0007-monochrome-desc" xml:lang="ja">「ファイアウォール」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0660" slug="brick-wall" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-DVS-0007" legacyId="UUI-0660" slug="brick-wall" variant="monochrome">
       <uui:name xml:lang="ja">ファイアウォール</uui:name>
       <uui:name xml:lang="en">Brick Wall</uui:name>
       <uui:description xml:lang="ja">「ファイアウォール」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Brick Wall” in development security contexts.</uui:description>
-      <uui:category id="dev-security" xml:lang="ja">開発セキュリティ</uui:category>
-      <uui:category id="dev-security" xml:lang="en">Development security</uui:category>
+      <uui:category id="dev-security" code="DVS" xml:lang="ja">開発セキュリティ</uui:category>
+      <uui:category id="dev-security" code="DVS" xml:lang="en">Development security</uui:category>
       <uui:keywords xml:lang="ja">ファイアウォール, 開発セキュリティ, brick, wall</uui:keywords>
       <uui:keywords xml:lang="en">Brick Wall, Development security, brick, wall</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

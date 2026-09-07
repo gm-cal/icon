@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0348-monochrome-title uui-0348-monochrome-desc" data-icon-id="UUI-0348" data-icon-name="circle-pause" data-icon-variant="monochrome" data-icon-category="status">
-  <title id="uui-0348-monochrome-title" xml:lang="ja">一時停止中</title>
-  <desc id="uui-0348-monochrome-desc" xml:lang="ja">「一時停止中」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-sta-0023-monochrome-title uui-sta-0023-monochrome-desc" data-icon-id="UUI-STA-0023" data-icon-legacy-id="UUI-0348" data-icon-name="circle-pause" data-icon-variant="monochrome" data-icon-category="status" data-icon-category-code="STA">
+  <title id="uui-sta-0023-monochrome-title" xml:lang="ja">一時停止中</title>
+  <desc id="uui-sta-0023-monochrome-desc" xml:lang="ja">「一時停止中」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0348" slug="circle-pause" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-STA-0023" legacyId="UUI-0348" slug="circle-pause" variant="monochrome">
       <uui:name xml:lang="ja">一時停止中</uui:name>
       <uui:name xml:lang="en">Circle Pause</uui:name>
       <uui:description xml:lang="ja">「一時停止中」を表す汎用UIアイコン。状態とフィードバックに関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Circle Pause” in status and feedback contexts.</uui:description>
-      <uui:category id="status" xml:lang="ja">状態とフィードバック</uui:category>
-      <uui:category id="status" xml:lang="en">Status and feedback</uui:category>
+      <uui:category id="status" code="STA" xml:lang="ja">状態とフィードバック</uui:category>
+      <uui:category id="status" code="STA" xml:lang="en">Status and feedback</uui:category>
       <uui:keywords xml:lang="ja">一時停止中, 状態とフィードバック, circle, pause</uui:keywords>
       <uui:keywords xml:lang="en">Circle Pause, Status and feedback, circle, pause</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

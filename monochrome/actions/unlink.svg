@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0044-monochrome-title uui-0044-monochrome-desc" data-icon-id="UUI-0044" data-icon-name="unlink" data-icon-variant="monochrome" data-icon-category="actions">
-  <title id="uui-0044-monochrome-title" xml:lang="ja">リンク解除</title>
-  <desc id="uui-0044-monochrome-desc" xml:lang="ja">「リンク解除」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-act-0019-monochrome-title uui-act-0019-monochrome-desc" data-icon-id="UUI-ACT-0019" data-icon-legacy-id="UUI-0044" data-icon-name="unlink" data-icon-variant="monochrome" data-icon-category="actions" data-icon-category-code="ACT">
+  <title id="uui-act-0019-monochrome-title" xml:lang="ja">リンク解除</title>
+  <desc id="uui-act-0019-monochrome-desc" xml:lang="ja">「リンク解除」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0044" slug="unlink" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-ACT-0019" legacyId="UUI-0044" slug="unlink" variant="monochrome">
       <uui:name xml:lang="ja">リンク解除</uui:name>
       <uui:name xml:lang="en">Unlink</uui:name>
       <uui:description xml:lang="ja">「リンク解除」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Unlink” in actions contexts.</uui:description>
-      <uui:category id="actions" xml:lang="ja">基本操作</uui:category>
-      <uui:category id="actions" xml:lang="en">Actions</uui:category>
+      <uui:category id="actions" code="ACT" xml:lang="ja">基本操作</uui:category>
+      <uui:category id="actions" code="ACT" xml:lang="en">Actions</uui:category>
       <uui:keywords xml:lang="ja">リンク解除, 基本操作, unlink</uui:keywords>
       <uui:keywords xml:lang="en">Unlink, Actions, unlink</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

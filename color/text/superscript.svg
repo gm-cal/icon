@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0098-color-title uui-0098-color-desc" data-icon-id="UUI-0098" data-icon-name="superscript" data-icon-variant="color" data-icon-category="text">
-  <title id="uui-0098-color-title" xml:lang="ja">上付き文字</title>
-  <desc id="uui-0098-color-desc" xml:lang="ja">「上付き文字」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-txt-0023-color-title uui-txt-0023-color-desc" data-icon-id="UUI-TXT-0023" data-icon-legacy-id="UUI-0098" data-icon-name="superscript" data-icon-variant="color" data-icon-category="text" data-icon-category-code="TXT">
+  <title id="uui-txt-0023-color-title" xml:lang="ja">上付き文字</title>
+  <desc id="uui-txt-0023-color-desc" xml:lang="ja">「上付き文字」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0098" slug="superscript" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-TXT-0023" legacyId="UUI-0098" slug="superscript" variant="color">
       <uui:name xml:lang="ja">上付き文字</uui:name>
       <uui:name xml:lang="en">Superscript</uui:name>
       <uui:description xml:lang="ja">「上付き文字」を表す汎用UIアイコン。文字編集に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Superscript” in text editing contexts.</uui:description>
-      <uui:category id="text" xml:lang="ja">文字編集</uui:category>
-      <uui:category id="text" xml:lang="en">Text editing</uui:category>
+      <uui:category id="text" code="TXT" xml:lang="ja">文字編集</uui:category>
+      <uui:category id="text" code="TXT" xml:lang="en">Text editing</uui:category>
       <uui:keywords xml:lang="ja">上付き文字, 文字編集, superscript</uui:keywords>
       <uui:keywords xml:lang="en">Superscript, Text editing, superscript</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0159-color-title uui-0159-color-desc" data-icon-id="UUI-0159" data-icon-name="user-search" data-icon-variant="color" data-icon-category="users">
-  <title id="uui-0159-color-title" xml:lang="ja">ユーザー検索</title>
-  <desc id="uui-0159-color-desc" xml:lang="ja">「ユーザー検索」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-usr-0009-color-title uui-usr-0009-color-desc" data-icon-id="UUI-USR-0009" data-icon-legacy-id="UUI-0159" data-icon-name="user-search" data-icon-variant="color" data-icon-category="users" data-icon-category-code="USR">
+  <title id="uui-usr-0009-color-title" xml:lang="ja">ユーザー検索</title>
+  <desc id="uui-usr-0009-color-desc" xml:lang="ja">「ユーザー検索」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0159" slug="user-search" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-USR-0009" legacyId="UUI-0159" slug="user-search" variant="color">
       <uui:name xml:lang="ja">ユーザー検索</uui:name>
       <uui:name xml:lang="en">User Search</uui:name>
       <uui:description xml:lang="ja">「ユーザー検索」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “User Search” in users and identity contexts.</uui:description>
-      <uui:category id="users" xml:lang="ja">ユーザーと認証</uui:category>
-      <uui:category id="users" xml:lang="en">Users and identity</uui:category>
+      <uui:category id="users" code="USR" xml:lang="ja">ユーザーと認証</uui:category>
+      <uui:category id="users" code="USR" xml:lang="en">Users and identity</uui:category>
       <uui:keywords xml:lang="ja">ユーザー検索, ユーザーと認証, user, search</uui:keywords>
       <uui:keywords xml:lang="en">User Search, Users and identity, user, search</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

@@ -14,7 +14,7 @@
         <ellipse cx="12" cy="5" rx="9" ry="3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">データベース検索</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0579 · database-search</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0001 · database-search</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -26,7 +26,7 @@
         <path d="M3 12A9 3 0 0 0 14.59 14.87" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">高速データ処理</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0580 · database-zap</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0002 · database-zap</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -39,7 +39,7 @@
         <path d="M14 17h2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">表計算ファイル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0581 · file-spreadsheet</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0003 · file-spreadsheet</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -50,7 +50,7 @@
         <path d="M21 15H3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">テーブル定義</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0582 · table-properties</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0004 · table-properties</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -63,7 +63,7 @@
         <path d="M21 19h.01" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">テーブル目次</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0583 · table-of-contents</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0005 · table-of-contents</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -75,7 +75,7 @@
         <rect width="18" height="18" x="3" y="3" rx="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">セル結合</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0584 · table-cells-merge</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0006 · table-cells-merge</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -86,7 +86,7 @@
         <rect width="18" height="18" x="3" y="3" rx="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">セル分割</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0585 · table-cells-split</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0007 · table-cells-split</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -104,7 +104,7 @@
         <path d="M5 3v18" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">列分割</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0586 · table-columns-split</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0008 · table-columns-split</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -122,7 +122,7 @@
         <path d="M9 2v4" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">行分割</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0587 · table-rows-split</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0009 · table-rows-split</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -132,7 +132,7 @@
         <path d="M15 3v18" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">3列</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0588 · columns-3</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0010 · columns-3</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -143,7 +143,7 @@
         <path d="M16.5 3v18" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">4列</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0589 · columns-4</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0011 · columns-4</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -153,7 +153,7 @@
         <path d="M21 15H3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">3行</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0590 · rows-3</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0012 · rows-3</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -164,7 +164,7 @@
         <path d="M21 16.5H3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">4行</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0591 · rows-4</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0013 · rows-4</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -176,7 +176,7 @@
         <path d="M15 3v18" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">3×3グリッド</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0592 · grid-3x3</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0014 · grid-3x3</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -187,7 +187,7 @@
         <rect x="3" y="3" width="18" height="18" rx="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">3×2グリッド</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0593 · grid-3x2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0015 · grid-3x2</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -200,7 +200,7 @@
         <path d="M3 3v16a2 2 0 0 0 2 2h16" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">散布図</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0594 · chart-scatter</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0016 · chart-scatter</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -209,7 +209,7 @@
         <path d="M7 16c.5-2 1.5-7 4-7 2 0 2 3 4 3 2.5 0 4.5-5 5-7" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">曲線グラフ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0595 · chart-spline</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0017 · chart-spline</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -223,7 +223,7 @@
         <path d="M3 3v16a2 2 0 0 0 2 2h16" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ローソク足</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0596 · chart-candlestick</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0018 · chart-candlestick</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -234,7 +234,7 @@
         <path d="M8 17v-3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">縦棒グラフ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0597 · chart-column</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0019 · chart-column</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -245,7 +245,7 @@
         <path d="M8 17v-3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">増加縦棒グラフ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0598 · chart-column-increasing</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0020 · chart-column-increasing</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -256,7 +256,7 @@
         <path d="M8 17V5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">減少縦棒グラフ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0599 · chart-column-decreasing</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0021 · chart-column-decreasing</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -268,7 +268,7 @@
         <rect x="7" y="8" width="4" height="9" rx="1" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">積み上げ縦棒</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0600 · chart-column-stacked</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0022 · chart-column-stacked</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -278,7 +278,7 @@
         <rect x="7" y="5" width="12" height="4" rx="1" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">大型棒グラフ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0601 · chart-bar-big</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0023 · chart-bar-big</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -290,7 +290,7 @@
         <rect x="7" y="5" width="12" height="4" rx="1" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">積み上げ横棒</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0602 · chart-bar-stacked</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0024 · chart-bar-stacked</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -298,6 +298,6 @@
         <path d="M18 7V5a1 1 0 0 0-1-1H6.5a.5.5 0 0 0-.4.8l4.5 6a2 2 0 0 1 0 2.4l-4.5 6a.5.5 0 0 0 .4.8H17a1 1 0 0 0 1-1v-2" stroke="currentColor" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">集計</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0603 · sigma</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DBA-0025 · sigma</text>
     </g>
 </svg>

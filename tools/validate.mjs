@@ -4,7 +4,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const scriptRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const generatedRoot = path.join(scriptRoot, "release", "universal-ui-icons-500");
+const generatedRoot = path.join(scriptRoot, "release", "universal-ui-icons");
 const root = process.argv[2]
   ? path.resolve(process.argv[2])
   : await exists(path.join(scriptRoot, "catalog", "catalog-v1.json")) ? scriptRoot : generatedRoot;
@@ -30,7 +30,7 @@ function expect(condition, message) {
 
 const catalogPath = path.join(root, "catalog", "catalog-v1.json");
 const catalog = JSON.parse(await readFile(catalogPath, "utf8"));
-expect(catalog.schemaVersion === "1.0", "Catalog schemaVersion must be 1.0.");
+expect(catalog.schemaVersion === "1.1", "Catalog schemaVersion must be 1.1.");
 const expectedIconCount = catalog.library?.iconCount;
 const expectedSvgCount = expectedIconCount * 2;
 expect(Number.isInteger(expectedIconCount) && expectedIconCount > 0, "Catalog iconCount must be a positive integer.");
@@ -39,13 +39,28 @@ expect(Array.isArray(catalog.categories) && catalog.categories.length > 0, "At l
 expect(catalog.icons?.length === expectedIconCount, `Exactly ${expectedIconCount} catalog entries are required.`);
 
 const ids = new Set();
+const legacyIds = new Set();
 const slugs = new Set();
+const categoryCodes = new Map(catalog.categories.map((category) => [category.id, category.code]));
+const categorySequence = new Map();
+expect(categoryCodes.size === catalog.categories.length, "Category ids must be unique.");
+expect(new Set(categoryCodes.values()).size === catalog.categories.length, "Category codes must be unique.");
 for (const icon of catalog.icons) {
   expect(!ids.has(icon.id), `Duplicate id: ${icon.id}`);
   expect(!slugs.has(icon.slug), `Duplicate slug: ${icon.slug}`);
   ids.add(icon.id);
   slugs.add(icon.slug);
-  expect(/^UUI-\d{4}$/.test(icon.id), `Invalid id: ${icon.id}`);
+  expect(/^UUI-[A-Z0-9]{3}-\d{4}$/.test(icon.id), `Invalid id: ${icon.id}`);
+  expect(icon.category?.code === categoryCodes.get(icon.category?.id), `Category code mismatch: ${icon.id}`);
+  expect(icon.id.startsWith(`UUI-${icon.category?.code}-`), `ID category prefix mismatch: ${icon.id}`);
+  const nextCategorySequence = (categorySequence.get(icon.category?.id) ?? 0) + 1;
+  categorySequence.set(icon.category?.id, nextCategorySequence);
+  expect(icon.id === `UUI-${icon.category?.code}-${String(nextCategorySequence).padStart(4, "0")}`, `Non-contiguous category sequence: ${icon.id}`);
+  if (icon.legacyId) {
+    expect(/^UUI-\d{4}$/.test(icon.legacyId), `Invalid legacy id: ${icon.legacyId}`);
+    expect(!legacyIds.has(icon.legacyId), `Duplicate legacy id: ${icon.legacyId}`);
+    legacyIds.add(icon.legacyId);
+  }
   expect(/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(icon.slug), `Invalid slug: ${icon.slug}`);
   expect(icon.name?.ja && icon.name?.en, `Missing localized name: ${icon.id}`);
   expect(icon.geometrySha256?.length === 64, `Invalid geometry hash: ${icon.id}`);
@@ -58,6 +73,12 @@ for (const icon of catalog.icons) {
     if (!await exists(absolute)) continue;
     const svg = await readFile(absolute, "utf8");
     expect(svg.includes(`data-icon-id="${icon.id}"`), `ID mismatch in ${relative}`);
+    if (icon.legacyId) {
+      expect(svg.includes(`legacyId="${icon.legacyId}"`), `Legacy ID missing in ${relative}`);
+      expect(svg.includes(`data-icon-legacy-id="${icon.legacyId}"`), `Legacy data attribute missing in ${relative}`);
+    }
+    expect(svg.includes(`code="${icon.category.code}"`), `Category code missing in ${relative}`);
+    expect(svg.includes(`data-icon-category-code="${icon.category.code}"`), `Category data attribute missing in ${relative}`);
     expect(svg.includes(`data-icon-name="${icon.slug}"`), `Slug mismatch in ${relative}`);
     expect(svg.includes(`data-icon-variant="${variant}"`), `Variant mismatch in ${relative}`);
     expect(svg.includes("<metadata id=\"uui-metadata\">"), `Metadata missing in ${relative}`);
@@ -72,6 +93,18 @@ for (const icon of catalog.icons) {
     if (variant === "monochrome") expect(svg.includes('stroke="currentColor"'), `currentColor missing in ${relative}`);
     else expect(/stroke="#[0-9A-F]{6}"/.test(svg), `Color stroke missing in ${relative}`);
   }
+}
+
+expect(legacyIds.size === Math.min(1000, expectedIconCount), `Expected ${Math.min(1000, expectedIconCount)} legacy ids; found ${legacyIds.size}.`);
+for (const category of catalog.categories) {
+  expect(category.iconCount === categorySequence.get(category.id), `Category count mismatch: ${category.id}`);
+}
+
+const migrationPath = path.join(root, "catalog", "id-migration-v2-to-v3.csv");
+expect(await exists(migrationPath), "ID migration CSV is missing.");
+if (await exists(migrationPath)) {
+  const migrationLines = (await readFile(migrationPath, "utf8")).trim().split(/\r?\n/);
+  expect(migrationLines.length === legacyIds.size + 1, `ID migration row count mismatch: ${migrationLines.length - 1}`);
 }
 
 const colorFiles = await svgFiles(path.join(root, "color"));
@@ -92,7 +125,7 @@ if (errors.length) {
   if (errors.length > 100) console.error(`- ... ${errors.length - 100} more`);
   process.exitCode = 1;
 } else {
-  const digest = createHash("sha256").update(JSON.stringify(catalog.icons.map(({ id, slug, geometrySha256 }) => ({ id, slug, geometrySha256 })))).digest("hex");
+  const digest = createHash("sha256").update(JSON.stringify(catalog.icons.map(({ id, legacyId, slug, geometrySha256 }) => ({ id, legacyId, slug, geometrySha256 })))).digest("hex");
   console.log(`Validation passed: ${expectedIconCount} icons, ${expectedSvgCount.toLocaleString("en-US")} paired SVGs, ${catalog.categories.length} categories.`);
   console.log(`Catalog identity SHA-256: ${digest}`);
 }

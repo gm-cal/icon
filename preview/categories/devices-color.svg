@@ -17,7 +17,7 @@
         <rect width="20" height="16" x="2" y="4" rx="2" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">キーボード</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0351 · keyboard</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0001 · keyboard</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -26,7 +26,7 @@
         <path d="M12 6v4" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">マウス</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0352 · mouse</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0002 · mouse</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -34,7 +34,7 @@
         <path d="M4.037 4.688a.495.495 0 0 1 .651-.651l16 6.5a.5.5 0 0 1-.063.947l-6.124 1.58a2 2 0 0 0-1.438 1.435l-1.579 6.126a.5.5 0 0 1-.947.063z" stroke="#1D4ED8" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">マウスポインター</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0353 · mouse-pointer-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0003 · mouse-pointer-2</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -45,7 +45,7 @@
         <path d="M6 9V3a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v6" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">印刷完了</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0354 · printer-check</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0004 · printer-check</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -58,7 +58,7 @@
         <path d="M20.66 4.34a8 8 0 0 0-11.31 0" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ルーター</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0355 · router</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0005 · router</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -69,7 +69,7 @@
         <path d="M8.5 16.429a5 5 0 0 1 7 0" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">Wi-Fi</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0356 · wifi</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0006 · wifi</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -77,7 +77,7 @@
         <path d="m7 7 10 10-5 5V2l5 5L7 17" stroke="#1D4ED8" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">Bluetooth</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0357 · bluetooth</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0007 · bluetooth</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -91,7 +91,7 @@
         <path d="m18 12 1-1 1 1-1 1Z" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">USB</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0358 · usb</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0008 · usb</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -100,7 +100,7 @@
         <rect x="2" y="6" width="16" height="12" rx="2" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">バッテリー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0359 · battery</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0009 · battery</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -111,7 +111,7 @@
         <path d="M5.14 18H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h2.936" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">充電中</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0360 · battery-charging</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0010 · battery-charging</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -123,7 +123,7 @@
         <rect x="2" y="6" width="16" height="12" rx="2" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">満充電</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0361 · battery-full</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0011 · battery-full</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -133,7 +133,7 @@
         <rect x="2" y="6" width="16" height="12" rx="2" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">残量低下</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0362 · battery-low</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0012 · battery-low</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -144,7 +144,7 @@
         <path d="M9 8V2" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">電源プラグ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0363 · plug</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0013 · plug</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -158,7 +158,7 @@
         <path d="M7 5V3" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ケーブル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0364 · cable</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0014 · cable</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -169,7 +169,7 @@
         <path d="M12 22v-4" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">Webカメラ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0365 · webcam</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0015 · webcam</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -182,7 +182,7 @@
         <path d="M16 16h2" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">プロジェクター</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0366 · projector</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0016 · projector</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -191,7 +191,7 @@
         <rect width="20" height="15" x="2" y="7" rx="2" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">テレビ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0367 · tv</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0017 · tv</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -203,7 +203,7 @@
         <path d="M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ゲームコントローラー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0368 · gamepad-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0018 · gamepad-2</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -214,7 +214,7 @@
         <circle cx="12" cy="6" r="3" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ジョイスティック</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0369 · joystick</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0019 · joystick</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -225,7 +225,7 @@
         <path d="M12 14h.01" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">スピーカー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0370 · speaker</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0020 · speaker</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -234,7 +234,7 @@
         <path d="M21 16v2a4 4 0 0 1-4 4h-5" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ヘッドセット</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0371 · headset</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0021 · headset</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -245,7 +245,7 @@
         <path d="M21 13A10 10 0 0 0 11 3" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">衛星通信</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0372 · satellite-dish</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0022 · satellite-dish</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -259,7 +259,7 @@
         <path d="m8 22 4-11 4 11" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">無線基地局</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0373 · radio-tower</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0023 · radio-tower</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -270,7 +270,7 @@
         <path d="M16.37 2a20.16 20.16 0 0 1 0 20" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">NFC</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0374 · nfc</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0024 · nfc</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -281,6 +281,6 @@
         <path d="M9 10h6" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">デスクトップPC</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0375 · pc-case</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVC-0025 · pc-case</text>
     </g>
 </svg>

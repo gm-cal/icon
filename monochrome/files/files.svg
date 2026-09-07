@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0057-monochrome-title uui-0057-monochrome-desc" data-icon-id="UUI-0057" data-icon-name="files" data-icon-variant="monochrome" data-icon-category="files">
-  <title id="uui-0057-monochrome-title" xml:lang="ja">複数ファイル</title>
-  <desc id="uui-0057-monochrome-desc" xml:lang="ja">「複数ファイル」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-fil-0007-monochrome-title uui-fil-0007-monochrome-desc" data-icon-id="UUI-FIL-0007" data-icon-legacy-id="UUI-0057" data-icon-name="files" data-icon-variant="monochrome" data-icon-category="files" data-icon-category-code="FIL">
+  <title id="uui-fil-0007-monochrome-title" xml:lang="ja">複数ファイル</title>
+  <desc id="uui-fil-0007-monochrome-desc" xml:lang="ja">「複数ファイル」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0057" slug="files" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-FIL-0007" legacyId="UUI-0057" slug="files" variant="monochrome">
       <uui:name xml:lang="ja">複数ファイル</uui:name>
       <uui:name xml:lang="en">Files</uui:name>
       <uui:description xml:lang="ja">「複数ファイル」を表す汎用UIアイコン。ファイルとフォルダーに関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Files” in files and folders contexts.</uui:description>
-      <uui:category id="files" xml:lang="ja">ファイルとフォルダー</uui:category>
-      <uui:category id="files" xml:lang="en">Files and folders</uui:category>
+      <uui:category id="files" code="FIL" xml:lang="ja">ファイルとフォルダー</uui:category>
+      <uui:category id="files" code="FIL" xml:lang="en">Files and folders</uui:category>
       <uui:keywords xml:lang="ja">複数ファイル, ファイルとフォルダー, files</uui:keywords>
       <uui:keywords xml:lang="en">Files, Files and folders, files</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

@@ -10,7 +10,7 @@
         <path d="M9 3v18" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">左パネル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0101 · panel-left</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0001 · panel-left</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -19,7 +19,7 @@
         <path d="M15 3v18" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">右パネル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0102 · panel-right</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0002 · panel-right</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -28,7 +28,7 @@
         <path d="M3 9h18" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">上パネル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0103 · panel-top</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0003 · panel-top</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -37,7 +37,7 @@
         <path d="M3 15h18" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">下パネル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0104 · panel-bottom</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0004 · panel-bottom</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -47,7 +47,7 @@
         <path d="m14 9 3 3-3 3" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">左パネルを開く</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0105 · panel-left-open</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0005 · panel-left-open</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -57,7 +57,7 @@
         <path d="m16 15-3-3 3-3" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">左パネルを閉じる</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0106 · panel-left-close</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0006 · panel-left-close</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -67,7 +67,7 @@
         <path d="m10 15-3-3 3-3" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">右パネルを開く</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0107 · panel-right-open</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0007 · panel-right-open</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -77,7 +77,7 @@
         <path d="m8 9 3 3-3 3" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">右パネルを閉じる</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0108 · panel-right-close</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0008 · panel-right-close</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -86,7 +86,7 @@
         <path d="M12 3v18" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">2列</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0109 · columns-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0009 · columns-2</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -95,7 +95,7 @@
         <path d="M3 12h18" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">2行</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0110 · rows-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0010 · rows-2</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -105,7 +105,7 @@
         <rect x="3" y="3" width="18" height="18" rx="2" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">グリッド</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0111 · grid-2x2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0011 · grid-2x2</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -116,7 +116,7 @@
         <rect width="7" height="7" x="3" y="14" rx="1" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">タイル配置</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0112 · layout-grid</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0012 · layout-grid</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -127,7 +127,7 @@
         <path d="M3 15h18" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">表</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0113 · table</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0013 · table</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -138,7 +138,7 @@
         <path d="M9 21H3v-6" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">最大化</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0114 · maximize-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0014 · maximize-2</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -149,7 +149,7 @@
         <path d="M4 14h6v6" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">最小化</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0115 · minimize-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0015 · minimize-2</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -161,7 +161,7 @@
         <rect width="10" height="8" x="7" y="8" rx="1" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">全画面</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0116 · fullscreen</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0016 · fullscreen</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -172,7 +172,7 @@
         <path d="M6 4v4" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">アプリ画面</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0117 · app-window</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0017 · app-window</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -182,7 +182,7 @@
         <line x1="12" x2="12" y1="17" y2="21" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">デスクトップ画面</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0118 · monitor</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0018 · monitor</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -191,7 +191,7 @@
         <path d="M12 18h.01" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">スマートフォン画面</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0119 · smartphone</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0019 · smartphone</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -200,7 +200,7 @@
         <line x1="12" x2="12.01" y1="18" y2="18" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">タブレット画面</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0120 · tablet</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0020 · tablet</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -209,7 +209,7 @@
         <path d="M20.054 15.987H3.946" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ノートPC画面</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0121 · laptop</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0021 · laptop</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -219,7 +219,7 @@
         <path d="M9 21V9" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ダッシュボード</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0122 · panels-top-left</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0022 · panels-top-left</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -230,7 +230,7 @@
         <path d="m15 9 6-6" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">分割</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0123 · split</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0023 · split</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -239,7 +239,7 @@
         <rect width="20" height="6" x="2" y="14" rx="2" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">横幅に合わせる</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0124 · stretch-horizontal</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0024 · stretch-horizontal</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -249,6 +249,6 @@
         <path d="M2 17a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 17" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">レイヤー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0125 · layers</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LAY-0025 · layers</text>
     </g>
 </svg>

@@ -10,7 +10,7 @@
         <path d="m9 12 2 2 4-4" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">チェックボックス選択</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0879 · square-check</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0001 · square-check</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -19,7 +19,7 @@
         <path d="M8 12h8" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">チェックボックス一部選択</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0880 · square-minus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0002 · square-minus</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -29,7 +29,7 @@
         <path d="M12 8v8" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">入力欄追加</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0881 · square-plus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0003 · square-plus</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -38,7 +38,7 @@
         <circle cx="12" cy="12" r="1" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ラジオ選択</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0882 · square-dot</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0004 · square-dot</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -54,7 +54,7 @@
         <circle cx="12" cy="12" r="1" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">仮選択</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0883 · circle-dot-dashed</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0005 · circle-dot-dashed</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -62,7 +62,7 @@
         <circle cx="12" cy="12" r="6" stroke="#4F46E5" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">小型選択点</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0884 · circle-small</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0006 · circle-small</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -71,7 +71,7 @@
         <circle cx="14" cy="12" r="8" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">複合入力</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0885 · rectangle-circle</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0007 · rectangle-circle</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -80,7 +80,7 @@
         <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">角丸入力欄</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0886 · square-round-corner</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0008 · square-round-corner</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -91,7 +91,7 @@
         <path d="m8.5 10 7 4" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">必須入力</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0887 · square-asterisk</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0009 · square-asterisk</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -110,7 +110,7 @@
         <path d="M21 14v1" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">未入力領域</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0888 · square-dashed</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0010 · square-dashed</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -127,7 +127,7 @@
         <path d="M3 14v1" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">領域選択</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0889 · square-dashed-mouse-pointer</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0011 · square-dashed-mouse-pointer</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -136,7 +136,7 @@
         <path d="M21 11V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h6" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">入力欄選択</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0890 · square-mouse-pointer</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0012 · square-mouse-pointer</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -146,7 +146,7 @@
         <path d="M9 15L4 10" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">入力確認</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0891 · check-line</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0013 · check-line</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -156,7 +156,7 @@
         <path d="m6 8 12 12" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">入力削除</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0892 · x-line-top</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0014 · x-line-top</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -165,7 +165,7 @@
         <path d="M3.688 3.037a.497.497 0 0 0-.651.651l6.5 15.999a.501.501 0 0 0 .947-.062l1.569-6.083a2 2 0 0 1 1.448-1.479l6.124-1.579a.5.5 0 0 0 .063-.947z" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ポインター</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0893 · mouse-pointer</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0015 · mouse-pointer</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -175,7 +175,7 @@
         <path d="m6.816 11.528-2.779-6.84a.495.495 0 0 1 .651-.651l6.84 2.779" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ポインター無効</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0894 · mouse-pointer-2-off</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0016 · mouse-pointer-2-off</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -185,7 +185,7 @@
         <path d="m11.8 11.8 8.4 8.4" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">選択禁止</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0895 · mouse-pointer-ban</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0017 · mouse-pointer-ban</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -197,7 +197,7 @@
         <path d="M9.037 9.69a.498.498 0 0 1 .653-.653l11 4.5a.5.5 0 0 1-.074.949l-4.349 1.041a1 1 0 0 0-.74.739l-1.04 4.35a.5.5 0 0 1-.95.074z" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">クリック</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0896 · mouse-pointer-click</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0018 · mouse-pointer-click</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -209,7 +209,7 @@
         <path d="M18 11a2 2 0 1 1 4 0v3a8 8 0 0 1-8 8h-2c-2.8 0-4.5-.86-5.99-2.34l-3.6-3.6a2 2 0 0 1 2.83-2.82L7 15" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">タップ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0897 · pointer</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0019 · pointer</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -222,7 +222,7 @@
         <path d="m2 2 20 20" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">タップ無効</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0898 · pointer-off</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0020 · pointer-off</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -232,7 +232,7 @@
         <circle cx="7" cy="4" r="2" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">左クリック</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0899 · mouse-left</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0021 · mouse-left</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -242,7 +242,7 @@
         <circle cx="17" cy="4" r="2" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">右クリック</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0900 · mouse-right</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0022 · mouse-right</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -253,7 +253,7 @@
         <rect x="6" y="3" width="5" height="8" rx="2.5" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">小数桁を減らす</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0901 · decimals-arrow-left</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0023 · decimals-arrow-left</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -265,7 +265,7 @@
         <rect x="6" y="3" width="5" height="8" rx="2.5" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">小数桁を増やす</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0902 · decimals-arrow-right</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0024 · decimals-arrow-right</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -276,6 +276,6 @@
         <path d="M3.304 13h6.392" stroke="#818CF8" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">文字を縮小</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0903 · a-arrow-down</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FRM-0025 · a-arrow-down</text>
     </g>
 </svg>

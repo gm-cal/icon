@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0293-color-title uui-0293-color-desc" data-icon-id="UUI-0293" data-icon-name="git-compare" data-icon-variant="color" data-icon-category="development">
-  <title id="uui-0293-color-title" xml:lang="ja">差分比較</title>
-  <desc id="uui-0293-color-desc" xml:lang="ja">「差分比較」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-dev-0018-color-title uui-dev-0018-color-desc" data-icon-id="UUI-DEV-0018" data-icon-legacy-id="UUI-0293" data-icon-name="git-compare" data-icon-variant="color" data-icon-category="development" data-icon-category-code="DEV">
+  <title id="uui-dev-0018-color-title" xml:lang="ja">差分比較</title>
+  <desc id="uui-dev-0018-color-desc" xml:lang="ja">「差分比較」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0293" slug="git-compare" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-DEV-0018" legacyId="UUI-0293" slug="git-compare" variant="color">
       <uui:name xml:lang="ja">差分比較</uui:name>
       <uui:name xml:lang="en">Git Compare</uui:name>
       <uui:description xml:lang="ja">「差分比較」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Git Compare” in development and systems contexts.</uui:description>
-      <uui:category id="development" xml:lang="ja">開発とシステム</uui:category>
-      <uui:category id="development" xml:lang="en">Development and systems</uui:category>
+      <uui:category id="development" code="DEV" xml:lang="ja">開発とシステム</uui:category>
+      <uui:category id="development" code="DEV" xml:lang="en">Development and systems</uui:category>
       <uui:keywords xml:lang="ja">差分比較, 開発とシステム, git, compare</uui:keywords>
       <uui:keywords xml:lang="en">Git Compare, Development and systems, git, compare</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

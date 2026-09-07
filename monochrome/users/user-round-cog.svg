@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0154-monochrome-title uui-0154-monochrome-desc" data-icon-id="UUI-0154" data-icon-name="user-round-cog" data-icon-variant="monochrome" data-icon-category="users">
-  <title id="uui-0154-monochrome-title" xml:lang="ja">ユーザー設定</title>
-  <desc id="uui-0154-monochrome-desc" xml:lang="ja">「ユーザー設定」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-usr-0004-monochrome-title uui-usr-0004-monochrome-desc" data-icon-id="UUI-USR-0004" data-icon-legacy-id="UUI-0154" data-icon-name="user-round-cog" data-icon-variant="monochrome" data-icon-category="users" data-icon-category-code="USR">
+  <title id="uui-usr-0004-monochrome-title" xml:lang="ja">ユーザー設定</title>
+  <desc id="uui-usr-0004-monochrome-desc" xml:lang="ja">「ユーザー設定」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0154" slug="user-round-cog" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-USR-0004" legacyId="UUI-0154" slug="user-round-cog" variant="monochrome">
       <uui:name xml:lang="ja">ユーザー設定</uui:name>
       <uui:name xml:lang="en">User Round Cog</uui:name>
       <uui:description xml:lang="ja">「ユーザー設定」を表す汎用UIアイコン。ユーザーと認証に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “User Round Cog” in users and identity contexts.</uui:description>
-      <uui:category id="users" xml:lang="ja">ユーザーと認証</uui:category>
-      <uui:category id="users" xml:lang="en">Users and identity</uui:category>
+      <uui:category id="users" code="USR" xml:lang="ja">ユーザーと認証</uui:category>
+      <uui:category id="users" code="USR" xml:lang="en">Users and identity</uui:category>
       <uui:keywords xml:lang="ja">ユーザー設定, ユーザーと認証, user, round, cog</uui:keywords>
       <uui:keywords xml:lang="en">User Round Cog, Users and identity, user, round, cog</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

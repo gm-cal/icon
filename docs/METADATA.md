@@ -1,4 +1,4 @@
-# SVG内部メタデータ仕様 1.0
+# SVG内部メタデータ仕様 1.1
 
 ## 名前空間
 
@@ -14,14 +14,15 @@ SVGルートでは `xmlns:uui="urn:universal-ui-icons:metadata:1.0"` として�
 
 ```xml
 <metadata id="uui-metadata">
-  <uui:icon schemaVersion="1.0" libraryVersion="1.0.0"
-            id="UUI-0001" slug="arrow-up" variant="color">
+  <uui:icon schemaVersion="1.1" libraryVersion="3.0.0"
+            id="UUI-NAV-0001" legacyId="UUI-0001"
+            slug="arrow-up" variant="color">
     <uui:name xml:lang="ja">上へ</uui:name>
     <uui:name xml:lang="en">Arrow Up</uui:name>
     <uui:description xml:lang="ja">…</uui:description>
     <uui:description xml:lang="en">…</uui:description>
-    <uui:category id="navigation" xml:lang="ja">ナビゲーション</uui:category>
-    <uui:category id="navigation" xml:lang="en">Navigation</uui:category>
+    <uui:category id="navigation" code="NAV" xml:lang="ja">ナビゲーション</uui:category>
+    <uui:category id="navigation" code="NAV" xml:lang="en">Navigation</uui:category>
     <uui:keywords xml:lang="ja">上へ, ナビゲーション</uui:keywords>
     <uui:keywords xml:lang="en">Arrow Up, Navigation</uui:keywords>
     <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
@@ -43,11 +44,12 @@ SVGルートでは `xmlns:uui="urn:universal-ui-icons:metadata:1.0"` として�
 | `schemaVersion` | 必須 | メタデータ仕様の版 |
 | `libraryVersion` | 必須 | 当該SVGが追加または形状更新された時点のアイコンセットの版 |
 | `id` | 必須 | 意味に対して固定される安定ID |
+| `legacyId` | 任意 | v2.0.0以前の全体連番ID。既存利用側の移行に使用 |
 | `slug` | 必須 | ファイル名とスプライト参照に使う英字名 |
 | `variant` | 必須 | `color` または `monochrome` |
 | `uui:name` | 必須 | 言語別の表示名 |
 | `uui:description` | 必須 | 用途説明 |
-| `uui:category` | 必須 | 分類IDと表示名 |
+| `uui:category` | 必須 | 分類ID、3桁カテゴリコード、表示名 |
 | `uui:keywords` | 必須 | 検索用語。カンマ区切り |
 | `uui:recommendedSizes` | 必須 | 推奨描画サイズ |
 | `uui:minimumSize` | 必須 | 簡略化なしで使う最小サイズ |

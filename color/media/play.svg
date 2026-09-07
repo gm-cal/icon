@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0226-color-title uui-0226-color-desc" data-icon-id="UUI-0226" data-icon-name="play" data-icon-variant="color" data-icon-category="media">
-  <title id="uui-0226-color-title" xml:lang="ja">再生</title>
-  <desc id="uui-0226-color-desc" xml:lang="ja">「再生」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-med-0001-color-title uui-med-0001-color-desc" data-icon-id="UUI-MED-0001" data-icon-legacy-id="UUI-0226" data-icon-name="play" data-icon-variant="color" data-icon-category="media" data-icon-category-code="MED">
+  <title id="uui-med-0001-color-title" xml:lang="ja">再生</title>
+  <desc id="uui-med-0001-color-desc" xml:lang="ja">「再生」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0226" slug="play" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-MED-0001" legacyId="UUI-0226" slug="play" variant="color">
       <uui:name xml:lang="ja">再生</uui:name>
       <uui:name xml:lang="en">Play</uui:name>
       <uui:description xml:lang="ja">「再生」を表す汎用UIアイコン。画像・音声・映像に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Play” in media contexts.</uui:description>
-      <uui:category id="media" xml:lang="ja">画像・音声・映像</uui:category>
-      <uui:category id="media" xml:lang="en">Media</uui:category>
+      <uui:category id="media" code="MED" xml:lang="ja">画像・音声・映像</uui:category>
+      <uui:category id="media" code="MED" xml:lang="en">Media</uui:category>
       <uui:keywords xml:lang="ja">再生, 画像・音声・映像, play</uui:keywords>
       <uui:keywords xml:lang="en">Play, Media, play</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0200-color-title uui-0200-color-desc" data-icon-id="UUI-0200" data-icon-name="file-lock" data-icon-variant="color" data-icon-category="security">
-  <title id="uui-0200-color-title" xml:lang="ja">保護ファイル</title>
-  <desc id="uui-0200-color-desc" xml:lang="ja">「保護ファイル」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-sec-0025-color-title uui-sec-0025-color-desc" data-icon-id="UUI-SEC-0025" data-icon-legacy-id="UUI-0200" data-icon-name="file-lock" data-icon-variant="color" data-icon-category="security" data-icon-category-code="SEC">
+  <title id="uui-sec-0025-color-title" xml:lang="ja">保護ファイル</title>
+  <desc id="uui-sec-0025-color-desc" xml:lang="ja">「保護ファイル」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0200" slug="file-lock" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-SEC-0025" legacyId="UUI-0200" slug="file-lock" variant="color">
       <uui:name xml:lang="ja">保護ファイル</uui:name>
       <uui:name xml:lang="en">File Lock</uui:name>
       <uui:description xml:lang="ja">「保護ファイル」を表す汎用UIアイコン。セキュリティに関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “File Lock” in security and privacy contexts.</uui:description>
-      <uui:category id="security" xml:lang="ja">セキュリティ</uui:category>
-      <uui:category id="security" xml:lang="en">Security and privacy</uui:category>
+      <uui:category id="security" code="SEC" xml:lang="ja">セキュリティ</uui:category>
+      <uui:category id="security" code="SEC" xml:lang="en">Security and privacy</uui:category>
       <uui:keywords xml:lang="ja">保護ファイル, セキュリティ, file, lock</uui:keywords>
       <uui:keywords xml:lang="en">File Lock, Security and privacy, file, lock</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

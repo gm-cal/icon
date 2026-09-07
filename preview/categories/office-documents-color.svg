@@ -14,7 +14,7 @@
         <circle cx="8" cy="20" r="2" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">圧縮ファイル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0729 · file-archive</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0001 · file-archive</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -26,7 +26,7 @@
         <path d="M7 17v5" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">梱包済みファイル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0730 · file-box</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0002 · file-box</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -37,7 +37,7 @@
         <circle cx="8" cy="16" r="6" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">期限付きファイル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0731 · file-clock</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0003 · file-clock</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -56,7 +56,7 @@
         <circle cx="7" cy="18" r="3" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">設定ファイル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0732 · file-cog</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0004 · file-cog</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -66,7 +66,7 @@
         <path d="M2 19a2 2 0 0 1 4 0v1a2 2 0 0 1-4 0v-4a6 6 0 0 1 12 0v4a2 2 0 0 1-4 0v-1a2 2 0 0 1 4 0" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">音声資料</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0733 · file-headphone</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0005 · file-headphone</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -77,7 +77,7 @@
         <path d="m20 17-1.296-1.296a2.41 2.41 0 0 0-3.408 0L9 22" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">画像資料</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0734 · file-image</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0006 · file-image</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -88,7 +88,7 @@
         <circle cx="6" cy="20" r="2" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">音楽資料</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0735 · file-music</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0007 · file-music</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -98,7 +98,7 @@
         <path d="M10.378 12.622a1 1 0 0 1 3 3.003L8.36 20.637a2 2 0 0 1-.854.506l-2.867.837a.5.5 0 0 1-.62-.62l.836-2.869a2 2 0 0 1 .506-.853z" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">編集可能ファイル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0736 · file-pen</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0008 · file-pen</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -109,7 +109,7 @@
         <path d="M8 18h1" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">文書修正</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0737 · file-pen-line</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0009 · file-pen-line</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -119,7 +119,7 @@
         <path d="M15.033 13.44a.647.647 0 0 1 0 1.12l-4.065 2.352a.645.645 0 0 1-.968-.56v-4.704a.645.645 0 0 1 .967-.56z" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">再生ファイル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0738 · file-play</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0010 · file-play</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -129,7 +129,7 @@
         <path d="M9.1 9a3 3 0 0 1 5.82 1c0 2-3 3-3 3" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">不明なファイル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0739 · file-question-mark</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0011 · file-question-mark</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -141,7 +141,7 @@
         <path d="M15 12a5 5 0 0 1 0 6" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">通信ファイル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0740 · file-signal</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0012 · file-signal</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -154,7 +154,7 @@
         <path d="M14 16v2" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">調整ファイル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0741 · file-sliders</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0013 · file-sliders</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -164,7 +164,7 @@
         <path d="M21 6a2 2 0 0 0-.586-1.414l-2-2A2 2 0 0 0 17 2h-3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1z" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ファイル束</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0742 · file-stack</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0014 · file-stack</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -175,7 +175,7 @@
         <circle cx="12" cy="15" r="3" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">個人ファイル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0743 · file-user</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0015 · file-user</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -186,7 +186,7 @@
         <rect width="7" height="6" x="3" y="16" rx="1" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">映像資料</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0744 · file-video-camera</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0016 · file-video-camera</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -197,7 +197,7 @@
         <path d="M8 14.502a.5.5 0 0 0-.826-.381l-1.893 1.631a1 1 0 0 1-.651.243H3.5a.5.5 0 0 0-.5.501v3.006a.5.5 0 0 0 .5.501h1.129a1 1 0 0 1 .652.243l1.893 1.633a.5.5 0 0 0 .826-.38z" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">音声ファイル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0745 · file-volume</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0017 · file-volume</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -208,7 +208,7 @@
         <path d="M15 17v-2" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">保管フォルダー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0746 · folder-archive</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0018 · folder-archive</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -217,7 +217,7 @@
         <path d="M2 10h20" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">閉じたフォルダー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0747 · folder-closed</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0019 · folder-closed</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -226,7 +226,7 @@
         <circle cx="12" cy="13" r="1" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">作業中フォルダー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0748 · folder-dot</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0020 · folder-dot</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -235,7 +235,7 @@
         <circle cx="14" cy="15" r="1" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">開いている作業フォルダー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0749 · folder-open-dot</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0021 · folder-open-dot</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -244,7 +244,7 @@
         <path d="M11.378 13.626a1 1 0 1 0-3.004-3.004l-5.01 5.012a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506z" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">編集フォルダー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0750 · folder-pen</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0022 · folder-pen</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -254,7 +254,7 @@
         <path d="M12 15v5" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ルートフォルダー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0751 · folder-root</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0023 · folder-root</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -263,7 +263,7 @@
         <path d="M3 8.268a2 2 0 0 0-1 1.738V19a2 2 0 0 0 2 2h11a2 2 0 0 0 1.732-1" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">複数フォルダー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0752 · folders</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0024 · folders</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -276,6 +276,6 @@
         <path d="M21.378 5.626a1 1 0 1 0-3.004-3.004l-5.01 5.012a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506z" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">業務ノート</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0753 · notebook-pen</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DOC-0025 · notebook-pen</text>
     </g>
 </svg>

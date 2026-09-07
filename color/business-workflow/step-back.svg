@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0727-color-title uui-0727-color-desc" data-icon-id="UUI-0727" data-icon-name="step-back" data-icon-variant="color" data-icon-category="business-workflow">
-  <title id="uui-0727-color-title" xml:lang="ja">一工程戻る</title>
-  <desc id="uui-0727-color-desc" xml:lang="ja">「一工程戻る」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-wfl-0024-color-title uui-wfl-0024-color-desc" data-icon-id="UUI-WFL-0024" data-icon-legacy-id="UUI-0727" data-icon-name="step-back" data-icon-variant="color" data-icon-category="business-workflow" data-icon-category-code="WFL">
+  <title id="uui-wfl-0024-color-title" xml:lang="ja">一工程戻る</title>
+  <desc id="uui-wfl-0024-color-desc" xml:lang="ja">「一工程戻る」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0727" slug="step-back" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-WFL-0024" legacyId="UUI-0727" slug="step-back" variant="color">
       <uui:name xml:lang="ja">一工程戻る</uui:name>
       <uui:name xml:lang="en">Step Back</uui:name>
       <uui:description xml:lang="ja">「一工程戻る」を表す汎用UIアイコン。業務フローに関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Step Back” in business workflow contexts.</uui:description>
-      <uui:category id="business-workflow" xml:lang="ja">業務フロー</uui:category>
-      <uui:category id="business-workflow" xml:lang="en">Business workflow</uui:category>
+      <uui:category id="business-workflow" code="WFL" xml:lang="ja">業務フロー</uui:category>
+      <uui:category id="business-workflow" code="WFL" xml:lang="en">Business workflow</uui:category>
       <uui:keywords xml:lang="ja">一工程戻る, 業務フロー, step, back</uui:keywords>
       <uui:keywords xml:lang="en">Step Back, Business workflow, step, back</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

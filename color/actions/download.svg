@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0040-color-title uui-0040-color-desc" data-icon-id="UUI-0040" data-icon-name="download" data-icon-variant="color" data-icon-category="actions">
-  <title id="uui-0040-color-title" xml:lang="ja">ダウンロード</title>
-  <desc id="uui-0040-color-desc" xml:lang="ja">「ダウンロード」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-act-0015-color-title uui-act-0015-color-desc" data-icon-id="UUI-ACT-0015" data-icon-legacy-id="UUI-0040" data-icon-name="download" data-icon-variant="color" data-icon-category="actions" data-icon-category-code="ACT">
+  <title id="uui-act-0015-color-title" xml:lang="ja">ダウンロード</title>
+  <desc id="uui-act-0015-color-desc" xml:lang="ja">「ダウンロード」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0040" slug="download" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-ACT-0015" legacyId="UUI-0040" slug="download" variant="color">
       <uui:name xml:lang="ja">ダウンロード</uui:name>
       <uui:name xml:lang="en">Download</uui:name>
       <uui:description xml:lang="ja">「ダウンロード」を表す汎用UIアイコン。基本操作に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Download” in actions contexts.</uui:description>
-      <uui:category id="actions" xml:lang="ja">基本操作</uui:category>
-      <uui:category id="actions" xml:lang="en">Actions</uui:category>
+      <uui:category id="actions" code="ACT" xml:lang="ja">基本操作</uui:category>
+      <uui:category id="actions" code="ACT" xml:lang="en">Actions</uui:category>
       <uui:keywords xml:lang="ja">ダウンロード, 基本操作, download</uui:keywords>
       <uui:keywords xml:lang="en">Download, Actions, download</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

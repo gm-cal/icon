@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-uic-0007-color-title uui-uic-0007-color-desc" data-icon-id="UUI-UIC-0007" data-icon-name="ui-toggle-on" data-icon-variant="color" data-icon-category="ui-components" data-icon-category-code="UIC">
+  <title id="uui-uic-0007-color-title" xml:lang="ja">オンのトグルスイッチ</title>
+  <desc id="uui-uic-0007-color-desc" xml:lang="ja">「オンのトグルスイッチ」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-UIC-0007" slug="ui-toggle-on" variant="color">
+      <uui:name xml:lang="ja">オンのトグルスイッチ</uui:name>
+      <uui:name xml:lang="en">UI Toggle On</uui:name>
+      <uui:description xml:lang="ja">「オンのトグルスイッチ」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “UI Toggle On” in ui components contexts.</uui:description>
+      <uui:category id="ui-components" code="UIC" xml:lang="ja">UI部品</uui:category>
+      <uui:category id="ui-components" code="UIC" xml:lang="en">UI components</uui:category>
+      <uui:keywords xml:lang="ja">オンのトグルスイッチ, UI部品, ui, toggle, on</uui:keywords>
+      <uui:keywords xml:lang="en">UI Toggle On, UI components, ui, toggle, on</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/ui-components/ui-toggle-on.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#0EA5E9" secondary="#7DD3FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="13765773fb4070c31a83e2c71c20e4d00d3c4bab8c34b8d5085bdb25dcfeb56f"/>
+      <uui:source project="Universal UI Icons" version="3.0.0" license="Project" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect x="2" y="7" width="20" height="10" rx="5" stroke="#1D4ED8" data-uui-role="primary"/>
+    <circle cx="17" cy="12" r="3" stroke="#0EA5E9" data-uui-role="accent"/>
+  </g>
+</svg>

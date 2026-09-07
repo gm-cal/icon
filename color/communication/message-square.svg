@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0133-color-title uui-0133-color-desc" data-icon-id="UUI-0133" data-icon-name="message-square" data-icon-variant="color" data-icon-category="communication">
-  <title id="uui-0133-color-title" xml:lang="ja">メッセージ</title>
-  <desc id="uui-0133-color-desc" xml:lang="ja">「メッセージ」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-msg-0008-color-title uui-msg-0008-color-desc" data-icon-id="UUI-MSG-0008" data-icon-legacy-id="UUI-0133" data-icon-name="message-square" data-icon-variant="color" data-icon-category="communication" data-icon-category-code="MSG">
+  <title id="uui-msg-0008-color-title" xml:lang="ja">メッセージ</title>
+  <desc id="uui-msg-0008-color-desc" xml:lang="ja">「メッセージ」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0133" slug="message-square" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-MSG-0008" legacyId="UUI-0133" slug="message-square" variant="color">
       <uui:name xml:lang="ja">メッセージ</uui:name>
       <uui:name xml:lang="en">Message Square</uui:name>
       <uui:description xml:lang="ja">「メッセージ」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Message Square” in communication contexts.</uui:description>
-      <uui:category id="communication" xml:lang="ja">通信と連絡</uui:category>
-      <uui:category id="communication" xml:lang="en">Communication</uui:category>
+      <uui:category id="communication" code="MSG" xml:lang="ja">通信と連絡</uui:category>
+      <uui:category id="communication" code="MSG" xml:lang="en">Communication</uui:category>
       <uui:keywords xml:lang="ja">メッセージ, 通信と連絡, message, square</uui:keywords>
       <uui:keywords xml:lang="en">Message Square, Communication, message, square</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
