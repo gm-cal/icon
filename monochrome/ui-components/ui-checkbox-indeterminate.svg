@@ -18,7 +18,7 @@
       <uui:contexts>button toolbar menu status palette designer</uui:contexts>
       <uui:pair variant="color" href="../../color/ui-components/ui-checkbox-indeterminate.svg"/>
       <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
-      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="27df4e0cc0e3d4d20d2e57ca25c36f4db3487e51bd9082ac936e99801a0f50d0"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="d8c578cd6d61de9b3a9666dc32034041d95735f6a5fd37155edb045972f987a0"/>
       <uui:source project="Universal UI Icons" version="3.0.0" license="Project" modified="true"/>
     </uui:icon>
   </metadata>
