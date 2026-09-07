@@ -7144,5 +7144,42 @@
       <rect x="2" y="3" width="20" height="18" rx="2" stroke="currentColor" data-uui-role="primary"/>
       <path d="M2 9h20M2 15h20M8 3v18m8-18v18" stroke="currentColor" data-uui-role="accent"/>
     </symbol>
+    <symbol id="uui-file-convert" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <title xml:lang="ja">ファイル変換</title>
+      <path d="M1.5 3h6l2.5 2.5v13H1.5z" stroke="currentColor" data-uui-role="primary"/>
+      <path d="M7.5 3v2.5h2.5" stroke="currentColor" data-uui-role="primary"/>
+      <text id="uui-fop-0001-label-source" x="5.75" y="11.7" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="2.4" font-weight="700" stroke="none" fill="currentColor" data-uui-label-slot="source" data-uui-label-max-length="5">SRC</text>
+      <path d="M10.8 11h2.7" stroke="currentColor" data-uui-role="accent"/>
+      <path d="m12.2 9.6 1.5 1.4-1.5 1.4" stroke="currentColor" data-uui-role="accent"/>
+      <path d="M14 5.5h6l2.5 2.5v13H14z" stroke="currentColor" data-uui-role="primary"/>
+      <path d="M20 5.5v2.5h2.5" stroke="currentColor" data-uui-role="primary"/>
+      <text id="uui-fop-0001-label-target" x="18.25" y="14.2" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="2.4" font-weight="700" stroke="none" fill="currentColor" data-uui-label-slot="target" data-uui-label-max-length="5">DST</text>
+    </symbol>
+    <symbol id="uui-file-split" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <title xml:lang="ja">ファイル分割</title>
+      <path d="M1.5 5h6l2.5 2.5v12H1.5z" stroke="currentColor" data-uui-role="primary"/>
+      <path d="M7.5 5v2.5h2.5" stroke="currentColor" data-uui-role="primary"/>
+      <text id="uui-fop-0002-label-source" x="5.75" y="12.2" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="2.4" font-weight="700" stroke="none" fill="currentColor" data-uui-label-slot="source" data-uui-label-max-length="5">SRC</text>
+      <path d="M10.7 12.2h2.1M12.8 12.2c1.4 0 1.2-5.2 2.8-5.2M12.8 12.2c1.4 0 1.2 5.2 2.8 5.2" stroke="currentColor" data-uui-role="accent"/>
+      <path d="M15.5 2h4.5l2.5 2.5v6H15.5z" stroke="currentColor" data-uui-role="primary"/>
+      <path d="M20 2v2.5h2.5" stroke="currentColor" data-uui-role="primary"/>
+      <text id="uui-fop-0002-label-target-a" x="19" y="6.6" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="2" font-weight="700" stroke="none" fill="currentColor" data-uui-label-slot="target" data-uui-label-max-length="5">DST</text>
+      <path d="M15.5 13h4.5l2.5 2.5v6H15.5z" stroke="currentColor" data-uui-role="primary"/>
+      <path d="M20 13v2.5h2.5" stroke="currentColor" data-uui-role="primary"/>
+      <text id="uui-fop-0002-label-target-b" x="19" y="17.6" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="2" font-weight="700" stroke="none" fill="currentColor" data-uui-label-slot="target" data-uui-label-max-length="5">DST</text>
+    </symbol>
+    <symbol id="uui-file-merge" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <title xml:lang="ja">ファイル統合</title>
+      <path d="M1.5 2h4.5l2.5 2.5v6H1.5z" stroke="currentColor" data-uui-role="primary"/>
+      <path d="M6 2v2.5h2.5" stroke="currentColor" data-uui-role="primary"/>
+      <text id="uui-fop-0003-label-source-a" x="5" y="6.6" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="2" font-weight="700" stroke="none" fill="currentColor" data-uui-label-slot="source" data-uui-label-max-length="5">SRC</text>
+      <path d="M1.5 13h4.5l2.5 2.5v6H1.5z" stroke="currentColor" data-uui-role="primary"/>
+      <path d="M6 13v2.5h2.5" stroke="currentColor" data-uui-role="primary"/>
+      <text id="uui-fop-0003-label-source-b" x="5" y="17.6" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="2" font-weight="700" stroke="none" fill="currentColor" data-uui-label-slot="source" data-uui-label-max-length="5">SRC</text>
+      <path d="M8.7 7c1.6 0 1.4 5.2 2.8 5.2h2M8.7 17.4c1.6 0 1.4-5.2 2.8-5.2M12.1 10.8l1.5 1.4-1.5 1.4" stroke="currentColor" data-uui-role="accent"/>
+      <path d="M14 5h6l2.5 2.5v12H14z" stroke="currentColor" data-uui-role="primary"/>
+      <path d="M20 5v2.5h2.5" stroke="currentColor" data-uui-role="primary"/>
+      <text id="uui-fop-0003-label-target" x="18.25" y="12.2" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="2.4" font-weight="700" stroke="none" fill="currentColor" data-uui-label-slot="target" data-uui-label-max-length="5">DST</text>
+    </symbol>
   </defs>
 </svg>
