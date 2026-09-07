@@ -7003,26 +7003,38 @@
     </symbol>
     <symbol id="uui-ui-checkbox-unchecked" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <title xml:lang="ja">未選択チェックボックス</title>
-      <rect x="3" y="3" width="18" height="18" rx="3" stroke="#1D4ED8" data-uui-role="primary"/>
+      <rect x="2.5" y="4" width="5" height="5" rx="1.2" stroke="#1D4ED8" data-uui-role="primary"/>
+      <rect x="2.5" y="15" width="5" height="5" rx="1.2" stroke="#1D4ED8" data-uui-role="primary"/>
+      <path d="M10.5 6.5h10M10.5 17.5h8" stroke="#1D4ED8" data-uui-role="primary"/>
     </symbol>
     <symbol id="uui-ui-checkbox-checked" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <title xml:lang="ja">選択済みチェックボックス</title>
-      <rect x="3" y="3" width="18" height="18" rx="3" stroke="#1D4ED8" data-uui-role="primary"/>
-      <path d="m7.5 12 3 3 6-7" stroke="#0EA5E9" data-uui-role="accent"/>
+      <rect x="2.5" y="4" width="5" height="5" rx="1.2" stroke="#1D4ED8" data-uui-role="primary"/>
+      <rect x="2.5" y="15" width="5" height="5" rx="1.2" stroke="#1D4ED8" data-uui-role="primary"/>
+      <path d="m3.6 6.5 1 1 1.9-2.2" stroke="#0EA5E9" data-uui-role="accent"/>
+      <path d="M10.5 6.5h10M10.5 17.5h8" stroke="#1D4ED8" data-uui-role="primary"/>
     </symbol>
     <symbol id="uui-ui-checkbox-indeterminate" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <title xml:lang="ja">中間状態チェックボックス</title>
-      <rect x="3" y="3" width="18" height="18" rx="3" stroke="#1D4ED8" data-uui-role="primary"/>
-      <path d="M7.5 12h9" stroke="#0EA5E9" data-uui-role="accent"/>
+      <rect x="2.5" y="4" width="5" height="5" rx="1.2" stroke="#1D4ED8" data-uui-role="primary"/>
+      <rect x="2.5" y="15" width="5" height="5" rx="1.2" stroke="#1D4ED8" data-uui-role="primary"/>
+      <path d="M3.7 6.5h2.6" stroke="#0EA5E9" data-uui-role="accent"/>
+      <path d="M10.5 6.5h10M10.5 17.5h8" stroke="#1D4ED8" data-uui-role="primary"/>
     </symbol>
     <symbol id="uui-ui-radio-unselected" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <title xml:lang="ja">未選択ラジオボタン</title>
-      <circle cx="12" cy="12" r="8.5" stroke="#1D4ED8" data-uui-role="primary"/>
+      <circle cx="4.5" cy="5" r="2.1" stroke="#1D4ED8" data-uui-role="primary"/>
+      <circle cx="4.5" cy="12" r="2.1" stroke="#1D4ED8" data-uui-role="primary"/>
+      <circle cx="4.5" cy="19" r="2.1" stroke="#1D4ED8" data-uui-role="primary"/>
+      <path d="M9 5h10M9 12h8M9 19h9" stroke="#1D4ED8" data-uui-role="primary"/>
     </symbol>
     <symbol id="uui-ui-radio-selected" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <title xml:lang="ja">選択済みラジオボタン</title>
-      <circle cx="12" cy="12" r="8.5" stroke="#1D4ED8" data-uui-role="primary"/>
-      <circle cx="12" cy="12" r="3" stroke="#0EA5E9" data-uui-role="accent"/>
+      <circle cx="4.5" cy="5" r="2.1" stroke="#1D4ED8" data-uui-role="primary"/>
+      <circle cx="4.5" cy="12" r="2.1" stroke="#1D4ED8" data-uui-role="primary"/>
+      <circle cx="4.5" cy="19" r="2.1" stroke="#1D4ED8" data-uui-role="primary"/>
+      <circle cx="4.5" cy="12" r="0.8" fill="#0EA5E9" stroke="none" data-uui-role="accent"/>
+      <path d="M9 5h10M9 12h8M9 19h9" stroke="#1D4ED8" data-uui-role="primary"/>
     </symbol>
     <symbol id="uui-ui-toggle-off" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <title xml:lang="ja">オフのトグルスイッチ</title>
