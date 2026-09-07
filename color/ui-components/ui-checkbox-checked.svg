@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-uic-0002-color-title uui-uic-0002-color-desc" data-icon-id="UUI-UIC-0002" data-icon-name="ui-checkbox-checked" data-icon-variant="color" data-icon-category="ui-components" data-icon-category-code="UIC">
   <title id="uui-uic-0002-color-title" xml:lang="ja">選択済みチェックボックス</title>
-  <desc id="uui-uic-0002-color-desc" xml:lang="ja">「選択済みチェックボックス」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。</desc>
+  <desc id="uui-uic-0002-color-desc" xml:lang="ja">複数の選択肢を並べ、1項目を選択したチェックボックスUIを表す。画面へ配置するUI部品の選択アイコンとして使用できる。</desc>
   <metadata id="uui-metadata">
     <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-UIC-0002" slug="ui-checkbox-checked" variant="color">
       <uui:name xml:lang="ja">選択済みチェックボックス</uui:name>
       <uui:name xml:lang="en">UI Checkbox Checked</uui:name>
-      <uui:description xml:lang="ja">「選択済みチェックボックス」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。</uui:description>
-      <uui:description xml:lang="en">Universal UI icon representing “UI Checkbox Checked” in ui components contexts.</uui:description>
+      <uui:description xml:lang="ja">複数の選択肢を並べ、1項目を選択したチェックボックスUIを表す。画面へ配置するUI部品の選択アイコンとして使用できる。</uui:description>
+      <uui:description xml:lang="en">Checkbox interface with multiple items and one checked item, suitable for UI component palettes.</uui:description>
       <uui:category id="ui-components" code="UIC" xml:lang="ja">UI部品</uui:category>
       <uui:category id="ui-components" code="UIC" xml:lang="en">UI components</uui:category>
-      <uui:keywords xml:lang="ja">選択済みチェックボックス, UI部品, ui, checkbox, checked</uui:keywords>
-      <uui:keywords xml:lang="en">UI Checkbox Checked, UI components, ui, checkbox, checked</uui:keywords>
+      <uui:keywords xml:lang="ja">選択済みチェックボックス, UI部品, ui, checkbox, checked, group, palette</uui:keywords>
+      <uui:keywords xml:lang="en">UI Checkbox Checked, UI components, ui, checkbox, checked, group, palette</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
       <uui:minimumSize unit="px">16</uui:minimumSize>
       <uui:opticalSize unit="px">24</uui:opticalSize>
-      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:contexts>button toolbar menu status palette designer</uui:contexts>
       <uui:pair variant="monochrome" href="../../monochrome/ui-components/ui-checkbox-checked.svg"/>
       <uui:palette primary="#1D4ED8" accent="#0EA5E9" secondary="#7DD3FC"/>
-      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="b1c766bf842fb9d5f21c3e3d4e91ca38884ec5e2ec064984034b7120d2c29e9f"/>
-      <uui:source project="Universal UI Icons" version="3.0.0" license="Project" modified="false"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="ec6d4ff418f2052a884f63867f99a1635367d82532fd96eb2a54573bb6bee680"/>
+      <uui:source project="Universal UI Icons" version="3.0.0" license="Project" modified="true"/>
     </uui:icon>
   </metadata>
   <g aria-hidden="true">
-    <rect x="3" y="3" width="18" height="18" rx="3" stroke="#1D4ED8" data-uui-role="primary"/>
-    <path d="m7.5 12 3 3 6-7" stroke="#0EA5E9" data-uui-role="accent"/>
+    <rect x="2.5" y="4" width="5" height="5" rx="1.2" stroke="#1D4ED8" data-uui-role="primary"/>
+    <rect x="2.5" y="15" width="5" height="5" rx="1.2" stroke="#1D4ED8" data-uui-role="primary"/>
+    <path d="m3.6 6.5 1 1 1.9-2.2" stroke="#0EA5E9" data-uui-role="accent"/>
+    <path d="M10.5 6.5h10M10.5 17.5h8" stroke="#1D4ED8" data-uui-role="primary"/>
   </g>
 </svg>
