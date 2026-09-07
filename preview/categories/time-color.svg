@@ -12,7 +12,7 @@
         <path d="M3 10h18" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">カレンダー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0201 · calendar</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0001 · calendar</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -29,7 +29,7 @@
         <path d="M16 18h.01" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">日程</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0202 · calendar-days</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0002 · calendar-days</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -41,7 +41,7 @@
         <path d="m16 20 2 2 4-4" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">予定確定</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0203 · calendar-check-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0003 · calendar-check-2</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -54,7 +54,7 @@
         <path d="M12 14v4" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">予定追加</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0204 · calendar-plus-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0004 · calendar-plus-2</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -66,7 +66,7 @@
         <path d="M10 16h4" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">予定削除</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0205 · calendar-minus-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0005 · calendar-minus-2</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -79,7 +79,7 @@
         <path d="m17 17 5 5" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">予定取消</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0206 · calendar-x-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0006 · calendar-x-2</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -92,7 +92,7 @@
         <circle cx="16" cy="16" r="6" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">日時指定</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0207 · calendar-clock</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0007 · calendar-clock</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -107,7 +107,7 @@
         <path d="M17 18h.01" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">期間</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0208 · calendar-range</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0008 · calendar-range</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -116,7 +116,7 @@
         <path d="M12 6v6l4 2" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">時刻</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0209 · clock</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0009 · clock</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -129,7 +129,7 @@
         <path d="M17.64 18.67 20 21" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">アラーム</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0210 · alarm-clock</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0010 · alarm-clock</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -142,7 +142,7 @@
         <path d="m9 13 2 2 4-4" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">アラーム有効</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0211 · alarm-clock-check</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0011 · alarm-clock-check</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -156,7 +156,7 @@
         <path d="M9 13h6" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">アラーム追加</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0212 · alarm-clock-plus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0012 · alarm-clock-plus</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -169,7 +169,7 @@
         <path d="M9 13h6" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">アラーム削除</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0213 · alarm-clock-minus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0013 · alarm-clock-minus</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -179,7 +179,7 @@
         <circle cx="12" cy="14" r="8" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">タイマー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0214 · timer</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0014 · timer</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -190,7 +190,7 @@
         <path d="M9 17H4v5" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">タイマー再設定</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0215 · timer-reset</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0015 · timer-reset</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -201,7 +201,7 @@
         <path d="M7 2v4.172a2 2 0 0 0 .586 1.414L12 12l4.414-4.414A2 2 0 0 0 17 6.172V2" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">待機時間</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0216 · hourglass</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0016 · hourglass</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -211,7 +211,7 @@
         <path d="M12 7v5l4 2" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">履歴</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0217 · history</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0017 · history</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -222,7 +222,7 @@
         <path d="M11 6h6a2 2 0 0 1 2 2v10" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">繰り返し</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0218 · repeat-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0018 · repeat-2</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -233,7 +233,7 @@
         <path d="M16 16h5v5" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">再読み込み</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0219 · refresh-ccw</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0019 · refresh-ccw</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -242,7 +242,7 @@
         <path d="M3 3v5h5" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">反時計回り</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0220 · rotate-ccw</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0020 · rotate-ccw</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -251,7 +251,7 @@
         <path d="M21 3v5h-5" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">時計回り</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0221 · rotate-cw</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0021 · rotate-cw</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -260,7 +260,7 @@
         <path d="M2 6a2 2 0 0 1 3.414-1.414l6 6a2 2 0 0 1 0 2.828l-6 6A2 2 0 0 1 2 18z" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">早送り</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0222 · fast-forward</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0022 · fast-forward</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -269,7 +269,7 @@
         <path d="M22 6a2 2 0 0 0-3.414-1.414l-6 6a2 2 0 0 0 0 2.828l6 6A2 2 0 0 0 22 18z" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">巻き戻し</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0223 · rewind</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0023 · rewind</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -280,7 +280,7 @@
         <circle cx="12" cy="12" r="6" stroke="#EAB308" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">腕時計</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0224 · watch</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0024 · watch</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -291,6 +291,6 @@
         <path d="M4 2C2.8 3.7 2 5.7 2 8" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">通知時刻</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0225 · bell-ring</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TIM-0025 · bell-ring</text>
     </g>
 </svg>

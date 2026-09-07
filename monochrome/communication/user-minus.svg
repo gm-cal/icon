@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0148-monochrome-title uui-0148-monochrome-desc" data-icon-id="UUI-0148" data-icon-name="user-minus" data-icon-variant="monochrome" data-icon-category="communication">
-  <title id="uui-0148-monochrome-title" xml:lang="ja">メンバー削除</title>
-  <desc id="uui-0148-monochrome-desc" xml:lang="ja">「メンバー削除」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-msg-0023-monochrome-title uui-msg-0023-monochrome-desc" data-icon-id="UUI-MSG-0023" data-icon-legacy-id="UUI-0148" data-icon-name="user-minus" data-icon-variant="monochrome" data-icon-category="communication" data-icon-category-code="MSG">
+  <title id="uui-msg-0023-monochrome-title" xml:lang="ja">メンバー削除</title>
+  <desc id="uui-msg-0023-monochrome-desc" xml:lang="ja">「メンバー削除」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0148" slug="user-minus" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-MSG-0023" legacyId="UUI-0148" slug="user-minus" variant="monochrome">
       <uui:name xml:lang="ja">メンバー削除</uui:name>
       <uui:name xml:lang="en">User Minus</uui:name>
       <uui:description xml:lang="ja">「メンバー削除」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “User Minus” in communication contexts.</uui:description>
-      <uui:category id="communication" xml:lang="ja">通信と連絡</uui:category>
-      <uui:category id="communication" xml:lang="en">Communication</uui:category>
+      <uui:category id="communication" code="MSG" xml:lang="ja">通信と連絡</uui:category>
+      <uui:category id="communication" code="MSG" xml:lang="en">Communication</uui:category>
       <uui:keywords xml:lang="ja">メンバー削除, 通信と連絡, user, minus</uui:keywords>
       <uui:keywords xml:lang="en">User Minus, Communication, user, minus</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

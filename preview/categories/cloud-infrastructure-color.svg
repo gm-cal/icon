@@ -11,7 +11,7 @@
         <path d="M8 19a5 5 0 0 0 9-3 4.5 4.5 0 0 0-4.5-4.5 4.82 4.82 0 0 0-3.41 1.41L7 15" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">クラウドバックアップ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0604 · cloud-backup</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0001 · cloud-backup</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -23,7 +23,7 @@
         <path d="m7 14 1.535-1.605a5 5 0 0 1 8 1.5" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">クラウド同期</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0605 · cloud-sync</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0002 · cloud-sync</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -32,7 +32,7 @@
         <path d="M5.516 16.07A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 3.501 7.327" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">クラウド正常</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0606 · cloud-check</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0003 · cloud-check</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -42,7 +42,7 @@
         <path d="M8.128 16.949A7 7 0 1 1 15.71 8h1.79a1 1 0 0 1 0 9h-1.642" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">クラウド警告</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0607 · cloud-alert</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0004 · cloud-alert</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -53,7 +53,7 @@
         <rect x="2" y="3" width="20" height="14" rx="2" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">クラウド端末</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0608 · monitor-cloud</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0005 · monitor-cloud</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -65,7 +65,7 @@
         <path d="M10 18h.01" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ストレージから取得</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0609 · hard-drive-download</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0006 · hard-drive-download</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -77,7 +77,7 @@
         <path d="M10 18h.01" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ストレージへ保存</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0610 · hard-drive-upload</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0007 · hard-drive-upload</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -89,7 +89,7 @@
         <path d="m13 6-4 6h6l-4 6" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">サーバー障害</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0611 · server-crash</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0008 · server-crash</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -102,7 +102,7 @@
         <path d="m2 2 20 20" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">サーバー停止</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0612 · server-off</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0009 · server-off</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -121,7 +121,7 @@
         <circle cx="18" cy="6" r="3" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">端末設定</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0613 · monitor-cog</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0010 · monitor-cog</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -132,7 +132,7 @@
         <circle cx="19" cy="6" r="3" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">端末状態</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0614 · monitor-dot</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0011 · monitor-dot</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -144,7 +144,7 @@
         <path d="M8 21h8" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">端末へ配布</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0615 · monitor-down</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0012 · monitor-down</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -156,7 +156,7 @@
         <path d="M8.656 3H20a2 2 0 0 1 2 2v10a2 2 0 0 1-.293 1.042" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">端末停止</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0616 · monitor-off</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0013 · monitor-off</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -168,7 +168,7 @@
         <path d="M8 21h8" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">端末一時停止</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0617 · monitor-pause</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0014 · monitor-pause</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -179,7 +179,7 @@
         <rect x="2" y="3" width="20" height="14" rx="2" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">端末実行</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0618 · monitor-play</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0015 · monitor-play</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -191,7 +191,7 @@
         <path d="M8 21h8" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">端末から送信</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0619 · monitor-up</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0016 · monitor-up</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -203,7 +203,7 @@
         <path d="M8 21h8" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">端末障害</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0620 · monitor-x</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0017 · monitor-x</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -215,7 +215,7 @@
         <circle cx="17" cy="15" r="1" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">音声端末</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0621 · monitor-speaker</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0018 · monitor-speaker</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -226,7 +226,7 @@
         <path d="M12 18h6" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">コンピューター</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0622 · computer</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0019 · computer</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -238,7 +238,7 @@
         <circle cx="8" cy="11" r="2" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">GPU</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0623 · gpu</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0020 · gpu</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -255,7 +255,7 @@
         <rect x="6" y="2" width="12" height="20" rx="2" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">マイクロチップ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0624 · microchip</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0021 · microchip</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -266,7 +266,7 @@
         <path d="M8.916 4.674a1 1 0 0 0 0 1.414l2.377 2.376a1 1 0 0 0 1.414 0l2.377-2.376a1 1 0 0 0 0-1.414l-2.377-2.377a1 1 0 0 0-1.414 0z" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">システム部品</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0625 · component</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0022 · component</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -285,7 +285,7 @@
         <path d="M12 13.5V8" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">複数コンテナ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0626 · boxes</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0023 · boxes</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -296,7 +296,7 @@
         <path d="m2 2 20 20" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">システム停止</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0627 · power-off</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0024 · power-off</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -307,6 +307,6 @@
         <path d="M8.5 21H5a2 2 0 0 1-2-2v-9a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2h-5a2 2 0 0 1-2-2v-2" stroke="#0EA5E9" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">拠点電源</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0628 · house-plug</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-CLD-0025 · house-plug</text>
     </g>
 </svg>

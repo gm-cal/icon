@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0736-monochrome-title uui-0736-monochrome-desc" data-icon-id="UUI-0736" data-icon-name="file-pen" data-icon-variant="monochrome" data-icon-category="office-documents">
-  <title id="uui-0736-monochrome-title" xml:lang="ja">編集可能ファイル</title>
-  <desc id="uui-0736-monochrome-desc" xml:lang="ja">「編集可能ファイル」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-doc-0008-monochrome-title uui-doc-0008-monochrome-desc" data-icon-id="UUI-DOC-0008" data-icon-legacy-id="UUI-0736" data-icon-name="file-pen" data-icon-variant="monochrome" data-icon-category="office-documents" data-icon-category-code="DOC">
+  <title id="uui-doc-0008-monochrome-title" xml:lang="ja">編集可能ファイル</title>
+  <desc id="uui-doc-0008-monochrome-desc" xml:lang="ja">「編集可能ファイル」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0736" slug="file-pen" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-DOC-0008" legacyId="UUI-0736" slug="file-pen" variant="monochrome">
       <uui:name xml:lang="ja">編集可能ファイル</uui:name>
       <uui:name xml:lang="en">File Pen</uui:name>
       <uui:description xml:lang="ja">「編集可能ファイル」を表す汎用UIアイコン。業務文書に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “File Pen” in office documents contexts.</uui:description>
-      <uui:category id="office-documents" xml:lang="ja">業務文書</uui:category>
-      <uui:category id="office-documents" xml:lang="en">Office documents</uui:category>
+      <uui:category id="office-documents" code="DOC" xml:lang="ja">業務文書</uui:category>
+      <uui:category id="office-documents" code="DOC" xml:lang="en">Office documents</uui:category>
       <uui:keywords xml:lang="ja">編集可能ファイル, 業務文書, file, pen</uui:keywords>
       <uui:keywords xml:lang="en">File Pen, Office documents, file, pen</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

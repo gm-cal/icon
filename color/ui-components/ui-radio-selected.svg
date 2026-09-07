@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-uic-0005-color-title uui-uic-0005-color-desc" data-icon-id="UUI-UIC-0005" data-icon-name="ui-radio-selected" data-icon-variant="color" data-icon-category="ui-components" data-icon-category-code="UIC">
+  <title id="uui-uic-0005-color-title" xml:lang="ja">選択済みラジオボタン</title>
+  <desc id="uui-uic-0005-color-desc" xml:lang="ja">「選択済みラジオボタン」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-UIC-0005" slug="ui-radio-selected" variant="color">
+      <uui:name xml:lang="ja">選択済みラジオボタン</uui:name>
+      <uui:name xml:lang="en">UI Radio Selected</uui:name>
+      <uui:description xml:lang="ja">「選択済みラジオボタン」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “UI Radio Selected” in ui components contexts.</uui:description>
+      <uui:category id="ui-components" code="UIC" xml:lang="ja">UI部品</uui:category>
+      <uui:category id="ui-components" code="UIC" xml:lang="en">UI components</uui:category>
+      <uui:keywords xml:lang="ja">選択済みラジオボタン, UI部品, ui, radio, selected</uui:keywords>
+      <uui:keywords xml:lang="en">UI Radio Selected, UI components, ui, radio, selected</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/ui-components/ui-radio-selected.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#0EA5E9" secondary="#7DD3FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="330bd75d8394d37a6ca9631b03a389c2443fb8ae4f771dcc3c0ca7f916f6be17"/>
+      <uui:source project="Universal UI Icons" version="3.0.0" license="Project" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <circle cx="12" cy="12" r="8.5" stroke="#1D4ED8" data-uui-role="primary"/>
+    <circle cx="12" cy="12" r="3" stroke="#0EA5E9" data-uui-role="accent"/>
+  </g>
+</svg>

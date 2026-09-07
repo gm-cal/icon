@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-uic-0016-monochrome-title uui-uic-0016-monochrome-desc" data-icon-id="UUI-UIC-0016" data-icon-name="ui-date-picker" data-icon-variant="monochrome" data-icon-category="ui-components" data-icon-category-code="UIC">
+  <title id="uui-uic-0016-monochrome-title" xml:lang="ja">日付選択欄</title>
+  <desc id="uui-uic-0016-monochrome-desc" xml:lang="ja">「日付選択欄」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-UIC-0016" slug="ui-date-picker" variant="monochrome">
+      <uui:name xml:lang="ja">日付選択欄</uui:name>
+      <uui:name xml:lang="en">UI Date Picker</uui:name>
+      <uui:description xml:lang="ja">「日付選択欄」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “UI Date Picker” in ui components contexts.</uui:description>
+      <uui:category id="ui-components" code="UIC" xml:lang="ja">UI部品</uui:category>
+      <uui:category id="ui-components" code="UIC" xml:lang="en">UI components</uui:category>
+      <uui:keywords xml:lang="ja">日付選択欄, UI部品, ui, date, picker</uui:keywords>
+      <uui:keywords xml:lang="en">UI Date Picker, UI components, ui, date, picker</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/ui-components/ui-date-picker.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3a6ab729d2818dfac1162a84feee396ef600f4892e723a414337cd15b08f6bd7"/>
+      <uui:source project="Universal UI Icons" version="3.0.0" license="Project" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect x="2" y="4" width="20" height="18" rx="2" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M7 2v4m10-4v4M2 9h20M7 13h2m3 0h2m3 0h1M7 17h2m3 0h2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

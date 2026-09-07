@@ -10,7 +10,7 @@
         <rect x="2" y="4" width="20" height="16" rx="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">メール</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0126 · mail</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0001 · mail</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -19,7 +19,7 @@
         <path d="m22 10-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 10" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">開封済みメール</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0127 · mail-open</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0002 · mail-open</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -28,7 +28,7 @@
         <path d="m21.854 2.147-10.94 10.939" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">送信</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0128 · send</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0003 · send</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -37,7 +37,7 @@
         <path d="m9 17-5-5 5-5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">返信</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0129 · reply</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0004 · reply</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -47,7 +47,7 @@
         <path d="m7 17-5-5 5-5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">全員に返信</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0130 · reply-all</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0005 · reply-all</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -56,7 +56,7 @@
         <path d="M4 18v-2a4 4 0 0 1 4-4h12" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">転送</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0131 · forward</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0006 · forward</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -64,7 +64,7 @@
         <path d="M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719" stroke="currentColor" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">会話</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0132 · message-circle</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0007 · message-circle</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -72,7 +72,7 @@
         <path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z" stroke="currentColor" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">メッセージ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0133 · message-square</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0008 · message-square</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -81,7 +81,7 @@
         <path d="M20 9a2 2 0 0 1 2 2v10.286a.71.71 0 0 1-1.212.502l-2.202-2.202A2 2 0 0 0 17.172 19H10a2 2 0 0 1-2-2v-1" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">複数メッセージ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0134 · messages-square</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0009 · messages-square</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -89,7 +89,7 @@
         <path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384" stroke="currentColor" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">電話</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0135 · phone</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0010 · phone</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -99,7 +99,7 @@
         <path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">通話</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0136 · phone-call</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0011 · phone-call</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -109,7 +109,7 @@
         <path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">着信</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0137 · phone-incoming</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0012 · phone-incoming</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -119,7 +119,7 @@
         <path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">発信</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0138 · phone-outgoing</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0013 · phone-outgoing</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -128,7 +128,7 @@
         <rect x="2" y="6" width="14" height="12" rx="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ビデオ通話</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0139 · video</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0014 · video</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -138,7 +138,7 @@
         <rect x="9" y="2" width="6" height="13" rx="3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">マイク</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0140 · mic</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0015 · mic</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -151,7 +151,7 @@
         <path d="M9 9v3a3 3 0 0 0 5.12 2.12" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">マイク無効</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0141 · mic-off</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0016 · mic-off</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -160,7 +160,7 @@
         <path d="M3.262 15.326A1 1 0 0 0 4 17h16a1 1 0 0 0 .74-1.673C19.41 13.956 18 12.499 18 8A6 6 0 0 0 6 8c0 4.499-1.411 5.956-2.738 7.326" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">通知</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0142 · bell</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0017 · bell</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -171,7 +171,7 @@
         <path d="M8.668 3.01A6 6 0 0 1 18 8c0 2.687.77 4.653 1.707 6.05" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">通知無効</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0143 · bell-off</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0018 · bell-off</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -180,7 +180,7 @@
         <path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-4 8" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">宛先</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0144 · at-sign</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0019 · at-sign</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -192,7 +192,7 @@
         <rect x="3" y="4" width="18" height="18" rx="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">連絡先</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0145 · contact</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0020 · contact</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -203,7 +203,7 @@
         <circle cx="9" cy="7" r="4" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">グループ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0146 · users</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0021 · users</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -214,7 +214,7 @@
         <line x1="22" x2="16" y1="11" y2="11" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">メンバー追加</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0147 · user-plus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0022 · user-plus</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -224,7 +224,7 @@
         <line x1="22" x2="16" y1="11" y2="11" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">メンバー削除</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0148 · user-minus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0023 · user-minus</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -236,7 +236,7 @@
         <circle cx="12" cy="12" r="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">配信</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0149 · radio</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0024 · radio</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -246,6 +246,6 @@
         <path d="M8 6v8" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">告知</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0150 · megaphone</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-MSG-0025 · megaphone</text>
     </g>
 </svg>

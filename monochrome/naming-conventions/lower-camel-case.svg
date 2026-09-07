@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0503-monochrome-title uui-0503-monochrome-desc" data-icon-id="UUI-0503" data-icon-name="lower-camel-case" data-icon-variant="monochrome" data-icon-category="naming-conventions">
-  <title id="uui-0503-monochrome-title" xml:lang="ja">lowerCamel</title>
-  <desc id="uui-0503-monochrome-desc" xml:lang="ja">「lowerCamel」を表す汎用UIアイコン。命名規則に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-nam-0003-monochrome-title uui-nam-0003-monochrome-desc" data-icon-id="UUI-NAM-0003" data-icon-legacy-id="UUI-0503" data-icon-name="lower-camel-case" data-icon-variant="monochrome" data-icon-category="naming-conventions" data-icon-category-code="NAM">
+  <title id="uui-nam-0003-monochrome-title" xml:lang="ja">lowerCamel</title>
+  <desc id="uui-nam-0003-monochrome-desc" xml:lang="ja">「lowerCamel」を表す汎用UIアイコン。命名規則に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.1.0" id="UUI-0503" slug="lower-camel-case" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-NAM-0003" legacyId="UUI-0503" slug="lower-camel-case" variant="monochrome">
       <uui:name xml:lang="ja">lowerCamel</uui:name>
       <uui:name xml:lang="en">lowerCamel</uui:name>
       <uui:description xml:lang="ja">「lowerCamel」を表す汎用UIアイコン。命名規則に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “lowerCamel” in naming conventions contexts.</uui:description>
-      <uui:category id="naming-conventions" xml:lang="ja">命名規則</uui:category>
-      <uui:category id="naming-conventions" xml:lang="en">Naming conventions</uui:category>
+      <uui:category id="naming-conventions" code="NAM" xml:lang="ja">命名規則</uui:category>
+      <uui:category id="naming-conventions" code="NAM" xml:lang="en">Naming conventions</uui:category>
       <uui:keywords xml:lang="ja">lowerCamel, 命名規則, lower, camel, case</uui:keywords>
       <uui:keywords xml:lang="en">lowerCamel, Naming conventions, lower, camel, case</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
@@ -19,7 +19,7 @@
       <uui:pair variant="color" href="../../color/naming-conventions/lower-camel-case.svg"/>
       <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
       <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="c2cd23bb07d6adccac6de87e1f485979e6af1870932336981eb311c9b71215a4"/>
-      <uui:source project="Universal UI Icons" version="1.1.0" license="Project" modified="false"/>
+      <uui:source project="Universal UI Icons" version="3.0.0" license="Project" modified="false"/>
     </uui:icon>
   </metadata>
   <g aria-hidden="true">

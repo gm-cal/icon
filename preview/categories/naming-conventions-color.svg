@@ -12,7 +12,7 @@
         <path d="M6 22h12" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">snake_case</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0501 · snake-case</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAM-0001 · snake-case</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -23,7 +23,7 @@
         <path d="M1.5 8 3.8 2.5 6.1 8M2.4 5.9h2.8" stroke="#D97706" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">UpperCamel</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0502 · upper-camel-case</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAM-0002 · upper-camel-case</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -34,6 +34,6 @@
         <path d="M5.8 5.2a2 2 0 1 0-2 2h2V3.3" stroke="#D97706" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">lowerCamel</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0503 · lower-camel-case</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAM-0003 · lower-camel-case</text>
     </g>
 </svg>

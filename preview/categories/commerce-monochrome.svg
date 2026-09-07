@@ -11,7 +11,7 @@
         <path d="M2.05 2.05h2l2.66 12.42a2 2 0 0 0 2 1.58h9.78a2 2 0 0 0 1.95-1.57l1.65-7.43H5.12" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">買い物かご</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0301 · shopping-cart</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0001 · shopping-cart</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -21,7 +21,7 @@
         <path d="M3.4 5.467a2 2 0 0 0-.4 1.2V20a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6.667a2 2 0 0 0-.4-1.2l-2-2.667A2 2 0 0 0 17 2H7a2 2 0 0 0-1.6.8z" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">買い物袋</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0302 · shopping-bag</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0002 · shopping-bag</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -31,7 +31,7 @@
         <path d="M4 10.95V19a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8.05" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">店舗</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0303 · store</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0003 · store</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -42,7 +42,7 @@
         <path d="m7.5 4.27 9 5.15" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">荷物</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0304 · package</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0004 · package</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -53,7 +53,7 @@
         <path d="M21 12.43a1.93 1.93 0 0 0 0-3.36L8.83 2.2a1.64 1.64 0 0 0-1.63 0L3 4.57a1.93 1.93 0 0 0 0 3.36l12.18 6.86a1.636 1.636 0 0 0 1.63 0z" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">開封した荷物</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0305 · package-open</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0005 · package-open</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -66,7 +66,7 @@
         <path d="m7.5 4.27 8.997 5.148" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">荷物追加</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0306 · package-plus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0006 · package-plus</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -78,7 +78,7 @@
         <path d="m7.5 4.27 8.997 5.148" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">荷物削除</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0307 · package-minus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0007 · package-minus</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -90,7 +90,7 @@
         <circle cx="7" cy="18" r="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">配送</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0308 · truck</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0008 · truck</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -99,7 +99,7 @@
         <path d="M3 5v14a2 2 0 0 0 2 2h15a1 1 0 0 0 1-1v-4" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">財布</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0309 · wallet</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0009 · wallet</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -108,7 +108,7 @@
         <line x1="2" x2="22" y1="10" y2="10" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">クレジットカード</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0310 · credit-card</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0010 · credit-card</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -118,7 +118,7 @@
         <path d="M6 12h.01M18 12h.01" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">紙幣</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0311 · banknote</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0011 · banknote</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -129,7 +129,7 @@
         <circle cx="16" cy="8" r="6" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">硬貨</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0312 · coins</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0012 · coins</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -138,7 +138,7 @@
         <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ドル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0313 · dollar-sign</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0013 · dollar-sign</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -148,7 +148,7 @@
         <path d="M6 11h12" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">円</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0314 · japanese-yen</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0014 · japanese-yen</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -158,7 +158,7 @@
         <path d="M19 6a7.7 7.7 0 0 0-5.2-2A7.9 7.9 0 0 0 6 12c0 4.4 3.5 8 7.8 8 2 0 3.8-.8 5.2-2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーロ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0315 · euro</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0015 · euro</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -166,7 +166,7 @@
         <path d="M11.767 19.089c4.924.868 6.14-6.025 1.216-6.894m-1.216 6.894L5.86 18.047m5.908 1.042-.347 1.97m1.563-8.864c4.924.869 6.14-6.025 1.215-6.893m-1.215 6.893-3.94-.694m5.155-6.2L8.29 4.26m5.908 1.042.348-1.97M7.48 20.364l3.126-17.727" stroke="currentColor" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ビットコイン</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0316 · bitcoin</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0016 · bitcoin</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -176,7 +176,7 @@
         <path d="M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">レシート</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0317 · receipt</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0017 · receipt</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -188,7 +188,7 @@
         <path d="M21 5v14" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">バーコード</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0318 · barcode</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0018 · barcode</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -207,7 +207,7 @@
         <path d="M12 21v-1" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">QRコード</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0319 · qr-code</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0019 · qr-code</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -217,7 +217,7 @@
         <circle cx="10.5" cy="6.5" r=".5" fill="currentColor" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">複数タグ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0320 · tags</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0020 · tags</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -226,7 +226,7 @@
         <circle cx="7.5" cy="7.5" r=".5" fill="currentColor" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">タグ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0321 · tag</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0021 · tag</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -237,7 +237,7 @@
         <path d="M15 15h.01" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">割引</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0322 · badge-percent</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0022 · badge-percent</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -247,7 +247,7 @@
         <path d="M12 18V6" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">金額</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0323 · circle-dollar-sign</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0023 · circle-dollar-sign</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -260,7 +260,7 @@
         <path d="M6 18v-7" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">金融機関</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0324 · landmark</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0024 · landmark</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -270,6 +270,6 @@
         <path d="M2 8v1a2 2 0 0 0 2 2h1" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">貯蓄</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0325 · piggy-bank</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ECM-0025 · piggy-bank</text>
     </g>
 </svg>

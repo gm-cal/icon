@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0662-color-title uui-0662-color-desc" data-icon-id="UUI-0662" data-icon-name="brick-wall-shield" data-icon-variant="color" data-icon-category="dev-security">
-  <title id="uui-0662-color-title" xml:lang="ja">防御壁</title>
-  <desc id="uui-0662-color-desc" xml:lang="ja">「防御壁」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-dvs-0009-color-title uui-dvs-0009-color-desc" data-icon-id="UUI-DVS-0009" data-icon-legacy-id="UUI-0662" data-icon-name="brick-wall-shield" data-icon-variant="color" data-icon-category="dev-security" data-icon-category-code="DVS">
+  <title id="uui-dvs-0009-color-title" xml:lang="ja">防御壁</title>
+  <desc id="uui-dvs-0009-color-desc" xml:lang="ja">「防御壁」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0662" slug="brick-wall-shield" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-DVS-0009" legacyId="UUI-0662" slug="brick-wall-shield" variant="color">
       <uui:name xml:lang="ja">防御壁</uui:name>
       <uui:name xml:lang="en">Brick Wall Shield</uui:name>
       <uui:description xml:lang="ja">「防御壁」を表す汎用UIアイコン。開発セキュリティに関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Brick Wall Shield” in development security contexts.</uui:description>
-      <uui:category id="dev-security" xml:lang="ja">開発セキュリティ</uui:category>
-      <uui:category id="dev-security" xml:lang="en">Development security</uui:category>
+      <uui:category id="dev-security" code="DVS" xml:lang="ja">開発セキュリティ</uui:category>
+      <uui:category id="dev-security" code="DVS" xml:lang="en">Development security</uui:category>
       <uui:keywords xml:lang="ja">防御壁, 開発セキュリティ, brick, wall, shield</uui:keywords>
       <uui:keywords xml:lang="en">Brick Wall Shield, Development security, brick, wall, shield</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

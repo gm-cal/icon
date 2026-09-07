@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0871-color-title uui-0871-color-desc" data-icon-id="UUI-0871" data-icon-name="train-track" data-icon-variant="color" data-icon-category="logistics-inventory">
-  <title id="uui-0871-color-title" xml:lang="ja">鉄道路線</title>
-  <desc id="uui-0871-color-desc" xml:lang="ja">「鉄道路線」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-log-0018-color-title uui-log-0018-color-desc" data-icon-id="UUI-LOG-0018" data-icon-legacy-id="UUI-0871" data-icon-name="train-track" data-icon-variant="color" data-icon-category="logistics-inventory" data-icon-category-code="LOG">
+  <title id="uui-log-0018-color-title" xml:lang="ja">鉄道路線</title>
+  <desc id="uui-log-0018-color-desc" xml:lang="ja">「鉄道路線」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0871" slug="train-track" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-LOG-0018" legacyId="UUI-0871" slug="train-track" variant="color">
       <uui:name xml:lang="ja">鉄道路線</uui:name>
       <uui:name xml:lang="en">Train Track</uui:name>
       <uui:description xml:lang="ja">「鉄道路線」を表す汎用UIアイコン。物流と在庫に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Train Track” in logistics and inventory contexts.</uui:description>
-      <uui:category id="logistics-inventory" xml:lang="ja">物流と在庫</uui:category>
-      <uui:category id="logistics-inventory" xml:lang="en">Logistics and inventory</uui:category>
+      <uui:category id="logistics-inventory" code="LOG" xml:lang="ja">物流と在庫</uui:category>
+      <uui:category id="logistics-inventory" code="LOG" xml:lang="en">Logistics and inventory</uui:category>
       <uui:keywords xml:lang="ja">鉄道路線, 物流と在庫, train, track</uui:keywords>
       <uui:keywords xml:lang="en">Train Track, Logistics and inventory, train, track</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

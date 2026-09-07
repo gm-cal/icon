@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0958-monochrome-title uui-0958-monochrome-desc" data-icon-id="UUI-0958" data-icon-name="folder-input" data-icon-variant="monochrome" data-icon-category="import-export-sync">
-  <title id="uui-0958-monochrome-title" xml:lang="ja">フォルダー取り込み</title>
-  <desc id="uui-0958-monochrome-desc" xml:lang="ja">「フォルダー取り込み」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-syn-0005-monochrome-title uui-syn-0005-monochrome-desc" data-icon-id="UUI-SYN-0005" data-icon-legacy-id="UUI-0958" data-icon-name="folder-input" data-icon-variant="monochrome" data-icon-category="import-export-sync" data-icon-category-code="SYN">
+  <title id="uui-syn-0005-monochrome-title" xml:lang="ja">フォルダー取り込み</title>
+  <desc id="uui-syn-0005-monochrome-desc" xml:lang="ja">「フォルダー取り込み」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0958" slug="folder-input" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-SYN-0005" legacyId="UUI-0958" slug="folder-input" variant="monochrome">
       <uui:name xml:lang="ja">フォルダー取り込み</uui:name>
       <uui:name xml:lang="en">Folder Input</uui:name>
       <uui:description xml:lang="ja">「フォルダー取り込み」を表す汎用UIアイコン。入出力と同期に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Folder Input” in import, export, and sync contexts.</uui:description>
-      <uui:category id="import-export-sync" xml:lang="ja">入出力と同期</uui:category>
-      <uui:category id="import-export-sync" xml:lang="en">Import, export, and sync</uui:category>
+      <uui:category id="import-export-sync" code="SYN" xml:lang="ja">入出力と同期</uui:category>
+      <uui:category id="import-export-sync" code="SYN" xml:lang="en">Import, export, and sync</uui:category>
       <uui:keywords xml:lang="ja">フォルダー取り込み, 入出力と同期, folder, input</uui:keywords>
       <uui:keywords xml:lang="en">Folder Input, Import, export, and sync, folder, input</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

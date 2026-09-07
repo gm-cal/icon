@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0412-color-title uui-0412-color-desc" data-icon-id="UUI-0412" data-icon-name="bus" data-icon-variant="color" data-icon-category="travel">
-  <title id="uui-0412-color-title" xml:lang="ja">バス</title>
-  <desc id="uui-0412-color-desc" xml:lang="ja">「バス」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-map-0012-color-title uui-map-0012-color-desc" data-icon-id="UUI-MAP-0012" data-icon-legacy-id="UUI-0412" data-icon-name="bus" data-icon-variant="color" data-icon-category="travel" data-icon-category-code="MAP">
+  <title id="uui-map-0012-color-title" xml:lang="ja">バス</title>
+  <desc id="uui-map-0012-color-desc" xml:lang="ja">「バス」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0412" slug="bus" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-MAP-0012" legacyId="UUI-0412" slug="bus" variant="color">
       <uui:name xml:lang="ja">バス</uui:name>
       <uui:name xml:lang="en">Bus</uui:name>
       <uui:description xml:lang="ja">「バス」を表す汎用UIアイコン。地図と移動に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Bus” in maps and travel contexts.</uui:description>
-      <uui:category id="travel" xml:lang="ja">地図と移動</uui:category>
-      <uui:category id="travel" xml:lang="en">Maps and travel</uui:category>
+      <uui:category id="travel" code="MAP" xml:lang="ja">地図と移動</uui:category>
+      <uui:category id="travel" code="MAP" xml:lang="en">Maps and travel</uui:category>
       <uui:keywords xml:lang="ja">バス, 地図と移動, bus</uui:keywords>
       <uui:keywords xml:lang="en">Bus, Maps and travel, bus</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

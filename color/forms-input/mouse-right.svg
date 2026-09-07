@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0900-color-title uui-0900-color-desc" data-icon-id="UUI-0900" data-icon-name="mouse-right" data-icon-variant="color" data-icon-category="forms-input">
-  <title id="uui-0900-color-title" xml:lang="ja">右クリック</title>
-  <desc id="uui-0900-color-desc" xml:lang="ja">「右クリック」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-frm-0022-color-title uui-frm-0022-color-desc" data-icon-id="UUI-FRM-0022" data-icon-legacy-id="UUI-0900" data-icon-name="mouse-right" data-icon-variant="color" data-icon-category="forms-input" data-icon-category-code="FRM">
+  <title id="uui-frm-0022-color-title" xml:lang="ja">右クリック</title>
+  <desc id="uui-frm-0022-color-desc" xml:lang="ja">「右クリック」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0900" slug="mouse-right" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-FRM-0022" legacyId="UUI-0900" slug="mouse-right" variant="color">
       <uui:name xml:lang="ja">右クリック</uui:name>
       <uui:name xml:lang="en">Mouse Right</uui:name>
       <uui:description xml:lang="ja">「右クリック」を表す汎用UIアイコン。フォームと入力に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Mouse Right” in forms and input contexts.</uui:description>
-      <uui:category id="forms-input" xml:lang="ja">フォームと入力</uui:category>
-      <uui:category id="forms-input" xml:lang="en">Forms and input</uui:category>
+      <uui:category id="forms-input" code="FRM" xml:lang="ja">フォームと入力</uui:category>
+      <uui:category id="forms-input" code="FRM" xml:lang="en">Forms and input</uui:category>
       <uui:keywords xml:lang="ja">右クリック, フォームと入力, mouse, right</uui:keywords>
       <uui:keywords xml:lang="en">Mouse Right, Forms and input, mouse, right</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-uic-0009-monochrome-title uui-uic-0009-monochrome-desc" data-icon-id="UUI-UIC-0009" data-icon-name="ui-dropdown-open" data-icon-variant="monochrome" data-icon-category="ui-components" data-icon-category-code="UIC">
+  <title id="uui-uic-0009-monochrome-title" xml:lang="ja">開いたプルダウンメニュー</title>
+  <desc id="uui-uic-0009-monochrome-desc" xml:lang="ja">「開いたプルダウンメニュー」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-UIC-0009" slug="ui-dropdown-open" variant="monochrome">
+      <uui:name xml:lang="ja">開いたプルダウンメニュー</uui:name>
+      <uui:name xml:lang="en">UI Dropdown Open</uui:name>
+      <uui:description xml:lang="ja">「開いたプルダウンメニュー」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “UI Dropdown Open” in ui components contexts.</uui:description>
+      <uui:category id="ui-components" code="UIC" xml:lang="ja">UI部品</uui:category>
+      <uui:category id="ui-components" code="UIC" xml:lang="en">UI components</uui:category>
+      <uui:keywords xml:lang="ja">開いたプルダウンメニュー, UI部品, ui, dropdown, open</uui:keywords>
+      <uui:keywords xml:lang="en">UI Dropdown Open, UI components, ui, dropdown, open</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/ui-components/ui-dropdown-open.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="61b3a9a5268f2c4a2830e7b6ea581019544ed9790b85b825eb0a3a4b9584ed38"/>
+      <uui:source project="Universal UI Icons" version="3.0.0" license="Project" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect x="2" y="2" width="20" height="7" rx="2" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M6 5.5h7m3 1 2-2 2 2" stroke="currentColor" data-uui-role="accent"/>
+    <rect x="2" y="11" width="20" height="11" rx="2" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M6 15h12M6 18h9" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

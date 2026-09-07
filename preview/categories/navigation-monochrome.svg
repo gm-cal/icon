@@ -10,7 +10,7 @@
         <path d="M12 19V5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">上へ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0001 · arrow-up</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0001 · arrow-up</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -19,7 +19,7 @@
         <path d="m19 12-7 7-7-7" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">下へ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0002 · arrow-down</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0002 · arrow-down</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -28,7 +28,7 @@
         <path d="M19 12H5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">左へ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0003 · arrow-left</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0003 · arrow-left</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -37,7 +37,7 @@
         <path d="m12 5 7 7-7 7" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">右へ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0004 · arrow-right</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0004 · arrow-right</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -46,7 +46,7 @@
         <path d="M17 17 7 7" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">左上へ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0005 · arrow-up-left</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0005 · arrow-up-left</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -55,7 +55,7 @@
         <path d="M7 17 17 7" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">右上へ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0006 · arrow-up-right</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0006 · arrow-up-right</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -64,7 +64,7 @@
         <path d="M17 17H7V7" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">左下へ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0007 · arrow-down-left</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0007 · arrow-down-left</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -73,7 +73,7 @@
         <path d="M17 7v10H7" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">右下へ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0008 · arrow-down-right</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0008 · arrow-down-right</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -81,7 +81,7 @@
         <path d="m18 15-6-6-6 6" stroke="currentColor" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">上へ移動</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0009 · chevron-up</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0009 · chevron-up</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -89,7 +89,7 @@
         <path d="m6 9 6 6 6-6" stroke="currentColor" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">下へ移動</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0010 · chevron-down</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0010 · chevron-down</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -97,7 +97,7 @@
         <path d="m15 18-6-6 6-6" stroke="currentColor" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">前へ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0011 · chevron-left</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0011 · chevron-left</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -105,7 +105,7 @@
         <path d="m9 18 6-6-6-6" stroke="currentColor" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">次へ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0012 · chevron-right</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0012 · chevron-right</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -114,7 +114,7 @@
         <path d="m17 18-5-5-5 5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">最上部へ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0013 · chevrons-up</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0013 · chevrons-up</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -123,7 +123,7 @@
         <path d="m7 13 5 5 5-5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">最下部へ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0014 · chevrons-down</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0014 · chevrons-down</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -132,7 +132,7 @@
         <path d="m18 17-5-5 5-5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">先頭へ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0015 · chevrons-left</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0015 · chevrons-left</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -141,7 +141,7 @@
         <path d="m13 17 5-5-5-5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">末尾へ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0016 · chevrons-right</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0016 · chevrons-right</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -154,7 +154,7 @@
         <path d="m9 5 3-3 3 3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">自由移動</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0017 · move</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0017 · move</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -164,7 +164,7 @@
         <path d="m6 8-4 4 4 4" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">左右移動</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0018 · move-horizontal</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0018 · move-horizontal</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -174,7 +174,7 @@
         <path d="m8 6 4-4 4 4" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">上下移動</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0019 · move-vertical</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0019 · move-vertical</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -183,7 +183,7 @@
         <path d="M9 14 4 9l5-5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">左上へ折り返す</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0020 · corner-up-left</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0020 · corner-up-left</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -192,7 +192,7 @@
         <path d="M4 20v-7a4 4 0 0 1 4-4h12" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">右上へ折り返す</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0021 · corner-up-right</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0021 · corner-up-right</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -201,7 +201,7 @@
         <path d="m9 10-5 5 5 5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">左下へ折り返す</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0022 · corner-down-left</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0022 · corner-down-left</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -210,7 +210,7 @@
         <path d="M4 4v7a4 4 0 0 0 4 4h12" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">右下へ折り返す</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0023 · corner-down-right</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0023 · corner-down-right</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -220,7 +220,7 @@
         <path d="M4 19h16" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">メニュー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0024 · menu</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0024 · menu</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -228,6 +228,6 @@
         <polygon points="3 11 22 2 13 21 11 13 3 11" stroke="currentColor" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">進行方向</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0025 · navigation</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-NAV-0025 · navigation</text>
     </g>
 </svg>

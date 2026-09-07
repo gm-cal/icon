@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0621-color-title uui-0621-color-desc" data-icon-id="UUI-0621" data-icon-name="monitor-speaker" data-icon-variant="color" data-icon-category="cloud-infrastructure">
-  <title id="uui-0621-color-title" xml:lang="ja">音声端末</title>
-  <desc id="uui-0621-color-desc" xml:lang="ja">「音声端末」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-cld-0018-color-title uui-cld-0018-color-desc" data-icon-id="UUI-CLD-0018" data-icon-legacy-id="UUI-0621" data-icon-name="monitor-speaker" data-icon-variant="color" data-icon-category="cloud-infrastructure" data-icon-category-code="CLD">
+  <title id="uui-cld-0018-color-title" xml:lang="ja">音声端末</title>
+  <desc id="uui-cld-0018-color-desc" xml:lang="ja">「音声端末」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0621" slug="monitor-speaker" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-CLD-0018" legacyId="UUI-0621" slug="monitor-speaker" variant="color">
       <uui:name xml:lang="ja">音声端末</uui:name>
       <uui:name xml:lang="en">Monitor Speaker</uui:name>
       <uui:description xml:lang="ja">「音声端末」を表す汎用UIアイコン。クラウドと基盤に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Monitor Speaker” in cloud and infrastructure contexts.</uui:description>
-      <uui:category id="cloud-infrastructure" xml:lang="ja">クラウドと基盤</uui:category>
-      <uui:category id="cloud-infrastructure" xml:lang="en">Cloud and infrastructure</uui:category>
+      <uui:category id="cloud-infrastructure" code="CLD" xml:lang="ja">クラウドと基盤</uui:category>
+      <uui:category id="cloud-infrastructure" code="CLD" xml:lang="en">Cloud and infrastructure</uui:category>
       <uui:keywords xml:lang="ja">音声端末, クラウドと基盤, monitor, speaker</uui:keywords>
       <uui:keywords xml:lang="en">Monitor Speaker, Cloud and infrastructure, monitor, speaker</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

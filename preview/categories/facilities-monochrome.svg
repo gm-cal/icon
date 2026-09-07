@@ -10,7 +10,7 @@
         <path d="M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ホーム</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0426 · house</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0001 · house</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -28,7 +28,7 @@
         <rect x="4" y="2" width="16" height="20" rx="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">建物</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0427 · building</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0002 · building</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -40,7 +40,7 @@
         <path d="M6 21V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v16" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">オフィスビル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0428 · building-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0003 · building-2</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -51,7 +51,7 @@
         <path d="M8 16h.01" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">工場</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0429 · factory</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0004 · factory</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -62,7 +62,7 @@
         <path d="M6 17h12" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">倉庫</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0430 · warehouse</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0005 · warehouse</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -74,7 +74,7 @@
         <path d="M18 21V5a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">病院</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0431 · hospital</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0006 · hospital</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -87,7 +87,7 @@
         <circle cx="12" cy="9" r="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">学校</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0432 · school</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0007 · school</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -101,7 +101,7 @@
         <circle cx="12" cy="10" r="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">大学</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0433 · university</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0008 · university</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -113,7 +113,7 @@
         <path d="M6 21V7a1 1 0 0 1 .376-.782l5-3.999a1 1 0 0 1 1.249.001l5 4A1 1 0 0 1 18 7v14" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">礼拝施設</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0434 · church</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0009 · church</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -128,7 +128,7 @@
         <path d="M6 3v8" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">城</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0435 · castle</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0010 · castle</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -139,7 +139,7 @@
         <path d="M6 8v9" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">寝室</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0436 · bed</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0011 · bed</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -151,7 +151,7 @@
         <path d="M12 4v9" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ソファ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0437 · sofa</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0012 · sofa</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -162,7 +162,7 @@
         <path d="M19 18v2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">椅子</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0438 · armchair</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0013 · armchair</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -174,7 +174,7 @@
         <path d="M9 5 7.621 3.621A2.121 2.121 0 0 0 4 5v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">浴室</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0439 · bath</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0014 · bath</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -191,7 +191,7 @@
         <path d="M20 11v.01" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">シャワー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0440 · shower-head</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0015 · shower-head</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -200,7 +200,7 @@
         <path d="M8 18a5 5 0 0 1-5-5V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v8" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">トイレ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0441 · toilet</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0016 · toilet</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -210,7 +210,7 @@
         <path d="M8 20a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v1a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1z" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">照明</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0442 · lamp</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0017 · lamp</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -221,7 +221,7 @@
         <path d="m8.86 6.78-.45-1.81a2 2 0 0 1 1.45-2.43l1.94-.48a2 2 0 0 1 2.43 1.46l.45 1.8" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">調理</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0443 · cooking-pot</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0018 · cooking-pot</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -231,7 +231,7 @@
         <path d="M21 15V2a5 5 0 0 0-5 5v6c0 1.1.9 2 2 2h3Zm0 0v7" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">食事</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0444 · utensils</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0019 · utensils</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -241,7 +241,7 @@
         <path d="M15 7v6" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">冷蔵庫</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0445 · refrigerator</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0020 · refrigerator</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -253,7 +253,7 @@
         <path d="M12 18a2.5 2.5 0 0 0 0-5 2.5 2.5 0 0 1 0-5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">洗濯機</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0446 · washing-machine</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0021 · washing-machine</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -265,7 +265,7 @@
         <path d="M18 19v2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">電子レンジ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0447 · microwave</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0022 · microwave</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -282,7 +282,7 @@
         <path d="M19 20v2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">暖房</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0448 · heater</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0023 · heater</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -293,7 +293,7 @@
         <path d="M6.6 15.572A2 2 0 1 0 10 17v-5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">換気</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0449 · air-vent</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0024 · air-vent</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -307,6 +307,6 @@
         <path d="m20 3-2 2v15c0 .6.4 1 1 1h2c.6 0 1-.4 1-1V5Z" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">境界</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0450 · fence</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-FAC-0025 · fence</text>
     </g>
 </svg>

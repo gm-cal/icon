@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0128-color-title uui-0128-color-desc" data-icon-id="UUI-0128" data-icon-name="send" data-icon-variant="color" data-icon-category="communication">
-  <title id="uui-0128-color-title" xml:lang="ja">送信</title>
-  <desc id="uui-0128-color-desc" xml:lang="ja">「送信」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-msg-0003-color-title uui-msg-0003-color-desc" data-icon-id="UUI-MSG-0003" data-icon-legacy-id="UUI-0128" data-icon-name="send" data-icon-variant="color" data-icon-category="communication" data-icon-category-code="MSG">
+  <title id="uui-msg-0003-color-title" xml:lang="ja">送信</title>
+  <desc id="uui-msg-0003-color-desc" xml:lang="ja">「送信」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0128" slug="send" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-MSG-0003" legacyId="UUI-0128" slug="send" variant="color">
       <uui:name xml:lang="ja">送信</uui:name>
       <uui:name xml:lang="en">Send</uui:name>
       <uui:description xml:lang="ja">「送信」を表す汎用UIアイコン。通信と連絡に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Send” in communication contexts.</uui:description>
-      <uui:category id="communication" xml:lang="ja">通信と連絡</uui:category>
-      <uui:category id="communication" xml:lang="en">Communication</uui:category>
+      <uui:category id="communication" code="MSG" xml:lang="ja">通信と連絡</uui:category>
+      <uui:category id="communication" code="MSG" xml:lang="en">Communication</uui:category>
       <uui:keywords xml:lang="ja">送信, 通信と連絡, send</uui:keywords>
       <uui:keywords xml:lang="en">Send, Communication, send</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

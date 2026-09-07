@@ -17,7 +17,7 @@
         <path d="M9 7.13V6a3 3 0 1 1 6 0v1.13" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">不具合再現</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0629 · bug-play</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0001 · bug-play</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -27,7 +27,7 @@
         <path d="M6 14h12" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">テスト容器</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0630 · beaker</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0002 · beaker</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -40,7 +40,7 @@
         <path d="M8.5 2h7" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">試験停止</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0631 · flask-conical-off</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0003 · flask-conical-off</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -50,7 +50,7 @@
         <path d="M8.5 2h7" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">試験環境</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0632 · flask-round</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0004 · flask-round</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -60,7 +60,7 @@
         <path d="M12 16H4" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">単体試験</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0633 · test-tube-diagonal</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0005 · test-tube-diagonal</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -73,7 +73,7 @@
         <path d="M20 16h-5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">複数試験</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0634 · test-tubes</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0006 · test-tubes</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -88,7 +88,7 @@
         <path d="m13.41 10.59 5.66-5.66" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">監視レーダー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0635 · radar</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0007 · radar</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -102,7 +102,7 @@
         <circle cx="12" cy="13" r="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">詳細観測</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0636 · telescope</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0008 · telescope</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -112,7 +112,7 @@
         <path d="m21 21-4.3-4.3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">検索結果正常</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0637 · search-check</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0009 · search-check</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -123,7 +123,7 @@
         <path d="m21 21-4.3-4.3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">検索結果異常</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0638 · search-x</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0010 · search-x</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -134,7 +134,7 @@
         <path d="M11 15h.01" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">検索警告</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0639 · search-alert</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0011 · search-alert</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -144,7 +144,7 @@
         <path d="m21 21-4.3-4.3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">検索対象外</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0640 · search-slash</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0012 · search-slash</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -157,7 +157,7 @@
         <path d="M20 22a2 2 0 0 0 2-2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ファイル検査</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0641 · file-scan</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0013 · file-scan</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -168,7 +168,7 @@
         <path d="M13.3 16.3 15 18" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ファイル検索</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0642 · file-search</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0014 · file-search</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -179,7 +179,7 @@
         <circle cx="16" cy="17" r="3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">範囲内ファイル検索</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0643 · file-search-corner</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0015 · file-search-corner</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -189,7 +189,7 @@
         <path d="m14 20 2 2 4-4" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ファイル部分検証</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0644 · file-check-corner</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0016 · file-check-corner</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -200,7 +200,7 @@
         <path d="m20 17-5 5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ファイル部分エラー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0645 · file-x-corner</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0017 · file-x-corner</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -210,7 +210,7 @@
         <path d="M12 17h.01" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ファイル警告</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0646 · file-exclamation-point</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0018 · file-exclamation-point</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -220,7 +220,7 @@
         <path d="m9 14 2 2 4-4" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">試験完了</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0647 · clipboard-check</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0019 · clipboard-check</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -231,7 +231,7 @@
         <path d="m9 11 6 6" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">試験失敗</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0648 · clipboard-x</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0020 · clipboard-x</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -241,7 +241,7 @@
         <path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">複製検証済み</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0649 · copy-check</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0021 · copy-check</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -252,7 +252,7 @@
         <path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">複製不一致</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0650 · copy-x</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0022 · copy-x</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -261,7 +261,7 @@
         <path d="m16 19 2 2 4-4" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">グリッド検証</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0651 · grid-2x2-check</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0023 · grid-2x2-check</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -270,7 +270,7 @@
         <path d="m9 11 3 3L22 4" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">品質合格</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0652 · square-check-big</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0024 · square-check-big</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -280,6 +280,6 @@
         <path d="m9 9 6 6" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">重大な試験失敗</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0653 · octagon-x</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-TST-0025 · octagon-x</text>
     </g>
 </svg>

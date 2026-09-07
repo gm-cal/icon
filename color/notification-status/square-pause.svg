@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0947-color-title uui-0947-color-desc" data-icon-id="UUI-0947" data-icon-name="square-pause" data-icon-variant="color" data-icon-category="notification-status">
-  <title id="uui-0947-color-title" xml:lang="ja">停止待ち</title>
-  <desc id="uui-0947-color-desc" xml:lang="ja">「停止待ち」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-ntf-0019-color-title uui-ntf-0019-color-desc" data-icon-id="UUI-NTF-0019" data-icon-legacy-id="UUI-0947" data-icon-name="square-pause" data-icon-variant="color" data-icon-category="notification-status" data-icon-category-code="NTF">
+  <title id="uui-ntf-0019-color-title" xml:lang="ja">停止待ち</title>
+  <desc id="uui-ntf-0019-color-desc" xml:lang="ja">「停止待ち」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0947" slug="square-pause" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-NTF-0019" legacyId="UUI-0947" slug="square-pause" variant="color">
       <uui:name xml:lang="ja">停止待ち</uui:name>
       <uui:name xml:lang="en">Square Pause</uui:name>
       <uui:description xml:lang="ja">「停止待ち」を表す汎用UIアイコン。通知と状態詳細に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Square Pause” in notifications and status contexts.</uui:description>
-      <uui:category id="notification-status" xml:lang="ja">通知と状態詳細</uui:category>
-      <uui:category id="notification-status" xml:lang="en">Notifications and status</uui:category>
+      <uui:category id="notification-status" code="NTF" xml:lang="ja">通知と状態詳細</uui:category>
+      <uui:category id="notification-status" code="NTF" xml:lang="en">Notifications and status</uui:category>
       <uui:keywords xml:lang="ja">停止待ち, 通知と状態詳細, square, pause</uui:keywords>
       <uui:keywords xml:lang="en">Square Pause, Notifications and status, square, pause</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

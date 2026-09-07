@@ -11,7 +11,7 @@
         <path d="M15.4 10a4 4 0 1 0 0 4" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">セント通貨</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0754 · badge-cent</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0001 · badge-cent</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -21,7 +21,7 @@
         <path d="M12 18V6" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ドル金額</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0755 · badge-dollar-sign</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0002 · badge-dollar-sign</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -31,7 +31,7 @@
         <path d="M15 9.4a4 4 0 1 0 0 5.2" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーロ金額</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0756 · badge-euro</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0003 · badge-euro</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -43,7 +43,7 @@
         <path d="M9 16h6" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">円金額</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0757 · badge-japanese-yen</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0004 · badge-japanese-yen</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -54,7 +54,7 @@
         <path d="M8 16h7" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ポンド金額</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0758 · badge-pound-sterling</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0005 · badge-pound-sterling</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -67,7 +67,7 @@
         <circle cx="12" cy="12" r="2" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">入金</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0759 · banknote-arrow-down</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0006 · banknote-arrow-down</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -80,7 +80,7 @@
         <circle cx="12" cy="12" r="2" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">出金</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0760 · banknote-arrow-up</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0007 · banknote-arrow-up</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -93,7 +93,7 @@
         <circle cx="12" cy="12" r="2" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">支払取消</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0761 · banknote-x</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0008 · banknote-x</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -104,7 +104,7 @@
         <path d="M15 15h.01" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">割合</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0762 · circle-percent</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0009 · circle-percent</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -115,7 +115,7 @@
         <path d="M14.7 14.8h.01" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">特別割引率</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0763 · diamond-percent</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0010 · diamond-percent</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -126,7 +126,7 @@
         <path d="M15 15h.01" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">税率</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0764 · square-percent</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0011 · square-percent</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -136,7 +136,7 @@
         <path d="M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">セント建て領収書</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0765 · receipt-cent</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0012 · receipt-cent</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -146,7 +146,7 @@
         <path d="M8 12h5" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーロ建て領収書</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0766 · receipt-euro</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0013 · receipt-euro</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -157,7 +157,7 @@
         <path d="M9 7a4 4 0 0 1 0 8H8l3 2" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ルピー建て領収書</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0767 · receipt-indian-rupee</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0014 · receipt-indian-rupee</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -169,7 +169,7 @@
         <path d="m9 7 3 3v7" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">円建て領収書</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0768 · receipt-japanese-yen</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0015 · receipt-japanese-yen</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -180,7 +180,7 @@
         <path d="M8 17h7" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ポンド建て領収書</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0769 · receipt-pound-sterling</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0016 · receipt-pound-sterling</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -192,7 +192,7 @@
         <circle cx="6" cy="5" r="3" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">現金受渡し</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0770 · hand-coins</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0017 · hand-coins</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -202,7 +202,7 @@
         <path d="M3 11h3c.8 0 1.6.3 2.1.9l1.1.9c1.6 1.6 4.1 1.6 5.7 0l1.1-.9c.5-.5 1.3-.9 2.1-.9H21" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">カード財布</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0771 · wallet-cards</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0018 · wallet-cards</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -211,7 +211,7 @@
         <path d="M7 7h12a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">簡易財布</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0772 · wallet-minimal</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0019 · wallet-minimal</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -222,7 +222,7 @@
         <path d="M15 15h.01" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">割引券</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0773 · ticket-percent</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0020 · ticket-percent</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -233,7 +233,7 @@
         <path d="m13 17-5-1h1a4 4 0 0 0 0-8" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ルピー金額</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0774 · badge-indian-rupee</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0021 · badge-indian-rupee</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -244,7 +244,7 @@
         <path d="M8 16h7" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ポンド</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0775 · circle-pound-sterling</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0022 · circle-pound-sterling</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -255,7 +255,7 @@
         <path d="M9 16h4" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">スイスフラン</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0776 · badge-swiss-franc</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0023 · badge-swiss-franc</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -265,7 +265,7 @@
         <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">トルコリラ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0777 · badge-turkish-lira</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0024 · badge-turkish-lira</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -275,6 +275,6 @@
         <circle cx="17.5" cy="17.5" r="2.5" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">パーセント</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0778 · percent</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-ACC-0025 · percent</text>
     </g>
 </svg>

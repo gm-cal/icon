@@ -10,7 +10,7 @@
         <path d="M7 11V7a5 5 0 0 1 10 0v4" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ロック</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0176 · lock</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0001 · lock</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -19,7 +19,7 @@
         <path d="M7 11V7a5 5 0 0 1 9.9-1" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ロック解除</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0177 · lock-open</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0002 · lock-open</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -27,7 +27,7 @@
         <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" stroke="#B91C1C" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">保護</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0178 · shield</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0003 · shield</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -36,7 +36,7 @@
         <path d="m9 12 2 2 4-4" stroke="#22C55E" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">安全</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0179 · shield-check</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0004 · shield-check</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -46,7 +46,7 @@
         <path d="M12 16h.01" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">セキュリティ警告</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0180 · shield-alert</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0005 · shield-alert</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -56,7 +56,7 @@
         <path d="m9.5 9.5 5 5" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">保護失敗</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0181 · shield-x</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0006 · shield-x</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -65,7 +65,7 @@
         <path d="m4.243 5.21 14.39 12.472" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">アクセス禁止</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0182 · shield-ban</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0007 · shield-ban</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -75,7 +75,7 @@
         <path d="M12 9v6" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">保護を追加</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0183 · shield-plus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0008 · shield-plus</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -84,7 +84,7 @@
         <path d="M9 12h6" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">保護を解除</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0184 · shield-minus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0009 · shield-minus</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -94,7 +94,7 @@
         <path d="M12 17h.01" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">保護状態不明</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0185 · shield-question-mark</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0010 · shield-question-mark</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -103,7 +103,7 @@
         <circle cx="12" cy="12" r="3" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">表示</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0186 · eye</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0011 · eye</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -114,7 +114,7 @@
         <path d="m2 2 20 20" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">非表示</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0187 · eye-off</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0012 · eye-off</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -127,7 +127,7 @@
         <path d="M18.944 12.33a1 1 0 0 0 0-.66 7.5 7.5 0 0 0-13.888 0 1 1 0 0 0 0 .66 7.5 7.5 0 0 0 13.888 0" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">視覚確認</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0188 · scan-eye</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0013 · scan-eye</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -139,7 +139,7 @@
         <path d="M7 12h10" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">スキャン</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0189 · scan-line</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0014 · scan-line</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -149,7 +149,7 @@
         <circle cx="7.5" cy="15.5" r="5.5" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">鍵</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0190 · key</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0015 · key</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -166,7 +166,7 @@
         <circle cx="12" cy="12" r="2" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">金庫</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0191 · vault</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0016 · vault</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -181,7 +181,7 @@
         <path d="M12 12v6" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">警報</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0192 · siren</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0017 · siren</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -191,7 +191,7 @@
         <path d="M12 17h.01" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">警告</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0193 · triangle-alert</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0018 · triangle-alert</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -201,7 +201,7 @@
         <line x1="12" x2="12.01" y1="16" y2="16" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">注意</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0194 · circle-alert</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0019 · circle-alert</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -211,7 +211,7 @@
         <path d="M15.312 2a2 2 0 0 1 1.414.586l4.688 4.688A2 2 0 0 1 22 8.688v6.624a2 2 0 0 1-.586 1.414l-4.688 4.688a2 2 0 0 1-1.414.586H8.688a2 2 0 0 1-1.414-.586l-4.688-4.688A2 2 0 0 1 2 15.312V8.688a2 2 0 0 1 .586-1.414l4.688-4.688A2 2 0 0 1 8.688 2z" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">重大警告</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0195 · octagon-alert</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0020 · octagon-alert</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -220,7 +220,7 @@
         <path d="M4.929 4.929 19.07 19.071" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">禁止</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0196 · ban</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0021 · ban</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -230,7 +230,7 @@
         <path d="M12 17h.01" stroke="#A855F7" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ヘルプ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0197 · circle-question-mark</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0022 · circle-question-mark</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -240,7 +240,7 @@
         <path d="M12 8h.01" stroke="#3B82F6" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">情報</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0198 · info</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0023 · info</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -259,7 +259,7 @@
         <path d="M9.712 4.06A3 3 0 0 1 15 6v1.13" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">脅威を除去</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0199 · bug-off</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0024 · bug-off</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -270,6 +270,6 @@
         <rect width="8" height="5" x="3" y="17" rx="1" stroke="#EF4444" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">保護ファイル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0200 · file-lock</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-SEC-0025 · file-lock</text>
     </g>
 </svg>

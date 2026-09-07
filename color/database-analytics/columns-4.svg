@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0589-color-title uui-0589-color-desc" data-icon-id="UUI-0589" data-icon-name="columns-4" data-icon-variant="color" data-icon-category="database-analytics">
-  <title id="uui-0589-color-title" xml:lang="ja">4列</title>
-  <desc id="uui-0589-color-desc" xml:lang="ja">「4列」を表す汎用UIアイコン。データベース詳細に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-dba-0011-color-title uui-dba-0011-color-desc" data-icon-id="UUI-DBA-0011" data-icon-legacy-id="UUI-0589" data-icon-name="columns-4" data-icon-variant="color" data-icon-category="database-analytics" data-icon-category-code="DBA">
+  <title id="uui-dba-0011-color-title" xml:lang="ja">4列</title>
+  <desc id="uui-dba-0011-color-desc" xml:lang="ja">「4列」を表す汎用UIアイコン。データベース詳細に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0589" slug="columns-4" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-DBA-0011" legacyId="UUI-0589" slug="columns-4" variant="color">
       <uui:name xml:lang="ja">4列</uui:name>
       <uui:name xml:lang="en">Columns 4</uui:name>
       <uui:description xml:lang="ja">「4列」を表す汎用UIアイコン。データベース詳細に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Columns 4” in database and analytics contexts.</uui:description>
-      <uui:category id="database-analytics" xml:lang="ja">データベース詳細</uui:category>
-      <uui:category id="database-analytics" xml:lang="en">Database and analytics</uui:category>
+      <uui:category id="database-analytics" code="DBA" xml:lang="ja">データベース詳細</uui:category>
+      <uui:category id="database-analytics" code="DBA" xml:lang="en">Database and analytics</uui:category>
       <uui:keywords xml:lang="ja">4列, データベース詳細, columns, 4</uui:keywords>
       <uui:keywords xml:lang="en">Columns 4, Database and analytics, columns, 4</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0987-color-title uui-0987-color-desc" data-icon-id="UUI-0987" data-icon-name="book-lock" data-icon-variant="color" data-icon-category="legal-compliance">
-  <title id="uui-0987-color-title" xml:lang="ja">機密規程</title>
-  <desc id="uui-0987-color-desc" xml:lang="ja">「機密規程」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-lgl-0009-color-title uui-lgl-0009-color-desc" data-icon-id="UUI-LGL-0009" data-icon-legacy-id="UUI-0987" data-icon-name="book-lock" data-icon-variant="color" data-icon-category="legal-compliance" data-icon-category-code="LGL">
+  <title id="uui-lgl-0009-color-title" xml:lang="ja">機密規程</title>
+  <desc id="uui-lgl-0009-color-desc" xml:lang="ja">「機密規程」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0987" slug="book-lock" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-LGL-0009" legacyId="UUI-0987" slug="book-lock" variant="color">
       <uui:name xml:lang="ja">機密規程</uui:name>
       <uui:name xml:lang="en">Book Lock</uui:name>
       <uui:description xml:lang="ja">「機密規程」を表す汎用UIアイコン。法務とコンプライアンスに関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Book Lock” in legal and compliance contexts.</uui:description>
-      <uui:category id="legal-compliance" xml:lang="ja">法務とコンプライアンス</uui:category>
-      <uui:category id="legal-compliance" xml:lang="en">Legal and compliance</uui:category>
+      <uui:category id="legal-compliance" code="LGL" xml:lang="ja">法務とコンプライアンス</uui:category>
+      <uui:category id="legal-compliance" code="LGL" xml:lang="en">Legal and compliance</uui:category>
       <uui:keywords xml:lang="ja">機密規程, 法務とコンプライアンス, book, lock</uui:keywords>
       <uui:keywords xml:lang="en">Book Lock, Legal and compliance, book, lock</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

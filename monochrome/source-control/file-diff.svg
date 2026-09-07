@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0542-monochrome-title uui-0542-monochrome-desc" data-icon-id="UUI-0542" data-icon-name="file-diff" data-icon-variant="monochrome" data-icon-category="source-control">
-  <title id="uui-0542-monochrome-title" xml:lang="ja">差分ファイル</title>
-  <desc id="uui-0542-monochrome-desc" xml:lang="ja">「差分ファイル」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-scm-0014-monochrome-title uui-scm-0014-monochrome-desc" data-icon-id="UUI-SCM-0014" data-icon-legacy-id="UUI-0542" data-icon-name="file-diff" data-icon-variant="monochrome" data-icon-category="source-control" data-icon-category-code="SCM">
+  <title id="uui-scm-0014-monochrome-title" xml:lang="ja">差分ファイル</title>
+  <desc id="uui-scm-0014-monochrome-desc" xml:lang="ja">「差分ファイル」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0542" slug="file-diff" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-SCM-0014" legacyId="UUI-0542" slug="file-diff" variant="monochrome">
       <uui:name xml:lang="ja">差分ファイル</uui:name>
       <uui:name xml:lang="en">File Diff</uui:name>
       <uui:description xml:lang="ja">「差分ファイル」を表す汎用UIアイコン。ソース管理に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “File Diff” in source control contexts.</uui:description>
-      <uui:category id="source-control" xml:lang="ja">ソース管理</uui:category>
-      <uui:category id="source-control" xml:lang="en">Source control</uui:category>
+      <uui:category id="source-control" code="SCM" xml:lang="ja">ソース管理</uui:category>
+      <uui:category id="source-control" code="SCM" xml:lang="en">Source control</uui:category>
       <uui:keywords xml:lang="ja">差分ファイル, ソース管理, file, diff</uui:keywords>
       <uui:keywords xml:lang="en">File Diff, Source control, file, diff</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

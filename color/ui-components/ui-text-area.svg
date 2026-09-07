@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-uic-0012-color-title uui-uic-0012-color-desc" data-icon-id="UUI-UIC-0012" data-icon-name="ui-text-area" data-icon-variant="color" data-icon-category="ui-components" data-icon-category-code="UIC">
+  <title id="uui-uic-0012-color-title" xml:lang="ja">複数行テキストエリア</title>
+  <desc id="uui-uic-0012-color-desc" xml:lang="ja">「複数行テキストエリア」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-UIC-0012" slug="ui-text-area" variant="color">
+      <uui:name xml:lang="ja">複数行テキストエリア</uui:name>
+      <uui:name xml:lang="en">UI Text Area</uui:name>
+      <uui:description xml:lang="ja">「複数行テキストエリア」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Universal UI icon representing “UI Text Area” in ui components contexts.</uui:description>
+      <uui:category id="ui-components" code="UIC" xml:lang="ja">UI部品</uui:category>
+      <uui:category id="ui-components" code="UIC" xml:lang="en">UI components</uui:category>
+      <uui:keywords xml:lang="ja">複数行テキストエリア, UI部品, ui, text, area</uui:keywords>
+      <uui:keywords xml:lang="en">UI Text Area, UI components, ui, text, area</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/ui-components/ui-text-area.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#0EA5E9" secondary="#7DD3FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="c4754286a1d9a426877b81547cece0d83a6d2cb19f0c2038d6e2930805771eea"/>
+      <uui:source project="Universal UI Icons" version="3.0.0" license="Project" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect x="2" y="3" width="20" height="18" rx="2" stroke="#1D4ED8" data-uui-role="primary"/>
+    <path d="M6 8h12M6 12h9M6 16h6m5 2 3-3" stroke="#0EA5E9" data-uui-role="accent"/>
+  </g>
+</svg>

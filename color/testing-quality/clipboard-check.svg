@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0647-color-title uui-0647-color-desc" data-icon-id="UUI-0647" data-icon-name="clipboard-check" data-icon-variant="color" data-icon-category="testing-quality">
-  <title id="uui-0647-color-title" xml:lang="ja">試験完了</title>
-  <desc id="uui-0647-color-desc" xml:lang="ja">「試験完了」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-tst-0019-color-title uui-tst-0019-color-desc" data-icon-id="UUI-TST-0019" data-icon-legacy-id="UUI-0647" data-icon-name="clipboard-check" data-icon-variant="color" data-icon-category="testing-quality" data-icon-category-code="TST">
+  <title id="uui-tst-0019-color-title" xml:lang="ja">試験完了</title>
+  <desc id="uui-tst-0019-color-desc" xml:lang="ja">「試験完了」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0647" slug="clipboard-check" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-TST-0019" legacyId="UUI-0647" slug="clipboard-check" variant="color">
       <uui:name xml:lang="ja">試験完了</uui:name>
       <uui:name xml:lang="en">Clipboard Check</uui:name>
       <uui:description xml:lang="ja">「試験完了」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Clipboard Check” in testing and quality contexts.</uui:description>
-      <uui:category id="testing-quality" xml:lang="ja">テストと品質</uui:category>
-      <uui:category id="testing-quality" xml:lang="en">Testing and quality</uui:category>
+      <uui:category id="testing-quality" code="TST" xml:lang="ja">テストと品質</uui:category>
+      <uui:category id="testing-quality" code="TST" xml:lang="en">Testing and quality</uui:category>
       <uui:keywords xml:lang="ja">試験完了, テストと品質, clipboard, check</uui:keywords>
       <uui:keywords xml:lang="en">Clipboard Check, Testing and quality, clipboard, check</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

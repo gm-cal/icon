@@ -1,11 +1,11 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "urn:universal-ui-icons:catalog:1.0",
-  "title": "Universal UI Icons catalog v1",
+  "$id": "urn:universal-ui-icons:catalog:1.1",
+  "title": "Universal UI Icons catalog v1.1",
   "type": "object",
   "required": ["schemaVersion", "library", "categories", "icons"],
   "properties": {
-    "schemaVersion": { "const": "1.0" },
+    "schemaVersion": { "const": "1.1" },
     "library": {
       "type": "object",
       "required": ["name", "version", "iconCount", "variantCount", "svgCount", "viewBox", "minimumSizePx", "recommendedSizesPx", "license"],
@@ -27,11 +27,13 @@
       "minItems": 1,
       "items": {
         "type": "object",
-        "required": ["id", "ja", "en", "palette"],
+        "required": ["id", "code", "ja", "en", "iconCount", "palette"],
         "properties": {
           "id": { "type": "string", "pattern": "^[a-z][a-z0-9-]*$" },
+          "code": { "type": "string", "pattern": "^[A-Z0-9]{3}$" },
           "ja": { "type": "string", "minLength": 1 },
           "en": { "type": "string", "minLength": 1 },
+          "iconCount": { "type": "integer", "minimum": 1 },
           "palette": {
             "type": "object",
             "required": ["primary", "accent", "secondary"],
@@ -58,7 +60,8 @@
       "type": "object",
       "required": ["id", "slug", "name", "description", "category", "keywords", "palette", "geometrySha256", "files", "minimumSizePx", "recommendedSizesPx"],
       "properties": {
-        "id": { "type": "string", "pattern": "^UUI-[0-9]{4}$" },
+        "id": { "type": "string", "pattern": "^UUI-[A-Z0-9]{3}-[0-9]{4}$" },
+        "legacyId": { "type": "string", "pattern": "^UUI-[0-9]{4}$" },
         "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
         "name": { "type": "object", "required": ["ja", "en"] },
         "description": { "type": "object", "required": ["ja"] },

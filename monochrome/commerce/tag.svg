@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0321-monochrome-title uui-0321-monochrome-desc" data-icon-id="UUI-0321" data-icon-name="tag" data-icon-variant="monochrome" data-icon-category="commerce">
-  <title id="uui-0321-monochrome-title" xml:lang="ja">タグ</title>
-  <desc id="uui-0321-monochrome-desc" xml:lang="ja">「タグ」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-ecm-0021-monochrome-title uui-ecm-0021-monochrome-desc" data-icon-id="UUI-ECM-0021" data-icon-legacy-id="UUI-0321" data-icon-name="tag" data-icon-variant="monochrome" data-icon-category="commerce" data-icon-category-code="ECM">
+  <title id="uui-ecm-0021-monochrome-title" xml:lang="ja">タグ</title>
+  <desc id="uui-ecm-0021-monochrome-desc" xml:lang="ja">「タグ」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0321" slug="tag" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-ECM-0021" legacyId="UUI-0321" slug="tag" variant="monochrome">
       <uui:name xml:lang="ja">タグ</uui:name>
       <uui:name xml:lang="en">Tag</uui:name>
       <uui:description xml:lang="ja">「タグ」を表す汎用UIアイコン。商取引と金融に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Tag” in commerce and finance contexts.</uui:description>
-      <uui:category id="commerce" xml:lang="ja">商取引と金融</uui:category>
-      <uui:category id="commerce" xml:lang="en">Commerce and finance</uui:category>
+      <uui:category id="commerce" code="ECM" xml:lang="ja">商取引と金融</uui:category>
+      <uui:category id="commerce" code="ECM" xml:lang="en">Commerce and finance</uui:category>
       <uui:keywords xml:lang="ja">タグ, 商取引と金融, tag</uui:keywords>
       <uui:keywords xml:lang="en">Tag, Commerce and finance, tag</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

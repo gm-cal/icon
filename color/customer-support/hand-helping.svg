@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0828-color-title uui-0828-color-desc" data-icon-id="UUI-0828" data-icon-name="hand-helping" data-icon-variant="color" data-icon-category="customer-support">
-  <title id="uui-0828-color-title" xml:lang="ja">支援</title>
-  <desc id="uui-0828-color-desc" xml:lang="ja">「支援」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-sup-0025-color-title uui-sup-0025-color-desc" data-icon-id="UUI-SUP-0025" data-icon-legacy-id="UUI-0828" data-icon-name="hand-helping" data-icon-variant="color" data-icon-category="customer-support" data-icon-category-code="SUP">
+  <title id="uui-sup-0025-color-title" xml:lang="ja">支援</title>
+  <desc id="uui-sup-0025-color-desc" xml:lang="ja">「支援」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0828" slug="hand-helping" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-SUP-0025" legacyId="UUI-0828" slug="hand-helping" variant="color">
       <uui:name xml:lang="ja">支援</uui:name>
       <uui:name xml:lang="en">Hand Helping</uui:name>
       <uui:description xml:lang="ja">「支援」を表す汎用UIアイコン。顧客サポートに関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Hand Helping” in customer support contexts.</uui:description>
-      <uui:category id="customer-support" xml:lang="ja">顧客サポート</uui:category>
-      <uui:category id="customer-support" xml:lang="en">Customer support</uui:category>
+      <uui:category id="customer-support" code="SUP" xml:lang="ja">顧客サポート</uui:category>
+      <uui:category id="customer-support" code="SUP" xml:lang="en">Customer support</uui:category>
       <uui:keywords xml:lang="ja">支援, 顧客サポート, hand, helping</uui:keywords>
       <uui:keywords xml:lang="en">Hand Helping, Customer support, hand, helping</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

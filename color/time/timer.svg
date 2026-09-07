@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0214-color-title uui-0214-color-desc" data-icon-id="UUI-0214" data-icon-name="timer" data-icon-variant="color" data-icon-category="time">
-  <title id="uui-0214-color-title" xml:lang="ja">タイマー</title>
-  <desc id="uui-0214-color-desc" xml:lang="ja">「タイマー」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-tim-0014-color-title uui-tim-0014-color-desc" data-icon-id="UUI-TIM-0014" data-icon-legacy-id="UUI-0214" data-icon-name="timer" data-icon-variant="color" data-icon-category="time" data-icon-category-code="TIM">
+  <title id="uui-tim-0014-color-title" xml:lang="ja">タイマー</title>
+  <desc id="uui-tim-0014-color-desc" xml:lang="ja">「タイマー」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0214" slug="timer" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-TIM-0014" legacyId="UUI-0214" slug="timer" variant="color">
       <uui:name xml:lang="ja">タイマー</uui:name>
       <uui:name xml:lang="en">Timer</uui:name>
       <uui:description xml:lang="ja">「タイマー」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Timer” in date and time contexts.</uui:description>
-      <uui:category id="time" xml:lang="ja">日時と履歴</uui:category>
-      <uui:category id="time" xml:lang="en">Date and time</uui:category>
+      <uui:category id="time" code="TIM" xml:lang="ja">日時と履歴</uui:category>
+      <uui:category id="time" code="TIM" xml:lang="en">Date and time</uui:category>
       <uui:keywords xml:lang="ja">タイマー, 日時と履歴, timer</uui:keywords>
       <uui:keywords xml:lang="en">Timer, Date and time, timer</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

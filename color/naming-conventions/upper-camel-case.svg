@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0502-color-title uui-0502-color-desc" data-icon-id="UUI-0502" data-icon-name="upper-camel-case" data-icon-variant="color" data-icon-category="naming-conventions">
-  <title id="uui-0502-color-title" xml:lang="ja">UpperCamel</title>
-  <desc id="uui-0502-color-desc" xml:lang="ja">「UpperCamel」を表す汎用UIアイコン。命名規則に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-nam-0002-color-title uui-nam-0002-color-desc" data-icon-id="UUI-NAM-0002" data-icon-legacy-id="UUI-0502" data-icon-name="upper-camel-case" data-icon-variant="color" data-icon-category="naming-conventions" data-icon-category-code="NAM">
+  <title id="uui-nam-0002-color-title" xml:lang="ja">UpperCamel</title>
+  <desc id="uui-nam-0002-color-desc" xml:lang="ja">「UpperCamel」を表す汎用UIアイコン。命名規則に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.1.0" id="UUI-0502" slug="upper-camel-case" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-NAM-0002" legacyId="UUI-0502" slug="upper-camel-case" variant="color">
       <uui:name xml:lang="ja">UpperCamel</uui:name>
       <uui:name xml:lang="en">UpperCamel</uui:name>
       <uui:description xml:lang="ja">「UpperCamel」を表す汎用UIアイコン。命名規則に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “UpperCamel” in naming conventions contexts.</uui:description>
-      <uui:category id="naming-conventions" xml:lang="ja">命名規則</uui:category>
-      <uui:category id="naming-conventions" xml:lang="en">Naming conventions</uui:category>
+      <uui:category id="naming-conventions" code="NAM" xml:lang="ja">命名規則</uui:category>
+      <uui:category id="naming-conventions" code="NAM" xml:lang="en">Naming conventions</uui:category>
       <uui:keywords xml:lang="ja">UpperCamel, 命名規則, upper, camel, case</uui:keywords>
       <uui:keywords xml:lang="en">UpperCamel, Naming conventions, upper, camel, case</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
@@ -19,7 +19,7 @@
       <uui:pair variant="monochrome" href="../../monochrome/naming-conventions/upper-camel-case.svg"/>
       <uui:palette primary="#92400E" accent="#D97706" secondary="#FBBF24"/>
       <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="c09ef4ed3365b545b5cdcf5dc7535577971043c6bc1f1965bccd11bba4cd02b1"/>
-      <uui:source project="Universal UI Icons" version="1.1.0" license="Project" modified="false"/>
+      <uui:source project="Universal UI Icons" version="3.0.0" license="Project" modified="false"/>
     </uui:icon>
   </metadata>
   <g aria-hidden="true">

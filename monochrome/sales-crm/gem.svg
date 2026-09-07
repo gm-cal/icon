@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0787-monochrome-title uui-0787-monochrome-desc" data-icon-id="UUI-0787" data-icon-name="gem" data-icon-variant="monochrome" data-icon-category="sales-crm">
-  <title id="uui-0787-monochrome-title" xml:lang="ja">優良顧客</title>
-  <desc id="uui-0787-monochrome-desc" xml:lang="ja">「優良顧客」を表す汎用UIアイコン。営業と顧客管理に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-crm-0009-monochrome-title uui-crm-0009-monochrome-desc" data-icon-id="UUI-CRM-0009" data-icon-legacy-id="UUI-0787" data-icon-name="gem" data-icon-variant="monochrome" data-icon-category="sales-crm" data-icon-category-code="CRM">
+  <title id="uui-crm-0009-monochrome-title" xml:lang="ja">優良顧客</title>
+  <desc id="uui-crm-0009-monochrome-desc" xml:lang="ja">「優良顧客」を表す汎用UIアイコン。営業と顧客管理に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0787" slug="gem" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-CRM-0009" legacyId="UUI-0787" slug="gem" variant="monochrome">
       <uui:name xml:lang="ja">優良顧客</uui:name>
       <uui:name xml:lang="en">Gem</uui:name>
       <uui:description xml:lang="ja">「優良顧客」を表す汎用UIアイコン。営業と顧客管理に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Gem” in sales and crm contexts.</uui:description>
-      <uui:category id="sales-crm" xml:lang="ja">営業と顧客管理</uui:category>
-      <uui:category id="sales-crm" xml:lang="en">Sales and CRM</uui:category>
+      <uui:category id="sales-crm" code="CRM" xml:lang="ja">営業と顧客管理</uui:category>
+      <uui:category id="sales-crm" code="CRM" xml:lang="en">Sales and CRM</uui:category>
       <uui:keywords xml:lang="ja">優良顧客, 営業と顧客管理, gem</uui:keywords>
       <uui:keywords xml:lang="en">Gem, Sales and CRM, gem</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

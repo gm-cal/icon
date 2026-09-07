@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0649-monochrome-title uui-0649-monochrome-desc" data-icon-id="UUI-0649" data-icon-name="copy-check" data-icon-variant="monochrome" data-icon-category="testing-quality">
-  <title id="uui-0649-monochrome-title" xml:lang="ja">複製検証済み</title>
-  <desc id="uui-0649-monochrome-desc" xml:lang="ja">「複製検証済み」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-tst-0021-monochrome-title uui-tst-0021-monochrome-desc" data-icon-id="UUI-TST-0021" data-icon-legacy-id="UUI-0649" data-icon-name="copy-check" data-icon-variant="monochrome" data-icon-category="testing-quality" data-icon-category-code="TST">
+  <title id="uui-tst-0021-monochrome-title" xml:lang="ja">複製検証済み</title>
+  <desc id="uui-tst-0021-monochrome-desc" xml:lang="ja">「複製検証済み」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0649" slug="copy-check" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-TST-0021" legacyId="UUI-0649" slug="copy-check" variant="monochrome">
       <uui:name xml:lang="ja">複製検証済み</uui:name>
       <uui:name xml:lang="en">Copy Check</uui:name>
       <uui:description xml:lang="ja">「複製検証済み」を表す汎用UIアイコン。テストと品質に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Copy Check” in testing and quality contexts.</uui:description>
-      <uui:category id="testing-quality" xml:lang="ja">テストと品質</uui:category>
-      <uui:category id="testing-quality" xml:lang="en">Testing and quality</uui:category>
+      <uui:category id="testing-quality" code="TST" xml:lang="ja">テストと品質</uui:category>
+      <uui:category id="testing-quality" code="TST" xml:lang="en">Testing and quality</uui:category>
       <uui:keywords xml:lang="ja">複製検証済み, テストと品質, copy, check</uui:keywords>
       <uui:keywords xml:lang="en">Copy Check, Testing and quality, copy, check</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

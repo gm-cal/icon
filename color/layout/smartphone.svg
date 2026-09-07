@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0119-color-title uui-0119-color-desc" data-icon-id="UUI-0119" data-icon-name="smartphone" data-icon-variant="color" data-icon-category="layout">
-  <title id="uui-0119-color-title" xml:lang="ja">スマートフォン画面</title>
-  <desc id="uui-0119-color-desc" xml:lang="ja">「スマートフォン画面」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-lay-0019-color-title uui-lay-0019-color-desc" data-icon-id="UUI-LAY-0019" data-icon-legacy-id="UUI-0119" data-icon-name="smartphone" data-icon-variant="color" data-icon-category="layout" data-icon-category-code="LAY">
+  <title id="uui-lay-0019-color-title" xml:lang="ja">スマートフォン画面</title>
+  <desc id="uui-lay-0019-color-desc" xml:lang="ja">「スマートフォン画面」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0119" slug="smartphone" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-LAY-0019" legacyId="UUI-0119" slug="smartphone" variant="color">
       <uui:name xml:lang="ja">スマートフォン画面</uui:name>
       <uui:name xml:lang="en">Smartphone</uui:name>
       <uui:description xml:lang="ja">「スマートフォン画面」を表す汎用UIアイコン。画面とレイアウトに関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Smartphone” in layout and windows contexts.</uui:description>
-      <uui:category id="layout" xml:lang="ja">画面とレイアウト</uui:category>
-      <uui:category id="layout" xml:lang="en">Layout and windows</uui:category>
+      <uui:category id="layout" code="LAY" xml:lang="ja">画面とレイアウト</uui:category>
+      <uui:category id="layout" code="LAY" xml:lang="en">Layout and windows</uui:category>
       <uui:keywords xml:lang="ja">スマートフォン画面, 画面とレイアウト, smartphone</uui:keywords>
       <uui:keywords xml:lang="en">Smartphone, Layout and windows, smartphone</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

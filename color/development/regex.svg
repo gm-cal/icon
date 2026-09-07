@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0288-color-title uui-0288-color-desc" data-icon-id="UUI-0288" data-icon-name="regex" data-icon-variant="color" data-icon-category="development">
-  <title id="uui-0288-color-title" xml:lang="ja">正規表現</title>
-  <desc id="uui-0288-color-desc" xml:lang="ja">「正規表現」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-dev-0013-color-title uui-dev-0013-color-desc" data-icon-id="UUI-DEV-0013" data-icon-legacy-id="UUI-0288" data-icon-name="regex" data-icon-variant="color" data-icon-category="development" data-icon-category-code="DEV">
+  <title id="uui-dev-0013-color-title" xml:lang="ja">正規表現</title>
+  <desc id="uui-dev-0013-color-desc" xml:lang="ja">「正規表現」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0288" slug="regex" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-DEV-0013" legacyId="UUI-0288" slug="regex" variant="color">
       <uui:name xml:lang="ja">正規表現</uui:name>
       <uui:name xml:lang="en">Regex</uui:name>
       <uui:description xml:lang="ja">「正規表現」を表す汎用UIアイコン。開発とシステムに関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Regex” in development and systems contexts.</uui:description>
-      <uui:category id="development" xml:lang="ja">開発とシステム</uui:category>
-      <uui:category id="development" xml:lang="en">Development and systems</uui:category>
+      <uui:category id="development" code="DEV" xml:lang="ja">開発とシステム</uui:category>
+      <uui:category id="development" code="DEV" xml:lang="en">Development and systems</uui:category>
       <uui:keywords xml:lang="ja">正規表現, 開発とシステム, regex</uui:keywords>
       <uui:keywords xml:lang="en">Regex, Development and systems, regex</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

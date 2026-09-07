@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0558-color-title uui-0558-color-desc" data-icon-id="UUI-0558" data-icon-name="external-link" data-icon-variant="color" data-icon-category="api-integration">
-  <title id="uui-0558-color-title" xml:lang="ja">外部リンク</title>
-  <desc id="uui-0558-color-desc" xml:lang="ja">「外部リンク」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-api-0005-color-title uui-api-0005-color-desc" data-icon-id="UUI-API-0005" data-icon-legacy-id="UUI-0558" data-icon-name="external-link" data-icon-variant="color" data-icon-category="api-integration" data-icon-category-code="API">
+  <title id="uui-api-0005-color-title" xml:lang="ja">外部リンク</title>
+  <desc id="uui-api-0005-color-desc" xml:lang="ja">「外部リンク」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0558" slug="external-link" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-API-0005" legacyId="UUI-0558" slug="external-link" variant="color">
       <uui:name xml:lang="ja">外部リンク</uui:name>
       <uui:name xml:lang="en">External Link</uui:name>
       <uui:description xml:lang="ja">「外部リンク」を表す汎用UIアイコン。APIと連携に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “External Link” in api and integration contexts.</uui:description>
-      <uui:category id="api-integration" xml:lang="ja">APIと連携</uui:category>
-      <uui:category id="api-integration" xml:lang="en">API and integration</uui:category>
+      <uui:category id="api-integration" code="API" xml:lang="ja">APIと連携</uui:category>
+      <uui:category id="api-integration" code="API" xml:lang="en">API and integration</uui:category>
       <uui:keywords xml:lang="ja">外部リンク, APIと連携, external, link</uui:keywords>
       <uui:keywords xml:lang="en">External Link, API and integration, external, link</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

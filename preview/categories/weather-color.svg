@@ -17,7 +17,7 @@
         <path d="m19.07 4.93-1.41 1.41" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">晴れ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0476 · sun</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0001 · sun</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -25,7 +25,7 @@
         <path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401" stroke="#0284C7" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">夜</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0477 · moon</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0002 · moon</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -38,7 +38,7 @@
         <path d="M13 22H7a5 5 0 1 1 4.9-6H13a3 3 0 0 1 0 6Z" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">晴れ時々曇り</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0478 · cloud-sun</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0003 · cloud-sun</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -46,7 +46,7 @@
         <path d="M17.5 19H9a7 7 0 1 1 6.71-9h1.79a4.5 4.5 0 1 1 0 9Z" stroke="#0284C7" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">曇り</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0479 · cloud</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0004 · cloud</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -57,7 +57,7 @@
         <path d="M12 16v6" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">雨</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0480 · cloud-rain</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0005 · cloud-rain</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -71,7 +71,7 @@
         <path d="M16 19h.01" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">雪</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0481 · cloud-snow</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0006 · cloud-snow</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -80,7 +80,7 @@
         <path d="m13 12-3 5h4l-3 5" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">雷雨</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0482 · cloud-lightning</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0007 · cloud-lightning</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -90,7 +90,7 @@
         <path d="M9.8 4.4A2 2 0 1 1 11 8H2" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">風</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0483 · wind</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0008 · wind</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -100,7 +100,7 @@
         <path d="M20.992 13a1 1 0 0 0 .97-1.274 10.284 10.284 0 0 0-19.923 0A1 1 0 0 0 3 13z" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">傘</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0484 · umbrella</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0009 · umbrella</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -119,7 +119,7 @@
         <path d="m7 3 3 6h4" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">雪の結晶</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0485 · snowflake</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0010 · snowflake</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -128,7 +128,7 @@
         <path d="M12.56 6.6A10.97 10.97 0 0 0 14 3.02c.5 2.5 2 4.9 4 6.5s3 3.5 3 5.5a6.98 6.98 0 0 1-11.91 4.97" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">水滴</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0486 · droplets</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0011 · droplets</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -138,7 +138,7 @@
         <path d="M2 18c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">波</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0487 · waves</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0012 · waves</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -146,7 +146,7 @@
         <path d="M12 3q1 4 4 6.5t3 5.5a1 1 0 0 1-14 0 5 5 0 0 1 1-3 1 1 0 0 0 5 0c0-2-1.5-3-1.5-5q0-2 2.5-4" stroke="#0284C7" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">火</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0488 · flame</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0013 · flame</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -155,7 +155,7 @@
         <path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">葉</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0489 · leaf</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0014 · leaf</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -165,7 +165,7 @@
         <path d="M5 21h14" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">芽</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0490 · sprout</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0015 · sprout</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -174,7 +174,7 @@
         <path d="M12 22v-3" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">木</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0491 · tree-pine</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0016 · tree-pine</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -186,7 +186,7 @@
         <path d="M12 22c-4.2 0-7-1.667-7-5 4.2 0 7 1.667 7 5Z" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">花</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0492 · flower-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0017 · flower-2</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -196,7 +196,7 @@
         <path d="M10 17a2 2 0 0 1 4 0" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">虹</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0493 · rainbow</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0018 · rainbow</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -208,7 +208,7 @@
         <path d="M11 20H9" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">竜巻</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0494 · tornado</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0019 · tornado</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -218,7 +218,7 @@
         <path d="M17 21H9" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">霧</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0495 · cloud-fog</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0020 · cloud-fog</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -231,7 +231,7 @@
         <path d="m6.34 17.66-1.41 1.41" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">高温</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0496 · thermometer-sun</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0021 · thermometer-sun</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -246,7 +246,7 @@
         <path d="m7 3 3 6h2" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">低温</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0497 · thermometer-snowflake</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0022 · thermometer-snowflake</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -261,7 +261,7 @@
         <path d="M7 19v2" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">天気雨</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0498 · cloud-sun-rain</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0023 · cloud-sun-rain</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -270,7 +270,7 @@
         <path d="M18.376 14.512a6 6 0 0 0 3.461-4.127c.148-.625-.659-.97-1.248-.714a4 4 0 0 1-5.259-5.26c.255-.589-.09-1.395-.716-1.248a6 6 0 0 0-4.594 5.36" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">夜の曇り</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0499 · cloud-moon</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0024 · cloud-moon</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -285,6 +285,6 @@
         <path d="M16 18a4 4 0 0 0-8 0" stroke="#F59E0B" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">日の出</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0500 · sunrise</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-WTH-0025 · sunrise</text>
     </g>
 </svg>

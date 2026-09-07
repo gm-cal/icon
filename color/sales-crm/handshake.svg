@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0779-color-title uui-0779-color-desc" data-icon-id="UUI-0779" data-icon-name="handshake" data-icon-variant="color" data-icon-category="sales-crm">
-  <title id="uui-0779-color-title" xml:lang="ja">商談成立</title>
-  <desc id="uui-0779-color-desc" xml:lang="ja">「商談成立」を表す汎用UIアイコン。営業と顧客管理に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-crm-0001-color-title uui-crm-0001-color-desc" data-icon-id="UUI-CRM-0001" data-icon-legacy-id="UUI-0779" data-icon-name="handshake" data-icon-variant="color" data-icon-category="sales-crm" data-icon-category-code="CRM">
+  <title id="uui-crm-0001-color-title" xml:lang="ja">商談成立</title>
+  <desc id="uui-crm-0001-color-desc" xml:lang="ja">「商談成立」を表す汎用UIアイコン。営業と顧客管理に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0779" slug="handshake" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-CRM-0001" legacyId="UUI-0779" slug="handshake" variant="color">
       <uui:name xml:lang="ja">商談成立</uui:name>
       <uui:name xml:lang="en">Handshake</uui:name>
       <uui:description xml:lang="ja">「商談成立」を表す汎用UIアイコン。営業と顧客管理に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Handshake” in sales and crm contexts.</uui:description>
-      <uui:category id="sales-crm" xml:lang="ja">営業と顧客管理</uui:category>
-      <uui:category id="sales-crm" xml:lang="en">Sales and CRM</uui:category>
+      <uui:category id="sales-crm" code="CRM" xml:lang="ja">営業と顧客管理</uui:category>
+      <uui:category id="sales-crm" code="CRM" xml:lang="en">Sales and CRM</uui:category>
       <uui:keywords xml:lang="ja">商談成立, 営業と顧客管理, handshake</uui:keywords>
       <uui:keywords xml:lang="en">Handshake, Sales and CRM, handshake</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

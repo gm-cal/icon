@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0505-color-title uui-0505-color-desc" data-icon-id="UUI-0505" data-icon-name="file-braces-corner" data-icon-variant="color" data-icon-category="code-editing">
-  <title id="uui-0505-color-title" xml:lang="ja">コード定義ファイル</title>
-  <desc id="uui-0505-color-desc" xml:lang="ja">「コード定義ファイル」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-cde-0002-color-title uui-cde-0002-color-desc" data-icon-id="UUI-CDE-0002" data-icon-legacy-id="UUI-0505" data-icon-name="file-braces-corner" data-icon-variant="color" data-icon-category="code-editing" data-icon-category-code="CDE">
+  <title id="uui-cde-0002-color-title" xml:lang="ja">コード定義ファイル</title>
+  <desc id="uui-cde-0002-color-desc" xml:lang="ja">「コード定義ファイル」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="2.0.0" id="UUI-0505" slug="file-braces-corner" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-CDE-0002" legacyId="UUI-0505" slug="file-braces-corner" variant="color">
       <uui:name xml:lang="ja">コード定義ファイル</uui:name>
       <uui:name xml:lang="en">File Braces Corner</uui:name>
       <uui:description xml:lang="ja">「コード定義ファイル」を表す汎用UIアイコン。コード編集に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “File Braces Corner” in code editing contexts.</uui:description>
-      <uui:category id="code-editing" xml:lang="ja">コード編集</uui:category>
-      <uui:category id="code-editing" xml:lang="en">Code editing</uui:category>
+      <uui:category id="code-editing" code="CDE" xml:lang="ja">コード編集</uui:category>
+      <uui:category id="code-editing" code="CDE" xml:lang="en">Code editing</uui:category>
       <uui:keywords xml:lang="ja">コード定義ファイル, コード編集, file, braces, corner</uui:keywords>
       <uui:keywords xml:lang="en">File Braces Corner, Code editing, file, braces, corner</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0438-monochrome-title uui-0438-monochrome-desc" data-icon-id="UUI-0438" data-icon-name="armchair" data-icon-variant="monochrome" data-icon-category="facilities">
-  <title id="uui-0438-monochrome-title" xml:lang="ja">椅子</title>
-  <desc id="uui-0438-monochrome-desc" xml:lang="ja">「椅子」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-fac-0013-monochrome-title uui-fac-0013-monochrome-desc" data-icon-id="UUI-FAC-0013" data-icon-legacy-id="UUI-0438" data-icon-name="armchair" data-icon-variant="monochrome" data-icon-category="facilities" data-icon-category-code="FAC">
+  <title id="uui-fac-0013-monochrome-title" xml:lang="ja">椅子</title>
+  <desc id="uui-fac-0013-monochrome-desc" xml:lang="ja">「椅子」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0438" slug="armchair" variant="monochrome">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-FAC-0013" legacyId="UUI-0438" slug="armchair" variant="monochrome">
       <uui:name xml:lang="ja">椅子</uui:name>
       <uui:name xml:lang="en">Armchair</uui:name>
       <uui:description xml:lang="ja">「椅子」を表す汎用UIアイコン。建物と生活設備に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Armchair” in buildings and facilities contexts.</uui:description>
-      <uui:category id="facilities" xml:lang="ja">建物と生活設備</uui:category>
-      <uui:category id="facilities" xml:lang="en">Buildings and facilities</uui:category>
+      <uui:category id="facilities" code="FAC" xml:lang="ja">建物と生活設備</uui:category>
+      <uui:category id="facilities" code="FAC" xml:lang="en">Buildings and facilities</uui:category>
       <uui:keywords xml:lang="ja">椅子, 建物と生活設備, armchair</uui:keywords>
       <uui:keywords xml:lang="en">Armchair, Buildings and facilities, armchair</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

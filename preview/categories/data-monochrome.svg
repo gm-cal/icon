@@ -12,7 +12,7 @@
         <path d="M7 6h3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">棒グラフ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0251 · chart-bar</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0001 · chart-bar</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -21,7 +21,7 @@
         <path d="m19 9-5 5-4-4-3 3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">折れ線グラフ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0252 · chart-line</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0002 · chart-line</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -30,7 +30,7 @@
         <path d="M21.21 15.89A10 10 0 1 1 8 2.83" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">円グラフ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0253 · chart-pie</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0003 · chart-pie</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -39,7 +39,7 @@
         <path d="M7 11.207a.5.5 0 0 1 .146-.353l2-2a.5.5 0 0 1 .708 0l3.292 3.292a.5.5 0 0 0 .708 0l4.292-4.292a.5.5 0 0 1 .854.353V16a1 1 0 0 1-1 1H8a1 1 0 0 1-1-1z" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">面グラフ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0254 · chart-area</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0004 · chart-area</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -49,7 +49,7 @@
         <path d="M19 21V3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">増加グラフ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0255 · chart-no-axes-column-increasing</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0005 · chart-no-axes-column-increasing</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -58,7 +58,7 @@
         <path d="m22 7-8.5 8.5-5-5L2 17" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">上昇傾向</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0256 · trending-up</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0006 · trending-up</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -67,7 +67,7 @@
         <path d="m22 17-8.5-8.5-5 5L2 7" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">下降傾向</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0257 · trending-down</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0007 · trending-down</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -75,7 +75,7 @@
         <path d="M22 12h-2.48a2 2 0 0 0-1.93 1.46l-2.35 8.36a.25.25 0 0 1-.48 0L9.24 2.18a.25.25 0 0 0-.48 0l-2.35 8.36A2 2 0 0 1 4.49 12H2" stroke="currentColor" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">活動量</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0258 · activity</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0008 · activity</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -84,7 +84,7 @@
         <path d="M3.34 19a10 10 0 1 1 17.32 0" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">計測値</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0259 · gauge</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0009 · gauge</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -94,7 +94,7 @@
         <path d="M3 12A9 3 0 0 0 21 12" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">データベース</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0260 · database</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0010 · database</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -107,7 +107,7 @@
         <path d="M13 20a5 5 0 0 0 9-3 4.5 4.5 0 0 0-4.5-4.5c-1.33 0-2.54.54-3.41 1.41L12 16" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">データバックアップ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0261 · database-backup</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0011 · database-backup</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -118,7 +118,7 @@
         <line x1="6" x2="6.01" y1="18" y2="18" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">サーバー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0262 · server</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0012 · server</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -137,7 +137,7 @@
         <path d="m9.228 13.148-.923.383" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">サーバー設定</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0263 · server-cog</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0013 · server-cog</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -148,7 +148,7 @@
         <path d="M6 16h.01" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ストレージ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0264 · hard-drive</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0014 · hard-drive</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -164,7 +164,7 @@
         <path d="m9.228 18.148-.923.383" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">クラウド設定</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0265 · cloud-cog</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0015 · cloud-cog</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -174,7 +174,7 @@
         <path d="m8 17 4-4 4 4" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">クラウドへ送信</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0266 · cloud-upload</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0016 · cloud-upload</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -184,7 +184,7 @@
         <path d="M4.393 15.269A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 2.436 8.284" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">クラウドから取得</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0267 · cloud-download</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0017 · cloud-download</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -196,7 +196,7 @@
         <path d="M12 12V8" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ネットワーク構造</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0268 · network</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0018 · network</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -206,7 +206,7 @@
         <rect width="8" height="8" x="13" y="13" rx="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ワークフロー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0269 · workflow</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0019 · workflow</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -216,7 +216,7 @@
         <circle cx="6" cy="18" r="3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">分岐</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0270 · git-branch</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0020 · git-branch</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -226,7 +226,7 @@
         <line x1="15" x2="21" y1="12" y2="12" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">変更点</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0271 · git-commit-horizontal</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0021 · git-commit-horizontal</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -236,7 +236,7 @@
         <path d="M6 21V9a9 9 0 0 0 9 9" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">統合</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0272 · git-merge</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0022 · git-merge</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -244,7 +244,7 @@
         <path d="M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2V9M9 21H5a2 2 0 0 1-2-2V9m0 0h18" stroke="currentColor" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">データ表</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0273 · table-2</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0023 · table-2</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -256,7 +256,7 @@
         <line x1="15" x2="15" y1="9" y2="21" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">シート</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0274 · sheet</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0024 · sheet</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -273,6 +273,6 @@
         <path d="M8 18h.01" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">計算</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0275 · calculator</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DAT-0025 · calculator</text>
     </g>
 </svg>

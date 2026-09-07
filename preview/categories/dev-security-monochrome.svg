@@ -18,7 +18,7 @@
         <circle cx="12.077" cy="11.695" r="3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">保護設定</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0654 · shield-cog</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0001 · shield-cog</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -35,7 +35,7 @@
         <circle cx="17.695" cy="17.695" r="3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">部分保護設定</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0655 · shield-cog-corner</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0002 · shield-cog-corner</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -46,7 +46,7 @@
         <path d="M16 12h.01" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">保護処理中</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0656 · shield-ellipsis</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0003 · shield-ellipsis</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -55,7 +55,7 @@
         <path d="M12 22V2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">部分保護</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0657 · shield-half</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0004 · shield-half</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -65,7 +65,7 @@
         <path d="M9.309 3.652A12.252 12.252 0 0 0 11.24 2.28a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1v7a9.784 9.784 0 0 1-.08 1.264" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">保護無効</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0658 · shield-off</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0005 · shield-off</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -75,7 +75,7 @@
         <circle cx="12" cy="11" r="4" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーザー保護</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0659 · shield-user</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0006 · shield-user</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -90,7 +90,7 @@
         <path d="M8 3v6" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ファイアウォール</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0660 · brick-wall</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0007 · brick-wall</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -104,7 +104,7 @@
         <path d="M8 3v6" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ファイアウォール警告</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0661 · brick-wall-fire</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0008 · brick-wall-fire</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -119,7 +119,7 @@
         <path d="M8 3v6" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">防御壁</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0662 · brick-wall-shield</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0009 · brick-wall-shield</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -131,7 +131,7 @@
         <rect x="14" y="17" width="8" height="5" rx="1" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">施錠済み入口</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0663 · door-closed-locked</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0010 · door-closed-locked</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -144,7 +144,7 @@
         <rect width="8" height="5" x="14" y="6" rx="1" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">外部ネットワーク保護</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0664 · earth-lock</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0011 · earth-lock</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -155,7 +155,7 @@
         <rect width="8" height="5" x="14" y="6" rx="1" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">Webアクセス保護</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0665 · globe-lock</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0012 · globe-lock</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -167,7 +167,7 @@
         <circle cx="4" cy="20" r="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">鍵付きファイル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0666 · file-key</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0013 · file-key</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -178,7 +178,7 @@
         <circle cx="19" cy="20" r="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">鍵付きフォルダー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0667 · folder-key</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0014 · folder-key</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -188,7 +188,7 @@
         <path d="M20 17v-2a2 2 0 1 0-4 0v2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">保護フォルダー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0668 · folder-lock</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0015 · folder-lock</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -198,7 +198,7 @@
         <rect x="14" y="15" width="8" height="5" rx="1" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">暗号化メッセージ</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0669 · message-square-lock</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0016 · message-square-lock</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -210,7 +210,7 @@
         <circle cx="12" cy="15" r="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">鍵をローテーション</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0670 · rotate-ccw-key</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0017 · rotate-ccw-key</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -222,7 +222,7 @@
         <circle cx="20" cy="19" r="2" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーザーキー</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0671 · user-key</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0018 · user-key</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -233,7 +233,7 @@
         <rect x="13" y="16" width="8" height="5" rx=".899" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">ユーザーロック</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0672 · user-lock</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0019 · user-lock</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -243,7 +243,7 @@
         <path d="M7 10V7a5 5 0 0 1 10 0v3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">キーホールロック</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0673 · lock-keyhole</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0020 · lock-keyhole</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -253,7 +253,7 @@
         <path d="M7 10V7a5 5 0 0 1 9.33-2.5" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">キーホール解除</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0674 · lock-keyhole-open</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0021 · lock-keyhole-open</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -262,7 +262,7 @@
         <path d="M3 21h18" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">電子署名</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0675 · signature</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0022 · signature</text>
     </g>
     <g transform="translate(336 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -279,7 +279,7 @@
         <path d="M8 12h.01" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">入力禁止</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0676 · keyboard-off</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0023 · keyboard-off</text>
     </g>
     <g transform="translate(504 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -290,7 +290,7 @@
         <circle cx="6" cy="14" r="3" stroke="currentColor" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">認証付きファイル</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0677 · file-badge</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0024 · file-badge</text>
     </g>
     <g transform="translate(672 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -298,6 +298,6 @@
         <path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" stroke="currentColor" data-uui-role="primary"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">資格情報</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0678 · badge</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-DVS-0025 · badge</text>
     </g>
 </svg>

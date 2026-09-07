@@ -13,7 +13,7 @@
         <path d="M7 21h10" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">法的均衡</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0979 · scale</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0001 · scale</text>
     </g>
     <g transform="translate(168 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -25,7 +25,7 @@
         <path d="m8.5 7.5 8 8" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">法的判断</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0980 · gavel</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0002 · gavel</text>
     </g>
     <g transform="translate(336 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -35,7 +35,7 @@
         <path d="M5 22h14" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">承認印</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0981 · stamp</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0003 · stamp</text>
     </g>
     <g transform="translate(504 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -46,7 +46,7 @@
         <path d="M8 21h12a2 2 0 0 0 2-2v-1a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1v1a2 2 0 1 1-4 0V5a2 2 0 1 0-4 0v2a1 1 0 0 0 1 1h3" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">規約文書</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0982 · scroll-text</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0004 · scroll-text</text>
     </g>
     <g transform="translate(672 76)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -55,7 +55,7 @@
         <path d="M8 21h12a2 2 0 0 0 2-2v-1a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1v1a2 2 0 1 1-4 0V5a2 2 0 1 0-4 0v2a1 1 0 0 0 1 1h3" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">証書</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0983 · scroll</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0005 · scroll</text>
     </g>
     <g transform="translate(0 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -64,7 +64,7 @@
         <path d="M14.83 14.83a4 4 0 1 1 0-5.66" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">著作権</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0984 · copyright</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0006 · copyright</text>
     </g>
     <g transform="translate(168 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -73,7 +73,7 @@
         <path d="M9.17 14.83a4 4 0 1 0 0-5.66" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">コピーレフト</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0985 · copyleft</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0007 · copyleft</text>
     </g>
     <g transform="translate(336 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -82,7 +82,7 @@
         <path d="m9 9.5 2 2 4-4" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">確認済み規程</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0986 · book-check</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0008 · book-check</text>
     </g>
     <g transform="translate(504 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -93,7 +93,7 @@
         <rect x="12" y="6" width="8" height="5" rx="1" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">機密規程</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0987 · book-lock</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0009 · book-lock</text>
     </g>
     <g transform="translate(672 208)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -105,7 +105,7 @@
         <circle cx="17" cy="10" r="2" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">アクセス制限規程</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0988 · book-key</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0010 · book-key</text>
     </g>
     <g transform="translate(0 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -115,7 +115,7 @@
         <path d="m9.5 7 5 5" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">廃止規程</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0989 · book-x</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0011 · book-x</text>
     </g>
     <g transform="translate(168 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -125,7 +125,7 @@
         <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">注意規程</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0990 · book-alert</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0012 · book-alert</text>
     </g>
     <g transform="translate(336 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -134,7 +134,7 @@
         <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">重要規程</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0991 · book-marked</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0013 · book-marked</text>
     </g>
     <g transform="translate(504 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -143,7 +143,7 @@
         <path d="m9 10 2 2 4-4" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">確認済み条項</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0992 · bookmark-check</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0014 · bookmark-check</text>
     </g>
     <g transform="translate(672 340)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -152,7 +152,7 @@
         <path d="M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">条項削除</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0993 · bookmark-minus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0015 · bookmark-minus</text>
     </g>
     <g transform="translate(0 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -162,7 +162,7 @@
         <path d="M8.656 3H17a2 2 0 0 1 2 2v8.344" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">条項無効</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0994 · bookmark-off</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0016 · bookmark-off</text>
     </g>
     <g transform="translate(168 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -172,7 +172,7 @@
         <path d="M17 3a2 2 0 0 1 2 2v15a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5a2 2 0 0 1 2-2z" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">条項追加</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0995 · bookmark-plus</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0017 · bookmark-plus</text>
     </g>
     <g transform="translate(336 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -182,7 +182,7 @@
         <path d="m9.5 7.5 5 5" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">条項取消</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0996 · bookmark-x</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0018 · bookmark-x</text>
     </g>
     <g transform="translate(504 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -197,7 +197,7 @@
         <path d="M9.5 16H14" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">監査記録</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0997 · notebook-text</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0019 · notebook-text</text>
     </g>
     <g transform="translate(672 472)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -208,7 +208,7 @@
         <path d="m11 8 2.3-2.3a2.4 2.4 0 0 1 3.404.004L18.6 7.6a2.4 2.4 0 0 1 .026 3.434L9.9 19.8" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">標準集</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0998 · swatch-book</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0020 · swatch-book</text>
     </g>
     <g transform="translate(0 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -218,7 +218,7 @@
         <path d="M9 15V4a2 2 0 0 1 2-2h9.5a.5.5 0 0 1 .5.5v14a.5.5 0 0 1-.5.5H11a2 2 0 0 1 0-4h10" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">規程複製</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-0999 · book-copy</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0021 · book-copy</text>
     </g>
     <g transform="translate(168 604)">
       <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
@@ -230,6 +230,6 @@
         <rect x="2" y="16" width="4" height="6" rx="2" stroke="#78716C" data-uui-role="accent"/>
       </g>
       <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">番号付き法務文書</text>
-      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-1000 · file-digit</text>
+      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">UUI-LGL-0022 · file-digit</text>
     </g>
 </svg>

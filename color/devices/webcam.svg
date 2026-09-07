@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0365-color-title uui-0365-color-desc" data-icon-id="UUI-0365" data-icon-name="webcam" data-icon-variant="color" data-icon-category="devices">
-  <title id="uui-0365-color-title" xml:lang="ja">Webカメラ</title>
-  <desc id="uui-0365-color-desc" xml:lang="ja">「Webカメラ」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-dvc-0015-color-title uui-dvc-0015-color-desc" data-icon-id="UUI-DVC-0015" data-icon-legacy-id="UUI-0365" data-icon-name="webcam" data-icon-variant="color" data-icon-category="devices" data-icon-category-code="DVC">
+  <title id="uui-dvc-0015-color-title" xml:lang="ja">Webカメラ</title>
+  <desc id="uui-dvc-0015-color-desc" xml:lang="ja">「Webカメラ」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0365" slug="webcam" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-DVC-0015" legacyId="UUI-0365" slug="webcam" variant="color">
       <uui:name xml:lang="ja">Webカメラ</uui:name>
       <uui:name xml:lang="en">Webcam</uui:name>
       <uui:description xml:lang="ja">「Webカメラ」を表す汎用UIアイコン。機器と接続に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Webcam” in devices and connectivity contexts.</uui:description>
-      <uui:category id="devices" xml:lang="ja">機器と接続</uui:category>
-      <uui:category id="devices" xml:lang="en">Devices and connectivity</uui:category>
+      <uui:category id="devices" code="DVC" xml:lang="ja">機器と接続</uui:category>
+      <uui:category id="devices" code="DVC" xml:lang="en">Devices and connectivity</uui:category>
       <uui:keywords xml:lang="ja">Webカメラ, 機器と接続, webcam</uui:keywords>
       <uui:keywords xml:lang="en">Webcam, Devices and connectivity, webcam</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>

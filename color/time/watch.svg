@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-0224-color-title uui-0224-color-desc" data-icon-id="UUI-0224" data-icon-name="watch" data-icon-variant="color" data-icon-category="time">
-  <title id="uui-0224-color-title" xml:lang="ja">腕時計</title>
-  <desc id="uui-0224-color-desc" xml:lang="ja">「腕時計」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-tim-0024-color-title uui-tim-0024-color-desc" data-icon-id="UUI-TIM-0024" data-icon-legacy-id="UUI-0224" data-icon-name="watch" data-icon-variant="color" data-icon-category="time" data-icon-category-code="TIM">
+  <title id="uui-tim-0024-color-title" xml:lang="ja">腕時計</title>
+  <desc id="uui-tim-0024-color-desc" xml:lang="ja">「腕時計」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</desc>
   <metadata id="uui-metadata">
-    <uui:icon schemaVersion="1.0" libraryVersion="1.0.0" id="UUI-0224" slug="watch" variant="color">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-TIM-0024" legacyId="UUI-0224" slug="watch" variant="color">
       <uui:name xml:lang="ja">腕時計</uui:name>
       <uui:name xml:lang="en">Watch</uui:name>
       <uui:description xml:lang="ja">「腕時計」を表す汎用UIアイコン。日時と履歴に関する操作または状態表示に使用する。</uui:description>
       <uui:description xml:lang="en">Universal UI icon representing “Watch” in date and time contexts.</uui:description>
-      <uui:category id="time" xml:lang="ja">日時と履歴</uui:category>
-      <uui:category id="time" xml:lang="en">Date and time</uui:category>
+      <uui:category id="time" code="TIM" xml:lang="ja">日時と履歴</uui:category>
+      <uui:category id="time" code="TIM" xml:lang="en">Date and time</uui:category>
       <uui:keywords xml:lang="ja">腕時計, 日時と履歴, watch</uui:keywords>
       <uui:keywords xml:lang="en">Watch, Date and time, watch</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
