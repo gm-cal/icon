@@ -18,7 +18,7 @@
       <uui:contexts>button toolbar menu status palette designer</uui:contexts>
       <uui:pair variant="monochrome" href="../../monochrome/ui-components/ui-radio-unselected.svg"/>
       <uui:palette primary="#1D4ED8" accent="#0EA5E9" secondary="#7DD3FC"/>
-      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="52048da1c9301e01dc4fd3a1c1fffc279530f620b800136b0778b52d2ad7bb66"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="cf5696746833450fd1a32420c9d40da0f1b383a305232f54a35f24e9b02ae822"/>
       <uui:source project="Universal UI Icons" version="3.0.0" license="Project" modified="true"/>
     </uui:icon>
   </metadata>
