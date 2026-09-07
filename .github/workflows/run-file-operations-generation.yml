@@ -1,0 +1,85 @@
+name: Run file operations generation
+
+on:
+  push:
+    branches:
+      - feature/file-operations-category
+    paths:
+      - '.github/workflows/run-file-operations-generation.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: feature/file-operations-category
+
+      - name: Execute generator steps from canonical one-shot workflow
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          src = Path('.github/workflows/add-file-operations.yml').read_text(encoding='utf-8').splitlines()
+          wanted = [
+              'Add file operation renderer',
+              'Add category AGENTS files',
+              'Generate category, icons, catalog, sprites and previews',
+          ]
+          for n, name in enumerate(wanted, 1):
+              marker = f'- name: {name}'
+              start = next((i for i, line in enumerate(src) if line.strip() == marker), None)
+              if start is None:
+                  raise SystemExit(f'step not found: {name}')
+              run_line = next((i for i in range(start + 1, len(src)) if src[i].strip() == 'run: |'), None)
+              if run_line is None:
+                  raise SystemExit(f'run block not found: {name}')
+              body = []
+              for line in src[run_line + 1:]:
+                  if line.startswith('      - name:'):
+                      break
+                  if line.startswith('          '):
+                      body.append(line[10:])
+                  elif not line.strip():
+                      body.append('')
+                  else:
+                      raise SystemExit(f'unexpected indentation in {name}: {line!r}')
+              Path(f'/tmp/file-op-step-{n}.sh').write_text('\n'.join(body) + '\n', encoding='utf-8')
+          PY
+          bash /tmp/file-op-step-1.sh
+          bash /tmp/file-op-step-2.sh
+          bash /tmp/file-op-step-3.sh
+
+      - name: Validate repository consistency
+        run: node tools/validate.mjs
+
+      - name: Verify distribution checksums
+        run: sha256sum -c SHA256SUMS
+
+      - name: Smoke-test replaceable labels
+        shell: bash
+        run: |
+          node tools/render-file-operation.mjs convert XLSX CSV color /tmp/xlsx-to-csv.svg
+          grep -q '>XLSX</text>' /tmp/xlsx-to-csv.svg
+          grep -q '>CSV</text>' /tmp/xlsx-to-csv.svg
+          node tools/render-file-operation.mjs split PDF PDF monochrome /tmp/pdf-split.svg
+          grep -q 'data-uui-label-slot="source"' /tmp/pdf-split.svg
+          grep -q '>PDF</text>' /tmp/pdf-split.svg
+          node tools/render-file-operation.mjs merge CSV XLSX color /tmp/csv-merge-xlsx.svg
+          grep -q 'data-uui-label-slot="target"' /tmp/csv-merge-xlsx.svg
+          grep -q '>XLSX</text>' /tmp/csv-merge-xlsx.svg
+
+      - name: Commit generated artifacts only
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md SHA256SUMS docs/CATEGORY-CODES.md catalog/catalog-v1.json catalog/catalog-v1.csv \
+            color/file-operations monochrome/file-operations \
+            preview/categories/file-operations-color.svg preview/categories/file-operations-monochrome.svg \
+            preview/index.html sprites/color.svg sprites/monochrome.svg tools/render-file-operation.mjs
+          git commit -m "Add templated file operations icon category"
+          git push origin HEAD:feature/file-operations-category
