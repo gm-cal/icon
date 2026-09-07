@@ -51429,8 +51429,8 @@
         "en": "UI Checkbox Unchecked"
       },
       "description": {
-        "ja": "「未選択チェックボックス」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。",
-        "en": "Universal UI icon representing “UI Checkbox Unchecked” in ui components contexts."
+        "ja": "複数の未選択項目を並べたチェックボックスUIを表す。画面へ配置するUI部品の選択アイコンとして使用できる。",
+        "en": "Checkbox interface with multiple unchecked items, suitable for UI component palettes."
       },
       "category": {
         "id": "ui-components",
@@ -51444,14 +51444,18 @@
           "UI部品",
           "ui",
           "checkbox",
-          "unchecked"
+          "unchecked",
+          "group",
+          "palette"
         ],
         "en": [
           "UI Checkbox Unchecked",
           "UI components",
           "ui",
           "checkbox",
-          "unchecked"
+          "unchecked",
+          "group",
+          "palette"
         ]
       },
       "palette": {
@@ -51459,7 +51463,7 @@
         "accent": "#0EA5E9",
         "secondary": "#7DD3FC"
       },
-      "geometrySha256": "11aef668ce997fd5839a4f365dcadd34691c570d163bf1d9bb73a5a502c1a76f",
+      "geometrySha256": "3b6d375abc0cd5d41a22c080e45e36f0d26effd426f1d5a212748da97e39f0e4",
       "files": {
         "color": "color/ui-components/ui-checkbox-unchecked.svg",
         "monochrome": "monochrome/ui-components/ui-checkbox-unchecked.svg"
@@ -51481,8 +51485,8 @@
         "en": "UI Checkbox Checked"
       },
       "description": {
-        "ja": "「選択済みチェックボックス」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。",
-        "en": "Universal UI icon representing “UI Checkbox Checked” in ui components contexts."
+        "ja": "複数の選択肢を並べ、1項目を選択したチェックボックスUIを表す。画面へ配置するUI部品の選択アイコンとして使用できる。",
+        "en": "Checkbox interface with multiple items and one checked item, suitable for UI component palettes."
       },
       "category": {
         "id": "ui-components",
@@ -51496,14 +51500,18 @@
           "UI部品",
           "ui",
           "checkbox",
-          "checked"
+          "checked",
+          "group",
+          "palette"
         ],
         "en": [
           "UI Checkbox Checked",
           "UI components",
           "ui",
           "checkbox",
-          "checked"
+          "checked",
+          "group",
+          "palette"
         ]
       },
       "palette": {
@@ -51511,7 +51519,7 @@
         "accent": "#0EA5E9",
         "secondary": "#7DD3FC"
       },
-      "geometrySha256": "b1c766bf842fb9d5f21c3e3d4e91ca38884ec5e2ec064984034b7120d2c29e9f",
+      "geometrySha256": "ec6d4ff418f2052a884f63867f99a1635367d82532fd96eb2a54573bb6bee680",
       "files": {
         "color": "color/ui-components/ui-checkbox-checked.svg",
         "monochrome": "monochrome/ui-components/ui-checkbox-checked.svg"
@@ -51533,8 +51541,8 @@
         "en": "UI Checkbox Indeterminate"
       },
       "description": {
-        "ja": "「中間状態チェックボックス」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。",
-        "en": "Universal UI icon representing “UI Checkbox Indeterminate” in ui components contexts."
+        "ja": "複数の選択肢を並べ、1項目を中間状態にしたチェックボックスUIを表す。画面へ配置するUI部品の選択アイコンとして使用できる。",
+        "en": "Checkbox interface with multiple items and one indeterminate item, suitable for UI component palettes."
       },
       "category": {
         "id": "ui-components",
@@ -51548,14 +51556,18 @@
           "UI部品",
           "ui",
           "checkbox",
-          "indeterminate"
+          "indeterminate",
+          "group",
+          "palette"
         ],
         "en": [
           "UI Checkbox Indeterminate",
           "UI components",
           "ui",
           "checkbox",
-          "indeterminate"
+          "indeterminate",
+          "group",
+          "palette"
         ]
       },
       "palette": {
@@ -51563,7 +51575,7 @@
         "accent": "#0EA5E9",
         "secondary": "#7DD3FC"
       },
-      "geometrySha256": "27df4e0cc0e3d4d20d2e57ca25c36f4db3487e51bd9082ac936e99801a0f50d0",
+      "geometrySha256": "d8c578cd6d61de9b3a9666dc32034041d95735f6a5fd37155edb045972f987a0",
       "files": {
         "color": "color/ui-components/ui-checkbox-indeterminate.svg",
         "monochrome": "monochrome/ui-components/ui-checkbox-indeterminate.svg"
@@ -51585,8 +51597,8 @@
         "en": "UI Radio Unselected"
       },
       "description": {
-        "ja": "「未選択ラジオボタン」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。",
-        "en": "Universal UI icon representing “UI Radio Unselected” in ui components contexts."
+        "ja": "複数の未選択項目を並べたラジオボタンUIを表す。画面へ配置するUI部品の選択アイコンとして使用できる。",
+        "en": "Radio-button interface with multiple unselected options, suitable for UI component palettes."
       },
       "category": {
         "id": "ui-components",
@@ -51600,14 +51612,18 @@
           "UI部品",
           "ui",
           "radio",
-          "unselected"
+          "unselected",
+          "group",
+          "palette"
         ],
         "en": [
           "UI Radio Unselected",
           "UI components",
           "ui",
           "radio",
-          "unselected"
+          "unselected",
+          "group",
+          "palette"
         ]
       },
       "palette": {
@@ -51615,7 +51631,7 @@
         "accent": "#0EA5E9",
         "secondary": "#7DD3FC"
       },
-      "geometrySha256": "52048da1c9301e01dc4fd3a1c1fffc279530f620b800136b0778b52d2ad7bb66",
+      "geometrySha256": "cf5696746833450fd1a32420c9d40da0f1b383a305232f54a35f24e9b02ae822",
       "files": {
         "color": "color/ui-components/ui-radio-unselected.svg",
         "monochrome": "monochrome/ui-components/ui-radio-unselected.svg"
@@ -51637,8 +51653,8 @@
         "en": "UI Radio Selected"
       },
       "description": {
-        "ja": "「選択済みラジオボタン」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。",
-        "en": "Universal UI icon representing “UI Radio Selected” in ui components contexts."
+        "ja": "複数の選択肢を並べ、1項目を選択したラジオボタンUIを表す。画面へ配置するUI部品の選択アイコンとして使用できる。",
+        "en": "Radio-button interface with multiple options and one selected item, suitable for UI component palettes."
       },
       "category": {
         "id": "ui-components",
@@ -51652,14 +51668,18 @@
           "UI部品",
           "ui",
           "radio",
-          "selected"
+          "selected",
+          "group",
+          "palette"
         ],
         "en": [
           "UI Radio Selected",
           "UI components",
           "ui",
           "radio",
-          "selected"
+          "selected",
+          "group",
+          "palette"
         ]
       },
       "palette": {
@@ -51667,7 +51687,7 @@
         "accent": "#0EA5E9",
         "secondary": "#7DD3FC"
       },
-      "geometrySha256": "330bd75d8394d37a6ca9631b03a389c2443fb8ae4f771dcc3c0ca7f916f6be17",
+      "geometrySha256": "fdde90fef4693f6ab6ea3929cb000442255e95bc822a2291872bc75e38373e72",
       "files": {
         "color": "color/ui-components/ui-radio-selected.svg",
         "monochrome": "monochrome/ui-components/ui-radio-selected.svg"
