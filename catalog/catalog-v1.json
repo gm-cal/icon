@@ -25644,8 +25644,8 @@
         "en": "snake_case"
       },
       "description": {
-        "ja": "「snake_case」を表す汎用UIアイコン。命名規則に関する操作または状態表示に使用する。",
-        "en": "Universal UI icon representing “snake_case” in naming conventions contexts."
+        "ja": "S字にくねる蛇とアンダースコアで「snake_case」を直感的に表す命名規則アイコン。",
+        "en": "Naming-convention icon representing snake_case with an S-shaped snake and underscore."
       },
       "category": {
         "id": "naming-conventions",
@@ -25658,12 +25658,16 @@
           "snake_case",
           "命名規則",
           "snake",
+          "蛇",
+          "underscore",
+          "アンダースコア",
           "case"
         ],
         "en": [
           "snake_case",
           "Naming conventions",
           "snake",
+          "underscore",
           "case"
         ]
       },
@@ -25672,7 +25676,7 @@
         "accent": "#22C55E",
         "secondary": "#86EFAC"
       },
-      "geometrySha256": "7ec5991ba79c5618a08486f2dc3000053218c58177b2a5c10508f2b3b34f7e61",
+      "geometrySha256": "e9408b27652c75818e921c0d7f7906eac1fdf2c0932a494f047e888e14376147",
       "files": {
         "color": "color/naming-conventions/snake-case.svg",
         "monochrome": "monochrome/naming-conventions/snake-case.svg"
@@ -25695,8 +25699,8 @@
         "en": "UpperCamel"
       },
       "description": {
-        "ja": "「UpperCamel」を表す汎用UIアイコン。命名規則に関する操作または状態表示に使用する。",
-        "en": "Universal UI icon representing “UpperCamel” in naming conventions contexts."
+        "ja": "2つのこぶを持つラクダと左下の大文字Aで「UpperCamel」を直感的に表す命名規則アイコン。",
+        "en": "Naming-convention icon representing UpperCamel with a two-hump camel and a capital A at lower left."
       },
       "category": {
         "id": "naming-conventions",
@@ -25710,6 +25714,10 @@
           "命名規則",
           "upper",
           "camel",
+          "ラクダ",
+          "2こぶ",
+          "大文字",
+          "A",
           "case"
         ],
         "en": [
@@ -25717,6 +25725,9 @@
           "Naming conventions",
           "upper",
           "camel",
+          "two-hump",
+          "capital",
+          "A",
           "case"
         ]
       },
@@ -25725,7 +25736,7 @@
         "accent": "#D97706",
         "secondary": "#FBBF24"
       },
-      "geometrySha256": "c09ef4ed3365b545b5cdcf5dc7535577971043c6bc1f1965bccd11bba4cd02b1",
+      "geometrySha256": "f55edcd3420d7b36a9687e3603ecdb94d3b4bdc1d08db6db404e76f229d89248",
       "files": {
         "color": "color/naming-conventions/upper-camel-case.svg",
         "monochrome": "monochrome/naming-conventions/upper-camel-case.svg"
@@ -25748,8 +25759,8 @@
         "en": "lowerCamel"
       },
       "description": {
-        "ja": "「lowerCamel」を表す汎用UIアイコン。命名規則に関する操作または状態表示に使用する。",
-        "en": "Universal UI icon representing “lowerCamel” in naming conventions contexts."
+        "ja": "1つのこぶを持つラクダと左下の小文字aで「lowerCamel」を直感的に表す命名規則アイコン。",
+        "en": "Naming-convention icon representing lowerCamel with a one-hump camel and a lowercase a at lower left."
       },
       "category": {
         "id": "naming-conventions",
@@ -25763,6 +25774,10 @@
           "命名規則",
           "lower",
           "camel",
+          "ラクダ",
+          "1こぶ",
+          "小文字",
+          "a",
           "case"
         ],
         "en": [
@@ -25770,6 +25785,9 @@
           "Naming conventions",
           "lower",
           "camel",
+          "one-hump",
+          "lowercase",
+          "a",
           "case"
         ]
       },
@@ -25778,7 +25796,7 @@
         "accent": "#D97706",
         "secondary": "#FBBF24"
       },
-      "geometrySha256": "c2cd23bb07d6adccac6de87e1f485979e6af1870932336981eb311c9b71215a4",
+      "geometrySha256": "e3863517163b73b35025c11da406ef827f2f2065b6282c0d85d3aa4b0c816046",
       "files": {
         "color": "color/naming-conventions/lower-camel-case.svg",
         "monochrome": "monochrome/naming-conventions/lower-camel-case.svg"
