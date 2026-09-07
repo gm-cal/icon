@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-uic-0003-color-title uui-uic-0003-color-desc" data-icon-id="UUI-UIC-0003" data-icon-name="ui-checkbox-indeterminate" data-icon-variant="color" data-icon-category="ui-components" data-icon-category-code="UIC">
   <title id="uui-uic-0003-color-title" xml:lang="ja">中間状態チェックボックス</title>
-  <desc id="uui-uic-0003-color-desc" xml:lang="ja">「中間状態チェックボックス」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。</desc>
+  <desc id="uui-uic-0003-color-desc" xml:lang="ja">複数の選択肢を並べ、1項目を中間状態にしたチェックボックスUIを表す。画面へ配置するUI部品の選択アイコンとして使用できる。</desc>
   <metadata id="uui-metadata">
     <uui:icon schemaVersion="1.1" libraryVersion="3.0.0" id="UUI-UIC-0003" slug="ui-checkbox-indeterminate" variant="color">
       <uui:name xml:lang="ja">中間状態チェックボックス</uui:name>
       <uui:name xml:lang="en">UI Checkbox Indeterminate</uui:name>
-      <uui:description xml:lang="ja">「中間状態チェックボックス」を表す汎用UIアイコン。UI部品に関する操作または状態表示に使用する。</uui:description>
-      <uui:description xml:lang="en">Universal UI icon representing “UI Checkbox Indeterminate” in ui components contexts.</uui:description>
+      <uui:description xml:lang="ja">複数の選択肢を並べ、1項目を中間状態にしたチェックボックスUIを表す。画面へ配置するUI部品の選択アイコンとして使用できる。</uui:description>
+      <uui:description xml:lang="en">Checkbox interface with multiple items and one indeterminate item, suitable for UI component palettes.</uui:description>
       <uui:category id="ui-components" code="UIC" xml:lang="ja">UI部品</uui:category>
       <uui:category id="ui-components" code="UIC" xml:lang="en">UI components</uui:category>
-      <uui:keywords xml:lang="ja">中間状態チェックボックス, UI部品, ui, checkbox, indeterminate</uui:keywords>
-      <uui:keywords xml:lang="en">UI Checkbox Indeterminate, UI components, ui, checkbox, indeterminate</uui:keywords>
+      <uui:keywords xml:lang="ja">中間状態チェックボックス, UI部品, ui, checkbox, indeterminate, group, palette</uui:keywords>
+      <uui:keywords xml:lang="en">UI Checkbox Indeterminate, UI components, ui, checkbox, indeterminate, group, palette</uui:keywords>
       <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
       <uui:minimumSize unit="px">16</uui:minimumSize>
       <uui:opticalSize unit="px">24</uui:opticalSize>
-      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:contexts>button toolbar menu status palette designer</uui:contexts>
       <uui:pair variant="monochrome" href="../../monochrome/ui-components/ui-checkbox-indeterminate.svg"/>
       <uui:palette primary="#1D4ED8" accent="#0EA5E9" secondary="#7DD3FC"/>
       <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="27df4e0cc0e3d4d20d2e57ca25c36f4db3487e51bd9082ac936e99801a0f50d0"/>
-      <uui:source project="Universal UI Icons" version="3.0.0" license="Project" modified="false"/>
+      <uui:source project="Universal UI Icons" version="3.0.0" license="Project" modified="true"/>
     </uui:icon>
   </metadata>
   <g aria-hidden="true">
-    <rect x="3" y="3" width="18" height="18" rx="3" stroke="#1D4ED8" data-uui-role="primary"/>
-    <path d="M7.5 12h9" stroke="#0EA5E9" data-uui-role="accent"/>
+    <rect x="2.5" y="4" width="5" height="5" rx="1.2" stroke="#1D4ED8" data-uui-role="primary"/>
+    <rect x="2.5" y="15" width="5" height="5" rx="1.2" stroke="#1D4ED8" data-uui-role="primary"/>
+    <path d="M3.7 6.5h2.6" stroke="#0EA5E9" data-uui-role="accent"/>
+    <path d="M10.5 6.5h10M10.5 17.5h8" stroke="#1D4ED8" data-uui-role="primary"/>
   </g>
 </svg>
