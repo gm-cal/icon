@@ -18,7 +18,7 @@
       <uui:contexts>button toolbar menu status palette designer</uui:contexts>
       <uui:pair variant="monochrome" href="../../monochrome/ui-components/ui-checkbox-unchecked.svg"/>
       <uui:palette primary="#1D4ED8" accent="#0EA5E9" secondary="#7DD3FC"/>
-      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="11aef668ce997fd5839a4f365dcadd34691c570d163bf1d9bb73a5a502c1a76f"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3b6d375abc0cd5d41a22c080e45e36f0d26effd426f1d5a212748da97e39f0e4"/>
       <uui:source project="Universal UI Icons" version="3.0.0" license="Project" modified="true"/>
     </uui:icon>
   </metadata>
