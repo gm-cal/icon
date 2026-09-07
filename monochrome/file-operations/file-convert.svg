@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-fop-0001-monochrome-title uui-fop-0001-monochrome-desc" data-icon-id="UUI-FOP-0001" data-icon-name="file-convert" data-icon-variant="monochrome" data-icon-category="file-operations" data-icon-category-code="FOP" data-uui-template="file-operation" data-uui-operation="convert">
+  <title id="uui-fop-0001-monochrome-title" xml:lang="ja">ファイル変換</title>
+  <desc id="uui-fop-0001-monochrome-desc" xml:lang="ja">ファイル形式の変換を表すテンプレートアイコン。source/targetラベルを差し替えてXLSX→CSVなどを表現する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.1.0" id="UUI-FOP-0001" slug="file-convert" variant="monochrome">
+      <uui:name xml:lang="ja">ファイル変換</uui:name>
+      <uui:name xml:lang="en">File Convert</uui:name>
+      <uui:description xml:lang="ja">ファイル形式の変換を表すテンプレートアイコン。source/targetラベルを差し替えてXLSX→CSVなどを表現する。</uui:description>
+      <uui:description xml:lang="en">Template icon for converting one file format to another. Replace the source and target label slots for combinations such as XLSX to CSV.</uui:description>
+      <uui:category id="file-operations" code="FOP" xml:lang="ja">ファイル操作</uui:category>
+      <uui:category id="file-operations" code="FOP" xml:lang="en">File operations</uui:category>
+      <uui:keywords xml:lang="ja">ファイル変換, 変換, コンバート, 形式変換, ファイル操作, source, target</uui:keywords>
+      <uui:keywords xml:lang="en">file convert, conversion, format, file operations, source, target</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">20</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu</uui:contexts>
+      <uui:pair variant="color" href="../../color/file-operations/file-convert.svg"/>
+      <uui:palette primary="#334155" accent="#0EA5E9" secondary="#94A3B8"/>
+      <uui:template kind="file-operation" operation="convert" labelSlots="source target" labelMaxLength="5"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="8116047b34332ff8ea5e358d2d2446612e220e1810714df0fb61f67993efd0ec"/>
+      <uui:source project="Universal UI Icons" version="3.1.0" license="Project" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M1.5 3h6l2.5 2.5v13H1.5z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M7.5 3v2.5h2.5" stroke="currentColor" data-uui-role="primary"/>
+    <text id="uui-fop-0001-label-source" x="5.75" y="11.7" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="2.4" font-weight="700" stroke="none" fill="currentColor" data-uui-label-slot="source" data-uui-label-max-length="5">SRC</text>
+    <path d="M10.8 11h2.7" stroke="currentColor" data-uui-role="accent"/>
+    <path d="m12.2 9.6 1.5 1.4-1.5 1.4" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M14 5.5h6l2.5 2.5v13H14z" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M20 5.5v2.5h2.5" stroke="currentColor" data-uui-role="primary"/>
+    <text id="uui-fop-0001-label-target" x="18.25" y="14.2" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="2.4" font-weight="700" stroke="none" fill="currentColor" data-uui-label-slot="target" data-uui-label-max-length="5">DST</text>
+  </g>
+</svg>

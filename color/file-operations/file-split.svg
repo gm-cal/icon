@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-fop-0002-color-title uui-fop-0002-color-desc" data-icon-id="UUI-FOP-0002" data-icon-name="file-split" data-icon-variant="color" data-icon-category="file-operations" data-icon-category-code="FOP" data-uui-template="file-operation" data-uui-operation="split">
+  <title id="uui-fop-0002-color-title" xml:lang="ja">ファイル分割</title>
+  <desc id="uui-fop-0002-color-desc" xml:lang="ja">1つのファイルを複数ファイルへ分割する操作を表すテンプレートアイコン。source/targetラベルを差し替えてPDF分割などを表現する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.1.0" id="UUI-FOP-0002" slug="file-split" variant="color">
+      <uui:name xml:lang="ja">ファイル分割</uui:name>
+      <uui:name xml:lang="en">File Split</uui:name>
+      <uui:description xml:lang="ja">1つのファイルを複数ファイルへ分割する操作を表すテンプレートアイコン。source/targetラベルを差し替えてPDF分割などを表現する。</uui:description>
+      <uui:description xml:lang="en">Template icon for splitting one file into multiple files. Replace the source and target label slots for operations such as PDF splitting.</uui:description>
+      <uui:category id="file-operations" code="FOP" xml:lang="ja">ファイル操作</uui:category>
+      <uui:category id="file-operations" code="FOP" xml:lang="en">File operations</uui:category>
+      <uui:keywords xml:lang="ja">ファイル分割, 分割, split, ファイル操作, source, target</uui:keywords>
+      <uui:keywords xml:lang="en">file split, split, parts, file operations, source, target</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">20</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/file-operations/file-split.svg"/>
+      <uui:palette primary="#334155" accent="#0EA5E9" secondary="#94A3B8"/>
+      <uui:template kind="file-operation" operation="split" labelSlots="source target" labelMaxLength="5"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="2843fe6c5498c5f323afe4ace9cc08e08d6228b622c2fcff1718c19c64593a96"/>
+      <uui:source project="Universal UI Icons" version="3.1.0" license="Project" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M1.5 5h6l2.5 2.5v12H1.5z" stroke="#334155" data-uui-role="primary"/>
+    <path d="M7.5 5v2.5h2.5" stroke="#334155" data-uui-role="primary"/>
+    <text id="uui-fop-0002-label-source" x="5.75" y="12.2" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="2.4" font-weight="700" stroke="none" fill="#334155" data-uui-label-slot="source" data-uui-label-max-length="5">SRC</text>
+    <path d="M10.7 12.2h2.1M12.8 12.2c1.4 0 1.2-5.2 2.8-5.2M12.8 12.2c1.4 0 1.2 5.2 2.8 5.2" stroke="#0EA5E9" data-uui-role="accent"/>
+    <path d="M15.5 2h4.5l2.5 2.5v6H15.5z" stroke="#334155" data-uui-role="primary"/>
+    <path d="M20 2v2.5h2.5" stroke="#334155" data-uui-role="primary"/>
+    <text id="uui-fop-0002-label-target-a" x="19" y="6.6" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="2" font-weight="700" stroke="none" fill="#334155" data-uui-label-slot="target" data-uui-label-max-length="5">DST</text>
+    <path d="M15.5 13h4.5l2.5 2.5v6H15.5z" stroke="#334155" data-uui-role="primary"/>
+    <path d="M20 13v2.5h2.5" stroke="#334155" data-uui-role="primary"/>
+    <text id="uui-fop-0002-label-target-b" x="19" y="17.6" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="2" font-weight="700" stroke="none" fill="#334155" data-uui-label-slot="target" data-uui-label-max-length="5">DST</text>
+  </g>
+</svg>

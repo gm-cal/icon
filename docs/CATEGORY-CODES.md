@@ -47,4 +47,6 @@
 | `LGL` | `legal-compliance` | 法務とコンプライアンス | 22 | `UUI-LGL-0001`〜`UUI-LGL-0022` |
 | `UIC` | `ui-components` | UI部品 | 25 | `UUI-UIC-0001`〜`UUI-UIC-0025` |
 
+| `FOP` | `file-operations` | ファイル操作 | 3 | `UUI-FOP-0001`〜`UUI-FOP-0003` |
+
 v2.0.0以前の全体連番IDは、カタログの `legacyId` と各SVGの `<uui:icon legacyId="…">` に保持します。v3.0.0で新規追加したUI部品25種には旧IDはありません。
