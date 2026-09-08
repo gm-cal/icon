@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-cde-0031-color-title uui-cde-0031-color-desc" data-icon-id="UUI-CDE-0031" data-icon-name="join-lines" data-icon-variant="color" data-icon-category="code-editing" data-icon-category-code="CDE">
+  <title id="uui-cde-0031-color-title" xml:lang="ja">1行へ統合</title>
+  <desc id="uui-cde-0031-color-desc" xml:lang="ja">複数行に分かれた式、引数、項目などを1行へ統合する操作を表す。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.1.0" id="UUI-CDE-0031" slug="join-lines" variant="color">
+      <uui:name xml:lang="ja">1行へ統合</uui:name>
+      <uui:name xml:lang="en">Join Lines</uui:name>
+      <uui:description xml:lang="ja">複数行に分かれた式、引数、項目などを1行へ統合する操作を表す。</uui:description>
+      <uui:description xml:lang="en">Joins expressions, arguments, or items spread across multiple lines into a single line.</uui:description>
+      <uui:category id="code-editing" code="CDE" xml:lang="ja">コード編集</uui:category>
+      <uui:category id="code-editing" code="CDE" xml:lang="en">Code editing</uui:category>
+      <uui:keywords xml:lang="ja">1行へ統合, 行結合, join lines, 改行削除, コード整形, 引数, SQL</uui:keywords>
+      <uui:keywords xml:lang="en">join lines, merge lines, single line, remove line breaks, code formatting, arguments, SQL</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/code-editing/join-lines.svg"/>
+      <uui:palette primary="#4338CA" accent="#6366F1" secondary="#A5B4FC"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="f021c7bdb7d4b8815a6e24f7356f2fc4417489c2924321f4dd399adf3248f8e2"/>
+      <uui:source project="Universal UI Icons" version="3.1.0" license="Project" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M5 4h14M5 8h9" stroke="#4338CA" data-uui-role="primary"/>
+    <path d="M12 11v5M9.5 13.5 12 16l2.5-2.5" stroke="#6366F1" data-uui-role="accent"/>
+    <path d="M4 20h16" stroke="#4338CA" data-uui-role="primary"/>
+  </g>
+</svg>

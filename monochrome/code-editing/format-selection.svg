@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-cde-0029-monochrome-title uui-cde-0029-monochrome-desc" data-icon-id="UUI-CDE-0029" data-icon-name="format-selection" data-icon-variant="monochrome" data-icon-category="code-editing" data-icon-category-code="CDE">
+  <title id="uui-cde-0029-monochrome-title" xml:lang="ja">選択範囲整形</title>
+  <desc id="uui-cde-0029-monochrome-desc" xml:lang="ja">選択したコード範囲だけを、設定された書式規則に沿って整形する操作を表す。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.1.0" id="UUI-CDE-0029" slug="format-selection" variant="monochrome">
+      <uui:name xml:lang="ja">選択範囲整形</uui:name>
+      <uui:name xml:lang="en">Format Selection</uui:name>
+      <uui:description xml:lang="ja">選択したコード範囲だけを、設定された書式規則に沿って整形する操作を表す。</uui:description>
+      <uui:description xml:lang="en">Formats only the selected range of code according to the configured formatting rules.</uui:description>
+      <uui:category id="code-editing" code="CDE" xml:lang="ja">コード編集</uui:category>
+      <uui:category id="code-editing" code="CDE" xml:lang="en">Code editing</uui:category>
+      <uui:keywords xml:lang="ja">選択範囲整形, 選択, コード整形, フォーマット, 部分整形, コード編集</uui:keywords>
+      <uui:keywords xml:lang="en">format selection, selection, code formatting, partial format, code editing</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/code-editing/format-selection.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="f4cc346cf583582b19f1c909994e82cebf9dbff550278de84345be4edcdbcb64"/>
+      <uui:source project="Universal UI Icons" version="3.1.0" license="Project" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect x="3" y="3" width="18" height="18" rx="2" stroke-dasharray="2 2" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M7 8h10M7 12h7M7 16h9" stroke="currentColor" data-uui-role="primary"/>
+  </g>
+</svg>

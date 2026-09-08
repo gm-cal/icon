@@ -3,9 +3,9 @@
   "library": {
     "name": "Universal UI Icons",
     "version": "3.1.0",
-    "iconCount": 1028,
+    "iconCount": 1034,
     "variantCount": 2,
-    "svgCount": 2056,
+    "svgCount": 2068,
     "viewBox": "0 0 24 24",
     "minimumSizePx": 16,
     "recommendedSizesPx": [
@@ -275,7 +275,7 @@
       "code": "CDE",
       "ja": "コード編集",
       "en": "Code editing",
-      "iconCount": 25,
+      "iconCount": 31,
       "palette": {
         "primary": "#4338CA",
         "accent": "#6366F1",
@@ -27093,6 +27093,339 @@
       "files": {
         "color": "color/code-editing/file-type.svg",
         "monochrome": "monochrome/code-editing/file-type.svg"
+      },
+      "minimumSizePx": 16,
+      "recommendedSizesPx": [
+        16,
+        20,
+        24,
+        32,
+        48
+      ]
+    },
+    {
+      "id": "UUI-CDE-0026",
+      "slug": "align-column",
+      "name": {
+        "ja": "中間インデント揃え",
+        "en": "Align Column"
+      },
+      "description": {
+        "ja": "複数行の途中にあるAS句、代入演算子、コメントなどの開始位置を同じ列に揃える操作を表す。",
+        "en": "Aligns an in-line anchor such as SQL AS clauses, assignment operators, or comments to the same column across multiple lines."
+      },
+      "category": {
+        "id": "code-editing",
+        "code": "CDE",
+        "ja": "コード編集",
+        "en": "Code editing"
+      },
+      "keywords": {
+        "ja": [
+          "中間インデント揃え",
+          "列揃え",
+          "カラム揃え",
+          "AS句",
+          "SQL",
+          "代入演算子",
+          "コメント",
+          "コード整形"
+        ],
+        "en": [
+          "align column",
+          "column alignment",
+          "SQL",
+          "AS clause",
+          "assignment",
+          "comments",
+          "code formatting"
+        ]
+      },
+      "palette": {
+        "primary": "#4338CA",
+        "accent": "#6366F1",
+        "secondary": "#A5B4FC"
+      },
+      "geometrySha256": "aef74248acbebb82509743a102b288fb00d1f04344f8bda26abf1c3e20ae5475",
+      "files": {
+        "color": "color/code-editing/align-column.svg",
+        "monochrome": "monochrome/code-editing/align-column.svg"
+      },
+      "minimumSizePx": 16,
+      "recommendedSizesPx": [
+        16,
+        20,
+        24,
+        32,
+        48
+      ]
+    },
+    {
+      "id": "UUI-CDE-0027",
+      "slug": "normalize-indent",
+      "name": {
+        "ja": "インデント正規化",
+        "en": "Normalize Indent"
+      },
+      "description": {
+        "ja": "タブ・スペースの混在や不揃いな字下げを、設定されたインデント規則に沿って正規化する操作を表す。",
+        "en": "Normalizes inconsistent indentation and mixed tabs or spaces according to the configured indentation rules."
+      },
+      "category": {
+        "id": "code-editing",
+        "code": "CDE",
+        "ja": "コード編集",
+        "en": "Code editing"
+      },
+      "keywords": {
+        "ja": [
+          "インデント正規化",
+          "字下げ",
+          "タブ",
+          "スペース",
+          "コード整形",
+          "フォーマット",
+          "整列"
+        ],
+        "en": [
+          "normalize indent",
+          "indentation",
+          "tabs",
+          "spaces",
+          "code formatting",
+          "alignment"
+        ]
+      },
+      "palette": {
+        "primary": "#4338CA",
+        "accent": "#6366F1",
+        "secondary": "#A5B4FC"
+      },
+      "geometrySha256": "153f415618bd51694134fbd0fc87195ad6f78d1b233e9c3be849b9833da6b149",
+      "files": {
+        "color": "color/code-editing/normalize-indent.svg",
+        "monochrome": "monochrome/code-editing/normalize-indent.svg"
+      },
+      "minimumSizePx": 16,
+      "recommendedSizesPx": [
+        16,
+        20,
+        24,
+        32,
+        48
+      ]
+    },
+    {
+      "id": "UUI-CDE-0028",
+      "slug": "format-code",
+      "name": {
+        "ja": "コード整形",
+        "en": "Format Code"
+      },
+      "description": {
+        "ja": "SQL、C#、JSONなどのコード全体を、設定された書式規則に沿って整形する操作を表す。",
+        "en": "Formats an entire code document such as SQL, C#, or JSON according to configured formatting rules."
+      },
+      "category": {
+        "id": "code-editing",
+        "code": "CDE",
+        "ja": "コード編集",
+        "en": "Code editing"
+      },
+      "keywords": {
+        "ja": [
+          "コード整形",
+          "フォーマット",
+          "formatter",
+          "SQL",
+          "C#",
+          "JSON",
+          "自動整形",
+          "コード編集"
+        ],
+        "en": [
+          "format code",
+          "formatter",
+          "auto format",
+          "SQL",
+          "C#",
+          "JSON",
+          "code editing"
+        ]
+      },
+      "palette": {
+        "primary": "#4338CA",
+        "accent": "#6366F1",
+        "secondary": "#A5B4FC"
+      },
+      "geometrySha256": "411b6f6a8ce0070ceee939e6c29a4090930a10ab7d7d91558d3a42cb1eb2f638",
+      "files": {
+        "color": "color/code-editing/format-code.svg",
+        "monochrome": "monochrome/code-editing/format-code.svg"
+      },
+      "minimumSizePx": 16,
+      "recommendedSizesPx": [
+        16,
+        20,
+        24,
+        32,
+        48
+      ]
+    },
+    {
+      "id": "UUI-CDE-0029",
+      "slug": "format-selection",
+      "name": {
+        "ja": "選択範囲整形",
+        "en": "Format Selection"
+      },
+      "description": {
+        "ja": "選択したコード範囲だけを、設定された書式規則に沿って整形する操作を表す。",
+        "en": "Formats only the selected range of code according to the configured formatting rules."
+      },
+      "category": {
+        "id": "code-editing",
+        "code": "CDE",
+        "ja": "コード編集",
+        "en": "Code editing"
+      },
+      "keywords": {
+        "ja": [
+          "選択範囲整形",
+          "選択",
+          "コード整形",
+          "フォーマット",
+          "部分整形",
+          "コード編集"
+        ],
+        "en": [
+          "format selection",
+          "selection",
+          "code formatting",
+          "partial format",
+          "code editing"
+        ]
+      },
+      "palette": {
+        "primary": "#4338CA",
+        "accent": "#6366F1",
+        "secondary": "#A5B4FC"
+      },
+      "geometrySha256": "f4cc346cf583582b19f1c909994e82cebf9dbff550278de84345be4edcdbcb64",
+      "files": {
+        "color": "color/code-editing/format-selection.svg",
+        "monochrome": "monochrome/code-editing/format-selection.svg"
+      },
+      "minimumSizePx": 16,
+      "recommendedSizesPx": [
+        16,
+        20,
+        24,
+        32,
+        48
+      ]
+    },
+    {
+      "id": "UUI-CDE-0030",
+      "slug": "split-lines",
+      "name": {
+        "ja": "複数行へ展開",
+        "en": "Split Lines"
+      },
+      "description": {
+        "ja": "1行に並ぶ式、引数、項目などを複数行へ展開して読みやすくする操作を表す。",
+        "en": "Expands expressions, arguments, or items from one line into multiple lines for readability."
+      },
+      "category": {
+        "id": "code-editing",
+        "code": "CDE",
+        "ja": "コード編集",
+        "en": "Code editing"
+      },
+      "keywords": {
+        "ja": [
+          "複数行へ展開",
+          "行分割",
+          "split lines",
+          "改行",
+          "コード整形",
+          "引数",
+          "SQL"
+        ],
+        "en": [
+          "split lines",
+          "expand lines",
+          "line break",
+          "code formatting",
+          "arguments",
+          "SQL"
+        ]
+      },
+      "palette": {
+        "primary": "#4338CA",
+        "accent": "#6366F1",
+        "secondary": "#A5B4FC"
+      },
+      "geometrySha256": "5d3882d80c3c730f08929b4b8c5ebbeb608123f87fad82eceffda1408137adb7",
+      "files": {
+        "color": "color/code-editing/split-lines.svg",
+        "monochrome": "monochrome/code-editing/split-lines.svg"
+      },
+      "minimumSizePx": 16,
+      "recommendedSizesPx": [
+        16,
+        20,
+        24,
+        32,
+        48
+      ]
+    },
+    {
+      "id": "UUI-CDE-0031",
+      "slug": "join-lines",
+      "name": {
+        "ja": "1行へ統合",
+        "en": "Join Lines"
+      },
+      "description": {
+        "ja": "複数行に分かれた式、引数、項目などを1行へ統合する操作を表す。",
+        "en": "Joins expressions, arguments, or items spread across multiple lines into a single line."
+      },
+      "category": {
+        "id": "code-editing",
+        "code": "CDE",
+        "ja": "コード編集",
+        "en": "Code editing"
+      },
+      "keywords": {
+        "ja": [
+          "1行へ統合",
+          "行結合",
+          "join lines",
+          "改行削除",
+          "コード整形",
+          "引数",
+          "SQL"
+        ],
+        "en": [
+          "join lines",
+          "merge lines",
+          "single line",
+          "remove line breaks",
+          "code formatting",
+          "arguments",
+          "SQL"
+        ]
+      },
+      "palette": {
+        "primary": "#4338CA",
+        "accent": "#6366F1",
+        "secondary": "#A5B4FC"
+      },
+      "geometrySha256": "f021c7bdb7d4b8815a6e24f7356f2fc4417489c2924321f4dd399adf3248f8e2",
+      "files": {
+        "color": "color/code-editing/join-lines.svg",
+        "monochrome": "monochrome/code-editing/join-lines.svg"
       },
       "minimumSizePx": 16,
       "recommendedSizesPx": [
