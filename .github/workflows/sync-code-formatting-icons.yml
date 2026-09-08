@@ -1,0 +1,209 @@
+name: Sync code formatting icons
+
+on:
+  push:
+    branches:
+      - feature/code-formatting-icons
+    paths:
+      - ".github/workflows/sync-code-formatting-icons.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: feature/code-formatting-icons
+
+      - name: Generate icons and synchronized artifacts
+        shell: bash
+        run: |
+          node --input-type=commonjs <<'NODE'
+          const { createHash } = require("node:crypto");
+          const { execFileSync } = require("node:child_process");
+          const { mkdirSync, readFileSync, writeFileSync } = require("node:fs");
+
+          const definitions = [{"id":"UUI-CDE-0026","slug":"align-column","ja":"中間インデント揃え","en":"Align Column","dja":"複数行の途中にあるAS句、代入演算子、コメントなどの開始位置を同じ列に揃える操作を表す。","den":"Aligns an in-line anchor such as SQL AS clauses, assignment operators, or comments to the same column across multiple lines.","kja":["中間インデント揃え","列揃え","カラム揃え","AS句","SQL","代入演算子","コメント","コード整形"],"ken":["align column","column alignment","SQL","AS clause","assignment","comments","code formatting"],"geometry":[{"tag":"line","attrs":{"x1":"14","y1":"3","x2":"14","y2":"21"},"role":"accent"},{"tag":"path","attrs":{"d":"M3 6h6M3 12h9M3 18h4"},"role":"primary"},{"tag":"path","attrs":{"d":"M16 6h5M16 12h5M16 18h5"},"role":"primary"}]},{"id":"UUI-CDE-0027","slug":"normalize-indent","ja":"インデント正規化","en":"Normalize Indent","dja":"タブ・スペースの混在や不揃いな字下げを、設定されたインデント規則に沿って正規化する操作を表す。","den":"Normalizes inconsistent indentation and mixed tabs or spaces according to the configured indentation rules.","kja":["インデント正規化","字下げ","タブ","スペース","コード整形","フォーマット","整列"],"ken":["normalize indent","indentation","tabs","spaces","code formatting","alignment"],"geometry":[{"tag":"line","attrs":{"x1":"5","y1":"3","x2":"5","y2":"21","stroke-dasharray":"1 2"},"role":"accent"},{"tag":"line","attrs":{"x1":"9","y1":"3","x2":"9","y2":"21","stroke-dasharray":"1 2"},"role":"secondary"},{"tag":"path","attrs":{"d":"M5 5h14M9 10h10M9 15h8M5 20h11"},"role":"primary"}]},{"id":"UUI-CDE-0028","slug":"format-code","ja":"コード整形","en":"Format Code","dja":"SQL、C#、JSONなどのコード全体を、設定された書式規則に沿って整形する操作を表す。","den":"Formats an entire code document such as SQL, C#, or JSON according to configured formatting rules.","kja":["コード整形","フォーマット","formatter","SQL","C#","JSON","自動整形","コード編集"],"ken":["format code","formatter","auto format","SQL","C#","JSON","code editing"],"geometry":[{"tag":"path","attrs":{"d":"M6 4H16M6 9H14M6 14H18M6 19H13"},"role":"primary"},{"tag":"path","attrs":{"d":"M3.5 4.5c-1 0-1.5.5-1.5 1.5v2.5c0 1-.5 1.5-1 1.5.5 0 1 .5 1 1.5V14c0 1 .5 1.5 1.5 1.5"},"role":"secondary"},{"tag":"path","attrs":{"d":"M19 3v4M17 5h4M20 10v2M19 11h2"},"role":"accent"}]},{"id":"UUI-CDE-0029","slug":"format-selection","ja":"選択範囲整形","en":"Format Selection","dja":"選択したコード範囲だけを、設定された書式規則に沿って整形する操作を表す。","den":"Formats only the selected range of code according to the configured formatting rules.","kja":["選択範囲整形","選択","コード整形","フォーマット","部分整形","コード編集"],"ken":["format selection","selection","code formatting","partial format","code editing"],"geometry":[{"tag":"rect","attrs":{"x":"3","y":"3","width":"18","height":"18","rx":"2","stroke-dasharray":"2 2"},"role":"accent"},{"tag":"path","attrs":{"d":"M7 8h10M7 12h7M7 16h9"},"role":"primary"}]},{"id":"UUI-CDE-0030","slug":"split-lines","ja":"複数行へ展開","en":"Split Lines","dja":"1行に並ぶ式、引数、項目などを複数行へ展開して読みやすくする操作を表す。","den":"Expands expressions, arguments, or items from one line into multiple lines for readability.","kja":["複数行へ展開","行分割","split lines","改行","コード整形","引数","SQL"],"ken":["split lines","expand lines","line break","code formatting","arguments","SQL"],"geometry":[{"tag":"path","attrs":{"d":"M4 5h16"},"role":"primary"},{"tag":"path","attrs":{"d":"M12 8v5M9.5 10.5 12 13l2.5-2.5"},"role":"accent"},{"tag":"path","attrs":{"d":"M5 17h14M5 21h9"},"role":"primary"}]},{"id":"UUI-CDE-0031","slug":"join-lines","ja":"1行へ統合","en":"Join Lines","dja":"複数行に分かれた式、引数、項目などを1行へ統合する操作を表す。","den":"Joins expressions, arguments, or items spread across multiple lines into a single line.","kja":["1行へ統合","行結合","join lines","改行削除","コード整形","引数","SQL"],"ken":["join lines","merge lines","single line","remove line breaks","code formatting","arguments","SQL"],"geometry":[{"tag":"path","attrs":{"d":"M5 4h14M5 8h9"},"role":"primary"},{"tag":"path","attrs":{"d":"M12 11v5M9.5 13.5 12 16l2.5-2.5"},"role":"accent"},{"tag":"path","attrs":{"d":"M4 20h16"},"role":"primary"}]}];
+          const palette = { primary: "#4338CA", accent: "#6366F1", secondary: "#A5B4FC" };
+          const sha256 = value => createHash("sha256").update(value).digest("hex");
+          const xml = value => String(value).replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;").replaceAll("'", "&apos;");
+          const geometryHash = definition => sha256(JSON.stringify(definition.geometry.map(item => [item.tag, item.attrs])));
+          const geometryLine = (item, variant) => {
+            const attrs = Object.entries(item.attrs).map(([key, value]) => `${key}="${xml(value)}"`).join(" ");
+            const stroke = variant === "monochrome" ? "currentColor" : palette[item.role];
+            return `<${item.tag} ${attrs} stroke="${stroke}" data-uui-role="${item.role}"/>`;
+          };
+
+          function buildSvg(definition, variant) {
+            const mono = variant === "monochrome";
+            const hash = geometryHash(definition);
+            const titleId = `uui-${definition.id.slice(4).toLowerCase()}-${variant}-title`;
+            const descId = `uui-${definition.id.slice(4).toLowerCase()}-${variant}-desc`;
+            const pair = mono ? "color" : "monochrome";
+            const paletteMetadata = mono ? 'primary="currentColor" accent="currentColor" secondary="currentColor"' : 'primary="#4338CA" accent="#6366F1" secondary="#A5B4FC"';
+            const colorAttr = mono ? ' color="#1F2937"' : "";
+            return { hash, text: [
+              '<?xml version="1.0" encoding="UTF-8"?>',
+              `<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none"${colorAttr} stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="${titleId} ${descId}" data-icon-id="${definition.id}" data-icon-name="${definition.slug}" data-icon-variant="${variant}" data-icon-category="code-editing" data-icon-category-code="CDE">`,
+              `  <title id="${titleId}" xml:lang="ja">${xml(definition.ja)}</title>`,
+              `  <desc id="${descId}" xml:lang="ja">${xml(definition.dja)}</desc>`,
+              '  <metadata id="uui-metadata">',
+              `    <uui:icon schemaVersion="1.1" libraryVersion="3.1.0" id="${definition.id}" slug="${definition.slug}" variant="${variant}">`,
+              `      <uui:name xml:lang="ja">${xml(definition.ja)}</uui:name>`,
+              `      <uui:name xml:lang="en">${xml(definition.en)}</uui:name>`,
+              `      <uui:description xml:lang="ja">${xml(definition.dja)}</uui:description>`,
+              `      <uui:description xml:lang="en">${xml(definition.den)}</uui:description>`,
+              '      <uui:category id="code-editing" code="CDE" xml:lang="ja">コード編集</uui:category>',
+              '      <uui:category id="code-editing" code="CDE" xml:lang="en">Code editing</uui:category>',
+              `      <uui:keywords xml:lang="ja">${xml(definition.kja.join(", "))}</uui:keywords>`,
+              `      <uui:keywords xml:lang="en">${xml(definition.ken.join(", "))}</uui:keywords>`,
+              '      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>',
+              '      <uui:minimumSize unit="px">16</uui:minimumSize>',
+              '      <uui:opticalSize unit="px">24</uui:opticalSize>',
+              '      <uui:contexts>button toolbar menu status</uui:contexts>',
+              `      <uui:pair variant="${pair}" href="../../${pair}/code-editing/${definition.slug}.svg"/>`,
+              `      <uui:palette ${paletteMetadata}/>`,
+              `      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="${hash}"/>`,
+              '      <uui:source project="Universal UI Icons" version="3.1.0" license="Project" modified="false"/>',
+              '    </uui:icon>',
+              '  </metadata>',
+              '  <g aria-hidden="true">',
+              ...definition.geometry.map(item => `    ${geometryLine(item, variant)}`),
+              '  </g>',
+              '</svg>',
+              ''
+            ].join("\n") };
+          }
+
+          mkdirSync("color/code-editing", { recursive: true });
+          mkdirSync("monochrome/code-editing", { recursive: true });
+          const generatedPaths = [];
+          const hashes = new Map();
+          for (const definition of definitions) {
+            for (const variant of ["color", "monochrome"]) {
+              const result = buildSvg(definition, variant);
+              const path = `${variant}/code-editing/${definition.slug}.svg`;
+              writeFileSync(path, result.text, "utf8");
+              generatedPaths.push(path);
+              hashes.set(definition.slug, result.hash);
+            }
+          }
+
+          const catalogPath = "catalog/catalog-v1.json";
+          const catalog = JSON.parse(readFileSync(catalogPath, "utf8"));
+          const targetSlugs = new Set(definitions.map(x => x.slug));
+          catalog.icons = catalog.icons.filter(icon => !targetSlugs.has(icon.slug));
+          const lastCodeIndex = catalog.icons.reduce((last, icon, index) => icon.category?.id === "code-editing" ? index : last, -1);
+          if (lastCodeIndex < 0) throw new Error("code-editing icons are missing from catalog.");
+          const entries = definitions.map(definition => ({
+            id: definition.id,
+            slug: definition.slug,
+            name: { ja: definition.ja, en: definition.en },
+            description: { ja: definition.dja, en: definition.den },
+            category: { id: "code-editing", code: "CDE", ja: "コード編集", en: "Code editing" },
+            keywords: { ja: definition.kja, en: definition.ken },
+            palette: { ...palette },
+            geometrySha256: hashes.get(definition.slug),
+            files: { color: `color/code-editing/${definition.slug}.svg`, monochrome: `monochrome/code-editing/${definition.slug}.svg` },
+            minimumSizePx: 16,
+            recommendedSizesPx: [16, 20, 24, 32, 48]
+          }));
+          catalog.icons.splice(lastCodeIndex + 1, 0, ...entries);
+          catalog.library.iconCount = catalog.icons.length;
+          catalog.library.svgCount = catalog.icons.length * 2;
+          const codeCategory = catalog.categories.find(category => category.id === "code-editing");
+          if (!codeCategory) throw new Error("code-editing category is missing.");
+          codeCategory.iconCount = catalog.icons.filter(icon => icon.category.id === "code-editing").length;
+
+          const csvCell = value => `"${String(value ?? "").replaceAll('"', '""')}"`;
+          const headers = ["id","legacy_id","slug","name_ja","name_en","category_id","category_code","category_ja","description_ja","color_file","monochrome_file","recommended_sizes_px","minimum_size_px","geometry_sha256"];
+          const rows = [headers.map(csvCell).join(",")];
+          for (const icon of catalog.icons) rows.push([icon.id,icon.legacyId ?? "",icon.slug,icon.name.ja,icon.name.en,icon.category.id,icon.category.code,icon.category.ja,icon.description.ja,icon.files.color,icon.files.monochrome,icon.recommendedSizesPx.join("|"),icon.minimumSizePx,icon.geometrySha256].map(csvCell).join(","));
+          writeFileSync(catalogPath, JSON.stringify(catalog, null, 2) + "\n", "utf8");
+          writeFileSync("catalog/catalog-v1.csv", "\uFEFF" + rows.join("\n") + "\n", "utf8");
+
+          function geometryLines(svg) {
+            const match = svg.match(/<g aria-hidden="true">\s*([\s\S]*?)\s*<\/g>\s*<\/svg>\s*$/);
+            if (!match) throw new Error("Could not locate icon geometry group.");
+            return match[1].split(/\r?\n/).map(line => line.trim()).filter(Boolean);
+          }
+          function buildSprite(variant) {
+            const lines = ['<?xml version="1.0" encoding="UTF-8"?>','<svg xmlns="http://www.w3.org/2000/svg">','  <defs>'];
+            for (const icon of catalog.icons) {
+              const svg = readFileSync(icon.files[variant], "utf8");
+              lines.push(`    <symbol id="uui-${icon.slug}" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">`);
+              lines.push(`      <title xml:lang="ja">${xml(icon.name.ja)}</title>`);
+              for (const geometry of geometryLines(svg)) lines.push(`      ${geometry}`);
+              lines.push("    </symbol>");
+            }
+            lines.push("  </defs>", "</svg>", "");
+            return lines.join("\n");
+          }
+          writeFileSync("sprites/color.svg", buildSprite("color"), "utf8");
+          writeFileSync("sprites/monochrome.svg", buildSprite("monochrome"), "utf8");
+
+          function buildCategoryPreview(variant) {
+            const categoryIcons = catalog.icons.filter(icon => icon.category.id === "code-editing");
+            const mono = variant === "monochrome";
+            const height = 76 + Math.ceil(categoryIcons.length / 5) * 132;
+            const lines = ['<?xml version="1.0" encoding="UTF-8"?>',`<svg xmlns="http://www.w3.org/2000/svg" width="840" height="${height}" viewBox="0 0 840 ${height}"${mono ? ' color="#1F2937"' : ""}>`,'  <rect width="100%" height="100%" fill="#F8FAFC"/>',`  <text x="24" y="34" font-size="22" font-weight="700" fill="#0F172A">コード編集 — ${mono ? "モノクロ版" : "カラー版"}</text>`,`  <text x="24" y="57" font-size="12" fill="#64748B">Code editing · ${categoryIcons.length} icons</text>`];
+            categoryIcons.forEach((icon, index) => {
+              const x = (index % 5) * 168;
+              const y = 76 + Math.floor(index / 5) * 132;
+              const svg = readFileSync(icon.files[variant], "utf8");
+              lines.push(`    <g transform="translate(${x} ${y})">`,'      <rect x="8" y="8" width="152" height="116" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>','      <g transform="translate(60 22) scale(2)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">');
+              for (const geometry of geometryLines(svg)) lines.push(`        ${geometry}`);
+              lines.push("      </g>",`      <text x="84" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="#111827">${xml(icon.name.ja)}</text>`,`      <text x="84" y="110" text-anchor="middle" font-size="10" fill="#6B7280">${xml(icon.id)} · ${xml(icon.slug)}</text>`,`    </g>`);
+            });
+            lines.push("</svg>", "");
+            return lines.join("\n");
+          }
+          writeFileSync("preview/categories/code-editing-color.svg", buildCategoryPreview("color"), "utf8");
+          writeFileSync("preview/categories/code-editing-monochrome.svg", buildCategoryPreview("monochrome"), "utf8");
+
+          let preview = readFileSync("preview/index.html", "utf8");
+          if (!/    const icons=\[[^\n]*\];/.test(preview)) throw new Error("preview icon catalog marker was not found.");
+          preview = preview.replace(/    const icons=\[[^\n]*\];/, `    const icons=${JSON.stringify(catalog.icons)};`);
+          writeFileSync("preview/index.html", preview, "utf8");
+
+          let readme = readFileSync("README.md", "utf8");
+          readme = readme.replace("1,028種類の各アイコン", "1,034種類の各アイコン").replace("合計2,056 SVG", "合計2,068 SVG").replace("43分類、合計1,028種類", "43分類、合計1,034種類").replace("命名規則3種、UI部品25種、ファイル操作3種は独自形状です。", "命名規則3種、UI部品25種、ファイル操作3種、コード整形6種は独自形状です。").replace("カラー版（1,028 SVG）", "カラー版（1,034 SVG）").replace("モノクロ版（1,028 SVG）", "モノクロ版（1,034 SVG）").replace("最終更新: 2026-09-08", "最終更新: 2026-09-09");
+          const featureLine = "- コード編集カテゴリに中間インデント揃え、インデント正規化、コード整形、選択範囲整形、複数行展開、1行統合の6種を追加";
+          if (!readme.includes(featureLine)) readme = readme.replace("- v3.1.0ではファイル操作カテゴリを追加し、文字差し替え可能な変換・分割・統合テンプレート3種を追加", "- v3.1.0ではファイル操作カテゴリを追加し、文字差し替え可能な変換・分割・統合テンプレート3種を追加\n" + featureLine);
+          const changelog = ["- `UUI-CDE-0026` `align-column` — 中間インデント揃え","- `UUI-CDE-0027` `normalize-indent` — インデント正規化","- `UUI-CDE-0028` `format-code` — コード整形","- `UUI-CDE-0029` `format-selection` — 選択範囲整形","- `UUI-CDE-0030` `split-lines` — 複数行へ展開","- `UUI-CDE-0031` `join-lines` — 1行へ統合"].join("\n");
+          if (!readme.includes("`UUI-CDE-0026` `align-column`")) readme = readme.replace("### 3.0.0での変更", changelog + "\n\n### 3.0.0での変更");
+          writeFileSync("README.md", readme, "utf8");
+
+          const exclude = new Set(["SHA256SUMS", ".github/workflows/sync-code-formatting-icons.yml"]);
+          const tracked = execFileSync("git", ["ls-files", "-z"]).toString("utf8").split("\0").filter(Boolean);
+          const paths = [...new Set([...tracked, ...generatedPaths])].filter(path => !exclude.has(path)).sort();
+          writeFileSync("SHA256SUMS", paths.map(path => `${sha256(readFileSync(path))}  ${path}`).join("\n") + "\n", "utf8");
+          NODE
+
+      - name: Validate repository
+        shell: bash
+        run: |
+          node tools/validate.mjs
+          sha256sum -c SHA256SUMS
+
+      - name: Commit generated artifacts
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md SHA256SUMS catalog/catalog-v1.json catalog/catalog-v1.csv \
+            sprites/color.svg sprites/monochrome.svg preview/index.html \
+            preview/categories/code-editing-color.svg preview/categories/code-editing-monochrome.svg \
+            color/code-editing/align-column.svg color/code-editing/normalize-indent.svg \
+            color/code-editing/format-code.svg color/code-editing/format-selection.svg \
+            color/code-editing/split-lines.svg color/code-editing/join-lines.svg \
+            monochrome/code-editing/align-column.svg monochrome/code-editing/normalize-indent.svg \
+            monochrome/code-editing/format-code.svg monochrome/code-editing/format-selection.svg \
+            monochrome/code-editing/split-lines.svg monochrome/code-editing/join-lines.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Add code formatting icon family"
+            git push origin HEAD:feature/code-formatting-icons
+          fi
