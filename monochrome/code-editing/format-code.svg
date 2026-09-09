@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-cde-0028-monochrome-title uui-cde-0028-monochrome-desc" data-icon-id="UUI-CDE-0028" data-icon-name="format-code" data-icon-variant="monochrome" data-icon-category="code-editing" data-icon-category-code="CDE">
+  <title id="uui-cde-0028-monochrome-title" xml:lang="ja">コード整形</title>
+  <desc id="uui-cde-0028-monochrome-desc" xml:lang="ja">SQL、C#、JSONなどのコード全体を、設定された書式規則に沿って整形する操作を表す。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.1.0" id="UUI-CDE-0028" slug="format-code" variant="monochrome">
+      <uui:name xml:lang="ja">コード整形</uui:name>
+      <uui:name xml:lang="en">Format Code</uui:name>
+      <uui:description xml:lang="ja">SQL、C#、JSONなどのコード全体を、設定された書式規則に沿って整形する操作を表す。</uui:description>
+      <uui:description xml:lang="en">Formats an entire code document such as SQL, C#, or JSON according to configured formatting rules.</uui:description>
+      <uui:category id="code-editing" code="CDE" xml:lang="ja">コード編集</uui:category>
+      <uui:category id="code-editing" code="CDE" xml:lang="en">Code editing</uui:category>
+      <uui:keywords xml:lang="ja">コード整形, フォーマット, formatter, SQL, C#, JSON, 自動整形, コード編集</uui:keywords>
+      <uui:keywords xml:lang="en">format code, formatter, auto format, SQL, C#, JSON, code editing</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/code-editing/format-code.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="411b6f6a8ce0070ceee939e6c29a4090930a10ab7d7d91558d3a42cb1eb2f638"/>
+      <uui:source project="Universal UI Icons" version="3.1.0" license="Project" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <path d="M6 4H16M6 9H14M6 14H18M6 19H13" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M3.5 4.5c-1 0-1.5.5-1.5 1.5v2.5c0 1-.5 1.5-1 1.5.5 0 1 .5 1 1.5V14c0 1 .5 1.5 1.5 1.5" stroke="currentColor" data-uui-role="secondary"/>
+    <path d="M19 3v4M17 5h4M20 10v2M19 11h2" stroke="currentColor" data-uui-role="accent"/>
+  </g>
+</svg>

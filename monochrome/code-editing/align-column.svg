@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-cde-0026-monochrome-title uui-cde-0026-monochrome-desc" data-icon-id="UUI-CDE-0026" data-icon-name="align-column" data-icon-variant="monochrome" data-icon-category="code-editing" data-icon-category-code="CDE">
+  <title id="uui-cde-0026-monochrome-title" xml:lang="ja">中間インデント揃え</title>
+  <desc id="uui-cde-0026-monochrome-desc" xml:lang="ja">複数行の途中にあるAS句、代入演算子、コメントなどの開始位置を同じ列に揃える操作を表す。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.1.0" id="UUI-CDE-0026" slug="align-column" variant="monochrome">
+      <uui:name xml:lang="ja">中間インデント揃え</uui:name>
+      <uui:name xml:lang="en">Align Column</uui:name>
+      <uui:description xml:lang="ja">複数行の途中にあるAS句、代入演算子、コメントなどの開始位置を同じ列に揃える操作を表す。</uui:description>
+      <uui:description xml:lang="en">Aligns an in-line anchor such as SQL AS clauses, assignment operators, or comments to the same column across multiple lines.</uui:description>
+      <uui:category id="code-editing" code="CDE" xml:lang="ja">コード編集</uui:category>
+      <uui:category id="code-editing" code="CDE" xml:lang="en">Code editing</uui:category>
+      <uui:keywords xml:lang="ja">中間インデント揃え, 列揃え, カラム揃え, AS句, SQL, 代入演算子, コメント, コード整形</uui:keywords>
+      <uui:keywords xml:lang="en">align column, column alignment, SQL, AS clause, assignment, comments, code formatting</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>button toolbar menu status</uui:contexts>
+      <uui:pair variant="color" href="../../color/code-editing/align-column.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="aef74248acbebb82509743a102b288fb00d1f04344f8bda26abf1c3e20ae5475"/>
+      <uui:source project="Universal UI Icons" version="3.1.0" license="Project" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <line x1="14" y1="3" x2="14" y2="21" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M3 6h6M3 12h9M3 18h4" stroke="currentColor" data-uui-role="primary"/>
+    <path d="M16 6h5M16 12h5M16 18h5" stroke="currentColor" data-uui-role="primary"/>
+  </g>
+</svg>
