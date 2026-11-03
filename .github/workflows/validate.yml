@@ -1,0 +1,36 @@
+name: Validate icon catalog
+
+# PR validation is independent from Pages publication.
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened, ready_for_review]
+    paths:
+      - 'catalog/**'
+      - 'color/**'
+      - 'monochrome/**'
+      - 'schema/**'
+      - 'sprites/**'
+      - 'tools/**'
+      - 'package.json'
+      - '.github/workflows/validate.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: icon-validate-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+      - name: Validate catalog and SVG metadata
+        run: npm run validate
