@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-dvc-0026-color-title uui-dvc-0026-color-desc" data-icon-id="UUI-DVC-0026" data-icon-name="wired-router" data-icon-variant="color" data-icon-category="devices" data-icon-category-code="DVC">
+  <title id="uui-dvc-0026-color-title" xml:lang="ja">有線ルーター</title>
+  <desc id="uui-dvc-0026-color-desc" xml:lang="ja">有線LANの経路制御を行うルーター。ネットワーク構成図で無線ルーターと区別して示す。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.2.0" id="UUI-DVC-0026" slug="wired-router" variant="color">
+      <uui:name xml:lang="ja">有線ルーター</uui:name>
+      <uui:name xml:lang="en">Wired Router</uui:name>
+      <uui:description xml:lang="ja">有線LANの経路制御を行うルーター。ネットワーク構成図で無線ルーターと区別して示す。</uui:description>
+      <uui:description xml:lang="en">Wired network router for topology diagrams, distinguished from a wireless router.</uui:description>
+      <uui:category id="devices" code="DVC" xml:lang="ja">機器と接続</uui:category>
+      <uui:category id="devices" code="DVC" xml:lang="en">Devices and connectivity</uui:category>
+      <uui:keywords xml:lang="ja">ルーター, 有線ルーター, ネットワーク, 経路制御, LAN</uui:keywords>
+      <uui:keywords xml:lang="en">wired router, network, gateway, LAN, topology</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>diagram canvas menu toolbar</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/devices/wired-router.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#3B82F6" secondary="#93C5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="3c7ee633bc5bfb9fe7e08e6ab70a4f47bb3d66778bbc9ccf6d73384719afa5ab"/>
+      <uui:source project="Universal UI Icons" version="3.2.0" license="project terms" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect x="2" y="8" width="20" height="11" rx="2" stroke="#1D4ED8" data-uui-role="primary"/>
+    <path d="M5 12h5m-2-2 2 2-2 2" stroke="#3B82F6" data-uui-role="accent"/>
+    <path d="M19 16h-5m2-2-2 2 2 2" stroke="#93C5FD" data-uui-role="secondary"/>
+    <path d="M6 19v2m12-2v2" stroke="#1D4ED8" data-uui-role="primary"/>
+  </g>
+</svg>

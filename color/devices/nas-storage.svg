@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-dvc-0029-color-title uui-dvc-0029-color-desc" data-icon-id="UUI-DVC-0029" data-icon-name="nas-storage" data-icon-variant="color" data-icon-category="devices" data-icon-category-code="DVC">
+  <title id="uui-dvc-0029-color-title" xml:lang="ja">NAS</title>
+  <desc id="uui-dvc-0029-color-desc" xml:lang="ja">複数のドライブベイを備えたネットワーク接続ストレージ。家庭内NASやファイルサーバーを表す。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.2.0" id="UUI-DVC-0029" slug="nas-storage" variant="color">
+      <uui:name xml:lang="ja">NAS</uui:name>
+      <uui:name xml:lang="en">Network Attached Storage</uui:name>
+      <uui:description xml:lang="ja">複数のドライブベイを備えたネットワーク接続ストレージ。家庭内NASやファイルサーバーを表す。</uui:description>
+      <uui:description xml:lang="en">Multi-bay network-attached storage enclosure for NAS and file servers.</uui:description>
+      <uui:category id="devices" code="DVC" xml:lang="ja">機器と接続</uui:category>
+      <uui:category id="devices" code="DVC" xml:lang="en">Devices and connectivity</uui:category>
+      <uui:keywords xml:lang="ja">NAS, ネットワークストレージ, ファイルサーバー, HDD, 共有</uui:keywords>
+      <uui:keywords xml:lang="en">NAS, network attached storage, file server, disk enclosure, storage</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>diagram canvas menu toolbar</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/devices/nas-storage.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#3B82F6" secondary="#93C5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="e5b71d1170ccfa4b9f935526545a475c86658161753e432d2596ac8ee9f3c52a"/>
+      <uui:source project="Universal UI Icons" version="3.2.0" license="project terms" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect x="4" y="2" width="16" height="20" rx="2" stroke="#1D4ED8" data-uui-role="primary"/>
+    <rect x="7" y="5" width="10" height="6" rx="1" stroke="#3B82F6" data-uui-role="accent"/>
+    <rect x="7" y="14" width="10" height="5" rx="1" stroke="#3B82F6" data-uui-role="accent"/>
+    <path d="M9 8h.01M9 16.5h.01" stroke="#93C5FD" data-uui-role="secondary"/>
+  </g>
+</svg>

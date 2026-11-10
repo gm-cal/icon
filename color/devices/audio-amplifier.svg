@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-dvc-0030-color-title uui-dvc-0030-color-desc" data-icon-id="UUI-DVC-0030" data-icon-name="audio-amplifier" data-icon-variant="color" data-icon-category="devices" data-icon-category-code="DVC">
+  <title id="uui-dvc-0030-color-title" xml:lang="ja">アンプ</title>
+  <desc id="uui-dvc-0030-color-desc" xml:lang="ja">表示窓と大型ボリュームノブを持つ音響アンプ。音声配線・AV機器構成図で使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.2.0" id="UUI-DVC-0030" slug="audio-amplifier" variant="color">
+      <uui:name xml:lang="ja">アンプ</uui:name>
+      <uui:name xml:lang="en">Audio Amplifier</uui:name>
+      <uui:description xml:lang="ja">表示窓と大型ボリュームノブを持つ音響アンプ。音声配線・AV機器構成図で使用する。</uui:description>
+      <uui:description xml:lang="en">Audio amplifier with display and large volume knob for AV wiring diagrams.</uui:description>
+      <uui:category id="devices" code="DVC" xml:lang="ja">機器と接続</uui:category>
+      <uui:category id="devices" code="DVC" xml:lang="en">Devices and connectivity</uui:category>
+      <uui:keywords xml:lang="ja">アンプ, 音響, オーディオ, 増幅器, AV</uui:keywords>
+      <uui:keywords xml:lang="en">amplifier, audio, AV receiver, volume, sound</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>diagram canvas menu toolbar</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/devices/audio-amplifier.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#3B82F6" secondary="#93C5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="8ffad1e31182fef98ed03677b2718f06d52d3f0ddcebe9da7297ef29c41ea82e"/>
+      <uui:source project="Universal UI Icons" version="3.2.0" license="project terms" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect x="2" y="6" width="20" height="12" rx="2" stroke="#1D4ED8" data-uui-role="primary"/>
+    <rect x="5" y="9" width="7" height="4" rx="1" stroke="#3B82F6" data-uui-role="accent"/>
+    <circle cx="17" cy="12" r="3" stroke="#93C5FD" data-uui-role="secondary"/>
+    <path d="M5 16h6" stroke="#3B82F6" data-uui-role="accent"/>
+    <path d="M17 12v-1.5" stroke="#1D4ED8" data-uui-role="primary"/>
+  </g>
+</svg>

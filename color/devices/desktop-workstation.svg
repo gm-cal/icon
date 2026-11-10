@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-dvc-0028-color-title uui-dvc-0028-color-desc" data-icon-id="UUI-DVC-0028" data-icon-name="desktop-workstation" data-icon-variant="color" data-icon-category="devices" data-icon-category-code="DVC">
+  <title id="uui-dvc-0028-color-title" xml:lang="ja">PC</title>
+  <desc id="uui-dvc-0028-color-desc" xml:lang="ja">モニターと本体を組み合わせたデスクトップPC。既存のPCケース単体アイコンと使い分ける。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.2.0" id="UUI-DVC-0028" slug="desktop-workstation" variant="color">
+      <uui:name xml:lang="ja">PC</uui:name>
+      <uui:name xml:lang="en">Desktop PC</uui:name>
+      <uui:description xml:lang="ja">モニターと本体を組み合わせたデスクトップPC。既存のPCケース単体アイコンと使い分ける。</uui:description>
+      <uui:description xml:lang="en">Desktop personal computer with display and tower, distinct from the PC-case icon.</uui:description>
+      <uui:category id="devices" code="DVC" xml:lang="ja">機器と接続</uui:category>
+      <uui:category id="devices" code="DVC" xml:lang="en">Devices and connectivity</uui:category>
+      <uui:keywords xml:lang="ja">PC, パソコン, デスクトップ, コンピューター, 端末</uui:keywords>
+      <uui:keywords xml:lang="en">PC, desktop, workstation, computer, monitor</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>diagram canvas menu toolbar</uui:contexts>
+      <uui:pair variant="monochrome" href="../../monochrome/devices/desktop-workstation.svg"/>
+      <uui:palette primary="#1D4ED8" accent="#3B82F6" secondary="#93C5FD"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="02c8fd92e390e271be7b93b51b53a451843702154c69250f9d8e294d64b7c2d4"/>
+      <uui:source project="Universal UI Icons" version="3.2.0" license="project terms" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect x="2" y="4" width="14" height="12" rx="1.5" stroke="#1D4ED8" data-uui-role="primary"/>
+    <path d="M9 16v3m-4 1h8" stroke="#93C5FD" data-uui-role="secondary"/>
+    <rect x="18" y="6" width="4" height="15" rx="1" stroke="#3B82F6" data-uui-role="accent"/>
+    <path d="M20 17h.01" stroke="#93C5FD" data-uui-role="secondary"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:uui="urn:universal-ui-icons:metadata:1.0" width="24" height="24" viewBox="0 0 24 24" fill="none" color="#1F2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="uui-dvc-0031-monochrome-title uui-dvc-0031-monochrome-desc" data-icon-id="UUI-DVC-0031" data-icon-name="ups" data-icon-variant="monochrome" data-icon-category="devices" data-icon-category-code="DVC">
+  <title id="uui-dvc-0031-monochrome-title" xml:lang="ja">UPS</title>
+  <desc id="uui-dvc-0031-monochrome-desc" xml:lang="ja">停電時に機器へ給電する無停電電源装置。電源配線図とバックアップ給電の表示に使用する。</desc>
+  <metadata id="uui-metadata">
+    <uui:icon schemaVersion="1.1" libraryVersion="3.2.0" id="UUI-DVC-0031" slug="ups" variant="monochrome">
+      <uui:name xml:lang="ja">UPS</uui:name>
+      <uui:name xml:lang="en">Uninterruptible Power Supply</uui:name>
+      <uui:description xml:lang="ja">停電時に機器へ給電する無停電電源装置。電源配線図とバックアップ給電の表示に使用する。</uui:description>
+      <uui:description xml:lang="en">Uninterruptible power supply for backup power and electrical wiring diagrams.</uui:description>
+      <uui:category id="devices" code="DVC" xml:lang="ja">機器と接続</uui:category>
+      <uui:category id="devices" code="DVC" xml:lang="en">Devices and connectivity</uui:category>
+      <uui:keywords xml:lang="ja">UPS, 無停電電源装置, バックアップ電源, 停電, 電源</uui:keywords>
+      <uui:keywords xml:lang="en">UPS, uninterruptible power supply, backup power, battery, electricity</uui:keywords>
+      <uui:recommendedSizes unit="px">16 20 24 32 48</uui:recommendedSizes>
+      <uui:minimumSize unit="px">16</uui:minimumSize>
+      <uui:opticalSize unit="px">24</uui:opticalSize>
+      <uui:contexts>diagram canvas menu toolbar</uui:contexts>
+      <uui:pair variant="color" href="../../color/devices/ups.svg"/>
+      <uui:palette primary="currentColor" accent="currentColor" secondary="currentColor"/>
+      <uui:geometry viewBox="0 0 24 24" strokeWidth="2" sha256="56babbce70a07046fb58a75534e2d7be1534223009006d6044e5d6ea3c182c83"/>
+      <uui:source project="Universal UI Icons" version="3.2.0" license="project terms" modified="false"/>
+    </uui:icon>
+  </metadata>
+  <g aria-hidden="true">
+    <rect x="5" y="2" width="14" height="20" rx="2" stroke="currentColor" data-uui-role="primary"/>
+    <path d="m13 5-3 7h4l-3 7" stroke="currentColor" data-uui-role="accent"/>
+    <path d="M8 5h2M8 19h2" stroke="currentColor" data-uui-role="secondary"/>
+  </g>
+</svg>

@@ -2468,6 +2468,49 @@
       <path d="M9 6h6" stroke="currentColor" data-uui-role="secondary"/>
       <path d="M9 10h6" stroke="currentColor" data-uui-role="accent"/>
     </symbol>
+    <symbol id="uui-wired-router" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <title xml:lang="ja">有線ルーター</title>
+      <rect x="2" y="8" width="20" height="11" rx="2" stroke="currentColor" data-uui-role="primary"/>
+      <path d="M5 12h5m-2-2 2 2-2 2" stroke="currentColor" data-uui-role="accent"/>
+      <path d="M19 16h-5m2-2-2 2 2 2" stroke="currentColor" data-uui-role="secondary"/>
+      <path d="M6 19v2m12-2v2" stroke="currentColor" data-uui-role="primary"/>
+    </symbol>
+    <symbol id="uui-ethernet-hub" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <title xml:lang="ja">スイッチングハブ</title>
+      <rect x="2" y="7" width="20" height="11" rx="2" stroke="currentColor" data-uui-role="primary"/>
+      <rect x="5" y="10" width="3" height="5" rx="0.5" stroke="currentColor" data-uui-role="accent"/>
+      <rect x="11" y="10" width="3" height="5" rx="0.5" stroke="currentColor" data-uui-role="accent"/>
+      <rect x="17" y="10" width="3" height="5" rx="0.5" stroke="currentColor" data-uui-role="accent"/>
+      <path d="M5 20h14" stroke="currentColor" data-uui-role="secondary"/>
+    </symbol>
+    <symbol id="uui-desktop-workstation" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <title xml:lang="ja">PC</title>
+      <rect x="2" y="4" width="14" height="12" rx="1.5" stroke="currentColor" data-uui-role="primary"/>
+      <path d="M9 16v3m-4 1h8" stroke="currentColor" data-uui-role="secondary"/>
+      <rect x="18" y="6" width="4" height="15" rx="1" stroke="currentColor" data-uui-role="accent"/>
+      <path d="M20 17h.01" stroke="currentColor" data-uui-role="secondary"/>
+    </symbol>
+    <symbol id="uui-nas-storage" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <title xml:lang="ja">NAS</title>
+      <rect x="4" y="2" width="16" height="20" rx="2" stroke="currentColor" data-uui-role="primary"/>
+      <rect x="7" y="5" width="10" height="6" rx="1" stroke="currentColor" data-uui-role="accent"/>
+      <rect x="7" y="14" width="10" height="5" rx="1" stroke="currentColor" data-uui-role="accent"/>
+      <path d="M9 8h.01M9 16.5h.01" stroke="currentColor" data-uui-role="secondary"/>
+    </symbol>
+    <symbol id="uui-audio-amplifier" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <title xml:lang="ja">アンプ</title>
+      <rect x="2" y="6" width="20" height="12" rx="2" stroke="currentColor" data-uui-role="primary"/>
+      <rect x="5" y="9" width="7" height="4" rx="1" stroke="currentColor" data-uui-role="accent"/>
+      <circle cx="17" cy="12" r="3" stroke="currentColor" data-uui-role="secondary"/>
+      <path d="M5 16h6" stroke="currentColor" data-uui-role="accent"/>
+      <path d="M17 12v-1.5" stroke="currentColor" data-uui-role="primary"/>
+    </symbol>
+    <symbol id="uui-ups" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <title xml:lang="ja">UPS</title>
+      <rect x="5" y="2" width="14" height="20" rx="2" stroke="currentColor" data-uui-role="primary"/>
+      <path d="m13 5-3 7h4l-3 7" stroke="currentColor" data-uui-role="accent"/>
+      <path d="M8 5h2M8 19h2" stroke="currentColor" data-uui-role="secondary"/>
+    </symbol>
     <symbol id="uui-settings" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <title xml:lang="ja">設定</title>
       <path d="M9.671 4.136a2.34 2.34 0 0 1 4.659 0 2.34 2.34 0 0 0 3.319 1.915 2.34 2.34 0 0 1 2.33 4.033 2.34 2.34 0 0 0 0 3.831 2.34 2.34 0 0 1-2.33 4.033 2.34 2.34 0 0 0-3.319 1.915 2.34 2.34 0 0 1-4.659 0 2.34 2.34 0 0 0-3.32-1.915 2.34 2.34 0 0 1-2.33-4.033 2.34 2.34 0 0 0 0-3.831A2.34 2.34 0 0 1 6.35 6.051a2.34 2.34 0 0 0 3.319-1.915" stroke="currentColor" data-uui-role="primary"/>

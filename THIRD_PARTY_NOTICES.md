@@ -7,3 +7,5 @@ Lucide is distributed under the ISC license. Some Lucide icons are derived from 
 The copyright and permission notices must remain with redistributed copies.
 
 The `snake-case`, `upper-camel-case`, `lower-camel-case`, and `ui-*` glyphs are original additions to Universal UI Icons and do not derive their geometry from Lucide.
+
+The `wired-router`, `ethernet-hub`, `desktop-workstation`, `nas-storage`, `audio-amplifier`, and `ups` glyphs are project-original designs and do not derive from Lucide.

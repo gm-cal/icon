@@ -18,7 +18,7 @@
 | `DEV` | `development` | 開発とシステム | 25 | `UUI-DEV-0001`〜`UUI-DEV-0025` |
 | `ECM` | `commerce` | 商取引と金融 | 25 | `UUI-ECM-0001`〜`UUI-ECM-0025` |
 | `STA` | `status` | 状態とフィードバック | 25 | `UUI-STA-0001`〜`UUI-STA-0025` |
-| `DVC` | `devices` | 機器と接続 | 25 | `UUI-DVC-0001`〜`UUI-DVC-0025` |
+| `DVC` | `devices` | 機器と接続 | 31 | `UUI-DVC-0001`〜`UUI-DVC-0031` |
 | `TLS` | `tools` | 設定と工具 | 25 | `UUI-TLS-0001`〜`UUI-TLS-0025` |
 | `MAP` | `travel` | 地図と移動 | 25 | `UUI-MAP-0001`〜`UUI-MAP-0025` |
 | `FAC` | `facilities` | 建物と生活設備 | 25 | `UUI-FAC-0001`〜`UUI-FAC-0025` |
